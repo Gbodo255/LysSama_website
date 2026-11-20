@@ -1,0 +1,229 @@
+{
+  "fetchedAt": "2026-11-20T14:00:39.014Z",
+  "log": [
+    {
+      "route": "/",
+      "status": 200,
+      "size": 1879732
+    },
+    {
+      "route": "/projects",
+      "status": 200,
+      "size": 335456
+    },
+    {
+      "route": "/studio",
+      "status": 200,
+      "size": 1210762
+    },
+    {
+      "route": "/journal",
+      "status": 200,
+      "size": 522707
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "size": 729040
+    },
+    {
+      "route": "/projects/gucci",
+      "status": 200,
+      "size": 843698
+    },
+    {
+      "route": "/projects/chanel",
+      "status": 200,
+      "size": 862891
+    },
+    {
+      "route": "/projects/puma",
+      "status": 200,
+      "size": 836202
+    },
+    {
+      "route": "/projects/adidas",
+      "status": 200,
+      "size": 869700
+    },
+    {
+      "route": "/projects/nike",
+      "status": 200,
+      "size": 872822
+    },
+    {
+      "route": "/projects/under-armour",
+      "status": 200,
+      "size": 875673
+    },
+    {
+      "route": "/journal/fewer-projects-more-attention",
+      "status": 200,
+      "size": 603158
+    },
+    {
+      "route": "/journal/awards-dont-build-brands",
+      "status": 200,
+      "size": 616128
+    },
+    {
+      "route": "/journal/why-we-quote-fixed",
+      "status": 200,
+      "size": 604398
+    },
+    {
+      "route": "/journal/the-best-type-is-invisible",
+      "status": 200,
+      "size": 604315
+    },
+    {
+      "route": "/journal/on-saying-no",
+      "status": 200,
+      "size": 603271
+    },
+    {
+      "route": "/journal/the-brief-before-the-brief",
+      "status": 200,
+      "size": 606419
+    },
+    {
+      "route": "/journal/small-looks-expensive",
+      "status": 200,
+      "size": 601214
+    },
+    {
+      "route": "/journal/the-founder-is-the-brand",
+      "status": 200,
+      "size": 605926
+    },
+    {
+      "route": "/privacy-policy",
+      "status": 200,
+      "size": 511039
+    },
+    {
+      "route": "/terms-conditions",
+      "status": 200,
+      "size": 510703
+    },
+    {
+      "route": "/cookie-policy",
+      "status": 200,
+      "size": 488593
+    },
+    {
+      "route": "/this-page-does-not-exist-404",
+      "status": 404,
+      "size": 167353
+    },
+    {
+      "route": "/design-system",
+      "status": 200,
+      "size": 1411259
+    },
+    {
+      "file": "sitemap.xml",
+      "status": 200,
+      "size": 1769
+    },
+    {
+      "file": "robots.txt",
+      "status": 200,
+      "size": 78
+    }
+  ],
+  "modules": [
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/2G6NJGLYB-I5i3aMi0aINtG2rPvQ1Qcmmh-2sDZsQtc.C3Ea9Zs_.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/9xECuvpI2qC9STMV732ZTdbpWAAMCvZ4mUL81W2ya8c.BZsGbTjb.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/AMcQRZfITfjQMtwTc9L6feHZ3p0EKUbo_RHe9QFmX_Y.DexPvT_c.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/BYYSbB_Xj.CQRm1Wxe.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/D21Ecyglh.BCJ4Hs8W.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/Eu60T7thi.P98_SUm8.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/EzM9YfbIh.CjIpPTne.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/HbZ4lEZbG.1WcbP0kv.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/JKo4PdE_2.CATvKgFy.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/KKV4D4fLS.38afcr5G.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/LMUl9NNGN.CvLxB6jG.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/Lenis.B0ikntHt.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/NIqbhJ1MS.BBeNmibM.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/NeMqRwCs8.C8gKYkVV.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/OEuBnrtYm.vkpI6R1-.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/Rjhmk6xp7.3EBUhDcb.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/TJ9zZTo1g.BDr4QkyX.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/Tz81QJ8i1.DsCzzOKd.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/VADOyQEsJ.C8xSyjcR.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/Video.CCIhSoyO.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/W8Mju5LdxFrIwLSI6bVG_utu9VHQi20w7gSVBP5gn9o.BnIUv_Sm.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/WLBXMFnU8.aAIdj-mi.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/Xq77wYGC1.B8T6nX4a.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/YlZkarAqD.d8-n1Fp3.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/YouTube.BccqSYT9.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/ZTkXH13L0.DYYArM9i.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/aT6ueLJwl.BUfB4ZgH.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/cM8Lf1CeK.DR507ZJR.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/caaAwhF9X.BYTWrlvA.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/dATZHya9g.JmGkiUCh.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/dcN8jq2Gu.BrssbbcK.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/framer.DdqHlrxM.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/iLKnB8A0V.rnK00gqL.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/jvKQE_ghl.D8L5bMF5.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/jwtkgcjdM.DQ0muq85.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/koAJndPrk.X0Y8SY4j.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/motion.CM2UIHal.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/n_03H18N2.ClVbANJn.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/nmbz5uQon.CHAp_weA.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/oYmZ9UfwdY8OVEX6_MW8CdalbLUYIz93UtFXr9umtmk.CiriyOTv.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/pgtQfyOCv.DMDfGpCr.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/rWbx8J1Z4.DtLmKswU.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/react.DfujhmXs.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/rolldown-runtime.Bi-D_2cA.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/script_main.BsIj9xOn.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/shared-lib.CHVzx-il.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/ststDNBz5mjPiBlGlwdZxdeUrs4d6wqFXwZKgmLkBb4.rZ5UQZyV.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/three.module.CJpBf6nA.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/toplevel-deps.BY2s547D.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/v7Wd3N72W.Dzl5_5IZ.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/vL1rEwvHQ.BRqKSIP-.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/xDlnrOgAN.CxBxYKw0.mjs",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/zD0HidK19.DhFddg45.mjs"
+  ],
+  "searchIndex": [
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/searchIndex-m99jhk5oXNnN.json",
+    "https://framerusercontent.com/sites/2seNJUTO9UygeUNRcOFUQf/searchIndex-Mi2fpYmC1jWH.json"
+  ],
+  "ogImages": {
+    "/": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/projects": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/studio": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/journal": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/contact": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/projects/gucci": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&amp;height=1350",
+    "/projects/chanel": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&amp;height=1148",
+    "/projects/puma": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&amp;height=1440",
+    "/projects/adidas": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&amp;height=1350",
+    "/projects/nike": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&amp;height=1148",
+    "/projects/under-armour": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&amp;height=1148",
+    "/journal/fewer-projects-more-attention": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&amp;height=1047",
+    "/journal/awards-dont-build-brands": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&amp;height=1200",
+    "/journal/why-we-quote-fixed": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&amp;height=1148",
+    "/journal/the-best-type-is-invisible": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&amp;height=2041",
+    "/journal/on-saying-no": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg?width=1278&amp;height=1148",
+    "/journal/the-brief-before-the-brief": "https://framerusercontent.com/images/3WFEUak51uY8vHBvH8hhaIvI.jpg?width=901&amp;height=1148",
+    "/journal/small-looks-expensive": "https://framerusercontent.com/images/1I2rFExVypdmLtMAuiNjBMIHg.jpg?width=1632&amp;height=2040",
+    "/journal/the-founder-is-the-brand": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg?width=1360&amp;height=2040",
+    "/privacy-policy": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/terms-conditions": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/cookie-policy": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/this-page-does-not-exist-404": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+    "/design-system": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg"
+  },
+  "icons": [
+    "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+  ]
+}

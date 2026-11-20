@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Référence lourde : régénérable via les scripts (MISSION Phase 0 §2)
+reference/har/
+reference/screenshots/
+reference/frames/
+reference/webgl/**/*.png
+reference/dom/
+
+# Médias lourds : re-téléchargés par `npm run assets`
+public/assets/videos/
+*.mp4
+*.webm
+*.mov
+
+# Images de comparaison (les rapports .md restent versionnés)
+compare/**/*.png
