@@ -41,8 +41,11 @@ export const LAUNCH_ARGS = [
   '--autoplay-policy=no-user-gesture-required',
 ];
 
-export function launch(opts = {}) {
-  return chromium.launch({ args: LAUNCH_ARGS, ...opts });
+// webgl:false — captures statiques (D-019) : WebGL désactivé des deux côtés, canvas masqués ;
+// le WebGL est validé par ses propres scénarios (webgl:true).
+export function launch({ webgl = true, ...opts } = {}) {
+  const args = webgl ? LAUNCH_ARGS : [...LAUNCH_ARGS, '--disable-webgl', '--disable-webgl2', '--disable-3d-apis'];
+  return chromium.launch({ args, ...opts });
 }
 
 // ---------------------------------------------------------------- archive réseau
@@ -231,7 +234,15 @@ export async function advance(page, ms, { step = FRAME, onFrame, mode = 'frames'
   let done = 0;
   while (done < ms) {
     const d = Math.min(step, ms - done);
-    if (mode === 'fast') await page.clock.fastForward(d); else await page.clock.runFor(d);
+    // Une exception levée par un timer de la page interrompt runFor : on la journalise (comme le ferait
+    // le navigateur, « uncaught ») puis on termine le pas pour que le temps virtuel reste exact.
+    const t0 = await page.evaluate(() => performance.now());
+    for (let guard = 0; guard < 50; guard++) {
+      const left = t0 + d - (await page.evaluate(() => performance.now()));
+      if (left <= 0) break;
+      try { if (mode === 'fast') await page.clock.fastForward(left); else await page.clock.runFor(left); }
+      catch (e) { (page.__timerErrors ||= []).push(String(e.message || e).split('\n')[0].slice(0, 200)); }
+    }
     done += d;
     await syncAnimations(page);
     if (onFrame) await onFrame(done);
@@ -322,19 +333,19 @@ export async function gotoStable(h, route, { preloaderMs = 6000, settleMs = 2500
   await page.goto(urlFor(target, route), { waitUntil: 'load', timeout: 120000 });
   await hideOutOfScope(page, target);
   await realFrames(page, 3);
-  await advance(page, preloaderMs, { step: 100, mode: 'fast' });
+  await advance(page, preloaderMs, { step: 100 });
   if (scrollThrough) {
     const H = await page.evaluate(() => document.documentElement.scrollHeight);
     for (let y = 0; y < H; y += Math.round(h.height * scrollStep)) {
       await page.evaluate((yy) => window.scrollTo(0, yy), y);
       await realFrames(page, 2);
-      await advance(page, 400, { step: 100, mode: 'fast' });
+      await advance(page, 400, { step: 100 });
     }
     await page.evaluate(() => window.scrollTo(0, 0));
     await realFrames(page, 2);
   }
   await mediaReady(page);
-  await advance(page, settleMs, { step: 100, mode: 'fast' });
+  await advance(page, settleMs, { step: 100 });
   await freezeVideos(page, 0);
   await realFrames(page, 3);
 }
@@ -357,7 +368,7 @@ export async function scrollSequence(h, { stepFrac = 0.25, settleMs = 1200, sect
   for (let i = 0; i < ys.length; i++) {
     await page.evaluate((yy) => window.scrollTo(0, yy), ys[i]);
     await realFrames(page, 2);
-    await advance(page, settleMs, { step: 100, mode: 'fast' });
+    await advance(page, settleMs, { step: 100 });
     await freezeVideos(page, 0);
     await realFrames(page, 2);
     const actualY = await page.evaluate(() => window.scrollY);

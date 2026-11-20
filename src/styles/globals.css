@@ -1,0 +1,5 @@
+/* Ordre identique à l'original : polices, base Framer, tokens, presets typographiques. */
+@import './fonts.css';
+@import './framer-base.css';
+@import './tokens.css';
+@import './presets.css';

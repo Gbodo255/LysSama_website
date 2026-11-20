@@ -54,3 +54,10 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 9 — Tests fonctionnels et différentiels
 ## Phase 10 — Revue indépendante
 ## Phase 11 — Qualité, `check:launch`, RAPPORT.md
+
+## Point de reprise (2026-11-20, limite d'usage atteinte)
+- Phase 0 validée (commit 4bf31d4). Banc : WebGL désactivé pour les captures statiques (D-019, à consigner), stabilisation image par image.
+- Fondations posées : `src/styles/{fonts,framer-base,tokens,presets,globals}.css`, `src/app/layout.tsx`, `PageStyle`, pages vides pour chaque route.
+- Audits terminés : slider du hero + préchargeur (`docs/audit/preloader.md`, `docs/WEBGL.md`, `reference/framer-code/extracted/`).
+- Audits interrompus (fichiers partiels dans `docs/audit/`, `src/data/`, `content/`) : homea, homeb, projects, studio, journal, contact, global, vitrine/404. Relancer avec les mêmes briefs (`docs/agents/brief-audit.md`, `docs/AGENTS-RULES.md`).
+- Extraction liste A (`node scripts/extract.mjs --net=record --widths=1440,1200,810,390 --jobs=3`) : non lancée.

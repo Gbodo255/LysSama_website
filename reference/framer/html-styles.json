@@ -1,0 +1,93 @@
+{
+ "contact": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "cookie-policy": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: none; }"
+ ],
+ "home": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: none; }"
+ ],
+ "journal": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "journal__awards-dont-build-brands": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "journal__fewer-projects-more-attention": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "journal__on-saying-no": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "journal__small-looks-expensive": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "journal__the-best-type-is-invisible": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "journal__the-brief-before-the-brief": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "journal__the-founder-is-the-brand": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "journal__why-we-quote-fixed": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "privacy-policy": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: none; }"
+ ],
+ "projects": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "projects__adidas": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "projects__chanel": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "projects__gucci": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "projects__nike": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "projects__puma": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "projects__under-armour": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }"
+ ],
+ "studio": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: rgb(255, 255, 255); }"
+ ],
+ "terms-conditions": [
+  ":root body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); } :root { font-size: 125%; } @media (min-width: 810px) and (max-width: 1199.98px) { :root { font-size: 106.25%; } } @media (max-width: 809.98px) { :root { font-size: 93.75%; } }",
+  "html body { background: none; }"
+ ],
+ "this-page-does-not-exist-404": [
+  "html body { background: var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247)); }"
+ ]
+}

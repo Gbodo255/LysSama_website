@@ -14,7 +14,7 @@ const outDir = path.join(ROOT, 'reference', 'screenshots', '_selftest', target);
 await fs.rm(outDir, { recursive: true, force: true });
 await fs.mkdir(outDir, { recursive: true });
 
-const browser = await launch();
+const browser = await launch({ webgl: process.argv.includes('--webgl') });
 const runs = [];
 for (let run = 0; run < 2; run++) {
   const h = await openPage(browser, target, { width, net: run === 0 ? net : 'replay' });

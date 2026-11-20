@@ -82,7 +82,7 @@ export function collectGeometry() {
 
 const tasks = [];
 for (const r of routes) for (const w of widths) tasks.push({ r, w });
-const browser = await launch();
+const browser = await launch({ webgl: process.argv.includes('--webgl') });
 const report = [];
 async function worker() {
   while (tasks.length) {
@@ -91,7 +91,7 @@ async function worker() {
     const geoFile = path.join(BASE, 'geometry', slug, `${w}.json`);
     if (!force) { try { await fs.access(geoFile); continue; } catch {} }
     const t = Date.now();
-    const h = await openPage(browser, target, { width: w });
+    const h = await openPage(browser, target, { width: w, net: arg('net', 'replay') });
     try {
       await gotoStable(h, r);
       // Géométrie relevée en haut de page après défilement complet (apparitions déclenchées et terminées).
@@ -107,6 +107,7 @@ async function worker() {
       // Capture de page = séquence de défilement (D-017) : pas de 25 % de fenêtre (liste A), 100 % (liste B).
       const seq = await scrollSequence(h, {
         stepFrac: LIST_A.includes(w) ? 0.25 : 1,
+        settleMs: 600, // apparitions déjà déclenchées par gotoStable ; effets liés au défilement immédiats
         sectionsSelector: target === 'ref' ? 'main > div > div > *, [data-framer-name] > section, section' : '[data-section]',
         onShot: (s) => sharp(s.png).webp({ lossless: true, effort: 4 }).toFile(path.join(shotDir, `seq-${String(s.index).padStart(3, '0')}.webp`)).then(() => { s.png = undefined; }),
       });
