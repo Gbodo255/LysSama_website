@@ -16,14 +16,14 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 - [~] Étape 0 — Projet Framer / code source : indisponibles (D-002) ; modules compilés téléchargés `reference/framer/js/` (57)
 - [~] Étape A — HTML brut des 22 routes + 404 + sitemap/robots — `reference/html/` ; archive réseau complète — `reference/har/`
 - [ ] Étape A — rejeu hors ligne complet, 0 requête manquante
-- [ ] Étape B — textes `reference/text.json` (toutes pages, largeurs, états)
+- [ ] Étape B — textes `reference/text.json` (produit par l'extraction liste A/B)
 - [ ] Étape C — tokens, @media, @font-face, licences de polices, styles de texte
 - [ ] Étape D — DOM rendu, géométrie, retours à la ligne, captures (listes A et B)
-- [ ] Étape E — registre `docs/COMPORTEMENTS.md`
-- [ ] Étape F — animations (sources + courbes) `docs/ANIMATIONS.md`
-- [ ] Étape G — WebGL (slider hero, vitrine, 404) `docs/WEBGL.md`
+- [~] Étape E — registre fusionné : 197 lignes (`node scripts/merge-registers.mjs`, sources `docs/audit/*.comportements.md`) ; manquent les géométries 810 de l'accueil et les survols non mesurés (voir `docs/requests/`)
+- [~] Étape F — 150 animations relevées dans le code (`docs/ANIMATIONS.md`) ; courbes à mesurer avec le banc corrigé (D-021)
+- [~] Étape G — fiches et shaders faits (`docs/WEBGL.md`, `reference/webgl/*/shaders/`) ; images de référence déterministes à produire
 - [ ] Étape H — assets + `public/assets/manifest.json`
-- [ ] Étape I — données (`content/`, `src/data/`)
+- [~] Étape I — `src/data/{homea,homeb,projects,studio,journal,contact,global}.ts`, `content/{projects,journal,legal}/*.md` ; à regrouper en pricing/faq/team/testimonials/awards/content/site.config
 - [ ] Étape J — synthèse `docs/AUDIT.md`
 
 ## Phase 2 — Fondations
@@ -55,8 +55,8 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 10 — Revue indépendante
 ## Phase 11 — Qualité, `check:launch`, RAPPORT.md
 
-## Point de reprise (2026-11-20 22:20)
-- Audits 404 et vitrine /projects commités (89053b5). D-019 (captures sans WebGL) et D-020 (attente des vidéos) consignées.
-- Selftest de l'original relancé après D-020 (`reference/selftest-ref.log`).
-- Audits relancés (2e reprise) : homea, homeb, projects, studio, journal, contact, global — livrables attendus dans `docs/audit/<id>*.md`, `src/data/<id>.ts`, `content/`. Sorties brutes déjà produites dans `reference/agents/<id>/`.
-- Ensuite : extraction liste A (`node scripts/extract.mjs --net=record --widths=1440,1200,810,390 --jobs=2`), fusion du registre (`docs/audit/*.comportements.md` → `docs/COMPORTEMENTS.md`), animations, liens, puis Phase 2.
+## Point de reprise (2026-11-21)
+- Audits terminés et commités : préchargeur, slider, vitrine, 404, global, homea, homeb, projects, studio, journal, contact (+ légales). Registres fusionnés. Décisions D-019 à D-028.
+- Banc corrigé : D-020 (vidéos), D-021 (WAAPI/CSS en temps virtuel, contrôle `scripts/checks/waapi-opacity.mjs` OK).
+- En cours : selftest de l'original (D-021) puis extraction liste A en série (`reference/extract-A.log`).
+- Ensuite : Étape J (`docs/AUDIT.md`), Phase 2 (fondations), courbes (Étape F) et images WebGL (Étape G).

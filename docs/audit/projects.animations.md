@@ -1,0 +1,31 @@
+# Animations — études de cas /projects/<slug> (agent projects)
+
+Identiques sur les 6 pages (même module, même CSS). Sources : « route » = `reference/framer-code/pretty/_5OYj0-…mjs.js` ; composants : `koAJndPrk` (Hero Video Thumbnail, More Project Nav, Project Reveal Image), `cM8Lf1CeK` (Hidden Mask), `Eu60T7thi` (ligne), `JKo4PdE_2` (Metric). Courbes : aucune mesurée ; à mesurer après le correctif D-021 avec `scripts/agents/projects/measure.mjs <largeur> <slug> interact` (champs `overlayCurve`, `closeCurve`, `lightboxCurve`, `cardHoverCurve`, `cardLeaveCurve`). Les apparitions au chargement démarrent à la fin du préchargeur (délais Framer comptés depuis le montage ; voir docs/audit/preloader.md).
+
+| ID registre | Élément | Page | Déclencheur | Départ → arrivée | Type (ressort s/d/m ou durée + courbe) | Délai / décalage | Relecture | Sources | Courbe |
+|---|---|---|---|---|---|---|---|---|---|
+| C-PROJ-A01 | Fond du hero « Hidden Mask » (BG) | /projects/* | entrée dans la vue (seuil 0,5), une fois | masque `linear-gradient(90deg, #000 0%, transparent 0%)` → `100%/100%` (balayage gauche → droite), rotate 4° → 0, scale 1,5 → 1 | ressort stiffness 120, damping 25, mass 0,3 | 0,8 s | non | cM8Lf1CeK L56-61, L160-190 ; route L1015-1040 | à mesurer (D-021) |
+| C-PROJ-A02 | Hero (section) — D seulement | /projects/* | défilement (`onScrollTarget`, cible plus bas, seuil 1) | opacité 1 → 0,6 | transformation liée au défilement | — | réversible | route L960-985 | à mesurer (D-021) |
+| C-PROJ-A03 | Inside Container du hero — D seulement | /projects/* | défilement | parallaxe `speed: 130` (offset 0, adjustPosition false) | lié au défilement | — | réversible | route L1043-1060 | à mesurer (D-021) |
+| C-PROJ-A04 | « Back to projects » | /projects/* | chargement (appear `19jj9t8`) | opacité 0,001 → 1 | ressort bounce 0,1, durée 1,2 | 1,55 s | non | route `tn`, `G` | — |
+| C-PROJ-A05 | Logo (D/T) | /projects/* | chargement (appear `1gjlcjd`) | opacité 0,001 → 1 | ressort bounce 0,1, durée 1,2 | 1,35 s | non | route `nn` | — |
+| C-PROJ-A06 | Image / Video du hero | /projects/* | chargement (appear `t241s`) | y 40 → 0, opacité 0,001 → 1 | ressort 120/25/0,3 | 1,05 s | non | route `rn`, `an` | — |
+| C-PROJ-A07 | Title / Year | /projects/* | chargement (appear `1by17e4`) | y 40 → 0, opacité 0,001 → 1 | ressort 120/25/0,3 | 1,15 s | non | route `mn` | — |
+| C-PROJ-A08 | Ligne sous le titre (Hidden → Show Horizontal) | /projects/* | entrée dans la vue (seuil 0,5) | largeur de la barre 0 % → 100 % (1 px de haut, max 240 px), couleur rgba(156,156,156,.2) | tween 1 s `[.56,.22,.05,.99]` | 0,95 s | non | route L1385-1410 ; Eu60T7thi CSS | à mesurer (D-021) |
+| C-PROJ-A09 | Short Description | /projects/* | entrée dans la vue (seuil 0) | par **ligne** : y 15 → 0, opacité 0,001 → 1 | tween 0,6 s `[.215,.61,.355,1]` | startDelay 1,25 s, +0,1 s par ligne | non | route `bn` | — |
+| C-PROJ-A10 | Timeline | /projects/* | chargement (appear `6nrbi8`) | opacité 0,001 → 1 | ressort bounce 0,1, 1,2 | 1,45 s | non | route `xn` | — |
+| C-PROJ-A11 | Scope | /projects/* | chargement (appear `9t0tqy`) | opacité 0,001 → 1 | ressort bounce 0,1, 1,2 | 1,35 s | non | route `nn` | — |
+| C-PROJ-A12 | Étiquettes de section (Brief, Approach, Outcomes) | /projects/* | entrée dans la vue (seuil 0,5), une fois | opacité 0 → 1 | tween 1 s `[.4,0,.2,1]` | 0 | non | route `wn`, `J` | — |
+| C-PROJ-A13 | Big Text / Big Text 2 / Big Text 3 / citation | /projects/* | entrée dans la vue (seuil 0,5) | par **ligne** : y 15 → 0, opacité 0,001 → 1 | tween 0,8 s `[.215,.61,.355,1]` | startDelay 0,2 s, +0,1 s par ligne | non | route `X` | — |
+| C-PROJ-A14 | Small Text (Brief) | /projects/* | entrée dans la vue (seuil 0) | par **mot** : y 5 → 0, opacité 0,001 → 1 | tween 0,6 s `[.215,.61,.355,1]` | startDelay 0,2 s, +0,02 s par mot | non | route `En`, `Z` | — |
+| C-PROJ-A15 | Small text 2 / 3, Quote Small text | /projects/* | entrée dans la vue (seuil 0) | par **mot** : y 2 → 0, opacité 0,001 → 1 | tween 0,6 s `[.215,.61,.355,1]` | startDelay 0,2 s, +0,02 s par mot | non | route `Q` | — |
+| C-PROJ-A16 | View live | /projects/* | entrée dans la vue (seuil 0,5) | opacité 0 → 1 | tween 1 s `[.4,0,.2,1]` | 0,3 s | non | route `Dn` | — |
+| C-PROJ-A17 | Images (Image 1-3, galerie) « Project Reveal Image » | /projects/* | entrée dans la vue (seuil 0), une fois | masque 0 % → 100 % (gauche → droite), scale 1,3 → 1 | tween 1,2 s `[.87,0,.13,1]` | 0 | non | koAJndPrk L1213-1222, L1340-1360 | à mesurer (D-021) |
+| C-PROJ-A18 | Ligne de chaque Metric | /projects/* | entrée dans la vue | largeur 0 → 100 % | tween 1 s `[.56,.22,.05,.99]` | 0,1 s | non | route L2172 ; JKo4PdE_2 | à mesurer (D-021) |
+| C-PROJ-A19 | Cartes More projects | /projects/* | entrée dans la vue (seuil 0), une fois | y 20 → 0, opacité 0 → 1 | tween 0,85 s `[.215,.61,.355,1]` | 0,2 s + (index % 6) × 0,1 s | non | route `An`, `jn`, `Mn` | — |
+| C-PROJ-A20 | Carte More projects (D seulement, variante KePuGGRdl) | /projects/* | survol | titre haut : top 0 → −65 px ; titre bas : −65 px sous → position normale ; aperçu : bottom −30 → 0 | tween 0,46 s `[.87,0,.13,1]` | 0 | réversible | koAJndPrk L627-630, CSS `.hover` | à mesurer (D-021) |
+| C-PROJ-A21 | Bouton Play Film | gucci, puma | survol | padding 2 10 2 2 → 0 ; texte → absolu (right 0, top 49 %) | tween 0,46 s `[.87,0,.13,1]` | 0 | réversible | koAJndPrk L301-305, CSS `.hover` | à mesurer (D-021) |
+| C-PROJ-A22 | Fenêtre vidéo : fond | gucci, puma | clic Play Film / fermeture | opacité 0 → 1 (sortie 1 → 0) | tween 0,46 s `[.4,0,.2,1]` | 0 | oui à chaque ouverture | route L1240-1258 | à mesurer (D-021) |
+| C-PROJ-A23 | Fenêtre vidéo : lecteur | gucci, puma | clic Play Film / fermeture | opacité 0 → 1 (sortie 1 → 0), toujours `translate(-50%,-50%)` | tween 0,6 s `[.4,0,.2,1]` | 0 | oui | route `q`, `dn`, `ln`, `J`, `un` | à mesurer (D-021) |
+| C-PROJ-A24 | Lightbox de l'image du hero | chanel, adidas, nike, under-armour | clic image (D, T) | ouverture lightbox Framer (fond rgba(23,22,22,.75), image max 1920, padding 30) | tween 0,6 s `[.87,0,.13,1]` | 0 | oui | route L1180-1198 (`sn`) | à mesurer (D-021) |
+| C-PROJ-A25 | Lightbox des images 1-3 et galerie | /projects/* | clic image | idem, transition 0,46 s `[.87,0,.13,1]` | tween | 0 | oui | koAJndPrk L1330-1337 (`ct`) | à mesurer (D-021) |

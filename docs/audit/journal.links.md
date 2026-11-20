@@ -24,7 +24,5 @@ Hrefs relatifs tels que rendus par l'original (`./journal/<slug>` depuis /journa
 | /journal/the-founder-is-the-brand | tous | More articles (4 cartes) | /journal/fewer-projects-more-attention, /journal/awards-dont-build-brands, /journal/why-we-quote-fixed, /journal/the-best-type-is-invisible | même onglet | réel |
 | /journal/<slug> (×8) | tous | Share on Twitter (bouton) | `https://twitter.com/intent/tweet?url=<url>&text=<titre>` via `window.open` | `_blank`, popup 600×400 | réel (service tiers ; domaine twitter.com et non x.com) |
 | /journal/<slug> (×8) | tous | Share on LinkedIn (bouton) | `https://www.linkedin.com/sharing/share-offsite/?url=<url>` via `window.open` | `_blank`, popup 600×400 | réel (service tiers) |
-| /journal/<slug> (×8) | tous | Share on Email (bouton) | `mailto:?subject=<titre>&body=<chapeau>
-
-<url>` via `window.open` | `_blank` | réel |
+| /journal/<slug> (×8) | tous | Share on Email (bouton) | `mailto:?subject=<titre>&body=<chapeau>⏎⏎<url>` (⏎ = saut de ligne) via `window.open` | `_blank` | réel |
 | /journal/<slug> (×8) | tous | Copy URL to clipboard (bouton) | aucune navigation (presse-papiers) | — | réel |
