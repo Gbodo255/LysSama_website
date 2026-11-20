@@ -1,0 +1,107 @@
+import {
+  t as e
+} from "./rolldown-runtime.Bi-D_2cA.mjs";
+import {
+  T as t,
+  o as n,
+  p as r,
+  s as i
+} from "./react.DfujhmXs.mjs";
+import {
+  C as a
+} from "./motion.CM2UIHal.mjs";
+import {
+  F as o,
+  Mt as s,
+  N as c,
+  Pt as l,
+  Q as u,
+  s as d
+} from "./framer.DdqHlrxM.mjs";
+var f, p, m, h, g, _, v;
+
+function y() {
+  return (y = e((() => {
+    i(), u(), t(), f = `var(--framer-icon-mask)`, p = /*#__PURE__*/ r(function(e, t) {
+      return /*#__PURE__*/ n(`svg`, {
+        ...e,
+        ref: t,
+        children: e.children
+      })
+    }), m = a.create(p), h = /*#__PURE__*/ r((e, t) => {
+      let {
+        animated: r,
+        layoutId: i,
+        children: a,
+        ...o
+      } = e;
+      return r ? /*#__PURE__*/ n(m, {
+        ...o,
+        layoutId: i,
+        ref: t,
+        children: a
+      }) : /*#__PURE__*/ n(`svg`, {
+        ...o,
+        ref: t,
+        children: a
+      })
+    }), g = `<svg display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M 0 12 L 6 6 L 0 0" fill="transparent" height="12px" id="sVN6YVZ9m" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--js9iwy, 2)" stroke="var(--1m973uw, rgb(0,0,0))" transform="translate(9 6)" width="6px"/></svg>`, _ = ({
+      color: e,
+      height: t,
+      id: n,
+      width: r,
+      width1: i,
+      ...a
+    }) => ({
+      ...a,
+      JEeZYcamG: i ?? a.JEeZYcamG ?? 2,
+      P_DcoRcrY: e ?? a.P_DcoRcrY ?? `rgb(0, 0, 0)`
+    }), v = l( /* @__PURE__ */ r(function(e, t) {
+      let {
+        style: r,
+        className: i,
+        layoutId: a,
+        variant: c,
+        P_DcoRcrY: l,
+        JEeZYcamG: u,
+        ...d
+      } = _(e), f = s(`2903821725`, g);
+      return /*#__PURE__*/ n(h, {
+        ...d,
+        className: o(`framer-ab47M`, i),
+        layoutId: a,
+        ref: t,
+        role: `presentation`,
+        style: {
+          "--1m973uw": l,
+          "--js9iwy": u,
+          ...r
+        },
+        viewBox: `0 0 24 24`,
+        children: /*#__PURE__*/ n(`use`, {
+          href: f
+        })
+      })
+    }), [`.framer-ab47M { -webkit-mask: ${f}; aspect-ratio: 1; display: block; mask: ${f}; width: 24px; }`], `framer-ab47M`), v.displayName = `Chevron Right`, c(v, {
+      P_DcoRcrY: {
+        defaultValue: `rgb(0, 0, 0)`,
+        hidden: !1,
+        title: `Color`,
+        type: d.Color
+      },
+      JEeZYcamG: {
+        defaultValue: 2,
+        displayStepper: !0,
+        hidden: !1,
+        max: 16,
+        min: 1,
+        title: `Width`,
+        type: d.Number
+      }
+    })
+  })))()
+}
+export {
+  y as n, v as t
+};
+//# sourceMappingURL=zD0HidK19.DhFddg45.mjs.map

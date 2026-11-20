@@ -1,0 +1,755 @@
+import {
+  t as e
+} from "./rolldown-runtime.Bi-D_2cA.mjs";
+import {
+  F as t,
+  M as n,
+  T as r,
+  b as i,
+  j as ee,
+  l as a,
+  o,
+  p as s,
+  s as te,
+  w as ne
+} from "./react.DfujhmXs.mjs";
+import {
+  C as c,
+  a as re,
+  r as ie,
+  t as l
+} from "./motion.CM2UIHal.mjs";
+import {
+  Bt as u,
+  Et as ae,
+  F as oe,
+  G as d,
+  I as f,
+  J as p,
+  L as m,
+  Lt as h,
+  M as g,
+  Pt as _,
+  Q as v,
+  T as y,
+  Tt as se,
+  U as b,
+  W as x,
+  a as S,
+  ct as C,
+  gt as ce,
+  ht as le,
+  i as ue,
+  k as w,
+  kt as de,
+  m as T,
+  o as E,
+  ot as D,
+  vt as fe,
+  wt as pe,
+  x as me,
+  xt as O,
+  yt as he
+} from "./framer.DdqHlrxM.mjs";
+import {
+  B as ge,
+  H as k,
+  I as A,
+  J as _e,
+  L as j,
+  R as M,
+  U as N,
+  V as P,
+  X as ve,
+  Y as F,
+  Z as I,
+  at as L,
+  it as R,
+  nt as ye,
+  rt as z,
+  s as B,
+  u as V,
+  z as be
+} from "./toplevel-deps.BY2s547D.mjs";
+import {
+  n as xe,
+  t as H
+} from "./Lenis.B0ikntHt.mjs";
+import {
+  i as Se,
+  n as Ce,
+  r as we,
+  t as Te
+} from "./Tz81QJ8i1.DsCzzOKd.mjs";
+import {
+  C as Ee,
+  D as De,
+  E as Oe,
+  S as ke,
+  T as U,
+  _ as Ae,
+  a as je,
+  b as Me,
+  c as Ne,
+  d as Pe,
+  f as Fe,
+  g as Ie,
+  h as Le,
+  i as Re,
+  l as ze,
+  m as Be,
+  n as Ve,
+  o as He,
+  p as Ue,
+  r as We,
+  s as Ge,
+  t as Ke,
+  u as qe,
+  v as Je,
+  w as Ye,
+  x as Xe,
+  y as Ze
+} from "./OEuBnrtYm.vkpI6R1-.mjs";
+import {
+  a as Qe,
+  i as $e
+} from "./nmbz5uQon.CHAp_weA.mjs";
+var W, G, K;
+
+function q() {
+  return (q = e((() => {
+    v(), f.loadFonts([]), W = [{
+      explicitInter: !0,
+      fonts: []
+    }], G = [`.framer-iX7mN .framer-styles-preset-vu1xf3:not(.rich-text-wrapper), .framer-iX7mN .framer-styles-preset-vu1xf3.rich-text-wrapper a { --framer-link-hover-text-background-color: var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, #1d1f19); --framer-link-hover-text-color: var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, #f5f4e7); --framer-link-text-background-color: var(--token-f277370d-904c-4e87-88c6-49451f154e33, #d1ff00); --framer-link-text-background-padding: 0px 2px 0px 2px; --framer-link-text-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); transition-delay: 0s; transition-duration: 0.6s; transition-property: color,background-color,border-radius,corner-shape; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }`], K = `framer-iX7mN`
+  })))()
+}
+var et, tt, nt, J, rt, it, at, ot, st, ct, lt, ut, dt, ft, pt, Y, mt, X, ht, gt, _t, vt, yt, bt, xt, St, Ct, Z, wt, Q, Tt, Et, Dt, $, Ot;
+
+function kt() {
+  return (kt = e((() => {
+    te(), v(), l(), r(), xe(), N(), be(), j(), V(), Oe(), L(), Ye(), Me(), Ie(), Fe(), Ne(), Re(), Se(), I(), q(), P(), $e(), et = b(H), tt = b(A), nt = b(M), J = u(E), rt = b(k), it = u(c.div), at = u(w), ot = h(w), st = {
+      JbWAj6WZ3: `(max-width: 809.98px)`,
+      JXnc50ruY: `(min-width: 810px) and (max-width: 1199.98px)`,
+      ubhAJxDVd: `(min-width: 1200px)`
+    }, ct = () => typeof document < `u`, lt = [], ut = `framer-H8D2e`, dt = {
+      JbWAj6WZ3: `framer-v-71q57o`,
+      JXnc50ruY: `framer-v-o63hkf`,
+      ubhAJxDVd: `framer-v-1xlf4m4`
+    }, ft = (e, t, n) => e && t ? `position` : n, pt = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.3,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, Y = {
+      opacity: .001,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 0
+    }, mt = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.4,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, X = (...e) => {
+      for (let t of e)
+        if (t && typeof t == `string`) return t
+    }, ht = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.2,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, gt = (e, t, n) => {
+      if (typeof e != `string`) return ``;
+      let r = new Date(e);
+      if (isNaN(r.getTime())) return ``;
+      let i = `en-US`;
+      try {
+        return r.toLocaleString(n || i, t)
+      } catch {
+        return r.toLocaleString(i, t)
+      }
+    }, _t = {
+      dateStyle: `short`,
+      timeZone: `UTC`
+    }, vt = (e, t) => gt(e, _t, t), yt = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        damping: 25,
+        delay: 1,
+        mass: .3,
+        stiffness: 120,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, bt = {
+      opacity: .001,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 40
+    }, xt = {
+      effect: {
+        opacity: .001,
+        rotate: 0,
+        scale: 1,
+        skewX: 0,
+        skewY: 0,
+        x: 0,
+        y: 15
+      },
+      repeat: !1,
+      startDelay: 1.1,
+      threshold: 0,
+      tokenization: `line`,
+      transition: {
+        delay: .1,
+        duration: .8,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, St = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 40
+    }, Ct = {
+      damping: 25,
+      delay: 1.3,
+      mass: .3,
+      stiffness: 120,
+      type: `spring`
+    }, Z = {
+      Desktop: `ubhAJxDVd`,
+      Phone: `JbWAj6WZ3`,
+      Tablet: `JXnc50ruY`
+    }, wt = ({
+      value: e
+    }) => O() ? null : /*#__PURE__*/ o(`style`, {
+      dangerouslySetInnerHTML: {
+        __html: e
+      },
+      "data-framer-html-style": ``
+    }), Q = e => ({
+      from: {
+        alias: `nmbz5uQon`,
+        data: B,
+        type: `Collection`
+      },
+      select: [{
+        collection: `nmbz5uQon`,
+        name: `Q9VnKU85y`,
+        type: `Identifier`
+      }, {
+        collection: `nmbz5uQon`,
+        name: `ktibtC0v_`,
+        type: `Identifier`
+      }, {
+        collection: `nmbz5uQon`,
+        name: `D18t3FAu4`,
+        type: `Identifier`
+      }, {
+        collection: `nmbz5uQon`,
+        name: `updatedAt`,
+        type: `Identifier`
+      }],
+      where: e
+    }), Tt = ({
+      height: e,
+      id: t,
+      width: n,
+      ...r
+    }) => ({
+      ...r,
+      variant: Z[r.variant] ?? r.variant ?? `ubhAJxDVd`
+    }), Et = /*#__PURE__*/ s(function(e, r) {
+      let s = i(null),
+        te = r ?? s,
+        l = ne(),
+        {
+          activeLocale: u,
+          setLocale: d
+        } = se(),
+        f = le(),
+        m = ce(),
+        [h] = de(Q(p(m, `nmbz5uQon`)));
+      if (!h) throw new me(`No data matches path variables: ${JSON.stringify(m)}`);
+      let {
+        style: g,
+        className: _,
+        layoutId: v,
+        variant: b,
+        Q9VnKU85y: x = h.Q9VnKU85y ?? ``,
+        ktibtC0v_: C = h.ktibtC0v_ ?? ``,
+        D18t3FAu4: D = h.D18t3FAu4 ?? ``,
+        updatedAt: O = h.updatedAt,
+        ...j
+      } = Tt(e), N = n(() => Qe({
+        ktibtC0v_: C,
+        Q9VnKU85y: x
+      }, u), [x, C, u]);
+      ae(N);
+      let [P, ve] = he(b, st, !1), F = oe(ut, _e, Te, ye, Ke, je, Xe, K, ze, Ae, Ue), I = ee(T)?.isLayoutTemplate, L = !!ee(re)?.transition?.layout, R = ft(I, L), z = () => !ct() || P !== `JbWAj6WZ3`, B = pe(), V = vt(O, B);
+      return fe({}), /*#__PURE__*/ o(T.Provider, {
+        value: {
+          activeVariantId: P,
+          humanReadableVariantMap: Z,
+          primaryVariantId: `ubhAJxDVd`,
+          variantClassNames: dt
+        },
+        children: /*#__PURE__*/ a(ie, {
+          id: v ?? l,
+          children: [ /*#__PURE__*/ o(wt, {
+            value: `html body { background: none; }`
+          }), /*#__PURE__*/ a(c.div, {
+            ...j,
+            className: oe(F, `framer-1xlf4m4`, _),
+            ref: te,
+            style: {
+              ...g
+            },
+            children: [ /*#__PURE__*/ o(S, {
+              children: /*#__PURE__*/ o(E, {
+                className: `framer-3eqo7d-container`,
+                "data-framer-name": `Lenis Smooth Scroll`,
+                isAuthoredByUser: !0,
+                isModuleExternal: !0,
+                layout: R,
+                name: `Lenis Smooth Scroll`,
+                nodeId: `DnCy35RYA`,
+                scopeId: `nmbz5uQon`,
+                children: /*#__PURE__*/ o(H, {
+                  height: `100%`,
+                  id: `DnCy35RYA`,
+                  infinite: !1,
+                  intensity: 8,
+                  layoutId: `DnCy35RYA`,
+                  name: `Lenis Smooth Scroll`,
+                  orientation: `vertical`,
+                  smooth: !0,
+                  width: `100%`
+                })
+              })
+            }), /*#__PURE__*/ a(c.main, {
+              className: `framer-xzv5at`,
+              "data-framer-name": `Main`,
+              layout: R,
+              children: [z() && /*#__PURE__*/ o(S, {
+                height: 800,
+                y: (f?.y || 0) + 0 + 0 + 0,
+                children: /*#__PURE__*/ o(E, {
+                  className: `framer-9jbr6o-container hidden-71q57o`,
+                  nodeId: `Z12dwDZtM`,
+                  scopeId: `nmbz5uQon`,
+                  children: /*#__PURE__*/ o(A, {
+                    height: `100%`,
+                    id: `Z12dwDZtM`,
+                    layoutId: `Z12dwDZtM`,
+                    width: `100%`
+                  })
+                })
+              }), /*#__PURE__*/ o(`section`, {
+                className: `framer-enn8d8`,
+                "data-framer-name": `Legal Content`,
+                children: /*#__PURE__*/ a(`div`, {
+                  className: `framer-dbjhxy`,
+                  "data-framer-name": `Inside Container`,
+                  children: [z() && /*#__PURE__*/ a(`header`, {
+                    className: `framer-1b00xfu hidden-71q57o`,
+                    "data-framer-name": `Top`,
+                    children: [ /*#__PURE__*/ o(S, {
+                      height: 19,
+                      y: (f?.y || 0) + 0 + 0 + 0 + 33 + 0 + 0 + 0 + 0 + 89,
+                      children: /*#__PURE__*/ o(J, {
+                        animate: pt,
+                        className: `framer-1w1rh85-container`,
+                        "data-framer-appear-id": `1w1rh85`,
+                        initial: Y,
+                        nodeId: `ArW5WxiQw`,
+                        optimized: !0,
+                        rendersWithMotion: !0,
+                        scopeId: `nmbz5uQon`,
+                        children: /*#__PURE__*/ o(M, {
+                          height: `100%`,
+                          id: `ArW5WxiQw`,
+                          JIleRlVOF: `0px 0px 0px 0px`,
+                          layoutId: `ArW5WxiQw`,
+                          LBZNZ9cgr: ge,
+                          width: `100%`
+                        })
+                      })
+                    }), /*#__PURE__*/ o(S, {
+                      height: 197,
+                      y: (f?.y || 0) + 0 + 0 + 0 + 33 + 0 + 0 + 0 + 0 + 0,
+                      children: /*#__PURE__*/ o(J, {
+                        animate: mt,
+                        className: `framer-1kt5x92-container`,
+                        "data-framer-appear-id": `1kt5x92`,
+                        initial: Y,
+                        nodeId: `cKSmOo1Yf`,
+                        optimized: !0,
+                        rendersWithMotion: !0,
+                        scopeId: `nmbz5uQon`,
+                        children: /*#__PURE__*/ o(y, {
+                          breakpoint: P,
+                          overrides: {
+                            JXnc50ruY: {
+                              variant: X(`PtvC8qv5y`)
+                            }
+                          },
+                          children: /*#__PURE__*/ o(k, {
+                            height: `100%`,
+                            id: `cKSmOo1Yf`,
+                            layoutId: `cKSmOo1Yf`,
+                            PebktKpFc: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))`,
+                            style: {
+                              height: `100%`,
+                              width: `100%`
+                            },
+                            variant: X(`M83fGIck2`),
+                            width: `100%`
+                          })
+                        })
+                      })
+                    })]
+                  }), /*#__PURE__*/ a(`div`, {
+                    className: `framer-14mi3ot`,
+                    "data-framer-name": `Content`,
+                    children: [ /*#__PURE__*/ a(it, {
+                      animate: ht,
+                      className: `framer-85otex`,
+                      "data-framer-appear-id": `85otex`,
+                      "data-framer-name": `Last Updated`,
+                      initial: Y,
+                      optimized: !0,
+                      children: [ /*#__PURE__*/ o(w, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ o(t, {
+                          children: /*#__PURE__*/ o(`p`, {
+                            className: `framer-styles-preset-c95aba`,
+                            "data-styles-preset": `x8g4OBmQ1`,
+                            dir: `auto`,
+                            style: {
+                              "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`
+                            },
+                            children: `Last updated`
+                          })
+                        }),
+                        className: `framer-15xc10m`,
+                        fonts: [`Inter`],
+                        verticalAlignment: `bottom`,
+                        withExternalLayout: !0
+                      }), /*#__PURE__*/ o(w, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ o(t, {
+                          children: /*#__PURE__*/ o(`p`, {
+                            className: `framer-styles-preset-c95aba`,
+                            "data-styles-preset": `x8g4OBmQ1`,
+                            dir: `auto`,
+                            children: `7/10/26`
+                          })
+                        }),
+                        className: `framer-1hck9yt`,
+                        fonts: [`Inter`],
+                        text: /*#__PURE__*/ o(`time`, {
+                          dateTime: O,
+                          children: V
+                        }),
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0
+                      })]
+                    }), /*#__PURE__*/ a(`div`, {
+                      className: `framer-1bdpxdc`,
+                      "data-framer-name": `Heading / Content`,
+                      children: [ /*#__PURE__*/ a(`div`, {
+                        className: `framer-xk7x5z`,
+                        "data-framer-name": `Title / Intro`,
+                        children: [ /*#__PURE__*/ o(at, {
+                          __fromCanvasComponent: !0,
+                          animate: yt,
+                          children: /*#__PURE__*/ o(t, {
+                            children: /*#__PURE__*/ o(`h1`, {
+                              className: `framer-styles-preset-15kw1n0`,
+                              "data-styles-preset": `Tz81QJ8i1`,
+                              style: {
+                                "--framer-text-alignment": `left`
+                              },
+                              children: `Acceptable Use Policy`
+                            })
+                          }),
+                          className: `framer-1p9fj0l`,
+                          "data-framer-appear-id": `1p9fj0l`,
+                          "data-framer-name": `Title`,
+                          fonts: [`Inter`],
+                          initial: bt,
+                          optimized: !0,
+                          text: x,
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0
+                        }), /*#__PURE__*/ o(y, {
+                          breakpoint: P,
+                          overrides: {
+                            JbWAj6WZ3: {
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`h2`, {
+                                  className: `framer-styles-preset-1l3tbw0`,
+                                  "data-styles-preset": `cZ7bby0gR`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-alignment": `justify`
+                                  },
+                                  children: `                           We have deployed over 50 automation systems across industries. About 15% of automation projects fail to deliver expected results. Here is what goes wrong and how to avoid these expensive mistakes before you start.`
+                                })
+                              })
+                            },
+                            JXnc50ruY: {
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`h2`, {
+                                  className: `framer-styles-preset-1l3tbw0`,
+                                  "data-styles-preset": `cZ7bby0gR`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-alignment": `justify`
+                                  },
+                                  children: `                           We have deployed over 50 automation systems across industries. About 15% of automation projects fail to deliver expected results. Here is what goes wrong and how to avoid these expensive mistakes before you start.`
+                                })
+                              })
+                            }
+                          },
+                          children: /*#__PURE__*/ o(w, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ o(t, {
+                              children: /*#__PURE__*/ o(`p`, {
+                                className: `framer-styles-preset-1l3tbw0`,
+                                "data-styles-preset": `cZ7bby0gR`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-alignment": `justify`
+                                },
+                                children: `                           MIRA STUDIO (“WE,” “OUR,” OR “US”) RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO.`
+                              })
+                            }),
+                            className: `framer-4itqln`,
+                            "data-framer-name": `Intro`,
+                            effect: xt,
+                            fonts: [`Inter`],
+                            text: C,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          })
+                        })]
+                      }), /*#__PURE__*/ o(ue, {
+                        presets: {
+                          "module:NEd4VmDdsxM3StIUbddO/Ef2JVpwhNW0UBYra6TeS/YouTube.js:Youtube": De.NE_K6lUq1
+                        },
+                        children: /*#__PURE__*/ o(ot, {
+                          __framer__animate: {
+                            transition: Ct
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: St,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __fromCanvasComponent: !0,
+                          __perspectiveFX: !1,
+                          __targetOpacity: 1,
+                          children: D,
+                          className: `framer-104pdxd`,
+                          "data-framer-name": `Content`,
+                          fonts: [`Inter`],
+                          stylesPresetsClassNames: {
+                            a: `framer-styles-preset-vu1xf3`,
+                            blockquote: `framer-styles-preset-p6i9mt`,
+                            h2: `framer-styles-preset-a7jmun`,
+                            h3: `framer-styles-preset-lrueyv`,
+                            img: `framer-styles-preset-bfvq69`,
+                            p: `framer-styles-preset-zesxvw`,
+                            table: `framer-styles-preset-h4j97n`
+                          },
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0
+                        })
+                      })]
+                    })]
+                  })]
+                })
+              })]
+            })]
+          }), /*#__PURE__*/ o(`div`, {
+            id: `overlay`
+          })]
+        })
+      })
+    }), Dt = [`.framer-H8D2e.framer-l1jqn, .framer-H8D2e .framer-l1jqn { display: block; }`, `.framer-H8D2e.framer-1xlf4m4 { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1200px; }`, `.framer-H8D2e .framer-3eqo7d-container { flex: none; height: auto; left: 50%; position: absolute; top: 0px; transform: translateX(-50%); width: auto; z-index: 1; }`, `.framer-H8D2e .framer-xzv5at { align-content: flex-start; align-items: flex-start; background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; max-width: 100%; padding: 0px; position: relative; width: 100%; z-index: 1; }`, `.framer-H8D2e .framer-9jbr6o-container { flex: none; height: auto; position: relative; width: auto; }`, `.framer-H8D2e .framer-enn8d8 { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 33px 0px 120px 0px; position: relative; width: 1px; }`, `.framer-H8D2e .framer-dbjhxy { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 120px; height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-H8D2e .framer-1b00xfu { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-H8D2e .framer-1w1rh85-container { align-self: center; flex: none; height: auto; justify-self: start; pointer-events: auto; position: relative; width: fit-content; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-H8D2e .framer-1kt5x92-container { align-self: center; flex: none; grid-column: span 3; height: 1fr; justify-self: start; pointer-events: auto; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-H8D2e .framer-14mi3ot { display: grid; flex: none; gap: 20px 20px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-H8D2e .framer-85otex { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 6px 0px 0px 0px; position: sticky; top: 50px; width: 100%; will-change: var(--framer-will-change-effect-override, transform); z-index: 1; }`, `.framer-H8D2e .framer-15xc10m { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre; width: auto; }`, `.framer-H8D2e .framer-1hck9yt { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`, `.framer-H8D2e .framer-1bdpxdc { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 60px; grid-column: span 3; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-H8D2e .framer-xk7x5z { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-H8D2e .framer-1p9fj0l { flex: none; height: auto; max-width: 600px; position: relative; white-space: pre-wrap; width: 100%; will-change: var(--framer-will-change-effect-override, transform); word-break: break-word; word-wrap: break-word; }`, `.framer-H8D2e .framer-4itqln { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 500px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-H8D2e .framer-104pdxd { --framer-paragraph-spacing: 30px; flex: none; height: auto; max-width: 500px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, ...F, ...Ce, ...z, ...Ve, ...He, ...ke, ...G, ...qe, ...Je, ...Be, `@media (min-width: 810px) and (max-width: 1199.98px) { .framer-H8D2e.framer-1xlf4m4 { width: 810px; } .framer-H8D2e .framer-enn8d8 { padding: 33px 0px 90px 0px; } .framer-H8D2e .framer-dbjhxy { gap: 90px; }}`, `@media (max-width: 809.98px) { .framer-H8D2e.framer-1xlf4m4 { width: 390px; } .framer-H8D2e .framer-enn8d8 { padding: 141px 0px 60px 0px; } .framer-H8D2e .framer-dbjhxy { gap: 40px; padding: 0px 22px 0px 22px; } .framer-H8D2e .framer-14mi3ot { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; } .framer-H8D2e .framer-85otex { align-self: unset; position: relative; top: unset; } .framer-H8D2e .framer-1bdpxdc { align-self: unset; } .framer-H8D2e .framer-104pdxd { max-width: unset; }}`], $ = _(Et, Dt, `framer-H8D2e`), $.displayName = `Legal`, $.defaultProps = {
+      height: 4631,
+      width: 1200
+    }, g($, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }]
+    }, ...et, ...tt, ...nt, ...rt, ...d(ve), ...d(we), ...d(R), ...d(We), ...d(Ge), ...d(Ee), ...d(W), ...d(Pe), ...d(Ze), ...d(Le), ...U?.NE_K6lUq1 ? x(U?.NE_K6lUq1) : []], {
+      supportsExplicitInterCodegen: !0
+    }), $.loader = {
+      load: (e, t) => {
+        let n = t.locale,
+          r = t.priority;
+        return C([() => D.get(Q(p(t.pathVariables, `nmbz5uQon`)), n, r).preload(), () => m(A, {}, t), () => m(M, {}, t), () => m(k, {}, t)], t)
+      }
+    }, Ot = {
+      exports: {
+        default: {
+          type: `reactComponent`,
+          name: `Framernmbz5uQon`,
+          slots: [],
+          annotations: {
+            framerContractVersion: `1`,
+            framerScrollSections: `false`,
+            framerDisplayContentsDiv: `false`,
+            framerIntrinsicHeight: `4631`,
+            framerResponsiveScreen: `true`,
+            framerComponentViewportWidth: `true`,
+            framerColorSyntax: `true`,
+            framerLayoutTemplateFlowEffect: `true`,
+            framerIntrinsicWidth: `1200`,
+            framerAcceptsLayoutTemplate: `true`,
+            framerImmutableVariables: `true`,
+            framerCanvasComponentVariantDetails: `{"propertyName":"variant","data":{"default":{"layout":["fixed","auto"]},"JXnc50ruY":{"layout":["fixed","auto"]},"JbWAj6WZ3":{"layout":["fixed","auto"]}}}`,
+            framerAutoSizeImages: `true`
+          }
+        },
+        Props: {
+          type: `tsType`,
+          annotations: {
+            framerContractVersion: `1`
+          }
+        },
+        queryParamNames: {
+          type: `variable`,
+          annotations: {
+            framerContractVersion: `1`
+          }
+        },
+        __FramerMetadata__: {
+          type: `variable`
+        }
+      }
+    }
+  })))()
+}
+kt();
+export {
+  Ot as __FramerMetadata__, $ as
+  default, lt as queryParamNames
+};
+//# sourceMappingURL=oYmZ9UfwdY8OVEX6_MW8CdalbLUYIz93UtFXr9umtmk.CiriyOTv.mjs.map

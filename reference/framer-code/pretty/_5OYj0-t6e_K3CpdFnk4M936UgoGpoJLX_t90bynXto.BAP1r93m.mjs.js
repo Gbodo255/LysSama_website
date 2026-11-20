@@ -1,0 +1,2710 @@
+import {
+  t as e
+} from "./rolldown-runtime.Bi-D_2cA.mjs";
+import {
+  F as t,
+  M as n,
+  T as r,
+  a as i,
+  b as a,
+  c as o,
+  i as s,
+  j as ee,
+  l as c,
+  o as l,
+  p as te,
+  s as ne,
+  w as re
+} from "./react.DfujhmXs.mjs";
+import {
+  C as u,
+  a as ie,
+  n as ae,
+  r as d,
+  t as f
+} from "./motion.CM2UIHal.mjs";
+import {
+  At as oe,
+  Bt as se,
+  Ct as p,
+  D as ce,
+  Et as le,
+  F as ue,
+  G as m,
+  Ht as h,
+  J as de,
+  K as g,
+  L as _,
+  Lt as v,
+  M as fe,
+  O as pe,
+  Ot as me,
+  Pt as y,
+  Q as b,
+  T as x,
+  Tt as he,
+  U as S,
+  _ as ge,
+  a as C,
+  ct as w,
+  g as _e,
+  gt as ve,
+  ht as ye,
+  it as be,
+  jt as xe,
+  k as T,
+  kt as Se,
+  lt as E,
+  m as Ce,
+  mt as we,
+  n as Te,
+  o as D,
+  ot as O,
+  v as Ee,
+  vt as De,
+  w as Oe,
+  wt as ke,
+  x as Ae,
+  xt as k,
+  yt as je,
+  zt as Me
+} from "./framer.DdqHlrxM.mjs";
+import {
+  A as Ne,
+  G as A,
+  I as Pe,
+  J as Fe,
+  K as Ie,
+  L as Le,
+  R as Re,
+  W as ze,
+  X as Be,
+  Y as Ve,
+  Z as He,
+  ct as j,
+  h as Ue,
+  j as We,
+  m as Ge,
+  q as Ke,
+  ut as qe,
+  z as Je
+} from "./toplevel-deps.BY2s547D.mjs";
+import {
+  n as Ye,
+  t as Xe
+} from "./Lenis.B0ikntHt.mjs";
+import {
+  n as Ze,
+  t as Qe
+} from "./YouTube.BccqSYT9.mjs";
+import {
+  i as $e,
+  n as et,
+  r as tt,
+  t as nt
+} from "./LMUl9NNGN.CvLxB6jG.mjs";
+import {
+  a as rt,
+  c as it,
+  i as at,
+  o as ot,
+  r as st,
+  s as M
+} from "./TJ9zZTo1g.BDr4QkyX.mjs";
+import {
+  n as ct,
+  t as N
+} from "./v7Wd3N72W.Dzl5_5IZ.mjs";
+import {
+  n as lt,
+  t as P
+} from "./Eu60T7thi.P98_SUm8.mjs";
+import {
+  n as F,
+  t as ut
+} from "./JKo4PdE_2.CATvKgFy.mjs";
+import {
+  d as dt,
+  f as ft,
+  l as pt,
+  n as mt,
+  t as ht,
+  u as I
+} from "./n_03H18N2.ClVbANJn.mjs";
+import {
+  n as gt,
+  t as L
+} from "./NeMqRwCs8.C8gKYkVV.mjs";
+import {
+  i as _t,
+  n as vt,
+  r as yt,
+  t as bt
+} from "./Tz81QJ8i1.DsCzzOKd.mjs";
+import {
+  n as xt,
+  t as R
+} from "./cM8Lf1CeK.DR507ZJR.mjs";
+import {
+  a as St,
+  i as Ct,
+  n as wt,
+  o as Tt,
+  r as Et,
+  t as z
+} from "./koAJndPrk.X0Y8SY4j.mjs";
+import {
+  a as Dt,
+  i as Ot
+} from "./dcN8jq2Gu.BrssbbcK.mjs";
+var kt, At, jt, Mt, Nt, Pt, Ft, It, Lt, B, Rt, zt, Bt, Vt, Ht, V, Ut, H, Wt, Gt, Kt, qt, Jt, Yt, Xt, Zt, Qt, $t, en, U, W, tn, G, nn, rn, an, on, sn, K, cn, q, ln, un, dn, J, fn, pn, mn, hn, gn, _n, vn, yn, Y, bn, xn, Sn, Cn, wn, X, Tn, Z, En, Dn, Q, On, kn, An, jn, Mn, Nn, Pn, Fn, In, Ln, Rn, zn, Bn, Vn, $, Hn;
+
+function Un() {
+  return (Un = e((() => {
+    ne(), b(), f(), r(), i(), Ye(), Ze(), xt(), lt(), it(), Je(), Tt(), Ct(), Ue(), Le(), F(), wt(), mt(), ct(), L(), qe(), $e(), ft(), _t(), He(), Ke(), ot(), We(), Ot(), kt = S(Xe), At = S(Pe), jt = S(R), Mt = h(R), Nt = S(N), Pt = se(D), Ft = S(Re), It = S(St), Lt = S(Qe), B = se(u.div), Rt = S(P), zt = h(P), Bt = v(u.div), Vt = v(u.section), Ht = S(M), V = v(D), Ut = S(z), H = h(z), Wt = S(ut), Gt = S(Et), Kt = S(Ge), qt = Me(D), Jt = S(ht), Yt = {
+      gjvbOr6sK: `(max-width: 809.98px)`,
+      kvrgoOqAT: `(min-width: 810px) and (max-width: 1199.98px)`,
+      QnwWFo3ky: `(min-width: 1200px)`
+    }, Xt = () => typeof document < `u`, Zt = [], Qt = `framer-hglyy`, $t = {
+      gjvbOr6sK: `framer-v-1nc0ivo`,
+      kvrgoOqAT: `framer-v-g87bww`,
+      QnwWFo3ky: `framer-v-1o0hdey`
+    }, en = (e, t, n) => e && t ? `position` : n, U = e => typeof e == `object` && e && typeof e.src == `string` ? e : typeof e == `string` ? {
+      src: e
+    } : void 0, W = (...e) => {
+      for (let t of e)
+        if (t && typeof t == `string`) return t
+    }, tn = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.55,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, G = {
+      opacity: .001,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 0
+    }, nn = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.35,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, be(), rn = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        damping: 25,
+        delay: 1.05,
+        mass: .3,
+        stiffness: 120,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, an = {
+      opacity: .001,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 40
+    }, on = e => !e, sn = {
+      delay: 0,
+      duration: .6,
+      ease: [.87, 0, .13, 1],
+      type: `tween`
+    }, K = e => Array.isArray(e) ? e.length > 0 : e != null && e !== ``, cn = (e, t) => e ? `QnheowYVb` : `xXPCs_WsS`, q = {
+      delay: 0,
+      duration: .6,
+      ease: [.4, 0, .2, 1],
+      type: `tween`
+    }, ln = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: q,
+      x: 0,
+      y: 0
+    }, un = (e, t) => `translate(-50%, -50%) ${t}`, dn = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: q,
+      x: 0,
+      y: 0
+    }, J = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 0
+    }, fn = () => document.querySelector(`#template-overlay`) ?? document.querySelector(`#overlay`) ?? document.body, pn = ({
+      children: e,
+      blockDocumentScrolling: t,
+      dismissWithEsc: n,
+      enabled: r = !0
+    }) => {
+      let [i, a] = me({
+        blockDocumentScrolling: t,
+        dismissWithEsc: r && n
+      });
+      return e({
+        hide: () => a(!1),
+        show: () => a(!0),
+        toggle: () => a(!i),
+        visible: r && i
+      })
+    }, mn = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        damping: 25,
+        delay: 1.15,
+        mass: .3,
+        stiffness: 120,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, hn = (e, t, n) => {
+      if (typeof e != `string`) return ``;
+      let r = new Date(e);
+      if (isNaN(r.getTime())) return ``;
+      let i = `en-US`;
+      try {
+        return r.toLocaleString(n || i, t)
+      } catch {
+        return r.toLocaleString(i, t)
+      }
+    }, gn = {
+      timeZone: `UTC`,
+      year: `2-digit`
+    }, _n = (e, t) => hn(e, gn, t), vn = (e, t) => typeof e == `string` && typeof t == `string` ? t + e : typeof e == `string` ? e : typeof t == `string` ? t : ``, yn = (e, t) => typeof e == `string` && typeof t == `string` ? e + t : typeof e == `string` ? e : typeof t == `string` ? t : ``, Y = {
+      opacity: .001,
+      rotate: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 15
+    }, bn = {
+      effect: Y,
+      repeat: !1,
+      startDelay: 1.25,
+      threshold: 0,
+      tokenization: `line`,
+      transition: {
+        delay: .1,
+        duration: .6,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, xn = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.45,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, Sn = e => ({
+      from: {
+        alias: `eQ8ikULeq`,
+        data: gt,
+        type: `Collection`
+      },
+      orderBy: [{
+        arguments: [{
+          type: `LiteralValue`,
+          value: e
+        }, {
+          collection: `eQ8ikULeq`,
+          name: `id`,
+          type: `Identifier`
+        }],
+        direction: `asc`,
+        functionName: `INDEX_OF`,
+        type: `FunctionCall`
+      }],
+      select: [{
+        collection: `eQ8ikULeq`,
+        name: `daMMVtIRY`,
+        type: `Identifier`
+      }, {
+        collection: `eQ8ikULeq`,
+        name: `TDdrxis4e`,
+        type: `Identifier`
+      }, {
+        collection: `eQ8ikULeq`,
+        name: `id`,
+        type: `Identifier`
+      }],
+      where: {
+        left: {
+          collection: `eQ8ikULeq`,
+          name: `id`,
+          type: `Identifier`
+        },
+        operator: `in`,
+        right: {
+          type: `LiteralValue`,
+          value: e
+        },
+        type: `BinaryOperation`
+      }
+    }), Cn = ({
+      query: e,
+      pageSize: t,
+      children: n
+    }) => n(Se(e)), wn = {
+      delay: 0,
+      duration: 1,
+      ease: [.4, 0, .2, 1],
+      type: `tween`
+    }, X = {
+      effect: Y,
+      repeat: !1,
+      startDelay: .2,
+      threshold: .5,
+      tokenization: `line`,
+      transition: {
+        delay: .1,
+        duration: .8,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, Tn = {
+      opacity: .001,
+      rotate: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 5
+    }, Z = {
+      delay: .02,
+      duration: .6,
+      ease: [.215, .61, .355, 1],
+      type: `tween`
+    }, En = {
+      effect: Tn,
+      repeat: !1,
+      startDelay: .2,
+      threshold: 0,
+      tokenization: `word`,
+      transition: Z,
+      trigger: `onInView`,
+      type: `appear`
+    }, Dn = {
+      delay: .3,
+      duration: 1,
+      ease: [.4, 0, .2, 1],
+      type: `tween`
+    }, Q = {
+      effect: {
+        opacity: .001,
+        rotate: 0,
+        scale: 1,
+        skewX: 0,
+        skewY: 0,
+        x: 0,
+        y: 2
+      },
+      repeat: !1,
+      startDelay: .2,
+      threshold: 0,
+      tokenization: `word`,
+      transition: Z,
+      trigger: `onInView`,
+      type: `appear`
+    }, On = (e, t) => {
+      switch (e) {
+        case `Vsh44i8lz`:
+          return 6;
+        case `U8gj7s6BY`:
+          return 3;
+        case `ldIMQY7_d`:
+          return 2;
+        default:
+          return 1
+      }
+    }, kn = (e, t) => {
+      if (e === `all`) return `-1 / 1`;
+      let n = Number.isFinite(e) && e > 0 ? e : 1;
+      return Number.isFinite(t) && n > t ? `span ${t}` : `span ${n}`
+    }, An = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 20
+    }, jn = {
+      delay: .2,
+      duration: .85,
+      ease: [.215, .61, .355, 1],
+      type: `tween`
+    }, Mn = (e, t) => ({
+      ...e,
+      delay: (e.delay ?? 0) + t
+    }), Nn = (e, t, n) => e.currentPage >= e.totalPages ? t.disabled ?? n : e.isLoading ? t.loading ?? n : n, Pn = e => ({
+      from: {
+        alias: `yi328nlYk`,
+        data: j,
+        type: `Collection`
+      },
+      select: [{
+        collection: `yi328nlYk`,
+        name: `Q2VN_FZXh`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `XdZ8EYmm9`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `motPAdhqw`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `lqxb5gqxK`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `iRUlzL14O`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `AO3U_VSSA`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `dqAPAmEvi`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `UxQzAcVgo`,
+        type: `Identifier`
+      }, {
+        collection: `yi328nlYk`,
+        name: `id`,
+        type: `Identifier`
+      }],
+      where: {
+        operator: `not`,
+        type: `UnaryOperation`,
+        value: {
+          left: {
+            collection: `yi328nlYk`,
+            name: `id`,
+            type: `Identifier`
+          },
+          operator: `==`,
+          right: {
+            type: `LiteralValue`,
+            value: e
+          },
+          type: `BinaryOperation`
+        }
+      }
+    }), Fn = ({
+      query: e,
+      pageSize: t,
+      children: n
+    }) => {
+      let {
+        paginatedQuery: r,
+        paginationInfo: i,
+        loadMore: a
+      } = p(e, t, `yi328nlYk`);
+      return n(Se(r), i, a)
+    }, In = {
+      Desktop: `QnwWFo3ky`,
+      Phone: `gjvbOr6sK`,
+      Tablet: `kvrgoOqAT`
+    }, Ln = ({
+      value: e
+    }) => k() ? null : /*#__PURE__*/ l(`style`, {
+      dangerouslySetInnerHTML: {
+        __html: e
+      },
+      "data-framer-html-style": ``
+    }), Rn = e => ({
+      from: {
+        alias: `dcN8jq2Gu`,
+        data: j,
+        type: `Collection`
+      },
+      select: [{
+        collection: `dcN8jq2Gu`,
+        name: `motPAdhqw`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `lqxb5gqxK`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `AO3U_VSSA`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `iRUlzL14O`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `vkVXFuZrL`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `Q2VN_FZXh`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `XdZ8EYmm9`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `wIuMDe0hy`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `PcbIEPCaR`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `bvpPdoiPt`,
+        type: `Identifier`
+      }, {
+        alias: `vqgKsb_pP`,
+        arguments: [{
+          from: {
+            alias: `vqgKsb_pP`,
+            data: gt,
+            type: `Collection`
+          },
+          orderBy: [{
+            arguments: [{
+              collection: `dcN8jq2Gu`,
+              name: `vqgKsb_pP`,
+              type: `Identifier`
+            }, {
+              collection: `vqgKsb_pP`,
+              name: `id`,
+              type: `Identifier`
+            }],
+            functionName: `INDEX_OF`,
+            type: `FunctionCall`
+          }],
+          select: [{
+            collection: `vqgKsb_pP`,
+            name: `id`,
+            type: `Identifier`
+          }],
+          type: `Select`,
+          where: {
+            left: {
+              collection: `vqgKsb_pP`,
+              name: `id`,
+              type: `Identifier`
+            },
+            operator: `in`,
+            right: {
+              collection: `dcN8jq2Gu`,
+              name: `vqgKsb_pP`,
+              type: `Identifier`
+            },
+            type: `BinaryOperation`
+          }
+        }],
+        functionName: `FLAT_ARRAY`,
+        type: `FunctionCall`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `dqAPAmEvi`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `Usl1EzDAE`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `jyTIAHrZM`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `paMDsE_W9`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `IKIECD6Us`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `LYsGN5UeN`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `hmCznUGgv`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `hJGB7xex2`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `XQKxVkYWk`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `bx3Ej5cqO`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `qecbb7JIU`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `Fda4gII6i`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `L6jVTThCQ`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `cAF6SIeDV`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `upYF7jAES`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `VWv6rEQ3s`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `FAbuGm6q1`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `m5tVX6dkp`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `tvoTyTZNo`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `RyRTzO3ND`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `FzliK3Vxu`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `DS3aFwMAX`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `JuRuMI9B_`,
+        type: `Identifier`
+      }, {
+        collection: `dcN8jq2Gu`,
+        name: `id`,
+        type: `Identifier`
+      }],
+      where: e
+    }), zn = ({
+      height: e,
+      id: t,
+      width: n,
+      ...r
+    }) => ({
+      ...r,
+      variant: In[r.variant] ?? r.variant ?? `QnwWFo3ky`
+    }), Bn = /*#__PURE__*/ te(function(e, r) {
+      let i = a(null),
+        te = r ?? i,
+        ne = re(),
+        {
+          activeLocale: f,
+          setLocale: se
+        } = he(),
+        p = ye(),
+        m = ve(),
+        [h] = Se(Rn(de(m, `dcN8jq2Gu`)));
+      if (!h) throw new Ae(`No data matches path variables: ${JSON.stringify(m)}`);
+      let {
+        style: _,
+        className: v,
+        layoutId: fe,
+        variant: me,
+        motPAdhqw: y = h.motPAdhqw,
+        lqxb5gqxK: b = h.lqxb5gqxK ?? !0,
+        AO3U_VSSA: S = h.AO3U_VSSA,
+        iRUlzL14O: w = h.iRUlzL14O ?? ``,
+        vkVXFuZrL: be = h.vkVXFuZrL ?? ``,
+        Q2VN_FZXh: E = h.Q2VN_FZXh ?? ``,
+        XdZ8EYmm9: O = h.XdZ8EYmm9,
+        wIuMDe0hy: k = h.wIuMDe0hy ?? ``,
+        PcbIEPCaR: Me = h.PcbIEPCaR ?? ``,
+        bvpPdoiPt: A = h.bvpPdoiPt ?? ``,
+        vqgKsb_pP: Ie = h.vqgKsb_pP,
+        dqAPAmEvi: Le = h.dqAPAmEvi,
+        Usl1EzDAE: Be = h.Usl1EzDAE ?? ``,
+        jyTIAHrZM: Ve = h.jyTIAHrZM ?? ``,
+        paMDsE_W9: He = h.paMDsE_W9 ?? ``,
+        IKIECD6Us: j = h.IKIECD6Us ?? ``,
+        LYsGN5UeN: Ue = h.LYsGN5UeN,
+        hmCznUGgv: We = h.hmCznUGgv,
+        hJGB7xex2: Ke = h.hJGB7xex2,
+        XQKxVkYWk: qe = h.XQKxVkYWk ?? ``,
+        bx3Ej5cqO: Je = h.bx3Ej5cqO ?? ``,
+        qecbb7JIU: Ye = h.qecbb7JIU ?? ``,
+        Fda4gII6i: Ze = h.Fda4gII6i,
+        L6jVTThCQ: $e = h.L6jVTThCQ ?? [],
+        cAF6SIeDV: et = h.cAF6SIeDV ?? ``,
+        upYF7jAES: tt = h.upYF7jAES ?? ``,
+        VWv6rEQ3s: rt = h.VWv6rEQ3s ?? ``,
+        FAbuGm6q1: it = h.FAbuGm6q1 ?? [],
+        m5tVX6dkp: at = h.m5tVX6dkp ?? ``,
+        tvoTyTZNo: ot = h.tvoTyTZNo ?? ``,
+        RyRTzO3ND: ct = h.RyRTzO3ND ?? ``,
+        FzliK3Vxu: lt = h.FzliK3Vxu ?? ``,
+        DS3aFwMAX: P = h.DS3aFwMAX ?? ``,
+        JuRuMI9B_: F = h.JuRuMI9B_,
+        id2: dt = h.id,
+        ...ft
+      } = zn(e), mt = n(() => Dt({
+        motPAdhqw: y,
+        Q2VN_FZXh: E,
+        wIuMDe0hy: k
+      }, f), [y, k, E, f]);
+      le(mt);
+      let [I, gt] = je(me, Yt, !1), L = ue(Qt, bt, Fe, ze, nt, st, pt), _t = ee(Ce)?.isLayoutTemplate, vt = !!ee(ie)?.transition?.layout, yt = en(_t, vt), xt = () => !Xt() || I !== `gjvbOr6sK`, R = a(null);
+      xe();
+      let Ct = on(b),
+        {
+          activeVariantCallback: wt,
+          delay: Tt
+        } = we(void 0),
+        z = ({
+          overlay: e
+        }) => wt(async (...t) => {
+          e.toggle()
+        }),
+        Ot = ke(),
+        kt = yn(vn(_n(O, Ot), `'`), `©`),
+        At = K(k),
+        jt = K(Me),
+        Nt = K(Ie),
+        Ft = oe(`lSwVAL6yC`),
+        It = K(Be),
+        Lt = K(j),
+        Rt = K(A),
+        Ht = K(Ue),
+        Ut = K(We),
+        Wt = K(Ke),
+        Gt = K(Je),
+        Kt = K($e),
+        Jt = kn(On(Ze, f), 6),
+        Zt = K(tt),
+        q = K(rt),
+        hn = K(it),
+        gn = K(ot),
+        Y = K(F),
+        Tn = K(lt),
+        Z = K(P),
+        Bn = yn(vn(ot, `“ `), ` ”`),
+        Vn = K(ct),
+        $ = a(null);
+      return De({}), /*#__PURE__*/ l(Ce.Provider, {
+        value: {
+          activeVariantId: I,
+          humanReadableVariantMap: In,
+          primaryVariantId: `QnwWFo3ky`,
+          variantClassNames: $t
+        },
+        children: /*#__PURE__*/ c(d, {
+          id: fe ?? ne,
+          children: [ /*#__PURE__*/ l(Ln, {
+            value: `html body { background: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)); }`
+          }), /*#__PURE__*/ c(u.div, {
+            ...ft,
+            className: ue(L, `framer-1o0hdey`, v),
+            ref: te,
+            style: {
+              ..._
+            },
+            children: [ /*#__PURE__*/ l(C, {
+              children: /*#__PURE__*/ l(D, {
+                className: `framer-w9o3t8-container`,
+                "data-framer-name": `Lenis Smooth Scroll`,
+                isAuthoredByUser: !0,
+                isModuleExternal: !0,
+                layout: yt,
+                name: `Lenis Smooth Scroll`,
+                nodeId: `zw4ZrgRh7`,
+                scopeId: `dcN8jq2Gu`,
+                children: /*#__PURE__*/ l(Xe, {
+                  height: `100%`,
+                  id: `zw4ZrgRh7`,
+                  infinite: !1,
+                  intensity: 8,
+                  layoutId: `zw4ZrgRh7`,
+                  name: `Lenis Smooth Scroll`,
+                  orientation: `vertical`,
+                  smooth: !0,
+                  width: `100%`
+                })
+              })
+            }), /*#__PURE__*/ c(u.main, {
+              className: `framer-3o3340`,
+              "data-framer-name": `Main`,
+              layout: yt,
+              children: [xt() && /*#__PURE__*/ l(C, {
+                height: 800,
+                y: (p?.y || 0) + 0 + 200 + 0,
+                children: /*#__PURE__*/ l(D, {
+                  className: `framer-ffrjd1-container hidden-1nc0ivo`,
+                  nodeId: `CxXz9UICK`,
+                  scopeId: `dcN8jq2Gu`,
+                  children: /*#__PURE__*/ l(Pe, {
+                    height: `100%`,
+                    id: `CxXz9UICK`,
+                    layoutId: `CxXz9UICK`,
+                    width: `100%`
+                  })
+                })
+              }), /*#__PURE__*/ c(`div`, {
+                className: `framer-mtqnda`,
+                "data-framer-name": `Content`,
+                children: [ /*#__PURE__*/ c(`div`, {
+                  className: `framer-4wzv44`,
+                  "data-framer-name": `Hero / Project`,
+                  children: [ /*#__PURE__*/ l(x, {
+                    breakpoint: I,
+                    overrides: {
+                      gjvbOr6sK: {
+                        __framer__styleTransformEffectEnabled: void 0
+                      },
+                      kvrgoOqAT: {
+                        __framer__styleTransformEffectEnabled: void 0
+                      }
+                    },
+                    children: /*#__PURE__*/ c(Vt, {
+                      __framer__styleTransformEffectEnabled: !0,
+                      __framer__transformTargets: [{
+                        target: {
+                          opacity: 1,
+                          rotate: 0,
+                          rotateX: 0,
+                          rotateY: 0,
+                          scale: 1,
+                          skewX: 0,
+                          skewY: 0,
+                          x: 0,
+                          y: 0
+                        }
+                      }, {
+                        ref: R,
+                        target: {
+                          opacity: .6,
+                          rotate: 0,
+                          rotateX: 0,
+                          rotateY: 0,
+                          scale: .925,
+                          skewX: 0,
+                          skewY: 0,
+                          x: 0,
+                          y: 0
+                        }
+                      }],
+                      __framer__transformTrigger: `onScrollTarget`,
+                      __framer__transformViewportThreshold: 1,
+                      __perspectiveFX: !1,
+                      __targetOpacity: 1,
+                      className: `framer-3ye8xs`,
+                      "data-framer-name": `Hero`,
+                      children: [ /*#__PURE__*/ l(`div`, {
+                        className: `framer-by5zon`,
+                        "data-framer-name": `BG Outer Container`,
+                        children: /*#__PURE__*/ l(x, {
+                          breakpoint: I,
+                          overrides: {
+                            gjvbOr6sK: {
+                              height: 914,
+                              width: `max(max(${p?.width||`100vw`}, 1px) - 6px, 1px)`
+                            }
+                          },
+                          children: /*#__PURE__*/ l(C, {
+                            height: 994,
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 3,
+                            children: /*#__PURE__*/ l(D, {
+                              className: `framer-1vzwwht-container`,
+                              nodeId: `MmQHEftt4`,
+                              rendersWithMotion: !0,
+                              scopeId: `dcN8jq2Gu`,
+                              children: /*#__PURE__*/ l(Mt, {
+                                __framer__animateOnce: !0,
+                                __framer__obscuredVariantId: `DV6oTfLLg`,
+                                __framer__threshold: .5,
+                                __framer__variantAppearEffectEnabled: !0,
+                                __framer__visibleVariantId: `Uh95rRMl7`,
+                                GJGpI3mea: S,
+                                height: `100%`,
+                                hSvSqBGxe: b,
+                                id: `MmQHEftt4`,
+                                layoutId: `MmQHEftt4`,
+                                qPIgziuGZ: w,
+                                style: {
+                                  height: `100%`,
+                                  width: `100%`
+                                },
+                                variant: W(`Uh95rRMl7`),
+                                waDb7XNr5: U(y),
+                                width: `100%`
+                              })
+                            })
+                          })
+                        })
+                      }), /*#__PURE__*/ l(x, {
+                        breakpoint: I,
+                        overrides: {
+                          gjvbOr6sK: {
+                            __framer__parallaxTransformEnabled: void 0
+                          },
+                          kvrgoOqAT: {
+                            __framer__parallaxTransformEnabled: void 0
+                          }
+                        },
+                        children: /*#__PURE__*/ c(Bt, {
+                          __framer__adjustPosition: !1,
+                          __framer__offset: 0,
+                          __framer__parallaxTransformEnabled: !0,
+                          __framer__speed: 130,
+                          __perspectiveFX: !1,
+                          __targetOpacity: 1,
+                          className: `framer-9cugxo`,
+                          "data-framer-name": `Inside Container`,
+                          children: [ /*#__PURE__*/ c(`header`, {
+                            className: `framer-5km0ir`,
+                            "data-framer-name": `Top`,
+                            children: [ /*#__PURE__*/ l(pe, {
+                              links: [{
+                                href: {
+                                  webPageId: `VADOyQEsJ`
+                                },
+                                implicitPathVariables: void 0
+                              }, {
+                                href: {
+                                  webPageId: `VADOyQEsJ`
+                                },
+                                implicitPathVariables: void 0
+                              }, {
+                                href: {
+                                  webPageId: `VADOyQEsJ`
+                                },
+                                implicitPathVariables: void 0
+                              }],
+                              children: e => /*#__PURE__*/ l(x, {
+                                breakpoint: I,
+                                overrides: {
+                                  gjvbOr6sK: {
+                                    y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 84 + 0 + 0 + 0
+                                  }
+                                },
+                                children: /*#__PURE__*/ l(C, {
+                                  height: 20,
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 33 + 0 + 0 + 0,
+                                  children: /*#__PURE__*/ l(Pt, {
+                                    animate: tn,
+                                    className: `framer-19jj9t8-container`,
+                                    "data-framer-appear-id": `19jj9t8`,
+                                    initial: G,
+                                    nodeId: `hMl43xYwI`,
+                                    optimized: !0,
+                                    rendersWithMotion: !0,
+                                    scopeId: `dcN8jq2Gu`,
+                                    children: /*#__PURE__*/ l(x, {
+                                      breakpoint: I,
+                                      overrides: {
+                                        gjvbOr6sK: {
+                                          DUWgKh4ot: e[2]
+                                        },
+                                        kvrgoOqAT: {
+                                          DUWgKh4ot: e[1]
+                                        }
+                                      },
+                                      children: /*#__PURE__*/ l(N, {
+                                        A0yGAsltz: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                        DUWgKh4ot: e[0],
+                                        FxpTCec8q: `Back to projects`,
+                                        height: `100%`,
+                                        HVx8XMFQN: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                                        id: `hMl43xYwI`,
+                                        layoutId: `hMl43xYwI`,
+                                        v2PkRDg7A: !1,
+                                        variant: W(`RVD7A0_PA`),
+                                        width: `100%`
+                                      })
+                                    })
+                                  })
+                                })
+                              })
+                            }), xt() && /*#__PURE__*/ l(C, {
+                              height: 19,
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 33 + 0 + 0 + .5,
+                              children: /*#__PURE__*/ l(Pt, {
+                                animate: nn,
+                                className: `framer-1gjlcjd-container hidden-1nc0ivo`,
+                                "data-framer-appear-id": `1gjlcjd`,
+                                initial: G,
+                                nodeId: `yLHPGUol4`,
+                                optimized: !0,
+                                rendersWithMotion: !0,
+                                scopeId: `dcN8jq2Gu`,
+                                children: /*#__PURE__*/ l(Re, {
+                                  height: `100%`,
+                                  id: `yLHPGUol4`,
+                                  JIleRlVOF: `0px 0px 0px 0px`,
+                                  layoutId: `yLHPGUol4`,
+                                  LBZNZ9cgr: Ne,
+                                  width: `100%`
+                                })
+                              })
+                            })]
+                          }), /*#__PURE__*/ c(`div`, {
+                            className: `framer-184oqzw`,
+                            "data-framer-name": `Image / Project Info`,
+                            children: [ /*#__PURE__*/ c(B, {
+                              animate: rn,
+                              className: `framer-t241s`,
+                              "data-framer-appear-id": `t241s`,
+                              "data-framer-name": `Image / Video`,
+                              initial: an,
+                              optimized: !0,
+                              children: [Ct !== !1 && /*#__PURE__*/ l(x, {
+                                breakpoint: I,
+                                overrides: {
+                                  gjvbOr6sK: {
+                                    background: {
+                                      alt: ``,
+                                      fit: `fill`,
+                                      intrinsicHeight: 1800,
+                                      intrinsicWidth: 2400,
+                                      loading: g((p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 84 + 259.5 + 0 + 0 + 0 + 79),
+                                      pixelHeight: 1800,
+                                      pixelWidth: 2400,
+                                      sizes: `max(min(max(${p?.width||`100vw`}, 1px), 1920px) - 46px, 50px)`,
+                                      ...U(y)
+                                    },
+                                    id: void 0,
+                                    lightbox: void 0
+                                  }
+                                },
+                                children: /*#__PURE__*/ l(_e, {
+                                  background: {
+                                    alt: ``,
+                                    fit: `fill`,
+                                    intrinsicHeight: 1800,
+                                    intrinsicWidth: 2400,
+                                    loading: g((p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 33 + 405.5 + 0 + 0 + 0 + 79),
+                                    pixelHeight: 1800,
+                                    pixelWidth: 2400,
+                                    ...U(y)
+                                  },
+                                  className: `framer-8k5osh`,
+                                  draggable: `false`,
+                                  fitImageDimension: `height`,
+                                  id: `8k5osh`,
+                                  lightbox: {
+                                    backdrop: `rgba(23, 22, 22, 0.75)`,
+                                    maxWidth: 1920,
+                                    padding: 30,
+                                    transition: sn,
+                                    zIndex: 10
+                                  },
+                                  lightboxClassName: L
+                                })
+                              }), b !== !1 && /*#__PURE__*/ l(pn, {
+                                blockDocumentScrolling: !0,
+                                dismissWithEsc: !0,
+                                children: e => /*#__PURE__*/ l(o, {
+                                  children: /*#__PURE__*/ l(x, {
+                                    breakpoint: I,
+                                    overrides: {
+                                      gjvbOr6sK: {
+                                        width: `max(min(max(${p?.width||`100vw`}, 1px), 1920px) - 46px, 50px)`,
+                                        y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 84 + 259.5 + 0 + 0 + 0 + 79
+                                      }
+                                    },
+                                    children: /*#__PURE__*/ l(C, {
+                                      height: 143,
+                                      y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 33 + 405.5 + 0 + 0 + 0 + 79,
+                                      children: /*#__PURE__*/ c(D, {
+                                        className: `framer-1kc26e3-container`,
+                                        id: `1kc26e3`,
+                                        nodeId: `KzpEJa9KT`,
+                                        scopeId: `dcN8jq2Gu`,
+                                        children: [ /*#__PURE__*/ l(St, {
+                                          height: `100%`,
+                                          id: `KzpEJa9KT`,
+                                          layoutId: `KzpEJa9KT`,
+                                          rqRBzctV7: z({
+                                            overlay: e
+                                          }),
+                                          style: {
+                                            width: `100%`
+                                          },
+                                          variant: W(cn(K(be), f)),
+                                          width: `100%`,
+                                          XJNN55dpd: U(y)
+                                        }), /*#__PURE__*/ l(ae, {
+                                          children: e.visible && /*#__PURE__*/ l(o, {
+                                            children: /*#__PURE__*/ s( /*#__PURE__*/ l(ge, {
+                                              triggerId: `1kc26e3`,
+                                              children: /*#__PURE__*/ c(ce, {
+                                                children: [ /*#__PURE__*/ l(u.div, {
+                                                  animate: {
+                                                    opacity: 1
+                                                  },
+                                                  className: ue(L, `framer-1j1vw8z`),
+                                                  "data-framer-portal-id": `1kc26e3`,
+                                                  exit: {
+                                                    opacity: 0
+                                                  },
+                                                  initial: {
+                                                    opacity: 0
+                                                  },
+                                                  onTap: () => e.hide(),
+                                                  transition: {
+                                                    delay: 0,
+                                                    duration: .46,
+                                                    ease: [.4, 0, .2, 1],
+                                                    type: `tween`
+                                                  }
+                                                }, `WRm09Ijbr`), /*#__PURE__*/ l(C, {
+                                                  children: /*#__PURE__*/ l(D, {
+                                                    animate: dn,
+                                                    className: ue(L, `framer-15gpuh9-container`),
+                                                    "data-framer-portal-id": `1kc26e3`,
+                                                    exit: ln,
+                                                    inComponentSlot: !0,
+                                                    initial: J,
+                                                    isAuthoredByUser: !0,
+                                                    isModuleExternal: !0,
+                                                    nodeId: `Lc9T8gwu0`,
+                                                    rendersWithMotion: !0,
+                                                    scopeId: `dcN8jq2Gu`,
+                                                    transformTemplate: un,
+                                                    children: /*#__PURE__*/ l(Qe, {
+                                                      borderRadius: 12,
+                                                      bottomLeftRadius: 12,
+                                                      bottomRightRadius: 12,
+                                                      boxShadow: ``,
+                                                      height: `100%`,
+                                                      id: `Lc9T8gwu0`,
+                                                      isMixedBorderRadius: !1,
+                                                      isRed: !1,
+                                                      layoutId: `Lc9T8gwu0`,
+                                                      play: `On`,
+                                                      shouldMute: !1,
+                                                      style: {
+                                                        height: `100%`,
+                                                        width: `100%`
+                                                      },
+                                                      thumbnail: `High Quality`,
+                                                      topLeftRadius: 12,
+                                                      topRightRadius: 12,
+                                                      url: be,
+                                                      width: `100%`
+                                                    })
+                                                  })
+                                                })]
+                                              })
+                                            }), fn())
+                                          })
+                                        })]
+                                      })
+                                    })
+                                  })
+                                })
+                              })]
+                            }), /*#__PURE__*/ l(`div`, {
+                              className: `framer-1niuf3q`,
+                              "data-framer-name": `Filler`
+                            }), /*#__PURE__*/ c(`div`, {
+                              className: `framer-1wtwicl`,
+                              "data-framer-name": `Project Info`,
+                              children: [ /*#__PURE__*/ c(B, {
+                                animate: mn,
+                                className: `framer-1by17e4`,
+                                "data-framer-appear-id": `1by17e4`,
+                                "data-framer-name": `Title / Year`,
+                                initial: an,
+                                optimized: !0,
+                                children: [ /*#__PURE__*/ l(T, {
+                                  __fromCanvasComponent: !0,
+                                  children: /*#__PURE__*/ l(t, {
+                                    children: /*#__PURE__*/ l(`h1`, {
+                                      className: `framer-styles-preset-15kw1n0`,
+                                      "data-styles-preset": `Tz81QJ8i1`,
+                                      dir: `auto`,
+                                      style: {
+                                        "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                      },
+                                      children: `Savannah`
+                                    })
+                                  }),
+                                  className: `framer-3xnncp`,
+                                  "data-framer-name": `Title`,
+                                  fonts: [`Inter`],
+                                  text: E,
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0
+                                }), /*#__PURE__*/ l(T, {
+                                  __fromCanvasComponent: !0,
+                                  children: /*#__PURE__*/ l(t, {
+                                    children: /*#__PURE__*/ l(`p`, {
+                                      className: `framer-styles-preset-c95aba`,
+                                      "data-styles-preset": `x8g4OBmQ1`,
+                                      dir: `auto`,
+                                      style: {
+                                        "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                      },
+                                      children: `Starts at $4,500`
+                                    })
+                                  }),
+                                  className: `framer-16eh77w`,
+                                  "data-framer-name": `Year`,
+                                  fonts: [`Inter`],
+                                  text: /*#__PURE__*/ l(`time`, {
+                                    dateTime: O,
+                                    children: kt
+                                  }),
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0
+                                })]
+                              }), /*#__PURE__*/ l(x, {
+                                breakpoint: I,
+                                overrides: {
+                                  gjvbOr6sK: {
+                                    width: `min(max(min(max(${p?.width||`100vw`}, 1px), 1920px) - 46px, 50px), 240px)`,
+                                    y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 84 + 259.5 + 0 + 184 + 0 + 129
+                                  }
+                                },
+                                children: /*#__PURE__*/ l(C, {
+                                  height: 1,
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 33 + 405.5 + 0 + 13 + 0 + 129,
+                                  children: /*#__PURE__*/ l(D, {
+                                    className: `framer-11q1tjf-container`,
+                                    nodeId: `ZP_uuopKw`,
+                                    rendersWithMotion: !0,
+                                    scopeId: `dcN8jq2Gu`,
+                                    children: /*#__PURE__*/ l(zt, {
+                                      __framer__animateOnce: !0,
+                                      __framer__obscuredVariantId: `b5cbcgrAD`,
+                                      __framer__threshold: .5,
+                                      __framer__variantAppearEffectEnabled: !0,
+                                      __framer__visibleVariantId: `iLlY2rby8`,
+                                      height: `100%`,
+                                      id: `ZP_uuopKw`,
+                                      layoutId: `ZP_uuopKw`,
+                                      style: {
+                                        height: `100%`,
+                                        maxWidth: `100%`,
+                                        width: `100%`
+                                      },
+                                      variant: W(`iLlY2rby8`),
+                                      width: `100%`,
+                                      X9qsDHjof: {
+                                        delay: .95,
+                                        duration: 1,
+                                        ease: [.56, .22, .05, .99],
+                                        type: `tween`
+                                      },
+                                      Xtnx8GRRA: `flex-start`
+                                    })
+                                  })
+                                })
+                              }), At !== !1 && /*#__PURE__*/ l(T, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ l(t, {
+                                  children: /*#__PURE__*/ l(`p`, {
+                                    className: `framer-styles-preset-lu6cf5`,
+                                    "data-styles-preset": `XKitmogp0`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                    },
+                                    children: `Axiom makes six-product skincare for men who care but don't want a twenty-minute routine.`
+                                  })
+                                }),
+                                className: `framer-18lk34a`,
+                                "data-framer-name": `Description`,
+                                effect: bn,
+                                fonts: [`Inter`],
+                                text: k,
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0
+                              })]
+                            })]
+                          }), /*#__PURE__*/ c(`div`, {
+                            className: `framer-1l9jlre`,
+                            "data-framer-name": `Bottom Info`,
+                            children: [jt !== !1 && /*#__PURE__*/ c(B, {
+                              animate: xn,
+                              className: `framer-6nrbi8`,
+                              "data-framer-appear-id": `6nrbi8`,
+                              "data-framer-name": `Timeline`,
+                              initial: G,
+                              optimized: !0,
+                              children: [ /*#__PURE__*/ l(T, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ l(t, {
+                                  children: /*#__PURE__*/ l(`p`, {
+                                    className: `framer-styles-preset-c95aba`,
+                                    "data-styles-preset": `x8g4OBmQ1`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                                    },
+                                    children: `timeline`
+                                  })
+                                }),
+                                className: `framer-zw3fh5`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `bottom`,
+                                withExternalLayout: !0
+                              }), /*#__PURE__*/ l(T, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ l(t, {
+                                  children: /*#__PURE__*/ l(`p`, {
+                                    className: `framer-styles-preset-c95aba`,
+                                    "data-styles-preset": `x8g4OBmQ1`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                    },
+                                    children: `2-3 weeks`
+                                  })
+                                }),
+                                className: `framer-en6sck`,
+                                fonts: [`Inter`],
+                                text: Me,
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0
+                              })]
+                            }), Nt !== !1 && /*#__PURE__*/ c(B, {
+                              animate: nn,
+                              className: `framer-9t0tqy`,
+                              "data-framer-appear-id": `9t0tqy`,
+                              "data-framer-name": `Scope`,
+                              initial: G,
+                              optimized: !0,
+                              children: [ /*#__PURE__*/ l(T, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ l(t, {
+                                  children: /*#__PURE__*/ l(`p`, {
+                                    className: `framer-styles-preset-c95aba`,
+                                    "data-styles-preset": `x8g4OBmQ1`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                                    },
+                                    children: `scope`
+                                  })
+                                }),
+                                className: `framer-1osspgd`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `bottom`,
+                                withExternalLayout: !0
+                              }), /*#__PURE__*/ l(`div`, {
+                                className: `framer-1kxi1cl`,
+                                "data-framer-name": `Scope`,
+                                children: /*#__PURE__*/ l(Te, {
+                                  children: /*#__PURE__*/ l(Cn, {
+                                    query: Sn(Ie),
+                                    children: (e, n, r) => /*#__PURE__*/ l(o, {
+                                      children: e?.map(({
+                                        daMMVtIRY: e,
+                                        id: n,
+                                        TDdrxis4e: r
+                                      }, i) => (e ??= ``, r ??= ``, /*#__PURE__*/ l(d, {
+                                        id: `eQ8ikULeq-${n}`,
+                                        children: /*#__PURE__*/ l(Oe.Provider, {
+                                          value: {
+                                            TDdrxis4e: r
+                                          },
+                                          children: /*#__PURE__*/ l(T, {
+                                            __fromCanvasComponent: !0,
+                                            children: /*#__PURE__*/ l(t, {
+                                              children: /*#__PURE__*/ l(`p`, {
+                                                className: `framer-styles-preset-c95aba`,
+                                                "data-styles-preset": `x8g4OBmQ1`,
+                                                dir: `auto`,
+                                                style: {
+                                                  "--framer-text-alignment": `start`,
+                                                  "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)`
+                                                },
+                                                children: `Title`
+                                              })
+                                            }),
+                                            className: `framer-8qo32r`,
+                                            "data-framer-name": `Service`,
+                                            fonts: [`Inter`],
+                                            text: e,
+                                            verticalAlignment: `top`,
+                                            withExternalLayout: !0
+                                          })
+                                        })
+                                      }, n)))
+                                    })
+                                  })
+                                })
+                              })]
+                            })]
+                          })]
+                        })
+                      })]
+                    })
+                  }), /*#__PURE__*/ c(`div`, {
+                    className: `framer-dm7c33`,
+                    "data-framer-name": `Project `,
+                    children: [ /*#__PURE__*/ l(`section`, {
+                      className: `framer-102xlp0`,
+                      "data-framer-name": `Client / Brief`,
+                      id: Ft,
+                      ref: R,
+                      children: /*#__PURE__*/ c(`div`, {
+                        className: `framer-wmm6pc`,
+                        "data-framer-name": `Inside Container`,
+                        children: [ /*#__PURE__*/ c(`div`, {
+                          className: `framer-1od0ywm`,
+                          "data-framer-name": `Client Logo / About them`,
+                          children: [ /*#__PURE__*/ l(Ee, {
+                            animated: !1,
+                            className: `framer-1nqnto0`,
+                            Component: Le,
+                            layoutId: `yP4HTgMcd`,
+                            NO1JEkIaR: !0
+                          }), It !== !1 && /*#__PURE__*/ l(T, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(`p`, {
+                                className: `framer-styles-preset-lu6cf5`,
+                                "data-styles-preset": `XKitmogp0`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`
+                                },
+                                children: `A leather accessories label made in Italy by a family workshop.`
+                              })
+                            }),
+                            className: `framer-6x907c`,
+                            "data-framer-name": `Description`,
+                            fonts: [`Inter`],
+                            text: Be,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          })]
+                        }), /*#__PURE__*/ c(`div`, {
+                          className: `framer-1iv0l1s`,
+                          "data-framer-name": `Brief / Live Link`,
+                          children: [ /*#__PURE__*/ c(`div`, {
+                            className: `framer-at2bt6`,
+                            "data-framer-name": `Approach Split`,
+                            children: [ /*#__PURE__*/ c(`div`, {
+                              className: `framer-gnismn`,
+                              "data-framer-name": `Label / Heading`,
+                              children: [ /*#__PURE__*/ l(x, {
+                                breakpoint: I,
+                                overrides: {
+                                  gjvbOr6sK: {
+                                    width: `min(min(max(min(max(${p?.width||`100vw`}, 1px), 1920px) - 46px, 50px), 500px), 240px)`,
+                                    y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 0 + 60 + 0 + 0 + 75 + 0 + 0 + 0 + 0 + 0 + 0
+                                  },
+                                  kvrgoOqAT: {
+                                    y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 0 + 90 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0
+                                  }
+                                },
+                                children: /*#__PURE__*/ l(C, {
+                                  height: 18,
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 0 + 120 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0,
+                                  children: /*#__PURE__*/ l(V, {
+                                    __framer__animate: {
+                                      transition: wn
+                                    },
+                                    __framer__animateOnce: !0,
+                                    __framer__enter: J,
+                                    __framer__styleAppearEffectEnabled: !0,
+                                    __framer__threshold: .5,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-105cjq5-container`,
+                                    nodeId: `fLJXJMxAI`,
+                                    rendersWithMotion: !0,
+                                    scopeId: `dcN8jq2Gu`,
+                                    children: /*#__PURE__*/ l(M, {
+                                      fgjj4TIuY: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))`,
+                                      fPCis9rUW: 1,
+                                      height: `100%`,
+                                      id: `fLJXJMxAI`,
+                                      layoutId: `fLJXJMxAI`,
+                                      shBP9axEq: !1,
+                                      style: {
+                                        maxWidth: `100%`,
+                                        width: `100%`
+                                      },
+                                      width: `100%`,
+                                      xr4VRVrT5: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                                      z_3j3uyNQ: Ve
+                                    })
+                                  })
+                                })
+                              }), /*#__PURE__*/ l(T, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ l(t, {
+                                  children: /*#__PURE__*/ l(`h2`, {
+                                    className: `framer-styles-preset-fvem1p`,
+                                    "data-styles-preset": `LMUl9NNGN`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-color": `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)`
+                                    },
+                                    children: `Build a brand worthy of the workshop.`
+                                  })
+                                }),
+                                className: `framer-onrclc`,
+                                "data-framer-name": `Big Text`,
+                                effect: X,
+                                fonts: [`Inter`],
+                                text: He,
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0
+                              })]
+                            }), Lt !== !1 && /*#__PURE__*/ l(T, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ l(t, {
+                                children: /*#__PURE__*/ l(`p`, {
+                                  className: `framer-styles-preset-10r2g7l`,
+                                  "data-styles-preset": `YXSEQA_bn`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847)`
+                                  },
+                                  children: `Small text`
+                                })
+                              }),
+                              className: `framer-4e5inr`,
+                              "data-framer-name": `Small Text`,
+                              effect: En,
+                              fonts: [`Inter`],
+                              text: j,
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            })]
+                          }), Rt !== !1 && /*#__PURE__*/ l(pe, {
+                            links: [{
+                              href: A,
+                              implicitPathVariables: void 0
+                            }, {
+                              href: A,
+                              implicitPathVariables: void 0
+                            }, {
+                              href: A,
+                              implicitPathVariables: void 0
+                            }],
+                            children: e => /*#__PURE__*/ l(x, {
+                              breakpoint: I,
+                              overrides: {
+                                gjvbOr6sK: {
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 0 + 60 + 0 + 0 + 75 + 0 + 133
+                                },
+                                kvrgoOqAT: {
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 0 + 90 + 0 + 0 + 0 + 0 + 133
+                                }
+                              },
+                              children: /*#__PURE__*/ l(C, {
+                                height: 20,
+                                y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 0 + 120 + 0 + 0 + 0 + 0 + 133,
+                                children: /*#__PURE__*/ l(V, {
+                                  __framer__animate: {
+                                    transition: Dn
+                                  },
+                                  __framer__animateOnce: !0,
+                                  __framer__enter: J,
+                                  __framer__styleAppearEffectEnabled: !0,
+                                  __framer__threshold: .5,
+                                  __perspectiveFX: !1,
+                                  __targetOpacity: 1,
+                                  className: `framer-1dh416h-container`,
+                                  "data-framer-name": `Live Link`,
+                                  name: `Live Link`,
+                                  nodeId: `Tl02bfuGe`,
+                                  rendersWithMotion: !0,
+                                  scopeId: `dcN8jq2Gu`,
+                                  children: /*#__PURE__*/ l(x, {
+                                    breakpoint: I,
+                                    overrides: {
+                                      gjvbOr6sK: {
+                                        DUWgKh4ot: e[2],
+                                        variant: W(`UFuPupHWY`)
+                                      },
+                                      kvrgoOqAT: {
+                                        DUWgKh4ot: e[1],
+                                        variant: W(`UFuPupHWY`)
+                                      }
+                                    },
+                                    children: /*#__PURE__*/ l(N, {
+                                      A0yGAsltz: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))`,
+                                      DUWgKh4ot: e[0],
+                                      FxpTCec8q: `View live`,
+                                      height: `100%`,
+                                      HVx8XMFQN: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                                      id: `Tl02bfuGe`,
+                                      layoutId: `Tl02bfuGe`,
+                                      name: `Live Link`,
+                                      v2PkRDg7A: !0,
+                                      variant: W(`jinEk1yag`),
+                                      width: `100%`
+                                    })
+                                  })
+                                })
+                              })
+                            })
+                          })]
+                        })]
+                      })
+                    }), /*#__PURE__*/ c(`section`, {
+                      className: `framer-1p5i3vy`,
+                      "data-framer-name": `Image Section`,
+                      children: [Ht !== !1 && /*#__PURE__*/ l(x, {
+                        breakpoint: I,
+                        overrides: {
+                          gjvbOr6sK: {
+                            width: `calc(max(${p?.width||`100vw`}, 1px) - 6px)`,
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 288 + 3 + 1.5
+                          },
+                          kvrgoOqAT: {
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 273 + 3 + 1.5
+                          }
+                        },
+                        children: /*#__PURE__*/ l(C, {
+                          height: 566,
+                          y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 333 + 3 + 1.5,
+                          children: /*#__PURE__*/ l(D, {
+                            className: `framer-pgnxge-container`,
+                            "data-framer-name": `1`,
+                            name: `1`,
+                            nodeId: `iGryK2vFK`,
+                            rendersWithMotion: !0,
+                            scopeId: `dcN8jq2Gu`,
+                            children: /*#__PURE__*/ l(H, {
+                              __framer__animateOnce: !0,
+                              __framer__obscuredVariantId: `SEOMcnqgJ`,
+                              __framer__threshold: 0,
+                              __framer__variantAppearEffectEnabled: !0,
+                              __framer__visibleVariantId: `bst1eaA3L`,
+                              height: `100%`,
+                              id: `iGryK2vFK`,
+                              layoutId: `iGryK2vFK`,
+                              name: `1`,
+                              style: {
+                                width: `100%`
+                              },
+                              SVoGU8NZu: U(Ue),
+                              variant: W(`bst1eaA3L`),
+                              width: `100%`
+                            })
+                          })
+                        })
+                      }), Ut !== !1 && /*#__PURE__*/ c(`div`, {
+                        className: `framer-1x8wi03`,
+                        "data-framer-name": `Bottom Images`,
+                        children: [ /*#__PURE__*/ l(x, {
+                          breakpoint: I,
+                          overrides: {
+                            gjvbOr6sK: {
+                              width: `calc(max(${p?.width||`100vw`}, 1px) - 6px)`,
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 288 + 3 + 1.5 + 0 + 0
+                            },
+                            kvrgoOqAT: {
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 273 + 3 + 1.5 + 0
+                            }
+                          },
+                          children: /*#__PURE__*/ l(C, {
+                            height: 566,
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 333 + 3 + 1.5 + 0,
+                            children: /*#__PURE__*/ l(D, {
+                              className: `framer-nhp5bo-container`,
+                              "data-framer-name": `2`,
+                              name: `2`,
+                              nodeId: `vg5sDbSIn`,
+                              rendersWithMotion: !0,
+                              scopeId: `dcN8jq2Gu`,
+                              children: /*#__PURE__*/ l(H, {
+                                __framer__animateOnce: !0,
+                                __framer__obscuredVariantId: `SEOMcnqgJ`,
+                                __framer__threshold: 0,
+                                __framer__variantAppearEffectEnabled: !0,
+                                __framer__visibleVariantId: `bst1eaA3L`,
+                                height: `100%`,
+                                id: `vg5sDbSIn`,
+                                layoutId: `vg5sDbSIn`,
+                                name: `2`,
+                                style: {
+                                  width: `100%`
+                                },
+                                SVoGU8NZu: U(We),
+                                variant: W(`bst1eaA3L`),
+                                width: `100%`
+                              })
+                            })
+                          })
+                        }), Wt !== !1 && /*#__PURE__*/ l(x, {
+                          breakpoint: I,
+                          overrides: {
+                            gjvbOr6sK: {
+                              width: `calc(max(${p?.width||`100vw`}, 1px) - 6px)`,
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 288 + 3 + 1.5 + 0 + 569
+                            },
+                            kvrgoOqAT: {
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 273 + 3 + 1.5 + 0
+                            }
+                          },
+                          children: /*#__PURE__*/ l(C, {
+                            height: 566,
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 333 + 3 + 1.5 + 0,
+                            children: /*#__PURE__*/ l(D, {
+                              className: `framer-12ft01b-container`,
+                              "data-framer-name": `3`,
+                              name: `3`,
+                              nodeId: `J_rDS0qwE`,
+                              rendersWithMotion: !0,
+                              scopeId: `dcN8jq2Gu`,
+                              children: /*#__PURE__*/ l(H, {
+                                __framer__animateOnce: !0,
+                                __framer__obscuredVariantId: `SEOMcnqgJ`,
+                                __framer__threshold: 0,
+                                __framer__variantAppearEffectEnabled: !0,
+                                __framer__visibleVariantId: `bst1eaA3L`,
+                                height: `100%`,
+                                id: `J_rDS0qwE`,
+                                layoutId: `J_rDS0qwE`,
+                                name: `3`,
+                                style: {
+                                  width: `100%`
+                                },
+                                SVoGU8NZu: U(Ke),
+                                variant: W(`bst1eaA3L`),
+                                width: `100%`
+                              })
+                            })
+                          })
+                        })]
+                      })]
+                    }), Gt !== !1 && /*#__PURE__*/ l(`section`, {
+                      className: `framer-qgqtua`,
+                      "data-framer-name": `Approach`,
+                      children: /*#__PURE__*/ c(`div`, {
+                        className: `framer-106actt`,
+                        "data-framer-name": `Inside Container`,
+                        children: [ /*#__PURE__*/ l(x, {
+                          breakpoint: I,
+                          overrides: {
+                            gjvbOr6sK: {
+                              width: `min(max(min(max(${p?.width||`100vw`}, 1px), 1920px) - 46px, 50px), 240px)`,
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 294 + 60 + 0 + 0 + 0
+                            },
+                            kvrgoOqAT: {
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 279 + 90 + 0 + 0 + 0
+                            }
+                          },
+                          children: /*#__PURE__*/ l(C, {
+                            height: 18,
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 339 + 120 + 0 + 0 + 0,
+                            children: /*#__PURE__*/ l(D, {
+                              className: `framer-tok2gr-container`,
+                              nodeId: `DIyDSeJSN`,
+                              scopeId: `dcN8jq2Gu`,
+                              children: /*#__PURE__*/ l(M, {
+                                fgjj4TIuY: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))`,
+                                fPCis9rUW: 2,
+                                height: `100%`,
+                                id: `DIyDSeJSN`,
+                                layoutId: `DIyDSeJSN`,
+                                shBP9axEq: !1,
+                                style: {
+                                  maxWidth: `100%`,
+                                  width: `100%`
+                                },
+                                width: `100%`,
+                                xr4VRVrT5: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                                z_3j3uyNQ: qe
+                              })
+                            })
+                          })
+                        }), /*#__PURE__*/ c(`div`, {
+                          className: `framer-1pu5h6j`,
+                          "data-framer-name": `Big Text / Small Text`,
+                          children: [ /*#__PURE__*/ l(T, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(`h2`, {
+                                className: `framer-styles-preset-fvem1p`,
+                                "data-styles-preset": `LMUl9NNGN`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)`
+                                },
+                                children: `Material first, type second.`
+                              })
+                            }),
+                            className: `framer-rxaauc`,
+                            "data-framer-name": `Big Text`,
+                            effect: X,
+                            fonts: [`Inter`],
+                            text: Je,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          }), /*#__PURE__*/ l(T, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(`p`, {
+                                className: `framer-styles-preset-10r2g7l`,
+                                "data-styles-preset": `YXSEQA_bn`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847)`
+                                },
+                                children: `Small text`
+                              })
+                            }),
+                            className: `framer-1vesi0q`,
+                            "data-framer-name": `Small Text`,
+                            effect: Q,
+                            fonts: [`Inter`],
+                            text: Ye,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          })]
+                        })]
+                      })
+                    }), Kt !== !1 && /*#__PURE__*/ l(`section`, {
+                      className: `framer-fu09xc`,
+                      children: $e?.map(({
+                        id: e,
+                        mRgTbxzpP: t
+                      }, n) => /*#__PURE__*/ l(d, {
+                        id: `Sfl4qnoOH-${e??n}`,
+                        children: /*#__PURE__*/ l(x, {
+                          breakpoint: I,
+                          overrides: {
+                            gjvbOr6sK: {
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 294 + 3
+                            },
+                            kvrgoOqAT: {
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 279 + 3
+                            }
+                          },
+                          children: /*#__PURE__*/ l(C, {
+                            height: 566,
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 339 + 3,
+                            children: /*#__PURE__*/ l(D, {
+                              className: `framer-1lrcd5x-container`,
+                              "data-framer-name": `1`,
+                              name: `1`,
+                              nodeId: `tw5rDJXHw`,
+                              rendersWithMotion: !0,
+                              scopeId: `dcN8jq2Gu`,
+                              style: {
+                                "--1q1styz": Jt
+                              },
+                              children: /*#__PURE__*/ l(H, {
+                                __framer__animateOnce: !0,
+                                __framer__obscuredVariantId: `SEOMcnqgJ`,
+                                __framer__threshold: 0,
+                                __framer__variantAppearEffectEnabled: !0,
+                                __framer__visibleVariantId: `bst1eaA3L`,
+                                height: `100%`,
+                                id: `tw5rDJXHw`,
+                                layoutId: `tw5rDJXHw`,
+                                name: `1`,
+                                style: {
+                                  width: `100%`
+                                },
+                                SVoGU8NZu: U(t),
+                                variant: W(`bst1eaA3L`),
+                                width: `100%`
+                              })
+                            })
+                          })
+                        })
+                      }, e ?? n))
+                    }), Zt !== !1 && /*#__PURE__*/ l(`section`, {
+                      className: `framer-1ui1s1v`,
+                      "data-framer-name": `Outcomes`,
+                      children: /*#__PURE__*/ c(`div`, {
+                        className: `framer-11zw2la`,
+                        "data-framer-name": `Inside Container`,
+                        children: [ /*#__PURE__*/ l(x, {
+                          breakpoint: I,
+                          overrides: {
+                            gjvbOr6sK: {
+                              width: `min(max(min(max(${p?.width||`100vw`}, 1px), 1920px) - 46px, 50px), 240px)`,
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 920 + 0 + 294 + 60 + 0 + 0 + 0
+                            },
+                            kvrgoOqAT: {
+                              y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 279 + 90 + 0 + 0 + 0
+                            }
+                          },
+                          children: /*#__PURE__*/ l(C, {
+                            height: 18,
+                            y: (p?.y || 0) + 0 + 200 + 0 + 0 + 0 + 0 + 1e3 + 0 + 339 + 120 + 0 + 0 + 0,
+                            children: /*#__PURE__*/ l(D, {
+                              className: `framer-vc7mx5-container`,
+                              nodeId: `Nj7TH5ZAR`,
+                              scopeId: `dcN8jq2Gu`,
+                              children: /*#__PURE__*/ l(M, {
+                                fgjj4TIuY: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))`,
+                                fPCis9rUW: 3,
+                                height: `100%`,
+                                id: `Nj7TH5ZAR`,
+                                layoutId: `Nj7TH5ZAR`,
+                                shBP9axEq: !1,
+                                style: {
+                                  maxWidth: `100%`,
+                                  width: `100%`
+                                },
+                                width: `100%`,
+                                xr4VRVrT5: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                                z_3j3uyNQ: et
+                              })
+                            })
+                          })
+                        }), /*#__PURE__*/ c(`div`, {
+                          className: `framer-lycdyf`,
+                          "data-framer-name": `Big Text / Small Text`,
+                          children: [ /*#__PURE__*/ l(T, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(`h2`, {
+                                className: `framer-styles-preset-fvem1p`,
+                                "data-styles-preset": `LMUl9NNGN`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)`
+                                },
+                                children: `Material first, type second.`
+                              })
+                            }),
+                            className: `framer-1pjpizp`,
+                            "data-framer-name": `Big Text`,
+                            effect: X,
+                            fonts: [`Inter`],
+                            text: tt,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          }), q !== !1 && /*#__PURE__*/ l(T, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(`p`, {
+                                className: `framer-styles-preset-10r2g7l`,
+                                "data-styles-preset": `YXSEQA_bn`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847)`
+                                },
+                                children: `Small text`
+                              })
+                            }),
+                            className: `framer-1761imj`,
+                            "data-framer-name": `Small Text`,
+                            effect: Q,
+                            fonts: [`Inter`],
+                            text: rt,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          })]
+                        })]
+                      })
+                    })]
+                  })]
+                }), /*#__PURE__*/ l(`section`, {
+                  className: `framer-x2p7po`,
+                  "data-framer-name": `Results / Testimonial`,
+                  children: /*#__PURE__*/ l(`div`, {
+                    className: `framer-1smvlsv`,
+                    "data-framer-name": `Outer Container`,
+                    children: /*#__PURE__*/ c(`div`, {
+                      className: `framer-euk6vp`,
+                      "data-framer-name": `Inside Container`,
+                      children: [hn !== !1 && /*#__PURE__*/ c(`div`, {
+                        className: `framer-1diamj1`,
+                        "data-framer-name": `Metrics`,
+                        children: [ /*#__PURE__*/ l(T, {
+                          __fromCanvasComponent: !0,
+                          children: /*#__PURE__*/ l(t, {
+                            children: /*#__PURE__*/ l(`p`, {
+                              className: `framer-styles-preset-c95aba`,
+                              "data-styles-preset": `x8g4OBmQ1`,
+                              dir: `auto`,
+                              style: {
+                                "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                              },
+                              children: `Results`
+                            })
+                          }),
+                          className: `framer-17al0v9`,
+                          "data-framer-name": `Label`,
+                          fonts: [`Inter`],
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0
+                        }), /*#__PURE__*/ l(`div`, {
+                          className: `framer-h7w56c`,
+                          "data-framer-name": `Metrics`,
+                          children: it?.map(({
+                            dkvW8ALXd: e,
+                            eZNgU_zYG: t,
+                            id: n,
+                            jEPMksr4i: r,
+                            lHRlmhtZ1: i
+                          }, a) => (r ??= 0, e ??= ``, t ??= ``, i ??= ``, /*#__PURE__*/ l(d, {
+                            id: `pXrBMKmH6-${n??a}`,
+                            children: /*#__PURE__*/ l(x, {
+                              breakpoint: I,
+                              overrides: {
+                                gjvbOr6sK: {
+                                  width: `max(min(max(${p?.width||`100vw`}, 1px) - 6px, 1920px) - 46px, 50px)`,
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1214 + 3 + 0 + 60 + 0 + 0 + 30 + 0 + 105 + 0 + 0
+                                },
+                                kvrgoOqAT: {
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1279 + 3 + 0 + 90 + 0 + 0 + 45 + 0 + 0 + 0 + 0
+                                }
+                              },
+                              children: /*#__PURE__*/ l(C, {
+                                height: 139,
+                                y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1339 + 3 + 0 + 120 + 0 + 0 + 60 + 0 + 0 + 0 + 0,
+                                children: /*#__PURE__*/ l(D, {
+                                  className: `framer-1gxwewy-container`,
+                                  "data-framer-name": `Metric`,
+                                  name: `Metric`,
+                                  nodeId: `pXrBMKmH6`,
+                                  scopeId: `dcN8jq2Gu`,
+                                  children: /*#__PURE__*/ l(ut, {
+                                    height: `100%`,
+                                    id: `pXrBMKmH6`,
+                                    jI8gOGe7s: e,
+                                    layoutId: `pXrBMKmH6`,
+                                    M02KV1RUf: r,
+                                    name: `Metric`,
+                                    qJlq0oUuu: {
+                                      delay: .1,
+                                      duration: 1,
+                                      ease: [.56, .22, .05, .99],
+                                      type: `tween`
+                                    },
+                                    rzWxS443D: t,
+                                    style: {
+                                      width: `100%`
+                                    },
+                                    u5gleAXJN: i,
+                                    variant: W(`x2M8W3cwR`),
+                                    width: `100%`
+                                  })
+                                })
+                              })
+                            })
+                          }, n ?? a)))
+                        })]
+                      }), gn !== !1 && /*#__PURE__*/ c(`div`, {
+                        className: `framer-1i331ad`,
+                        "data-framer-name": `Quote`,
+                        children: [ /*#__PURE__*/ l(T, {
+                          __fromCanvasComponent: !0,
+                          children: /*#__PURE__*/ l(t, {
+                            children: /*#__PURE__*/ l(`p`, {
+                              className: `framer-styles-preset-c95aba`,
+                              "data-styles-preset": `x8g4OBmQ1`,
+                              dir: `auto`,
+                              style: {
+                                "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                              },
+                              children: `(The Word)`
+                            })
+                          }),
+                          className: `framer-18arrr4`,
+                          fonts: [`Inter`],
+                          text: at,
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0
+                        }), /*#__PURE__*/ c(`div`, {
+                          className: `framer-vx867a`,
+                          "data-framer-name": `Author Card`,
+                          children: [Y !== !1 && /*#__PURE__*/ l(x, {
+                            breakpoint: I,
+                            overrides: {
+                              gjvbOr6sK: {
+                                background: {
+                                  alt: ``,
+                                  fit: `fill`,
+                                  intrinsicHeight: 1345,
+                                  intrinsicWidth: 1618,
+                                  loading: g((p?.y || 0) + 0 + 200 + 0 + 0 + 1214 + 3 + 0 + 60 + 0 + 0 + 30 + 0 + 212.5 + 0 + 0),
+                                  pixelHeight: 1345,
+                                  pixelWidth: 1618,
+                                  sizes: `min(max((min(min(max(${p?.width||`100vw`}, 1px) - 6px, 1920px) - 46px, 1920px) - 20px) / 2, 50px) - 1px, 200px)`,
+                                  ...U(F)
+                                }
+                              },
+                              kvrgoOqAT: {
+                                background: {
+                                  alt: ``,
+                                  fit: `fill`,
+                                  intrinsicHeight: 1345,
+                                  intrinsicWidth: 1618,
+                                  loading: g((p?.y || 0) + 0 + 200 + 0 + 0 + 1279 + 3 + 0 + 90 + 0 + 0 + 45 + 0 + 0 + 0 + 0),
+                                  pixelHeight: 1345,
+                                  pixelWidth: 1618,
+                                  ...U(F)
+                                }
+                              }
+                            },
+                            children: /*#__PURE__*/ l(_e, {
+                              background: {
+                                alt: ``,
+                                fit: `fill`,
+                                intrinsicHeight: 1345,
+                                intrinsicWidth: 1618,
+                                loading: g((p?.y || 0) + 0 + 200 + 0 + 0 + 1339 + 3 + 0 + 120 + 0 + 0 + 60 + 0 + 0 + 0 + 0),
+                                pixelHeight: 1345,
+                                pixelWidth: 1618,
+                                ...U(F)
+                              },
+                              className: `framer-2sx8n0`,
+                              draggable: `false`
+                            })
+                          }), /*#__PURE__*/ c(`div`, {
+                            className: `framer-18y1rde`,
+                            "data-framer-name": `Name / Role`,
+                            children: [Tn !== !1 && /*#__PURE__*/ l(T, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ l(t, {
+                                children: /*#__PURE__*/ l(`p`, {
+                                  className: `framer-styles-preset-lu6cf5`,
+                                  "data-styles-preset": `XKitmogp0`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                  },
+                                  children: `Giulia Conti`
+                                })
+                              }),
+                              className: `framer-169brk5`,
+                              fonts: [`Inter`],
+                              text: lt,
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            }), Z !== !1 && /*#__PURE__*/ l(T, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ l(t, {
+                                children: /*#__PURE__*/ l(`p`, {
+                                  className: `framer-styles-preset-lu6cf5`,
+                                  "data-styles-preset": `XKitmogp0`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                                  },
+                                  children: `Founder, Milano`
+                                })
+                              }),
+                              className: `framer-1xpol5b`,
+                              fonts: [`Inter`],
+                              text: P,
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            })]
+                          })]
+                        }), /*#__PURE__*/ c(`div`, {
+                          className: `framer-1cax6r0`,
+                          "data-framer-name": `Quote`,
+                          children: [ /*#__PURE__*/ l(T, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(`p`, {
+                                className: `framer-styles-preset-ervepf`,
+                                "data-styles-preset": `SM8X5ezGX`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-alignment": `start`,
+                                  "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                },
+                                children: `“ Mira gave us the presence our craft has always deserved. Every wholesale buyer we've met since has referenced the site by name. ”`
+                              })
+                            }),
+                            className: `framer-i1tksj`,
+                            "data-framer-name": `Quote`,
+                            effect: X,
+                            fonts: [`Inter`],
+                            text: Bn,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          }), Vn !== !1 && /*#__PURE__*/ l(T, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(`p`, {
+                                className: `framer-styles-preset-10r2g7l`,
+                                "data-styles-preset": `YXSEQA_bn`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                                },
+                                children: `Studio photography, slow scroll moments, and a quiet shop experience. The bag is the subject. The brand is the frame.`
+                              })
+                            }),
+                            className: `framer-wo1sty`,
+                            "data-framer-name": `Small Text`,
+                            effect: Q,
+                            fonts: [`Inter`],
+                            text: ct,
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          })]
+                        })]
+                      })]
+                    })
+                  })
+                }), /*#__PURE__*/ l(`section`, {
+                  className: `framer-npfnrg`,
+                  "data-framer-name": `More Projects`,
+                  children: /*#__PURE__*/ c(`div`, {
+                    className: `framer-11bn4s5`,
+                    "data-framer-name": `Inside Container`,
+                    children: [ /*#__PURE__*/ l(`div`, {
+                      className: `framer-pjaw51`,
+                      "data-framer-name": `Filler`
+                    }), /*#__PURE__*/ c(`div`, {
+                      className: `framer-xrsurv`,
+                      "data-framer-name": `Projects`,
+                      children: [ /*#__PURE__*/ l(T, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ l(t, {
+                          children: /*#__PURE__*/ l(`p`, {
+                            className: `framer-styles-preset-c95aba`,
+                            "data-styles-preset": `x8g4OBmQ1`,
+                            dir: `auto`,
+                            style: {
+                              "--framer-text-alignment": `left`,
+                              "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`
+                            },
+                            children: `more projects`
+                          })
+                        }),
+                        className: `framer-ug8u0a`,
+                        fonts: [`Inter`],
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0
+                      }), /*#__PURE__*/ l(`div`, {
+                        className: `framer-vf3z5h`,
+                        children: /*#__PURE__*/ l(Te, {
+                          children: /*#__PURE__*/ l(Fn, {
+                            pageSize: 6,
+                            query: Pn(dt),
+                            children: (e, t, n) => /*#__PURE__*/ c(o, {
+                              children: [e?.map(({
+                                AO3U_VSSA: e,
+                                dqAPAmEvi: t,
+                                id: n,
+                                iRUlzL14O: r,
+                                lqxb5gqxK: i,
+                                motPAdhqw: a,
+                                Q2VN_FZXh: o,
+                                UxQzAcVgo: s,
+                                XdZ8EYmm9: ee
+                              }, c) => (o ??= ``, i ??= !0, r ??= ``, s ??= ``, /*#__PURE__*/ l(d, {
+                                id: `yi328nlYk-${n}`,
+                                children: /*#__PURE__*/ l(Oe.Provider, {
+                                  value: {
+                                    UxQzAcVgo: s
+                                  },
+                                  children: /*#__PURE__*/ l(pe, {
+                                    links: [{
+                                      href: {
+                                        pathVariables: {
+                                          UxQzAcVgo: s
+                                        },
+                                        webPageId: `dcN8jq2Gu`
+                                      },
+                                      implicitPathVariables: void 0
+                                    }, {
+                                      href: {
+                                        pathVariables: {
+                                          UxQzAcVgo: s
+                                        },
+                                        webPageId: `dcN8jq2Gu`
+                                      },
+                                      implicitPathVariables: void 0
+                                    }, {
+                                      href: {
+                                        pathVariables: {
+                                          UxQzAcVgo: s
+                                        },
+                                        webPageId: `dcN8jq2Gu`
+                                      },
+                                      implicitPathVariables: void 0
+                                    }],
+                                    children: n => /*#__PURE__*/ l(x, {
+                                      breakpoint: I,
+                                      overrides: {
+                                        gjvbOr6sK: {
+                                          width: `max(min(max(${p?.width||`100vw`}, 1px), 1920px) - 46px, 50px)`,
+                                          y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1340 + 60 + 0 + 0 + 16 + 0 + 105 + 0 + 0
+                                        },
+                                        kvrgoOqAT: {
+                                          y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1465 + 90 + 0 + 0 + 0 + 0 + 105 + 0 + 0
+                                        }
+                                      },
+                                      children: /*#__PURE__*/ l(C, {
+                                        height: 60,
+                                        y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1585 + 240 + 0 + 0 + 0 + 0 + 105 + 0 + 0,
+                                        children: /*#__PURE__*/ l(V, {
+                                          __framer__animate: {
+                                            transition: Mn(jn, c % 6 * .1)
+                                          },
+                                          __framer__animateOnce: !0,
+                                          __framer__enter: An,
+                                          __framer__styleAppearEffectEnabled: !0,
+                                          __framer__threshold: 0,
+                                          __perspectiveFX: !1,
+                                          __targetOpacity: 1,
+                                          className: `framer-366ugj-container`,
+                                          nodeId: `KXkGIRr1K`,
+                                          rendersWithMotion: !0,
+                                          scopeId: `dcN8jq2Gu`,
+                                          children: /*#__PURE__*/ l(x, {
+                                            breakpoint: I,
+                                            overrides: {
+                                              gjvbOr6sK: {
+                                                PFUvOv6JN: n[2],
+                                                variant: W(`I4d4B4zbs`)
+                                              },
+                                              kvrgoOqAT: {
+                                                PFUvOv6JN: n[1],
+                                                variant: W(`I4d4B4zbs`)
+                                              }
+                                            },
+                                            children: /*#__PURE__*/ l(Et, {
+                                              brzySFJc2: U(a),
+                                              fTfEtPwep: i,
+                                              FxsLZCnsq: r,
+                                              height: `100%`,
+                                              id: `KXkGIRr1K`,
+                                              layoutId: `KXkGIRr1K`,
+                                              PFUvOv6JN: n[0],
+                                              ryb9YltZj: t,
+                                              style: {
+                                                width: `100%`
+                                              },
+                                              tUQuP_Jo6: o,
+                                              v77Fsq4__: ee,
+                                              variant: W(`KePuGGRdl`),
+                                              vp1TyCD0V: e,
+                                              width: `100%`
+                                            })
+                                          })
+                                        })
+                                      })
+                                    })
+                                  })
+                                })
+                              }, n))), /*#__PURE__*/ l(x, {
+                                breakpoint: I,
+                                overrides: {
+                                  gjvbOr6sK: {
+                                    y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1340 + 60 + 0 + 0 + 16 + 0 + 105 + 0 + 75
+                                  },
+                                  kvrgoOqAT: {
+                                    y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1465 + 90 + 0 + 0 + 0 + 0 + 105 + 0 + 75
+                                  }
+                                },
+                                children: /*#__PURE__*/ l(C, {
+                                  height: 16,
+                                  y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1585 + 240 + 0 + 0 + 0 + 0 + 105 + 0 + 75,
+                                  children: /*#__PURE__*/ l(qt, {
+                                    __loadMore: n,
+                                    __paginationInfo: t,
+                                    className: `framer-td6puf-container`,
+                                    nodeId: `x2daOv3sD`,
+                                    ref: $,
+                                    scopeId: `dcN8jq2Gu`,
+                                    children: /*#__PURE__*/ l(Ge, {
+                                      height: `100%`,
+                                      id: `x2daOv3sD`,
+                                      layoutId: `x2daOv3sD`,
+                                      RW307fW94: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))`,
+                                      variant: Nn(t, {
+                                        disabled: `Jq5yVz0gZ`,
+                                        loading: `dxXU_I0jN`
+                                      }, W(`dxXU_I0jN`)),
+                                      width: `100%`
+                                    })
+                                  })
+                                })
+                              })]
+                            })
+                          })
+                        })
+                      })]
+                    })]
+                  })
+                }), /*#__PURE__*/ l(x, {
+                  breakpoint: I,
+                  overrides: {
+                    gjvbOr6sK: {
+                      width: `max(${p?.width||`100vw`}, 1px)`,
+                      y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1672
+                    },
+                    kvrgoOqAT: {
+                      y: (p?.y || 0) + 0 + 200 + 0 + 0 + 1841
+                    }
+                  },
+                  children: /*#__PURE__*/ l(C, {
+                    height: 1295,
+                    y: (p?.y || 0) + 0 + 200 + 0 + 0 + 2261,
+                    children: /*#__PURE__*/ l(D, {
+                      className: `framer-1vs0idl-container`,
+                      nodeId: `mhET8BZGq`,
+                      scopeId: `dcN8jq2Gu`,
+                      children: /*#__PURE__*/ l(x, {
+                        breakpoint: I,
+                        overrides: {
+                          gjvbOr6sK: {
+                            variant: W(`szTNrZI4n`)
+                          },
+                          kvrgoOqAT: {
+                            variant: W(`fA3TTozUq`)
+                          }
+                        },
+                        children: /*#__PURE__*/ l(ht, {
+                          aaeSn4zqw: 0,
+                          BWV1JoM50: b,
+                          gjwFQyW_v: S,
+                          height: `100%`,
+                          id: `mhET8BZGq`,
+                          layoutId: `mhET8BZGq`,
+                          PbhoqNHsT: U(y),
+                          style: {
+                            width: `100%`
+                          },
+                          U3duGFpRw: w,
+                          variant: W(`k2n70lu6B`),
+                          width: `100%`
+                        })
+                      })
+                    })
+                  })
+                })]
+              })]
+            })]
+          }), /*#__PURE__*/ l(`div`, {
+            id: `overlay`
+          })]
+        })
+      })
+    }), Vn = [`.framer-hglyy.framer-b1wj9z, .framer-hglyy .framer-b1wj9z { display: block; }`, `.framer-hglyy.framer-1o0hdey { align-content: center; align-items: center; background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1200px; }`, `.framer-hglyy .framer-w9o3t8-container, .framer-hglyy .framer-ffrjd1-container, .framer-hglyy .framer-1dh416h-container, .framer-hglyy .framer-td6puf-container { flex: none; height: auto; position: relative; width: auto; }`, `.framer-hglyy .framer-3o3340 { align-content: flex-start; align-items: flex-start; background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; z-index: 1; }`, `.framer-hglyy .framer-mtqnda { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1px; }`, `.framer-hglyy .framer-4wzv44 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-3ye8xs { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: sticky; top: 0px; width: 100%; }`, `.framer-hglyy .framer-by5zon { align-content: center; align-items: center; bottom: 0px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; justify-content: center; left: 0px; overflow: var(--overflow-clip-fallback, clip); padding: 3px; pointer-events: none; position: absolute; right: 0px; top: 0px; }`, `.framer-hglyy .framer-1vzwwht-container { flex: 1 0 0px; height: 100%; position: relative; width: 1px; }`, `.framer-hglyy .framer-9cugxo { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; height: min-content; justify-content: space-between; max-width: 1920px; min-height: 100vh; overflow: visible; padding: 33px; position: relative; width: 100%; z-index: 1; }`, `.framer-hglyy .framer-5km0ir { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; max-width: 1920px; overflow: visible; padding: 0px 0px 50px 0px; pointer-events: auto; position: relative; width: 100%; z-index: 1; }`, `.framer-hglyy .framer-19jj9t8-container { align-self: start; flex: none; grid-column: span 2; height: auto; justify-self: start; position: relative; width: fit-content; will-change: var(--framer-will-change-effect-override, transform); z-index: 1; }`, `.framer-hglyy .framer-1gjlcjd-container { align-self: center; flex: none; height: auto; justify-self: start; position: relative; width: fit-content; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-hglyy .framer-184oqzw { display: grid; flex: none; gap: 20px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-t241s { --corner-shape-fallback: 0.752; align-content: center; align-items: center; align-self: end; border-bottom-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-bottom-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); corner-shape: superellipse(1.5); display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-hglyy .framer-8k5osh { --corner-shape-fallback: 0.752; border-bottom-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-bottom-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); corner-shape: superellipse(1.5); cursor: pointer; flex: none; height: auto; image-rendering: auto; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`, `.framer-hglyy .framer-1kc26e3-container, .framer-hglyy .framer-pgnxge-container, .framer-hglyy .framer-1gxwewy-container, .framer-hglyy .framer-366ugj-container, .framer-hglyy .framer-1vs0idl-container { flex: none; height: auto; position: relative; width: 100%; }`, `.framer-hglyy.framer-1j1vw8z { background-color: rgba(13, 13, 13, 0.85); inset: 0px; position: fixed; user-select: none; z-index: 9; }`, `.framer-hglyy.framer-15gpuh9-container { aspect-ratio: 1.7761467889908258 / 1; flex: none; height: auto; left: 50%; position: fixed; top: 50%; transform: translate(-50%, -50%); width: 80%; will-change: var(--framer-will-change-effect-override, transform); z-index: 9; }`, `.framer-hglyy .framer-1niuf3q, .framer-hglyy .framer-pjaw51 { align-self: start; flex: none; height: 1px; justify-self: start; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; }`, `.framer-hglyy .framer-1wtwicl { align-content: flex-start; align-items: flex-start; align-self: end; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; grid-column: span 2; height: min-content; justify-content: center; justify-self: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1by17e4 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-hglyy .framer-3xnncp { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 400px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-hglyy .framer-16eh77w, .framer-hglyy .framer-zw3fh5, .framer-hglyy .framer-1osspgd { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre; width: auto; }`, `.framer-hglyy .framer-11q1tjf-container { flex: none; height: 1px; max-width: 240px; position: relative; width: 100%; }`, `.framer-hglyy .framer-18lk34a { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 240px; opacity: 0.75; position: relative; width: 100%; }`, `.framer-hglyy .framer-1l9jlre { display: grid; flex: none; gap: 20px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 50px 0px 0px 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-6nrbi8, .framer-hglyy .framer-9t0tqy { align-content: flex-end; align-items: flex-end; align-self: end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; grid-column: span 2; height: min-content; justify-content: center; justify-self: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-hglyy .framer-en6sck { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }`, `.framer-hglyy .framer-1kxi1cl { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1px; }`, `.framer-hglyy .framer-8qo32r, .framer-hglyy .framer-169brk5, .framer-hglyy .framer-1xpol5b { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-hglyy .framer-dm7c33 { align-content: center; align-items: center; background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; z-index: 1; }`, `.framer-hglyy .framer-102xlp0, .framer-hglyy .framer-qgqtua, .framer-hglyy .framer-1ui1s1v { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 120px 0px 120px 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-wmm6pc { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1od0ywm, .framer-hglyy .framer-1cax6r0 { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; grid-column: span 2; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1nqnto0 { --1mg0zwm: var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, #0a0a0a); flex: none; height: 35px; position: relative; width: auto; }`, `.framer-hglyy .framer-6x907c { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 240px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1iv0l1s { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 40px; grid-column: span 2; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-at2bt6 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-gnismn { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; max-width: 500px; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-105cjq5-container { flex: none; height: auto; max-width: 240px; position: relative; width: 100%; }`, `.framer-hglyy .framer-onrclc, .framer-hglyy .framer-rxaauc, .framer-hglyy .framer-1pjpizp { --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 500px; position: relative; width: 100%; }`, `.framer-hglyy .framer-4e5inr, .framer-hglyy .framer-1vesi0q, .framer-hglyy .framer-1761imj { flex: none; height: auto; max-width: 340px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-hglyy .framer-1p5i3vy { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 3px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 3px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1x8wi03 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 3px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-nhp5bo-container, .framer-hglyy .framer-12ft01b-container { flex: 1 0 0px; height: auto; position: relative; width: 1px; }`, `.framer-hglyy .framer-106actt, .framer-hglyy .framer-11zw2la { display: grid; flex: none; gap: 15px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-hglyy .framer-tok2gr-container, .framer-hglyy .framer-vc7mx5-container { align-self: start; flex: none; grid-column: span 2; height: auto; justify-self: start; max-width: 240px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1pu5h6j, .framer-hglyy .framer-lycdyf { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; grid-column: span 2; height: min-content; justify-content: flex-start; justify-self: start; padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-fu09xc { display: grid; flex: none; gap: 3px; grid-auto-rows: min-content; grid-template-columns: repeat(6, minmax(0px, 1fr)); height: min-content; justify-content: start; padding: 3px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1lrcd5x-container { align-self: start; flex: none; grid-column: var(--1q1styz); height: auto; justify-self: start; position: relative; width: 100%; }`, `.framer-hglyy .framer-x2p7po { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 3px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1smvlsv { --corner-shape-fallback: 0.752; align-content: center; align-items: center; background-color: var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, #0d0d0d); border-bottom-left-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-bottom-right-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-left-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-right-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); corner-shape: superellipse(1.5); display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 120px 0px 120px 0px; position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`, `.framer-hglyy .framer-euk6vp { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 120px; height: min-content; justify-content: center; max-width: 1920px; overflow: visible; padding: 0px 30px 0px 30px; position: relative; width: 100%; z-index: 1; }`, `.framer-hglyy .framer-1diamj1 { display: grid; flex: none; gap: 15px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-17al0v9 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; --framer-text-wrap-override: balance; align-self: start; flex: none; grid-column: span 2; height: auto; justify-self: start; max-width: 240px; position: relative; width: 100%; }`, `.framer-hglyy .framer-h7w56c { align-content: center; align-items: center; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; grid-column: span 2; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-1i331ad { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-18arrr4 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; align-self: start; flex: none; height: auto; justify-self: start; position: relative; white-space: pre; width: fit-content; }`, `.framer-hglyy .framer-vx867a { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: flex-start; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px 0px 0px 1px; position: relative; width: 100%; }`, `.framer-hglyy .framer-2sx8n0 { --corner-shape-fallback: 0.752; aspect-ratio: 1 / 1; border-bottom-left-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-bottom-right-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-left-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-right-radius: calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); corner-shape: superellipse(1.5); flex: none; height: auto; image-rendering: auto; max-width: 200px; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`, `.framer-hglyy .framer-18y1rde { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-i1tksj { --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 430px; position: relative; width: 100%; }`, `.framer-hglyy .framer-wo1sty { --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 380px; position: relative; width: 100%; }`, `.framer-hglyy .framer-npfnrg { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 240px 0px 240px 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-11bn4s5 { display: grid; flex: none; gap: 15px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; max-width: 1920px; overflow: visible; padding: 0px 30px 0px 30px; position: relative; width: 100%; z-index: 1; }`, `.framer-hglyy .framer-xrsurv { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; grid-column: span 3; height: min-content; justify-content: center; justify-self: start; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-hglyy .framer-ug8u0a { --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 1000px; position: relative; width: 100%; }`, `.framer-hglyy .framer-vf3z5h { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; padding: 0px; position: relative; width: 100%; }`, ...vt, ...Ve, ...A, ...et, ...at, ...I, `@media (min-width: 810px) and (max-width: 1199.98px) { .framer-hglyy.framer-1o0hdey { width: 810px; } .framer-hglyy .framer-3ye8xs { position: relative; top: unset; } .framer-hglyy.framer-15gpuh9-container { width: 85%; } .framer-hglyy .framer-102xlp0, .framer-hglyy .framer-qgqtua, .framer-hglyy .framer-1ui1s1v, .framer-hglyy .framer-1smvlsv, .framer-hglyy .framer-npfnrg { padding: 90px 0px 90px 0px; } .framer-hglyy .framer-euk6vp { gap: 90px; } .framer-hglyy .framer-1diamj1 { gap: 40px; }}`, `@media (max-width: 809.98px) { .framer-hglyy.framer-1o0hdey { width: 390px; } .framer-hglyy .framer-3ye8xs { position: relative; top: unset; } .framer-hglyy .framer-9cugxo { min-height: 92vh; padding: 84px 23px 23px 23px; } .framer-hglyy .framer-5km0ir { padding: 0px 0px 30px 0px; } .framer-hglyy .framer-184oqzw, .framer-hglyy .framer-1diamj1 { grid-template-columns: repeat(1, minmax(50px, 1fr)); } .framer-hglyy .framer-8k5osh { cursor: unset; } .framer-hglyy.framer-15gpuh9-container { width: 90%; } .framer-hglyy .framer-1wtwicl, .framer-hglyy .framer-1od0ywm, .framer-hglyy .framer-1iv0l1s, .framer-hglyy .framer-tok2gr-container, .framer-hglyy .framer-1pu5h6j, .framer-hglyy .framer-vc7mx5-container, .framer-hglyy .framer-lycdyf, .framer-hglyy .framer-17al0v9, .framer-hglyy .framer-h7w56c, .framer-hglyy .framer-xrsurv { grid-column: span 1; } .framer-hglyy .framer-1l9jlre { grid-template-columns: repeat(2, minmax(50px, 1fr)); padding: 30px 0px 0px 0px; } .framer-hglyy .framer-6nrbi8, .framer-hglyy .framer-9t0tqy { grid-column: unset; } .framer-hglyy .framer-102xlp0, .framer-hglyy .framer-qgqtua, .framer-hglyy .framer-1ui1s1v, .framer-hglyy .framer-1smvlsv, .framer-hglyy .framer-npfnrg { padding: 60px 0px 60px 0px; } .framer-hglyy .framer-wmm6pc, .framer-hglyy .framer-106actt, .framer-hglyy .framer-11zw2la, .framer-hglyy .framer-11bn4s5 { grid-template-columns: repeat(1, minmax(50px, 1fr)); padding: 0px 23px 0px 23px; } .framer-hglyy .framer-1x8wi03 { flex-direction: column; } .framer-hglyy .framer-nhp5bo-container, .framer-hglyy .framer-12ft01b-container { flex: none; width: 100%; } .framer-hglyy .framer-euk6vp { gap: 60px; padding: 0px 23px 0px 23px; } .framer-hglyy .framer-1i331ad { grid-template-columns: repeat(2, minmax(50px, 1fr)); } .framer-hglyy .framer-18arrr4 { order: 1; } .framer-hglyy .framer-vx867a { gap: 9px; order: 2; } .framer-hglyy .framer-1cax6r0 { order: 0; }}`], $ = y(Bn, Vn, `framer-hglyy`), $.displayName = `Case Studies`, $.defaultProps = {
+      height: 7918,
+      width: 1200
+    }, fe($, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }]
+    }, ...kt, ...At, ...jt, ...Nt, ...Ft, ...It, ...Lt, ...Rt, ...Ht, ...Ut, ...Wt, ...Gt, ...Kt, ...Jt, ...m(yt), ...m(Be), ...m(Ie), ...m(tt), ...m(rt), ...m(dt)], {
+      supportsExplicitInterCodegen: !0
+    }), $.loader = {
+      load: (e, t) => {
+        let n = t.locale,
+          r = t.priority,
+          i = E(() => O.get(Rn(de(t.pathVariables, `dcN8jq2Gu`)), n, r).readMaybeAsync(), t);
+        return w([async () => {
+          let [e] = await i ?? [];
+          return w([() => O.get(Sn(e?.vqgKsb_pP), n, r).preload(), () => O.get(Pn(e?.id), n, r).preload()], t)
+        }, () => _(Pe, {}, t), () => _(R, {}, t), () => _(N, {}, t), () => _(Re, {}, t), () => _(St, {}, t), () => _(P, {}, t), () => _(M, {}, t), () => _(z, {}, t), () => _(ut, {}, t), () => _(ht, {}, t), async () => {
+          let [e] = await i ?? [], a = await E(() => O.get(Pn(e?.id), n, r).readMaybeAsync(), t) ?? [];
+          return w(a.flatMap(e => [() => _(Et, {}, t), () => _(Ge, {}, t)]), t)
+        }], t)
+      }
+    }, Hn = {
+      exports: {
+        Props: {
+          type: `tsType`,
+          annotations: {
+            framerContractVersion: `1`
+          }
+        },
+        queryParamNames: {
+          type: `variable`,
+          annotations: {
+            framerContractVersion: `1`
+          }
+        },
+        default: {
+          type: `reactComponent`,
+          name: `FramerdcN8jq2Gu`,
+          slots: [],
+          annotations: {
+            framerIntrinsicWidth: `1200`,
+            framerContractVersion: `1`,
+            framerScrollSections: `{"lSwVAL6yC":{"pattern":":lSwVAL6yC","name":"hero-trigger"}}`,
+            framerAcceptsLayoutTemplate: `true`,
+            framerImmutableVariables: `true`,
+            framerColorSyntax: `true`,
+            framerLayoutTemplateFlowEffect: `true`,
+            framerDisplayContentsDiv: `false`,
+            framerIntrinsicHeight: `7918`,
+            framerComponentViewportWidth: `true`,
+            framerResponsiveScreen: `true`,
+            framerVectorSets: `["aKHbzmvnAXhRAfkNzAVN","YWNQYYGzTRHTLkX14hnf"]`,
+            framerAutoSizeImages: `true`,
+            framerCanvasComponentVariantDetails: `{"propertyName":"variant","data":{"default":{"layout":["fixed","auto"]},"kvrgoOqAT":{"layout":["fixed","auto"]},"gjvbOr6sK":{"layout":["fixed","auto"]}}}`
+          }
+        },
+        __FramerMetadata__: {
+          type: `variable`
+        }
+      }
+    }
+  })))()
+}
+Un();
+export {
+  Hn as __FramerMetadata__, $ as
+  default, Zt as queryParamNames
+};
+//# sourceMappingURL=_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.map

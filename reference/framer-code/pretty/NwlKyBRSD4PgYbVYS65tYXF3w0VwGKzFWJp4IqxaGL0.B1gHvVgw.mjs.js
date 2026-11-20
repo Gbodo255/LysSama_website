@@ -1,0 +1,2064 @@
+import {
+  t as e
+} from "./rolldown-runtime.Bi-D_2cA.mjs";
+import {
+  F as t,
+  M as n,
+  T as r,
+  b as i,
+  c as ee,
+  j as te,
+  l as a,
+  o,
+  p as ne,
+  s as re,
+  w as ie
+} from "./react.DfujhmXs.mjs";
+import {
+  C as s,
+  a as ae,
+  r as oe,
+  t as se
+} from "./motion.CM2UIHal.mjs";
+import {
+  At as c,
+  Bt as l,
+  Et as ce,
+  F as le,
+  G as u,
+  Ht as d,
+  L as f,
+  Lt as p,
+  M as ue,
+  Pt as de,
+  Q as fe,
+  T as m,
+  Tt as pe,
+  U as h,
+  a as g,
+  ct as _,
+  g as me,
+  ht as he,
+  it as v,
+  k as y,
+  kt as ge,
+  m as _e,
+  n as ve,
+  o as b,
+  ot as ye,
+  vt as be,
+  w as xe,
+  xt as x,
+  yt as Se
+} from "./framer.DdqHlrxM.mjs";
+import {
+  A as Ce,
+  C as S,
+  F as C,
+  H as w,
+  I as T,
+  J as we,
+  L as Te,
+  P as E,
+  R as D,
+  S as O,
+  U as Ee,
+  X as De,
+  Y as k,
+  Z as Oe,
+  at as A,
+  it as ke,
+  j,
+  nt as Ae,
+  rt as je,
+  z as M
+} from "./toplevel-deps.BY2s547D.mjs";
+import {
+  n as Me,
+  t as Ne
+} from "./Lenis.B0ikntHt.mjs";
+import {
+  n as Pe,
+  t as N
+} from "./pgtQfyOCv.DMDfGpCr.mjs";
+import {
+  i as Fe,
+  n as Ie,
+  r as Le,
+  t as Re
+} from "./LMUl9NNGN.CvLxB6jG.mjs";
+import {
+  l as P,
+  n as ze,
+  t as F,
+  u as Be
+} from "./jvKQE_ghl.D8L5bMF5.mjs";
+import {
+  n as Ve,
+  t as I
+} from "./D21Ecyglh.BCJ4Hs8W.mjs";
+import {
+  n as He,
+  t as L
+} from "./n_03H18N2.ClVbANJn.mjs";
+import {
+  i as Ue,
+  n as We,
+  r as Ge,
+  t as Ke
+} from "./iLKnB8A0V.rnK00gqL.mjs";
+import {
+  n as qe,
+  t as Je
+} from "./NeMqRwCs8.C8gKYkVV.mjs";
+import {
+  n as Ye,
+  t as R
+} from "./cM8Lf1CeK.DR507ZJR.mjs";
+import {
+  a as z,
+  i as Xe,
+  n as Ze,
+  o as Qe,
+  r as B,
+  t as V
+} from "./rWbx8J1Z4.DtLmKswU.mjs";
+import {
+  n as $e,
+  r as et
+} from "./ZTkXH13L0.DYYArM9i.mjs";
+var tt, nt, rt, it, at, H, ot, st, U, ct, lt, ut, W, dt, ft, pt, mt, ht, gt, _t, vt, yt, bt, xt, St, Ct, wt, Tt, Et, G, Dt, K, Ot, kt, At, q, jt, Mt, Nt, J, Pt, Ft, Y, It, X, Lt, Rt, Z, Q, zt, Bt, Vt, Ht, Ut, $, Wt;
+
+function Gt() {
+  return (Gt = e((() => {
+    re(), fe(), se(), r(), Me(), Ye(), Be(), Ve(), Ee(), M(), Te(), ze(), Qe(), C(), He(), Xe(), Pe(), Ze(), S(), Je(), A(), Ue(), Fe(), Oe(), j(), $e(), tt = h(Ne), nt = h(T), rt = h(R), it = d(R), at = h(D), H = l(b), ot = h(w), st = l(y), U = l(s.div), ct = h(O), lt = p(s.div), ut = p(s.section), W = p(me), dt = h(B), ft = h(P), pt = h(V), mt = h(F), ht = h(I), gt = h(z), _t = h(N), vt = h(L), yt = h(E), bt = {
+      aAE3bWPzx: `(max-width: 809.98px)`,
+      vlHT1huGw: `(min-width: 810px) and (max-width: 1199.98px)`,
+      WMiKYG4KO: `(min-width: 1200px)`
+    }, xt = () => typeof document < `u`, St = [], Ct = `framer-Ur11b`, wt = {
+      aAE3bWPzx: `framer-v-n4shxz`,
+      vlHT1huGw: `framer-v-o8ajoo`,
+      WMiKYG4KO: `framer-v-ynarf2`
+    }, Tt = (e, t, n) => e && t ? `position` : n, Et = (e, t) => {
+      if (e && typeof e == `object`) return {
+        ...e,
+        alt: t
+      }
+    }, G = (...e) => {
+      for (let t of e)
+        if (t && typeof t == `string`) return t
+    }, Dt = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.25,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, K = {
+      opacity: .001,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 0
+    }, Ot = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.35,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, kt = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        damping: 25,
+        delay: 1.15,
+        mass: .3,
+        stiffness: 120,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, At = {
+      opacity: .001,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 40
+    }, q = {
+      opacity: .001,
+      rotate: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 15
+    }, jt = {
+      effect: q,
+      repeat: !1,
+      startDelay: 1.25,
+      threshold: 0,
+      tokenization: `line`,
+      transition: {
+        delay: .1,
+        duration: .8,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, Mt = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.45,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, Nt = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.55,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, J = () => ({
+      from: {
+        alias: `CcG2fKX4y`,
+        data: qe,
+        type: `Collection`
+      },
+      limit: {
+        type: `LiteralValue`,
+        value: 4
+      },
+      select: [{
+        collection: `CcG2fKX4y`,
+        name: `daMMVtIRY`,
+        type: `Identifier`
+      }, {
+        collection: `CcG2fKX4y`,
+        name: `TDdrxis4e`,
+        type: `Identifier`
+      }, {
+        collection: `CcG2fKX4y`,
+        name: `id`,
+        type: `Identifier`
+      }]
+    }), Pt = ({
+      query: e,
+      pageSize: t,
+      children: n
+    }) => n(ge(e)), Ft = {
+      opacity: 1,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      transition: {
+        bounce: .1,
+        delay: 1.65,
+        duration: 1.2,
+        type: `spring`
+      },
+      x: 0,
+      y: 0
+    }, v(), Y = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: -20,
+      y: 0
+    }, It = {
+      delay: .3,
+      duration: .85,
+      ease: [.215, .61, .355, 1],
+      type: `tween`
+    }, X = {
+      delay: 0,
+      duration: .46,
+      ease: [.87, 0, .13, 1],
+      type: `tween`
+    }, Lt = {
+      delay: .4,
+      duration: .85,
+      ease: [.215, .61, .355, 1],
+      type: `tween`
+    }, Rt = {
+      effect: q,
+      repeat: !1,
+      startDelay: .2,
+      threshold: 0,
+      tokenization: `line`,
+      transition: {
+        delay: .1,
+        duration: 1.1,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, Z = {
+      effect: {
+        opacity: .001,
+        rotate: 0,
+        scale: 1,
+        skewX: 0,
+        skewY: 0,
+        x: 0,
+        y: 10
+      },
+      repeat: !1,
+      startDelay: .2,
+      threshold: 0,
+      tokenization: `line`,
+      transition: {
+        delay: .2,
+        duration: 1.1,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, Q = {
+      Desktop: `WMiKYG4KO`,
+      Phone: `aAE3bWPzx`,
+      Tablet: `vlHT1huGw`
+    }, zt = ({
+      value: e
+    }) => x() ? null : /*#__PURE__*/ o(`style`, {
+      dangerouslySetInnerHTML: {
+        __html: e
+      },
+      "data-framer-html-style": ``
+    }), Bt = ({
+      height: e,
+      id: t,
+      width: n,
+      ...r
+    }) => ({
+      ...r,
+      variant: Q[r.variant] ?? r.variant ?? `WMiKYG4KO`
+    }), Vt = {
+      alignment: `center`,
+      component: E,
+      offset: {
+        x: 0,
+        y: 0
+      },
+      placement: `bottom`,
+      transition: {
+        damping: 60,
+        delay: 0,
+        mass: 1,
+        stiffness: 500,
+        type: `spring`
+      },
+      variant: `gq6hjYdVi`
+    }, Ht = /*#__PURE__*/ ne(function(e, r) {
+      let ne = i(null),
+        re = r ?? ne,
+        se = ie(),
+        {
+          activeLocale: l,
+          setLocale: u
+        } = pe(),
+        d = he(),
+        {
+          style: f,
+          className: p,
+          layoutId: ue,
+          variant: de,
+          ...fe
+        } = Bt(e),
+        h = n(() => et({}, l), [l]);
+      ce(h);
+      let [_, me] = Se(de, bt, !1), v = le(Ct, Ae, we, Re, Ke), ge = te(_e)?.isLayoutTemplate, ye = !!te(ae)?.transition?.layout, x = Tt(ge, ye), S = () => !xt() || _ !== `aAE3bWPzx`, C = i(null), Te = c(`z810EMSTp`), E = c(`d1ch5ACkr`), Ee = i(null), De = c(`ROLTNYOih`), k = i(null), Oe = c(`r3DttxKWZ`), A = i(null), ke = c(`lRPF_Q4Gq`), j = i(null), je = c(`ApUbvy6fk`), M = i(null);
+      return be({
+        a8ccln: Vt
+      }), /*#__PURE__*/ o(_e.Provider, {
+        value: {
+          activeVariantId: _,
+          humanReadableVariantMap: Q,
+          primaryVariantId: `WMiKYG4KO`,
+          variantClassNames: wt
+        },
+        children: /*#__PURE__*/ a(oe, {
+          id: ue ?? se,
+          children: [ /*#__PURE__*/ o(zt, {
+            value: `html body { background: rgb(255, 255, 255); }`
+          }), /*#__PURE__*/ a(s.div, {
+            ...fe,
+            className: le(v, `framer-ynarf2`, p),
+            ref: re,
+            style: {
+              ...f
+            },
+            children: [ /*#__PURE__*/ o(g, {
+              children: /*#__PURE__*/ o(b, {
+                className: `framer-1mn4ta-container`,
+                "data-framer-name": `Lenis Smooth Scroll`,
+                isAuthoredByUser: !0,
+                isModuleExternal: !0,
+                layout: x,
+                name: `Lenis Smooth Scroll`,
+                nodeId: `l_dsh9X8x`,
+                scopeId: `ZTkXH13L0`,
+                children: /*#__PURE__*/ o(Ne, {
+                  height: `100%`,
+                  id: `l_dsh9X8x`,
+                  infinite: !1,
+                  intensity: 8,
+                  layoutId: `l_dsh9X8x`,
+                  name: `Lenis Smooth Scroll`,
+                  orientation: `vertical`,
+                  smooth: !0,
+                  width: `100%`
+                })
+              })
+            }), /*#__PURE__*/ a(s.main, {
+              className: `framer-es8rs7`,
+              "data-framer-name": `Main`,
+              layout: x,
+              children: [S() && /*#__PURE__*/ o(g, {
+                height: 800,
+                children: /*#__PURE__*/ o(b, {
+                  className: `framer-1i9wie5-container hidden-n4shxz`,
+                  nodeId: `YFX2C3bRw`,
+                  scopeId: `ZTkXH13L0`,
+                  children: /*#__PURE__*/ o(T, {
+                    height: `100%`,
+                    id: `YFX2C3bRw`,
+                    layoutId: `YFX2C3bRw`,
+                    width: `100%`
+                  })
+                })
+              }), /*#__PURE__*/ a(`div`, {
+                className: `framer-1n70wml`,
+                "data-framer-name": `Content`,
+                children: [ /*#__PURE__*/ o(m, {
+                  breakpoint: _,
+                  overrides: {
+                    aAE3bWPzx: {
+                      __framer__styleTransformEffectEnabled: void 0
+                    },
+                    vlHT1huGw: {
+                      __framer__styleTransformEffectEnabled: void 0
+                    }
+                  },
+                  children: /*#__PURE__*/ a(ut, {
+                    __framer__styleTransformEffectEnabled: !0,
+                    __framer__transformTargets: [{
+                      target: {
+                        opacity: 1,
+                        rotate: 0,
+                        rotateX: 0,
+                        rotateY: 0,
+                        scale: 1,
+                        skewX: 0,
+                        skewY: 0,
+                        x: 0,
+                        y: 0
+                      }
+                    }, {
+                      ref: C,
+                      target: {
+                        opacity: .6,
+                        rotate: 0,
+                        rotateX: 0,
+                        rotateY: 0,
+                        scale: .925,
+                        skewX: 0,
+                        skewY: 0,
+                        x: 0,
+                        y: 0
+                      }
+                    }],
+                    __framer__transformTrigger: `onScrollTarget`,
+                    __framer__transformViewportThreshold: 1,
+                    __perspectiveFX: !1,
+                    __targetOpacity: 1,
+                    className: `framer-1x0mefb`,
+                    "data-framer-name": `Hero`,
+                    children: [ /*#__PURE__*/ o(`div`, {
+                      className: `framer-oqp9pp`,
+                      "data-framer-name": `BG Outer Container`,
+                      children: /*#__PURE__*/ o(m, {
+                        breakpoint: _,
+                        overrides: {
+                          aAE3bWPzx: {
+                            width: `max(max(${d?.width||`100vw`}, 1px) - 6px, 1px)`
+                          }
+                        },
+                        children: /*#__PURE__*/ o(g, {
+                          children: /*#__PURE__*/ o(b, {
+                            className: `framer-16v677h-container`,
+                            nodeId: `uEQORonyP`,
+                            rendersWithMotion: !0,
+                            scopeId: `ZTkXH13L0`,
+                            children: /*#__PURE__*/ o(it, {
+                              __framer__animateOnce: !0,
+                              __framer__obscuredVariantId: `DV6oTfLLg`,
+                              __framer__threshold: .5,
+                              __framer__variantAppearEffectEnabled: !0,
+                              __framer__visibleVariantId: `Uh95rRMl7`,
+                              height: `100%`,
+                              hSvSqBGxe: !1,
+                              id: `uEQORonyP`,
+                              layoutId: `uEQORonyP`,
+                              qPIgziuGZ: ``,
+                              style: {
+                                height: `100%`,
+                                width: `100%`
+                              },
+                              variant: G(`Uh95rRMl7`),
+                              waDb7XNr5: Et({
+                                pixelHeight: 1536,
+                                pixelWidth: 2816,
+                                src: `https://framerusercontent.com/images/Fcz0H6OyRLSzO1j6CmBZCeoCrYA.jpg?width=2816&height=1536`,
+                                srcSet: `https://framerusercontent.com/images/Fcz0H6OyRLSzO1j6CmBZCeoCrYA.jpg?scale-down-to=512&width=2816&height=1536 512w,https://framerusercontent.com/images/Fcz0H6OyRLSzO1j6CmBZCeoCrYA.jpg?scale-down-to=1024&width=2816&height=1536 1024w,https://framerusercontent.com/images/Fcz0H6OyRLSzO1j6CmBZCeoCrYA.jpg?scale-down-to=2048&width=2816&height=1536 2048w,https://framerusercontent.com/images/Fcz0H6OyRLSzO1j6CmBZCeoCrYA.jpg?width=2816&height=1536 2816w`
+                              }, ``),
+                              width: `100%`
+                            })
+                          })
+                        })
+                      })
+                    }), /*#__PURE__*/ o(m, {
+                      breakpoint: _,
+                      overrides: {
+                        aAE3bWPzx: {
+                          __framer__parallaxTransformEnabled: void 0
+                        },
+                        vlHT1huGw: {
+                          __framer__parallaxTransformEnabled: void 0
+                        }
+                      },
+                      children: /*#__PURE__*/ a(lt, {
+                        __framer__adjustPosition: !1,
+                        __framer__offset: 0,
+                        __framer__parallaxTransformEnabled: !0,
+                        __framer__speed: 130,
+                        __perspectiveFX: !1,
+                        __targetOpacity: 1,
+                        className: `framer-hb5ox2`,
+                        "data-framer-name": `Inside Container`,
+                        children: [ /*#__PURE__*/ a(`header`, {
+                          className: `framer-1k134jf`,
+                          "data-framer-name": `Top`,
+                          children: [S() && /*#__PURE__*/ o(g, {
+                            height: 19,
+                            children: /*#__PURE__*/ o(H, {
+                              animate: Dt,
+                              className: `framer-8330z8-container hidden-n4shxz`,
+                              "data-framer-appear-id": `8330z8`,
+                              initial: K,
+                              nodeId: `FwB2lT7RG`,
+                              optimized: !0,
+                              rendersWithMotion: !0,
+                              scopeId: `ZTkXH13L0`,
+                              children: /*#__PURE__*/ o(D, {
+                                height: `100%`,
+                                id: `FwB2lT7RG`,
+                                JIleRlVOF: `0px 0px 0px 0px`,
+                                layoutId: `FwB2lT7RG`,
+                                LBZNZ9cgr: Ce,
+                                width: `100%`
+                              })
+                            })
+                          }), S() && /*#__PURE__*/ o(g, {
+                            height: 197,
+                            children: /*#__PURE__*/ o(H, {
+                              animate: Ot,
+                              className: `framer-7hchzy-container hidden-n4shxz`,
+                              "data-framer-appear-id": `7hchzy`,
+                              initial: K,
+                              nodeId: `hSavlwsFi`,
+                              optimized: !0,
+                              rendersWithMotion: !0,
+                              scopeId: `ZTkXH13L0`,
+                              children: /*#__PURE__*/ o(m, {
+                                breakpoint: _,
+                                overrides: {
+                                  vlHT1huGw: {
+                                    variant: G(`PtvC8qv5y`)
+                                  }
+                                },
+                                children: /*#__PURE__*/ o(w, {
+                                  height: `100%`,
+                                  id: `hSavlwsFi`,
+                                  layoutId: `hSavlwsFi`,
+                                  PebktKpFc: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                  style: {
+                                    height: `100%`,
+                                    width: `100%`
+                                  },
+                                  variant: G(`M83fGIck2`),
+                                  width: `100%`
+                                })
+                              })
+                            })
+                          })]
+                        }), /*#__PURE__*/ a(`div`, {
+                          className: `framer-1338hsz`,
+                          "data-framer-name": `Heading`,
+                          children: [S() && /*#__PURE__*/ o(`div`, {
+                            className: `framer-dx75ug hidden-n4shxz`,
+                            "data-framer-name": `Filler`
+                          }), /*#__PURE__*/ a(`div`, {
+                            className: `framer-by1tpf`,
+                            "data-framer-name": `Heading / Description`,
+                            children: [ /*#__PURE__*/ o(m, {
+                              breakpoint: _,
+                              overrides: {
+                                aAE3bWPzx: {
+                                  children: /*#__PURE__*/ o(t, {
+                                    children: /*#__PURE__*/ o(`h1`, {
+                                      dir: `auto`,
+                                      style: {
+                                        "--font-selector": `R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3`,
+                                        "--framer-font-family": `"Mona Sans Variable", "Mona Sans Variable Placeholder", sans-serif`,
+                                        "--framer-font-open-type-features": `'ss07' on`,
+                                        "--framer-font-size": `91.10057276590504px`,
+                                        "--framer-font-variation-axes": `"wdth" 75, "wght" 700`,
+                                        "--framer-letter-spacing": `-0.02em`,
+                                        "--framer-line-height": `90%`,
+                                        "--framer-text-alignment": `left`,
+                                        "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                        "--framer-text-transform": `uppercase`
+                                      },
+                                      children: `the studio.`
+                                    })
+                                  }),
+                                  viewBox: `0 0 344 82`
+                                },
+                                vlHT1huGw: {
+                                  children: /*#__PURE__*/ o(t, {
+                                    children: /*#__PURE__*/ o(`h1`, {
+                                      dir: `auto`,
+                                      style: {
+                                        "--font-selector": `R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3`,
+                                        "--framer-font-family": `"Mona Sans Variable", "Mona Sans Variable Placeholder", sans-serif`,
+                                        "--framer-font-open-type-features": `'ss07' on`,
+                                        "--framer-font-size": `134.66974025191345px`,
+                                        "--framer-font-variation-axes": `"wdth" 75, "wght" 700`,
+                                        "--framer-letter-spacing": `-0.02em`,
+                                        "--framer-line-height": `90%`,
+                                        "--framer-text-alignment": `left`,
+                                        "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                        "--framer-text-transform": `uppercase`
+                                      },
+                                      children: `the studio.`
+                                    })
+                                  }),
+                                  viewBox: `0 0 508.5 121`
+                                }
+                              },
+                              children: /*#__PURE__*/ o(st, {
+                                __fromCanvasComponent: !0,
+                                animate: kt,
+                                children: /*#__PURE__*/ o(t, {
+                                  children: /*#__PURE__*/ o(`h1`, {
+                                    dir: `auto`,
+                                    style: {
+                                      "--font-selector": `R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3`,
+                                      "--framer-font-family": `"Mona Sans Variable", "Mona Sans Variable Placeholder", sans-serif`,
+                                      "--framer-font-open-type-features": `'ss07' on`,
+                                      "--framer-font-size": `139.75742161231543px`,
+                                      "--framer-font-variation-axes": `"wdth" 75, "wght" 700`,
+                                      "--framer-letter-spacing": `-0.02em`,
+                                      "--framer-line-height": `90%`,
+                                      "--framer-text-alignment": `left`,
+                                      "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                      "--framer-text-transform": `uppercase`
+                                    },
+                                    children: `the studio.`
+                                  })
+                                }),
+                                className: `framer-1wbcwny`,
+                                "data-framer-appear-id": `1wbcwny`,
+                                fonts: [`GF;Mona Sans-variable-regular`],
+                                initial: At,
+                                optimized: !0,
+                                verticalAlignment: `top`,
+                                viewBox: `0 0 527.5 126`,
+                                withExternalLayout: !0
+                              })
+                            }), /*#__PURE__*/ o(y, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`p`, {
+                                  className: `framer-styles-preset-1l3tbw0`,
+                                  "data-styles-preset": `cZ7bby0gR`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-alignment": `justify`,
+                                    "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                  },
+                                  children: `                           A brand and web studio for founders who care how they’re seen. Small on purpose, and personal by design.`
+                                })
+                              }),
+                              className: `framer-alv9ty`,
+                              effect: jt,
+                              fonts: [`Inter`],
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            })]
+                          })]
+                        }), /*#__PURE__*/ a(`div`, {
+                          className: `framer-9yv8xi`,
+                          "data-framer-name": `Bottom`,
+                          children: [ /*#__PURE__*/ a(U, {
+                            animate: Mt,
+                            className: `framer-3ji1qe`,
+                            "data-framer-appear-id": `3ji1qe`,
+                            "data-framer-name": `Location`,
+                            initial: K,
+                            optimized: !0,
+                            children: [ /*#__PURE__*/ o(y, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`p`, {
+                                  className: `framer-styles-preset-c95aba`,
+                                  "data-styles-preset": `x8g4OBmQ1`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                                  },
+                                  children: `based in`
+                                })
+                              }),
+                              className: `framer-vm4nnf`,
+                              fonts: [`Inter`],
+                              verticalAlignment: `bottom`,
+                              withExternalLayout: !0
+                            }), /*#__PURE__*/ a(`div`, {
+                              className: `framer-1l9jy5e`,
+                              "data-framer-name": `Locations`,
+                              children: [ /*#__PURE__*/ o(y, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ o(t, {
+                                  children: /*#__PURE__*/ o(`p`, {
+                                    className: `framer-styles-preset-c95aba`,
+                                    "data-styles-preset": `x8g4OBmQ1`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                    },
+                                    children: `los angeles`
+                                  })
+                                }),
+                                className: `framer-5rwonx`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0
+                              }), /*#__PURE__*/ o(y, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ o(t, {
+                                  children: /*#__PURE__*/ o(`p`, {
+                                    className: `framer-styles-preset-c95aba`,
+                                    "data-styles-preset": `x8g4OBmQ1`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                    },
+                                    children: `tokyo`
+                                  })
+                                }),
+                                className: `framer-1dw7mww`,
+                                fonts: [`Inter`],
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0
+                              })]
+                            })]
+                          }), /*#__PURE__*/ a(U, {
+                            animate: Nt,
+                            className: `framer-lx5sm7`,
+                            "data-framer-appear-id": `lx5sm7`,
+                            "data-framer-name": `Services`,
+                            initial: K,
+                            optimized: !0,
+                            children: [ /*#__PURE__*/ o(y, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`p`, {
+                                  className: `framer-styles-preset-c95aba`,
+                                  "data-styles-preset": `x8g4OBmQ1`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))`
+                                  },
+                                  children: `Services`
+                                })
+                              }),
+                              className: `framer-1m5qp67`,
+                              fonts: [`Inter`],
+                              verticalAlignment: `bottom`,
+                              withExternalLayout: !0
+                            }), /*#__PURE__*/ o(`div`, {
+                              className: `framer-vnicgi`,
+                              children: /*#__PURE__*/ o(ve, {
+                                children: /*#__PURE__*/ o(Pt, {
+                                  query: J(),
+                                  children: (e, n, r) => /*#__PURE__*/ o(ee, {
+                                    children: e?.map(({
+                                      daMMVtIRY: e,
+                                      id: n,
+                                      TDdrxis4e: r
+                                    }, i) => (e ??= ``, r ??= ``, /*#__PURE__*/ o(oe, {
+                                      id: `CcG2fKX4y-${n}`,
+                                      children: /*#__PURE__*/ o(xe.Provider, {
+                                        value: {
+                                          TDdrxis4e: r
+                                        },
+                                        children: /*#__PURE__*/ o(y, {
+                                          __fromCanvasComponent: !0,
+                                          children: /*#__PURE__*/ o(t, {
+                                            children: /*#__PURE__*/ o(`p`, {
+                                              className: `framer-styles-preset-c95aba`,
+                                              "data-styles-preset": `x8g4OBmQ1`,
+                                              dir: `auto`,
+                                              style: {
+                                                "--framer-text-color": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                                              },
+                                              children: `Brand Identity`
+                                            })
+                                          }),
+                                          className: `framer-gmarkl`,
+                                          fonts: [`Inter`],
+                                          text: e,
+                                          verticalAlignment: `top`,
+                                          withExternalLayout: !0
+                                        })
+                                      })
+                                    }, n)))
+                                  })
+                                })
+                              })
+                            })]
+                          }), /*#__PURE__*/ o(g, {
+                            height: 17,
+                            children: /*#__PURE__*/ o(H, {
+                              animate: Ft,
+                              className: `framer-f6zjzb-container`,
+                              "data-framer-appear-id": `f6zjzb`,
+                              initial: K,
+                              nodeId: `RNUhVhhfJ`,
+                              optimized: !0,
+                              rendersWithMotion: !0,
+                              scopeId: `ZTkXH13L0`,
+                              children: /*#__PURE__*/ o(m, {
+                                breakpoint: _,
+                                overrides: {
+                                  aAE3bWPzx: {
+                                    variant: G(`IvviAYf_X`)
+                                  }
+                                },
+                                children: /*#__PURE__*/ o(O, {
+                                  gjPhS2amQ: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                  height: `100%`,
+                                  id: `RNUhVhhfJ`,
+                                  layoutId: `RNUhVhhfJ`,
+                                  variant: G(`jg6zUAEJU`),
+                                  width: `100%`
+                                })
+                              })
+                            })
+                          })]
+                        })]
+                      })
+                    })]
+                  })
+                }), /*#__PURE__*/ a(`div`, {
+                  className: `framer-c2l0bx`,
+                  "data-framer-name": `Studio`,
+                  children: [ /*#__PURE__*/ o(`section`, {
+                    className: `framer-1nyqe0x`,
+                    "data-framer-name": `Culture`,
+                    id: Te,
+                    ref: C,
+                    children: /*#__PURE__*/ a(`div`, {
+                      className: `framer-1emkou7`,
+                      "data-framer-name": `Inside Container`,
+                      children: [ /*#__PURE__*/ a(`div`, {
+                        className: `framer-ty9ie9`,
+                        "data-framer-name": `Statement / Images`,
+                        children: [ /*#__PURE__*/ a(`div`, {
+                          className: `framer-1wzgagh`,
+                          "data-framer-name": `Images / Text`,
+                          children: [ /*#__PURE__*/ o(y, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ o(t, {
+                              children: /*#__PURE__*/ o(`p`, {
+                                className: `framer-styles-preset-c95aba`,
+                                "data-styles-preset": `x8g4OBmQ1`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-alignment": `start`
+                                },
+                                children: `Our culture.`
+                              })
+                            }),
+                            className: `framer-1lm3ejt`,
+                            fonts: [`Inter`],
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          }), /*#__PURE__*/ a(`div`, {
+                            className: `framer-te4fjx`,
+                            "data-framer-name": `Images`,
+                            children: [ /*#__PURE__*/ o(m, {
+                              breakpoint: _,
+                              overrides: {
+                                aAE3bWPzx: {
+                                  background: {
+                                    alt: `Black and white photo of the studio team posing together`,
+                                    fit: `fill`,
+                                    intrinsicHeight: 2560,
+                                    intrinsicWidth: 1920,
+                                    pixelHeight: 2560,
+                                    pixelWidth: 1920,
+                                    sizes: `max((max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px) - 3px) / 2, 1px)`,
+                                    src: `https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560`,
+                                    srcSet: `https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=1024&width=1920&height=2560 768w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=2048&width=1920&height=2560 1536w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560 1920w`
+                                  }
+                                },
+                                vlHT1huGw: {
+                                  background: {
+                                    alt: `Black and white photo of the studio team posing together`,
+                                    fit: `fill`,
+                                    intrinsicHeight: 1428,
+                                    intrinsicWidth: 2040,
+                                    pixelHeight: 2560,
+                                    pixelWidth: 1920,
+                                    src: `https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560`,
+                                    srcSet: `https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=1024&width=1920&height=2560 768w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=2048&width=1920&height=2560 1536w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560 1920w`
+                                  }
+                                }
+                              },
+                              children: /*#__PURE__*/ o(W, {
+                                __framer__animate: {
+                                  transition: It
+                                },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Y,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                background: {
+                                  alt: `Black and white photo of the studio team posing together`,
+                                  fit: `fill`,
+                                  intrinsicHeight: 2560,
+                                  intrinsicWidth: 1920,
+                                  pixelHeight: 2560,
+                                  pixelWidth: 1920,
+                                  src: `https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560`,
+                                  srcSet: `https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=1024&width=1920&height=2560 768w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=2048&width=1920&height=2560 1536w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560 1920w`
+                                },
+                                className: `framer-1frrzdj`,
+                                "data-framer-name": `1`,
+                                id: `1frrzdj`,
+                                lightbox: {
+                                  backdrop: `rgba(23, 22, 22, 0.75)`,
+                                  maxWidth: 1920,
+                                  padding: 30,
+                                  transition: X,
+                                  zIndex: 10
+                                },
+                                lightboxClassName: v
+                              })
+                            }), /*#__PURE__*/ o(m, {
+                              breakpoint: _,
+                              overrides: {
+                                aAE3bWPzx: {
+                                  background: {
+                                    alt: `Black and white photo of the team playing table football`,
+                                    fit: `fill`,
+                                    intrinsicHeight: 1280,
+                                    intrinsicWidth: 1920,
+                                    pixelHeight: 1280,
+                                    pixelWidth: 1920,
+                                    sizes: `max((max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px) - 3px) / 2, 1px)`,
+                                    src: `https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280`,
+                                    srcSet: `https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=512&width=1920&height=1280 512w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=1024&width=1920&height=1280 1024w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280 1920w`
+                                  }
+                                },
+                                vlHT1huGw: {
+                                  background: {
+                                    alt: `Black and white photo of the team playing table football`,
+                                    fit: `fill`,
+                                    intrinsicHeight: 1428,
+                                    intrinsicWidth: 2040,
+                                    pixelHeight: 1280,
+                                    pixelWidth: 1920,
+                                    src: `https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280`,
+                                    srcSet: `https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=512&width=1920&height=1280 512w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=1024&width=1920&height=1280 1024w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280 1920w`
+                                  }
+                                }
+                              },
+                              children: /*#__PURE__*/ o(W, {
+                                __framer__animate: {
+                                  transition: Lt
+                                },
+                                __framer__animateOnce: !0,
+                                __framer__enter: Y,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__threshold: 0,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                background: {
+                                  alt: `Black and white photo of the team playing table football`,
+                                  fit: `fill`,
+                                  intrinsicHeight: 1280,
+                                  intrinsicWidth: 1920,
+                                  pixelHeight: 1280,
+                                  pixelWidth: 1920,
+                                  src: `https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280`,
+                                  srcSet: `https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=512&width=1920&height=1280 512w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=1024&width=1920&height=1280 1024w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280 1920w`
+                                },
+                                className: `framer-1jz2epk`,
+                                "data-framer-name": `2`,
+                                id: `1jz2epk`,
+                                lightbox: {
+                                  backdrop: `rgba(23, 22, 22, 0.75)`,
+                                  maxWidth: 1920,
+                                  padding: 30,
+                                  transition: X,
+                                  zIndex: 10
+                                },
+                                lightboxClassName: v
+                              })
+                            })]
+                          })]
+                        }), /*#__PURE__*/ o(y, {
+                          __fromCanvasComponent: !0,
+                          children: /*#__PURE__*/ o(t, {
+                            children: /*#__PURE__*/ a(`h2`, {
+                              className: `framer-styles-preset-fvem1p`,
+                              "data-styles-preset": `LMUl9NNGN`,
+                              dir: `auto`,
+                              style: {
+                                "--framer-text-alignment": `justify`
+                              },
+                              children: [ /*#__PURE__*/ o(`span`, {
+                                style: {
+                                  "--framer-text-color": `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)`
+                                },
+                                children: `                          `
+                              }), `We care about details most people never notice. We argue about kerning and mean it. Everyone here has taste and gets to use it. Nothing leaves the studio that we wouldn’t put our`, /*#__PURE__*/ o(`span`, {
+                                style: {
+                                  "--framer-text-color": `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))`
+                                },
+                                children: ` own name on.`
+                              })]
+                            })
+                          }),
+                          className: `framer-1qpqs3n`,
+                          effect: Rt,
+                          fonts: [`Inter`],
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0
+                        })]
+                      }), /*#__PURE__*/ a(`div`, {
+                        className: `framer-1dufcq3`,
+                        "data-framer-name": `Numbers`,
+                        children: [ /*#__PURE__*/ o(y, {
+                          __fromCanvasComponent: !0,
+                          children: /*#__PURE__*/ o(t, {
+                            children: /*#__PURE__*/ o(`p`, {
+                              className: `framer-styles-preset-c95aba`,
+                              "data-styles-preset": `x8g4OBmQ1`,
+                              dir: `auto`,
+                              style: {
+                                "--framer-text-alignment": `start`,
+                                "--framer-text-color": `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)`
+                              },
+                              children: `by the numbers.`
+                            })
+                          }),
+                          className: `framer-1saqg22`,
+                          fonts: [`Inter`],
+                          verticalAlignment: `top`,
+                          withExternalLayout: !0
+                        }), /*#__PURE__*/ a(`div`, {
+                          className: `framer-1sbfwjx`,
+                          "data-framer-name": `Metrics`,
+                          children: [ /*#__PURE__*/ o(m, {
+                            breakpoint: _,
+                            overrides: {
+                              aAE3bWPzx: {
+                                width: `max((max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px) - 20px) / 2, 50px)`
+                              }
+                            },
+                            children: /*#__PURE__*/ o(g, {
+                              height: 100,
+                              children: /*#__PURE__*/ o(b, {
+                                className: `framer-1o91f3y-container`,
+                                "data-framer-name": `1`,
+                                name: `1`,
+                                nodeId: `NI4wOITNg`,
+                                scopeId: `ZTkXH13L0`,
+                                children: /*#__PURE__*/ o(B, {
+                                  gaoYYy8cU: ``,
+                                  height: `100%`,
+                                  id: `NI4wOITNg`,
+                                  KmwIOR5ks: 12,
+                                  layoutId: `NI4wOITNg`,
+                                  name: `1`,
+                                  OcDw6Rgqo: 0,
+                                  R58AIPttl: ``,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  VMkjjo6rb: 0,
+                                  vWF9Jn3pr: `industries we’ve shipped in`,
+                                  width: `100%`
+                                })
+                              })
+                            })
+                          }), /*#__PURE__*/ o(m, {
+                            breakpoint: _,
+                            overrides: {
+                              aAE3bWPzx: {
+                                width: `max((max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px) - 20px) / 2, 50px)`
+                              }
+                            },
+                            children: /*#__PURE__*/ o(g, {
+                              height: 100,
+                              children: /*#__PURE__*/ o(b, {
+                                className: `framer-1o8w7s0-container`,
+                                "data-framer-name": `2`,
+                                name: `2`,
+                                nodeId: `UC380yGKP`,
+                                scopeId: `ZTkXH13L0`,
+                                children: /*#__PURE__*/ o(B, {
+                                  gaoYYy8cU: ``,
+                                  height: `100%`,
+                                  id: `UC380yGKP`,
+                                  KmwIOR5ks: 3,
+                                  layoutId: `UC380yGKP`,
+                                  name: `2`,
+                                  OcDw6Rgqo: 0,
+                                  R58AIPttl: ``,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  VMkjjo6rb: 0,
+                                  vWF9Jn3pr: `people max on any project`,
+                                  width: `100%`
+                                })
+                              })
+                            })
+                          }), /*#__PURE__*/ o(m, {
+                            breakpoint: _,
+                            overrides: {
+                              aAE3bWPzx: {
+                                width: `max((max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px) - 20px) / 2, 50px)`
+                              }
+                            },
+                            children: /*#__PURE__*/ o(g, {
+                              height: 100,
+                              children: /*#__PURE__*/ o(b, {
+                                className: `framer-1gy3kbc-container`,
+                                "data-framer-name": `3`,
+                                name: `3`,
+                                nodeId: `Min_2H9ia`,
+                                scopeId: `ZTkXH13L0`,
+                                children: /*#__PURE__*/ o(B, {
+                                  gaoYYy8cU: `hr`,
+                                  height: `100%`,
+                                  id: `Min_2H9ia`,
+                                  KmwIOR5ks: 24,
+                                  layoutId: `Min_2H9ia`,
+                                  name: `3`,
+                                  OcDw6Rgqo: 0,
+                                  R58AIPttl: ``,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  VMkjjo6rb: 0,
+                                  vWF9Jn3pr: `longest you’ll wait for a reply`,
+                                  width: `100%`
+                                })
+                              })
+                            })
+                          }), /*#__PURE__*/ o(m, {
+                            breakpoint: _,
+                            overrides: {
+                              aAE3bWPzx: {
+                                width: `max((max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px) - 20px) / 2, 50px)`
+                              }
+                            },
+                            children: /*#__PURE__*/ o(g, {
+                              height: 100,
+                              children: /*#__PURE__*/ o(b, {
+                                className: `framer-1g9nqon-container`,
+                                "data-framer-name": `4`,
+                                name: `4`,
+                                nodeId: `vVNUiSd64`,
+                                scopeId: `ZTkXH13L0`,
+                                children: /*#__PURE__*/ o(B, {
+                                  gaoYYy8cU: `%`,
+                                  height: `100%`,
+                                  id: `vVNUiSd64`,
+                                  KmwIOR5ks: 92,
+                                  layoutId: `vVNUiSd64`,
+                                  name: `4`,
+                                  OcDw6Rgqo: 0,
+                                  R58AIPttl: ``,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  VMkjjo6rb: 0,
+                                  vWF9Jn3pr: `of our launches are still live`,
+                                  width: `100%`
+                                })
+                              })
+                            })
+                          })]
+                        })]
+                      })]
+                    })
+                  }), /*#__PURE__*/ o(m, {
+                    breakpoint: _,
+                    overrides: {
+                      aAE3bWPzx: {
+                        width: `max(${d?.width||`100vw`}, 1px)`
+                      }
+                    },
+                    children: /*#__PURE__*/ o(g, {
+                      height: 1856,
+                      children: /*#__PURE__*/ o(b, {
+                        className: `framer-zzq0ma-container`,
+                        nodeId: `b8Sr4iAT1`,
+                        scopeId: `ZTkXH13L0`,
+                        children: /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              variant: G(`UU2nT8yjn`)
+                            },
+                            vlHT1huGw: {
+                              variant: G(`vmZ77DTLy`)
+                            }
+                          },
+                          children: /*#__PURE__*/ o(P, {
+                            height: `100%`,
+                            id: `b8Sr4iAT1`,
+                            layoutId: `b8Sr4iAT1`,
+                            pxXb6ooTi: 0,
+                            style: {
+                              width: `100%`
+                            },
+                            variant: G(`nyB2hDezr`),
+                            width: `100%`
+                          })
+                        })
+                      })
+                    })
+                  }), /*#__PURE__*/ o(`section`, {
+                    className: `framer-epz8fu`,
+                    "data-framer-name": `Principles`,
+                    children: /*#__PURE__*/ a(`div`, {
+                      className: `framer-1ryjy6b`,
+                      "data-framer-name": `Inside Container`,
+                      children: [ /*#__PURE__*/ o(y, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ o(t, {
+                          children: /*#__PURE__*/ o(`h2`, {
+                            className: `framer-styles-preset-1c0t51l`,
+                            "data-styles-preset": `iLKnB8A0V`,
+                            dir: `auto`,
+                            style: {
+                              "--framer-text-alignment": `start`,
+                              "--framer-text-color": `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)`
+                            },
+                            children: `What guides us.`
+                          })
+                        }),
+                        className: `framer-14z3fot`,
+                        effect: Z,
+                        fonts: [`Inter`],
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0
+                      }), /*#__PURE__*/ a(`div`, {
+                        className: `framer-1bhgxfc`,
+                        "data-framer-name": `Principles`,
+                        id: E,
+                        ref: Ee,
+                        children: [ /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              width: `max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px)`
+                            }
+                          },
+                          children: /*#__PURE__*/ o(g, {
+                            height: 176,
+                            children: /*#__PURE__*/ o(b, {
+                              className: `framer-vze3ri-container`,
+                              "data-framer-name": `1`,
+                              id: De,
+                              name: `1`,
+                              nodeId: `ROLTNYOih`,
+                              ref: k,
+                              scopeId: `ZTkXH13L0`,
+                              children: /*#__PURE__*/ o(m, {
+                                breakpoint: _,
+                                overrides: {
+                                  aAE3bWPzx: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  },
+                                  vlHT1huGw: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  }
+                                },
+                                children: /*#__PURE__*/ o(V, {
+                                  height: `100%`,
+                                  id: `ROLTNYOih`,
+                                  layoutId: `ROLTNYOih`,
+                                  name: `1`,
+                                  OGIasi01L: `No account layer, no handoffs. The person in your calls is the person in the file.`,
+                                  q4rdbrB0d: k,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  TbcZO0nFI: `You talk to the maker.`,
+                                  variant: G(`ey4nLFyrm`),
+                                  width: `100%`,
+                                  xK4dRABOV: 1
+                                })
+                              })
+                            })
+                          })
+                        }), /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              width: `max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px)`
+                            }
+                          },
+                          children: /*#__PURE__*/ o(g, {
+                            height: 176,
+                            children: /*#__PURE__*/ o(b, {
+                              className: `framer-l3pwqf-container`,
+                              "data-framer-name": `2`,
+                              id: Oe,
+                              name: `2`,
+                              nodeId: `r3DttxKWZ`,
+                              ref: A,
+                              scopeId: `ZTkXH13L0`,
+                              children: /*#__PURE__*/ o(m, {
+                                breakpoint: _,
+                                overrides: {
+                                  aAE3bWPzx: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  },
+                                  vlHT1huGw: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  }
+                                },
+                                children: /*#__PURE__*/ o(V, {
+                                  height: `100%`,
+                                  id: `r3DttxKWZ`,
+                                  layoutId: `r3DttxKWZ`,
+                                  name: `2`,
+                                  OGIasi01L: `Price, timeline, and deliverables on paper before day one. Surprises are a design flaw.`,
+                                  q4rdbrB0d: A,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  TbcZO0nFI: `Scope is set before we start.`,
+                                  variant: G(`ey4nLFyrm`),
+                                  width: `100%`,
+                                  xK4dRABOV: 2
+                                })
+                              })
+                            })
+                          })
+                        }), /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              width: `max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px)`
+                            }
+                          },
+                          children: /*#__PURE__*/ o(g, {
+                            height: 176,
+                            children: /*#__PURE__*/ o(b, {
+                              className: `framer-k1zcwk-container`,
+                              "data-framer-name": `3`,
+                              id: ke,
+                              name: `3`,
+                              nodeId: `lRPF_Q4Gq`,
+                              ref: j,
+                              scopeId: `ZTkXH13L0`,
+                              children: /*#__PURE__*/ o(m, {
+                                breakpoint: _,
+                                overrides: {
+                                  aAE3bWPzx: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  },
+                                  vlHT1huGw: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  }
+                                },
+                                children: /*#__PURE__*/ o(V, {
+                                  height: `100%`,
+                                  id: `lRPF_Q4Gq`,
+                                  layoutId: `lRPF_Q4Gq`,
+                                  name: `3`,
+                                  OGIasi01L: `If design is not your real problem, we will tell you in the first call and point you somewhere better.`,
+                                  q4rdbrB0d: j,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  TbcZO0nFI: `We say no early.`,
+                                  variant: G(`ey4nLFyrm`),
+                                  width: `100%`,
+                                  xK4dRABOV: 3
+                                })
+                              })
+                            })
+                          })
+                        }), /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              width: `max(min(max(${d?.width||`100vw`}, 1px), 1920px) - 46px, 50px)`
+                            }
+                          },
+                          children: /*#__PURE__*/ o(g, {
+                            height: 176,
+                            children: /*#__PURE__*/ o(b, {
+                              className: `framer-1wd0xq0-container`,
+                              "data-framer-name": `4`,
+                              id: je,
+                              name: `4`,
+                              nodeId: `ApUbvy6fk`,
+                              ref: M,
+                              scopeId: `ZTkXH13L0`,
+                              children: /*#__PURE__*/ o(m, {
+                                breakpoint: _,
+                                overrides: {
+                                  aAE3bWPzx: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  },
+                                  vlHT1huGw: {
+                                    variant: G(`Gu3KnzVMl`)
+                                  }
+                                },
+                                children: /*#__PURE__*/ o(V, {
+                                  height: `100%`,
+                                  id: `ApUbvy6fk`,
+                                  layoutId: `ApUbvy6fk`,
+                                  name: `4`,
+                                  OGIasi01L: `Every file, font, and license comes with the handoff. Nothing stays hostage in our drive.`,
+                                  q4rdbrB0d: M,
+                                  style: {
+                                    width: `100%`
+                                  },
+                                  TbcZO0nFI: `You own the work.`,
+                                  variant: G(`ey4nLFyrm`),
+                                  width: `100%`,
+                                  xK4dRABOV: 4
+                                })
+                              })
+                            })
+                          })
+                        })]
+                      })]
+                    })
+                  }), /*#__PURE__*/ o(m, {
+                    breakpoint: _,
+                    overrides: {
+                      aAE3bWPzx: {
+                        width: `max(${d?.width||`100vw`}, 1px)`
+                      }
+                    },
+                    children: /*#__PURE__*/ o(g, {
+                      height: 561,
+                      children: /*#__PURE__*/ o(b, {
+                        className: `framer-1mbb4u8-container`,
+                        nodeId: `j5aYpocx_`,
+                        scopeId: `ZTkXH13L0`,
+                        children: /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              variant: G(`uUtPUWNo6`)
+                            },
+                            vlHT1huGw: {
+                              variant: G(`kDO0BDS0T`)
+                            }
+                          },
+                          children: /*#__PURE__*/ o(F, {
+                            height: `100%`,
+                            id: `j5aYpocx_`,
+                            layoutId: `j5aYpocx_`,
+                            rgI_E5L3j: !1,
+                            style: {
+                              width: `100%`
+                            },
+                            variant: G(`FsjNXJSJN`),
+                            width: `100%`
+                          })
+                        })
+                      })
+                    })
+                  }), /*#__PURE__*/ o(`section`, {
+                    className: `framer-1v9qbyv`,
+                    "data-framer-name": `Recognition`,
+                    children: /*#__PURE__*/ a(`div`, {
+                      className: `framer-maixoy`,
+                      "data-framer-name": `Inside Container`,
+                      children: [ /*#__PURE__*/ o(y, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ o(t, {
+                          children: /*#__PURE__*/ o(`h2`, {
+                            className: `framer-styles-preset-1c0t51l`,
+                            "data-styles-preset": `iLKnB8A0V`,
+                            dir: `auto`,
+                            style: {
+                              "--framer-text-alignment": `start`
+                            },
+                            children: `Awards.`
+                          })
+                        }),
+                        className: `framer-1rg17ve`,
+                        effect: Z,
+                        fonts: [`Inter`],
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0
+                      }), /*#__PURE__*/ a(`div`, {
+                        className: `framer-1qjbmof`,
+                        "data-framer-name": `Awards`,
+                        children: [ /*#__PURE__*/ o(g, {
+                          height: 26,
+                          children: /*#__PURE__*/ o(b, {
+                            className: `framer-1ea882b-container`,
+                            nodeId: `UPAjMVhv5`,
+                            scopeId: `ZTkXH13L0`,
+                            children: /*#__PURE__*/ o(I, {
+                              height: `100%`,
+                              id: `UPAjMVhv5`,
+                              layoutId: `UPAjMVhv5`,
+                              variant: G(`Q0LMHMY9j`),
+                              width: `100%`,
+                              XU6EGhHcu: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))`
+                            })
+                          })
+                        }), /*#__PURE__*/ a(`div`, {
+                          className: `framer-fa2fr4`,
+                          "data-framer-name": `Awards`,
+                          children: [ /*#__PURE__*/ a(`div`, {
+                            className: `framer-1pyvfr0`,
+                            "data-framer-name": `Labels`,
+                            children: [S() && /*#__PURE__*/ o(y, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`p`, {
+                                  className: `framer-styles-preset-c95aba`,
+                                  "data-styles-preset": `x8g4OBmQ1`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`
+                                  },
+                                  children: `Awarded by`
+                                })
+                              }),
+                              className: `framer-1cb59fs hidden-n4shxz`,
+                              fonts: [`Inter`],
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            }), /*#__PURE__*/ o(y, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`p`, {
+                                  className: `framer-styles-preset-c95aba`,
+                                  "data-styles-preset": `x8g4OBmQ1`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`
+                                  },
+                                  children: `Award`
+                                })
+                              }),
+                              className: `framer-1rhg9m6`,
+                              fonts: [`Inter`],
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            }), /*#__PURE__*/ o(y, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ o(t, {
+                                children: /*#__PURE__*/ o(`p`, {
+                                  className: `framer-styles-preset-c95aba`,
+                                  "data-styles-preset": `x8g4OBmQ1`,
+                                  dir: `auto`,
+                                  style: {
+                                    "--framer-text-color": `var(--token-82d92470-f077-4c9d-9673-709d01132847)`
+                                  },
+                                  children: `year`
+                                })
+                              }),
+                              className: `framer-1qxli1a`,
+                              fonts: [`Inter`],
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            })]
+                          }), /*#__PURE__*/ a(`div`, {
+                            className: `framer-1q3vn7z`,
+                            "data-framer-name": `Awards`,
+                            children: [ /*#__PURE__*/ o(m, {
+                              breakpoint: _,
+                              overrides: {
+                                aAE3bWPzx: {
+                                  width: `calc(max((min(max(${d?.width||`100vw`}, 1px), 1920px) - 106px) / 3, 50px) * 3 + 40px)`
+                                }
+                              },
+                              children: /*#__PURE__*/ o(g, {
+                                height: 65,
+                                children: /*#__PURE__*/ o(b, {
+                                  className: `framer-l40k6b-container`,
+                                  nodeId: `Orv2atYd0`,
+                                  scopeId: `ZTkXH13L0`,
+                                  children: /*#__PURE__*/ o(m, {
+                                    breakpoint: _,
+                                    overrides: {
+                                      aAE3bWPzx: {
+                                        variant: G(`xmq0bPBT6`)
+                                      }
+                                    },
+                                    children: /*#__PURE__*/ o(z, {
+                                      BvVagVT4d: {
+                                        delay: .1,
+                                        duration: 1,
+                                        ease: [.56, .22, .05, .99],
+                                        type: `tween`
+                                      },
+                                      C9bmYqq8r: `2026-01-01T00:00:00.000Z`,
+                                      CiUVUOrwb: `Awwwards`,
+                                      height: `100%`,
+                                      id: `Orv2atYd0`,
+                                      layoutId: `Orv2atYd0`,
+                                      qdjLJ2PCq: `Site of the Day`,
+                                      style: {
+                                        width: `100%`
+                                      },
+                                      variant: G(`B2PJETExP`),
+                                      width: `100%`
+                                    })
+                                  })
+                                })
+                              })
+                            }), /*#__PURE__*/ o(m, {
+                              breakpoint: _,
+                              overrides: {
+                                aAE3bWPzx: {
+                                  width: `calc(max((min(max(${d?.width||`100vw`}, 1px), 1920px) - 106px) / 3, 50px) * 3 + 40px)`
+                                }
+                              },
+                              children: /*#__PURE__*/ o(g, {
+                                height: 65,
+                                children: /*#__PURE__*/ o(b, {
+                                  className: `framer-l2hmjf-container`,
+                                  nodeId: `iE36Qs4Wx`,
+                                  scopeId: `ZTkXH13L0`,
+                                  children: /*#__PURE__*/ o(m, {
+                                    breakpoint: _,
+                                    overrides: {
+                                      aAE3bWPzx: {
+                                        variant: G(`xmq0bPBT6`)
+                                      }
+                                    },
+                                    children: /*#__PURE__*/ o(z, {
+                                      BvVagVT4d: {
+                                        delay: .2,
+                                        duration: 1,
+                                        ease: [.56, .22, .05, .99],
+                                        type: `tween`
+                                      },
+                                      C9bmYqq8r: `2025-01-01T00:00:00.000Z`,
+                                      CiUVUOrwb: `FWA`,
+                                      height: `100%`,
+                                      id: `iE36Qs4Wx`,
+                                      layoutId: `iE36Qs4Wx`,
+                                      qdjLJ2PCq: `FWA of the day`,
+                                      style: {
+                                        width: `100%`
+                                      },
+                                      variant: G(`B2PJETExP`),
+                                      width: `100%`
+                                    })
+                                  })
+                                })
+                              })
+                            }), /*#__PURE__*/ o(m, {
+                              breakpoint: _,
+                              overrides: {
+                                aAE3bWPzx: {
+                                  width: `calc(max((min(max(${d?.width||`100vw`}, 1px), 1920px) - 106px) / 3, 50px) * 3 + 40px)`
+                                }
+                              },
+                              children: /*#__PURE__*/ o(g, {
+                                height: 65,
+                                children: /*#__PURE__*/ o(b, {
+                                  className: `framer-6uprm2-container`,
+                                  nodeId: `PFxbqhg5A`,
+                                  scopeId: `ZTkXH13L0`,
+                                  children: /*#__PURE__*/ o(m, {
+                                    breakpoint: _,
+                                    overrides: {
+                                      aAE3bWPzx: {
+                                        variant: G(`xmq0bPBT6`)
+                                      }
+                                    },
+                                    children: /*#__PURE__*/ o(z, {
+                                      BvVagVT4d: {
+                                        delay: .3,
+                                        duration: 1,
+                                        ease: [.56, .22, .05, .99],
+                                        type: `tween`
+                                      },
+                                      C9bmYqq8r: `2024-01-01T00:00:00.000Z`,
+                                      CiUVUOrwb: `CSS design awards`,
+                                      height: `100%`,
+                                      id: `PFxbqhg5A`,
+                                      layoutId: `PFxbqhg5A`,
+                                      qdjLJ2PCq: `Website of the day`,
+                                      style: {
+                                        width: `100%`
+                                      },
+                                      variant: G(`B2PJETExP`),
+                                      width: `100%`
+                                    })
+                                  })
+                                })
+                              })
+                            }), /*#__PURE__*/ o(m, {
+                              breakpoint: _,
+                              overrides: {
+                                aAE3bWPzx: {
+                                  width: `calc(max((min(max(${d?.width||`100vw`}, 1px), 1920px) - 106px) / 3, 50px) * 3 + 40px)`
+                                }
+                              },
+                              children: /*#__PURE__*/ o(g, {
+                                height: 65,
+                                children: /*#__PURE__*/ o(b, {
+                                  className: `framer-1nltjkl-container`,
+                                  nodeId: `WIObNf5lt`,
+                                  scopeId: `ZTkXH13L0`,
+                                  children: /*#__PURE__*/ o(m, {
+                                    breakpoint: _,
+                                    overrides: {
+                                      aAE3bWPzx: {
+                                        variant: G(`xmq0bPBT6`)
+                                      }
+                                    },
+                                    children: /*#__PURE__*/ o(z, {
+                                      BvVagVT4d: {
+                                        delay: .4,
+                                        duration: 1,
+                                        ease: [.56, .22, .05, .99],
+                                        type: `tween`
+                                      },
+                                      C9bmYqq8r: `2023-01-01T00:00:00.000Z`,
+                                      CiUVUOrwb: `Awwwards`,
+                                      height: `100%`,
+                                      id: `WIObNf5lt`,
+                                      layoutId: `WIObNf5lt`,
+                                      qdjLJ2PCq: `Honorable Mention`,
+                                      style: {
+                                        width: `100%`
+                                      },
+                                      variant: G(`B2PJETExP`),
+                                      width: `100%`
+                                    })
+                                  })
+                                })
+                              })
+                            })]
+                          })]
+                        })]
+                      })]
+                    })
+                  }), /*#__PURE__*/ o(m, {
+                    breakpoint: _,
+                    overrides: {
+                      aAE3bWPzx: {
+                        width: `max(${d?.width||`100vw`}, 1px)`
+                      }
+                    },
+                    children: /*#__PURE__*/ o(g, {
+                      height: 890,
+                      children: /*#__PURE__*/ o(b, {
+                        className: `framer-191pcuc-container`,
+                        nodeId: `IG23J3JvE`,
+                        scopeId: `ZTkXH13L0`,
+                        children: /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              variant: G(`nPNyXOlRD`)
+                            },
+                            vlHT1huGw: {
+                              variant: G(`RBcJngtnI`)
+                            }
+                          },
+                          children: /*#__PURE__*/ o(N, {
+                            height: `100%`,
+                            id: `IG23J3JvE`,
+                            layoutId: `IG23J3JvE`,
+                            LV3vwBpcw: `articles.`,
+                            style: {
+                              width: `100%`
+                            },
+                            t9lqsaHqm: `a8ccln`,
+                            variant: G(`w3iaWhFRY`),
+                            width: `100%`,
+                            xdREUJQGI: 0,
+                            yE5ak_Kio: ``
+                          })
+                        })
+                      })
+                    })
+                  }), /*#__PURE__*/ o(m, {
+                    breakpoint: _,
+                    overrides: {
+                      aAE3bWPzx: {
+                        width: `max(${d?.width||`100vw`}, 1px)`
+                      }
+                    },
+                    children: /*#__PURE__*/ o(g, {
+                      height: 1295,
+                      children: /*#__PURE__*/ o(b, {
+                        className: `framer-vmd0ea-container`,
+                        nodeId: `dnCTHsXKw`,
+                        scopeId: `ZTkXH13L0`,
+                        children: /*#__PURE__*/ o(m, {
+                          breakpoint: _,
+                          overrides: {
+                            aAE3bWPzx: {
+                              variant: G(`szTNrZI4n`)
+                            },
+                            vlHT1huGw: {
+                              variant: G(`fA3TTozUq`)
+                            }
+                          },
+                          children: /*#__PURE__*/ o(L, {
+                            aaeSn4zqw: 0,
+                            BWV1JoM50: !1,
+                            height: `100%`,
+                            id: `dnCTHsXKw`,
+                            layoutId: `dnCTHsXKw`,
+                            style: {
+                              width: `100%`
+                            },
+                            U3duGFpRw: ``,
+                            variant: G(`k2n70lu6B`),
+                            width: `100%`
+                          })
+                        })
+                      })
+                    })
+                  })]
+                })]
+              })]
+            })]
+          }), /*#__PURE__*/ o(`div`, {
+            id: `overlay`
+          })]
+        })
+      })
+    }), Ut = [`.framer-Ur11b.framer-e0fsly, .framer-Ur11b .framer-e0fsly { display: block; }`, `.framer-Ur11b.framer-ynarf2 { align-content: center; align-items: center; background-color: #ffffff; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1200px; }`, `.framer-Ur11b .framer-1mn4ta-container, .framer-Ur11b .framer-1i9wie5-container { flex: none; height: auto; position: relative; width: auto; }`, `.framer-Ur11b .framer-es8rs7 { align-content: flex-start; align-items: flex-start; background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; z-index: 1; }`, `.framer-Ur11b .framer-1n70wml { align-content: flex-start; align-items: flex-start; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1px; }`, `.framer-Ur11b .framer-1x0mefb { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: sticky; top: 0px; width: 100%; }`, `.framer-Ur11b .framer-oqp9pp { align-content: center; align-items: center; bottom: 0px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; justify-content: center; left: 0px; overflow: var(--overflow-clip-fallback, clip); padding: 3px; pointer-events: none; position: absolute; right: 0px; top: 0px; }`, `.framer-Ur11b .framer-16v677h-container { flex: 1 0 0px; height: 100%; position: relative; width: 1px; }`, `.framer-Ur11b .framer-hb5ox2 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; height: min-content; justify-content: space-between; max-width: 1920px; min-height: 100vh; overflow: visible; padding: 33px; position: relative; width: 100%; z-index: 1; }`, `.framer-Ur11b .framer-1k134jf { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-8330z8-container { align-self: center; flex: none; height: auto; justify-self: start; pointer-events: auto; position: relative; width: fit-content; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-Ur11b .framer-7hchzy-container { align-self: center; flex: none; grid-column: span 3; height: 1fr; justify-self: start; pointer-events: auto; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-Ur11b .framer-1338hsz { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-dx75ug { align-self: start; flex: none; height: 1px; justify-self: start; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; }`, `.framer-Ur11b .framer-by1tpf { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; grid-column: span 3; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1wbcwny { flex: none; height: auto; max-width: 550px; position: relative; white-space: pre; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-Ur11b .framer-alv9ty { flex: none; height: auto; max-width: 550px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-Ur11b .framer-9yv8xi { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: visible; padding: 50px 0px 0px 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-3ji1qe { align-content: flex-end; align-items: flex-end; align-self: end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-Ur11b .framer-vm4nnf, .framer-Ur11b .framer-1m5qp67 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre; width: auto; }`, `.framer-Ur11b .framer-1l9jy5e { align-content: flex-start; align-items: flex-start; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 1px; }`, `.framer-Ur11b .framer-5rwonx, .framer-Ur11b .framer-1dw7mww, .framer-Ur11b .framer-gmarkl, .framer-Ur11b .framer-1lm3ejt { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-Ur11b .framer-lx5sm7 { align-content: flex-end; align-items: flex-end; align-self: end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; grid-column: span 2; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-Ur11b .framer-vnicgi { align-content: flex-start; align-items: flex-start; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: center; padding: 0px; position: relative; width: 1px; }`, `.framer-Ur11b .framer-f6zjzb-container { align-self: end; flex: none; height: auto; justify-self: end; position: relative; width: fit-content; will-change: var(--framer-will-change-effect-override, transform); }`, `.framer-Ur11b .framer-c2l0bx { align-content: center; align-items: center; background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1nyqe0x, .framer-Ur11b .framer-1v9qbyv { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 50px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 120px 0px 120px 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1emkou7 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 80px 20px; height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-ty9ie9, .framer-Ur11b .framer-1dufcq3 { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1wzgagh { align-content: flex-start; align-items: flex-start; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-te4fjx { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 3px; height: min-content; justify-content: center; max-width: 75%; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1frrzdj, .framer-Ur11b .framer-1jz2epk { --corner-shape-fallback: 0.752; aspect-ratio: 1 / 1; border-bottom-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-bottom-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); corner-shape: superellipse(1.5); cursor: pointer; flex: 1 0 0px; height: auto; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }`, `.framer-Ur11b .framer-1qpqs3n { align-self: start; flex: none; grid-column: span 3; height: auto; justify-self: start; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; z-index: 1; }`, `.framer-Ur11b .framer-1saqg22 { align-self: start; flex: none; grid-column: span 2; height: auto; justify-self: start; max-width: 400px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; z-index: 1; }`, `.framer-Ur11b .framer-1sbfwjx { align-self: start; display: grid; flex: none; gap: 40px 20px; grid-auto-rows: minmax(0, 1fr); grid-column: span 2; grid-template-columns: repeat(2, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1o91f3y-container, .framer-Ur11b .framer-1o8w7s0-container, .framer-Ur11b .framer-1gy3kbc-container, .framer-Ur11b .framer-1g9nqon-container { align-self: start; flex: none; height: auto; justify-self: start; position: relative; width: 100%; }`, `.framer-Ur11b .framer-zzq0ma-container, .framer-Ur11b .framer-vze3ri-container, .framer-Ur11b .framer-l3pwqf-container, .framer-Ur11b .framer-k1zcwk-container, .framer-Ur11b .framer-1wd0xq0-container, .framer-Ur11b .framer-1mbb4u8-container, .framer-Ur11b .framer-l40k6b-container, .framer-Ur11b .framer-l2hmjf-container, .framer-Ur11b .framer-6uprm2-container, .framer-Ur11b .framer-1nltjkl-container, .framer-Ur11b .framer-191pcuc-container, .framer-Ur11b .framer-vmd0ea-container { flex: none; height: auto; position: relative; width: 100%; }`, `.framer-Ur11b .framer-epz8fu { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 120px 0px 120px 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1ryjy6b { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-14z3fot { --framer-text-wrap-override: balance; align-self: start; flex: none; grid-column: span 2; height: auto; justify-self: start; max-width: 400px; position: sticky; top: 50px; width: 100%; z-index: 1; }`, `.framer-Ur11b .framer-1bhgxfc { align-content: center; align-items: center; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; grid-column: span 2; height: min-content; justify-content: center; justify-self: start; padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-maixoy { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1rg17ve { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; --framer-text-wrap-override: balance; flex: none; height: auto; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1qjbmof { display: grid; flex: none; gap: 20px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1ea882b-container { align-self: start; flex: none; height: auto; justify-self: start; position: relative; width: fit-content; }`, `.framer-Ur11b .framer-fa2fr4 { align-content: center; align-items: center; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; grid-column: span 3; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1pyvfr0 { display: grid; flex: none; gap: 20px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(3, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; padding: 0px; position: relative; width: 100%; }`, `.framer-Ur11b .framer-1cb59fs, .framer-Ur11b .framer-1rhg9m6 { align-self: start; flex: none; height: auto; justify-self: start; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-Ur11b .framer-1qxli1a { align-self: start; flex: none; height: auto; justify-self: end; position: relative; white-space: pre; width: fit-content; }`, `.framer-Ur11b .framer-1q3vn7z { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; padding: 0px; position: relative; width: 100%; }`, ...je, ...k, ...Ie, ...We, `@media (min-width: 810px) and (max-width: 1199.98px) { .framer-Ur11b.framer-ynarf2 { width: 810px; } .framer-Ur11b .framer-1i9wie5-container { order: 0; } .framer-Ur11b .framer-1n70wml { order: 1; } .framer-Ur11b .framer-1x0mefb { position: relative; top: unset; } .framer-Ur11b .framer-by1tpf { grid-column: span 2; } .framer-Ur11b .framer-1nyqe0x, .framer-Ur11b .framer-epz8fu, .framer-Ur11b .framer-1v9qbyv { padding: 90px 0px 90px 0px; } .framer-Ur11b .framer-te4fjx { flex-direction: column; } .framer-Ur11b .framer-1frrzdj, .framer-Ur11b .framer-1jz2epk { flex: none; width: 100%; } .framer-Ur11b .framer-14z3fot { grid-column: unset; } .framer-Ur11b .framer-1bhgxfc { grid-column: span 3; }}`, `@media (max-width: 809.98px) { .framer-Ur11b.framer-ynarf2 { width: 390px; } .framer-Ur11b .framer-1x0mefb { position: relative; top: unset; } .framer-Ur11b .framer-hb5ox2 { min-height: 92vh; padding: 84px 23px 23px 23px; } .framer-Ur11b .framer-1k134jf { min-height: 57px; } .framer-Ur11b .framer-1338hsz { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: row; flex-wrap: nowrap; } .framer-Ur11b .framer-by1tpf { align-self: unset; flex: 1 0 0px; width: 1px; } .framer-Ur11b .framer-9yv8xi, .framer-Ur11b .framer-1pyvfr0 { grid-template-columns: repeat(2, minmax(50px, 1fr)); } .framer-Ur11b .framer-lx5sm7 { grid-column: unset; } .framer-Ur11b .framer-f6zjzb-container { justify-self: start; } .framer-Ur11b .framer-1nyqe0x, .framer-Ur11b .framer-epz8fu, .framer-Ur11b .framer-1v9qbyv { padding: 60px 0px 60px 0px; } .framer-Ur11b .framer-1emkou7 { gap: 40px 20px; padding: 0px 23px 0px 23px; } .framer-Ur11b .framer-ty9ie9, .framer-Ur11b .framer-1dufcq3 { grid-template-columns: repeat(1, minmax(50px, 1fr)); } .framer-Ur11b .framer-te4fjx { max-width: unset; } .framer-Ur11b .framer-1qpqs3n, .framer-Ur11b .framer-1saqg22, .framer-Ur11b .framer-1sbfwjx, .framer-Ur11b .framer-1bhgxfc { grid-column: span 1; } .framer-Ur11b .framer-1ryjy6b { grid-template-columns: repeat(1, minmax(50px, 1fr)); padding: 0px 23px 0px 23px; } .framer-Ur11b .framer-14z3fot { grid-column: span 1; position: relative; top: unset; } .framer-Ur11b .framer-maixoy { gap: 40px; } .framer-Ur11b .framer-1qjbmof { grid-template-columns: repeat(3, minmax(50px, 1fr)); }}`], $ = de(Ht, Ut, `framer-Ur11b`), $.displayName = `Page`, $.defaultProps = {
+      height: 9010,
+      width: 1200
+    }, ue($, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Mona Sans Variable`,
+        openType: !0,
+        source: `google`,
+        style: `normal`,
+        uiFamilyName: `Mona Sans`,
+        url: `https://fonts.gstatic.com/s/monasans/v4/o-0IIpQmx24alC5A4PNb5z5Ba_2c7A.woff2`,
+        variationAxes: [{
+          defaultValue: 100,
+          maxValue: 125,
+          minValue: 75,
+          name: `Width`,
+          tag: `wdth`
+        }, {
+          defaultValue: 200,
+          maxValue: 900,
+          minValue: 200,
+          name: `Weight`,
+          tag: `wght`
+        }],
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }]
+    }, ...tt, ...nt, ...rt, ...at, ...ot, ...ct, ...dt, ...ft, ...pt, ...mt, ...ht, ...gt, ..._t, ...vt, ...yt, ...u(ke), ...u(De), ...u(Le), ...u(Ge)], {
+      supportsExplicitInterCodegen: !0
+    }), $.loader = {
+      load: (e, t) => {
+        let n = t.locale,
+          r = t.priority,
+          i = ye.get(J(), n, r);
+        return _([() => i.preload(), () => f(T, {}, t), () => f(R, {}, t), () => f(D, {}, t), () => f(w, {}, t), () => f(O, {}, t), () => f(B, {}, t), () => f(P, {}, t), () => f(V, {}, t), () => f(F, {}, t), () => f(I, {}, t), () => f(z, {}, t), () => f(N, {}, t), () => f(L, {}, t)], t)
+      }
+    }, Wt = {
+      exports: {
+        default: {
+          type: `reactComponent`,
+          name: `FramerZTkXH13L0`,
+          slots: [],
+          annotations: {
+            framerLayoutTemplateFlowEffect: `true`,
+            framerScrollSections: `{"z810EMSTp":{"pattern":":z810EMSTp","name":"culture"},"d1ch5ACkr":{"pattern":":d1ch5ACkr","name":"rules"},"ROLTNYOih":{"pattern":":ROLTNYOih","name":"1"},"r3DttxKWZ":{"pattern":":r3DttxKWZ","name":"2"},"lRPF_Q4Gq":{"pattern":":lRPF_Q4Gq","name":"3"},"ApUbvy6fk":{"pattern":":ApUbvy6fk","name":"4"}}`,
+            framerResponsiveScreen: `true`,
+            framerContractVersion: `1`,
+            framerCanvasComponentVariantDetails: `{"propertyName":"variant","data":{"default":{"layout":["fixed","auto"]},"vlHT1huGw":{"layout":["fixed","auto"]},"aAE3bWPzx":{"layout":["fixed","auto"]}}}`,
+            framerIntrinsicHeight: `9010`,
+            framerComponentViewportWidth: `true`,
+            framerAcceptsLayoutTemplate: `true`,
+            framerAutoSizeImages: `true`,
+            framerIntrinsicWidth: `1200`,
+            framerColorSyntax: `true`,
+            framerDisplayContentsDiv: `false`,
+            framerImmutableVariables: `true`
+          }
+        },
+        Props: {
+          type: `tsType`,
+          annotations: {
+            framerContractVersion: `1`
+          }
+        },
+        queryParamNames: {
+          type: `variable`,
+          annotations: {
+            framerContractVersion: `1`
+          }
+        },
+        __FramerMetadata__: {
+          type: `variable`
+        }
+      }
+    }
+  })))()
+}
+Gt();
+export {
+  Wt as __FramerMetadata__, $ as
+  default, St as queryParamNames
+};
+//# sourceMappingURL=NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.map
