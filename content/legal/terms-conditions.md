@@ -1,0 +1,129 @@
+---
+slug: terms-conditions
+title: "Terms & Conditions."
+lastUpdatedLabel: "Last updated"
+lastUpdated: "7/10/26"
+demo: true
+source: reference/html/terms-conditions.html (div.framer-104pdxd, RichTextContainer)
+---
+
+## The Studio
+
+### About Mira
+
+Mira Studio is an independent brand and web design studio operated by Jin Yuen. We take on a limited number of client projects each year and occasionally release templates and other design resources.
+
+### Contact
+
+- General enquiries: hello@mirastudio.com
+- Legal: legal@mirastudio.com
+- Support: support@mirastudio.com
+
+## Using the Website
+
+### Permitted Use
+
+You may use our website to:
+
+- View our work, read the journal, and learn about the studio
+- Contact us about a potential project
+- Subscribe to our newsletter
+- Purchase and download any templates we release
+
+### Prohibited Use
+
+You may not:
+
+- Copy or reproduce site content without written permission
+- Use the site or its content to build a competing service
+- Attempt to gain unauthorised access to any part of the site
+- Use automated tools to scrape content
+- Misrepresent your identity when contacting the studio
+
+## Client Projects
+
+### Engagements
+
+All client projects operate under a separate written agreement that includes:
+
+- Fixed project fee
+- Scope of work and deliverables
+- Timeline and milestones
+- Payment schedule and terms
+- Ownership and licensing details
+
+### Fees and Payment
+
+- Projects are priced as fixed fees, agreed in advance
+- A deposit is required before work begins
+- Remaining fees are payable per the agreed schedule
+- Late payments may pause active work until resolved
+
+### Ownership and Licensing
+
+- Clients own final approved deliverables upon full payment
+- Mira Studio retains the right to display completed work in our portfolio
+- Fonts, stock imagery, and licensed assets remain the property of their respective owners
+- Source files and working documents are made available upon project close
+
+## Templates and Digital Products
+
+### License
+
+When you purchase a template from Mira, you receive:
+
+- A single-project license to use the template for one final website
+- Permission to modify the template for your own use
+- Access to updates for twelve months from purchase
+
+### Restrictions
+
+- You may not resell, redistribute, or share the template with others
+- You may not use the template to create competing templates for resale
+- You may not remove copyright notices from the source files
+
+### Refunds
+
+Because digital products are delivered instantly and cannot be returned, all sales are final. If a template does not perform as described, contact us within 14 days and we will work with you to resolve the issue.
+
+## Intellectual Property
+
+### Studio Content
+
+All content on the Mira Studio website, including text, images, video, code, and design systems, is the property of Mira Studio unless otherwise noted. It is protected by copyright and other intellectual property laws.
+
+### Client Content
+
+You retain ownership of anything you send us. By sending materials for a project, you grant us a license to use them for the purpose of completing the work.
+
+## Warranties and Liability
+
+### Warranties
+
+We provide our services with reasonable care and skill. We do not guarantee that our website will be error-free or continuously available.
+
+### Limitation of Liability
+
+To the fullest extent permitted by law, our total liability to you for any claim relating to our services is limited to the fees paid for those services in the twelve months preceding the claim.
+
+### Nothing Waived
+
+Nothing in these terms limits or excludes liability for:
+
+- Death or personal injury caused by our negligence
+- Fraud or fraudulent misrepresentation
+- Any liability that cannot be limited by applicable law
+
+## General
+
+### Changes to These Terms
+
+We may update these terms from time to time. Material changes will be reflected in the "Last Updated" date at the top of the page.
+
+### Governing Law
+
+These terms are governed by the laws of the jurisdiction in which Mira Studio is registered. Disputes will be resolved in that jurisdiction unless otherwise required by law.
+
+### Entire Agreement
+
+These terms, together with any separate project agreements, constitute the entire agreement between you and Mira Studio regarding the use of our services.

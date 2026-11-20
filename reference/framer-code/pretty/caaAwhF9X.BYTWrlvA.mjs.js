@@ -1,0 +1,491 @@
+import {
+  t as e
+} from "./rolldown-runtime.Bi-D_2cA.mjs";
+import {
+  F as t,
+  M as n,
+  T as r,
+  b as i,
+  j as a,
+  l as o,
+  o as s,
+  p as c,
+  s as ee,
+  w as te
+} from "./react.DfujhmXs.mjs";
+import {
+  C as l,
+  a as u,
+  r as ne,
+  t as d
+} from "./motion.CM2UIHal.mjs";
+import {
+  F as f,
+  G as p,
+  K as m,
+  M as h,
+  N as g,
+  Nt as re,
+  Pt as _,
+  Q as v,
+  Tt as y,
+  b,
+  g as x,
+  ht as ie,
+  it as S,
+  k as C,
+  s as w,
+  wt as ae
+} from "./framer.DdqHlrxM.mjs";
+import {
+  J as T,
+  X as E,
+  Y as D,
+  Z as O,
+  at as k,
+  it as A,
+  nt as j,
+  rt as oe
+} from "./toplevel-deps.BY2s547D.mjs";
+
+function M(e, ...t) {
+  let n = {};
+  return t?.forEach(t => t && Object.assign(n, e[t])), n
+}
+var N, P, F, I, L, R, z, B, V, H, U, W, G, K, q, J, Y, X, Z, Q;
+
+function $() {
+  return ($ = e((() => {
+    ee(), v(), d(), r(), k(), O(), N = {
+      qkJaMXuuZ: {
+        hover: !0
+      }
+    }, P = [`qkJaMXuuZ`, `L_gdk_7Fe`], F = `framer-qXCbS`, I = {
+      L_gdk_7Fe: `framer-v-fcep5`,
+      qkJaMXuuZ: `framer-v-n8zo7t`
+    }, L = {
+      delay: 0,
+      duration: .56,
+      ease: [.87, 0, .13, 1],
+      type: `tween`
+    }, R = (e, t) => typeof e == `string` && typeof t == `string` ? t + e : typeof e == `string` ? e : typeof t == `string` ? t : ``, z = (e, t) => typeof e == `string` && typeof t == `string` ? e + t : typeof e == `string` ? e : typeof t == `string` ? t : ``, S(), B = e => typeof e == `object` && e && typeof e.src == `string` ? e : typeof e == `string` ? {
+      src: e
+    } : void 0, V = (e, t) => `translate(-50%, -50%) ${t}`, H = (e, t, n) => {
+      if (typeof e != `string`) return ``;
+      let r = new Date(e);
+      if (isNaN(r.getTime())) return ``;
+      let i = `en-US`;
+      try {
+        return r.toLocaleString(n || i, t)
+      } catch {
+        return r.toLocaleString(i, t)
+      }
+    }, U = {
+      dateStyle: `short`,
+      timeZone: `UTC`
+    }, W = (e, t) => H(e, U, t), G = ({
+      value: e,
+      children: t
+    }) => {
+      let r = a(u),
+        i = e ?? r.transition,
+        o = n(() => ({
+          ...r,
+          transition: i
+        }), [JSON.stringify(i)]);
+      return /*#__PURE__*/ s(u.Provider, {
+        value: o,
+        children: t
+      })
+    }, K = {
+      Desktop: `qkJaMXuuZ`,
+      Phone: `L_gdk_7Fe`
+    }, q = l.create(t), J = ({
+      articleType: e,
+      date: t,
+      height: n,
+      id: r,
+      image: i,
+      link: a,
+      title: o,
+      width: s,
+      ...c
+    }) => ({
+      ...c,
+      AhAXVbKIy: a ?? c.AhAXVbKIy,
+      gvuPCI9f4: e ?? c.gvuPCI9f4 ?? `Category`,
+      KlivmH8mW: t ?? c.KlivmH8mW ?? `1970-01-01T00:00:00.000Z`,
+      T9HbNIpi5: i ?? c.T9HbNIpi5,
+      variant: K[c.variant] ?? c.variant ?? `qkJaMXuuZ`,
+      ytHY5Nlms: o ?? c.ytHY5Nlms ?? `Title`
+    }), Y = (e, t) => e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`), X = /*#__PURE__*/ c(function(e, n) {
+      let r = i(null),
+        a = n ?? r,
+        c = te(),
+        {
+          activeLocale: ee,
+          setLocale: u
+        } = y(),
+        d = ie(),
+        {
+          style: p,
+          className: h,
+          layoutId: g,
+          variant: _,
+          T9HbNIpi5: v,
+          ytHY5Nlms: S,
+          KlivmH8mW: w,
+          gvuPCI9f4: E,
+          AhAXVbKIy: D,
+          ...O
+        } = J(e),
+        {
+          baseVariant: k,
+          classNames: A,
+          clearLoadingGesture: oe,
+          gestureHandlers: H,
+          gestureVariant: U,
+          isLoading: K,
+          setGestureState: X,
+          setVariant: Z,
+          variants: Q
+        } = re({
+          cycleOrder: P,
+          defaultVariant: `qkJaMXuuZ`,
+          enabledGestures: N,
+          ref: a,
+          variant: _,
+          variantClassNames: I
+        }),
+        $ = Y(e, Q),
+        se = f(F, T, j),
+        ce = z(R(E, `(`), `)`),
+        le = ae(),
+        ue = W(w, le);
+      return /*#__PURE__*/ s(ne, {
+        id: g ?? c,
+        children: /*#__PURE__*/ s(q, {
+          animate: Q,
+          initial: !1,
+          children: /*#__PURE__*/ s(G, {
+            value: L,
+            children: /*#__PURE__*/ s(b, {
+              href: D,
+              motionChild: !0,
+              nodeId: `qkJaMXuuZ`,
+              openInNewTab: !1,
+              scopeId: `caaAwhF9X`,
+              children: /*#__PURE__*/ o(l.a, {
+                ...O,
+                ...H,
+                className: `${f(se,`framer-n8zo7t`,h,A)} framer-1e4az23`,
+                "data-framer-name": `Desktop`,
+                layoutDependency: $,
+                layoutId: `qkJaMXuuZ`,
+                ref: a,
+                style: {
+                  ...p
+                },
+                ...M({
+                  "qkJaMXuuZ-hover": {
+                    "data-framer-name": `Article Card Content`
+                  },
+                  L_gdk_7Fe: {
+                    "data-framer-name": `Phone`
+                  }
+                }, k, U),
+                children: [ /*#__PURE__*/ o(l.div, {
+                  className: `framer-1mffi2y`,
+                  "data-framer-name": `Category / Image`,
+                  layoutDependency: $,
+                  layoutId: `RhBVuqZYD`,
+                  children: [ /*#__PURE__*/ s(C, {
+                    __fromCanvasComponent: !0,
+                    children: /*#__PURE__*/ s(t, {
+                      children: /*#__PURE__*/ s(l.p, {
+                        className: `framer-styles-preset-c95aba`,
+                        "data-styles-preset": `x8g4OBmQ1`,
+                        dir: `auto`,
+                        style: {
+                          "--framer-text-color": `var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))`
+                        },
+                        children: `(Category)`
+                      })
+                    }),
+                    className: `framer-kdqgfg`,
+                    "data-framer-name": `Category`,
+                    fonts: [`Inter`],
+                    layoutDependency: $,
+                    layoutId: `ffs61Dj7x`,
+                    style: {
+                      "--extracted-r6o4lv": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`,
+                      "--framer-link-text-color": `rgb(0, 153, 255)`,
+                      "--framer-link-text-decoration": `underline`
+                    },
+                    text: ce,
+                    verticalAlignment: `top`,
+                    withExternalLayout: !0
+                  }), /*#__PURE__*/ o(l.div, {
+                    className: `framer-v9hp8k`,
+                    "data-framer-name": `Image Container`,
+                    layoutDependency: $,
+                    layoutId: `miarQlO5i`,
+                    style: {
+                      "--corner-shape-fallback": .752,
+                      borderBottomLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                      borderBottomRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                      borderTopLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                      borderTopRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                      cornerShape: `superellipse(1.5)`
+                    },
+                    children: [ /*#__PURE__*/ s(x, {
+                      background: {
+                        alt: ``,
+                        fit: `fill`,
+                        loading: m((d?.y || 0) + 0 + (((d?.height || 200) - 0 - 753.25) / 2 + 0 + 0) + 0 + 100 + 0),
+                        sizes: `max(${d?.width||`100vw`}, 1px)`,
+                        ...B(v)
+                      },
+                      className: `framer-yme2qk`,
+                      "data-framer-name": `Bg Image`,
+                      draggable: `false`,
+                      fitImageDimension: `height`,
+                      layoutDependency: $,
+                      layoutId: `zR3zy4Wqc`,
+                      style: {
+                        filter: `none`,
+                        scale: 1,
+                        WebkitFilter: `none`
+                      },
+                      variants: {
+                        "qkJaMXuuZ-hover": {
+                          filter: `blur(5px)`,
+                          scale: 1.2,
+                          WebkitFilter: `blur(5px)`
+                        }
+                      }
+                    }), /*#__PURE__*/ s(x, {
+                      background: {
+                        alt: ``,
+                        fit: `fill`,
+                        loading: m((d?.y || 0) + 0 + (((d?.height || 200) - 0 - 753.25) / 2 + 0 + 0) + 0 + 100 + 0),
+                        sizes: d?.width || `100vw`,
+                        ...B(v)
+                      },
+                      className: `framer-oqgboy`,
+                      draggable: `false`,
+                      fitImageDimension: `height`,
+                      layoutDependency: $,
+                      layoutId: `ziqayFb25`,
+                      style: {
+                        "--corner-shape-fallback": .752,
+                        borderBottomLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderBottomRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderTopLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderTopRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        cornerShape: `superellipse(1.5)`
+                      },
+                      transformTemplate: V,
+                      variants: {
+                        "qkJaMXuuZ-hover": {
+                          borderBottomLeftRadius: `calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                          borderBottomRightRadius: `calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                          borderTopLeftRadius: `calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                          borderTopRightRadius: `calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`
+                        }
+                      },
+                      ...M({
+                        "qkJaMXuuZ-hover": {
+                          background: {
+                            alt: ``,
+                            fit: `fill`,
+                            loading: m((d?.y || 0) + 0 + (((d?.height || 200) - 0 - 753.25) / 2 + 0 + 0) + 0 + 100 + 0),
+                            sizes: `calc(${d?.width||`100vw`} * 0.75)`,
+                            ...B(v)
+                          }
+                        }
+                      }, k, U)
+                    })]
+                  })]
+                }), /*#__PURE__*/ o(l.div, {
+                  className: `framer-3pqa2g`,
+                  "data-framer-name": `Title / Date`,
+                  layoutDependency: $,
+                  layoutId: `X3T_jX_cn`,
+                  children: [ /*#__PURE__*/ s(C, {
+                    __fromCanvasComponent: !0,
+                    children: /*#__PURE__*/ s(t, {
+                      children: /*#__PURE__*/ s(l.p, {
+                        className: `framer-styles-preset-1l3tbw0`,
+                        "data-styles-preset": `cZ7bby0gR`,
+                        dir: `auto`,
+                        children: `Title`
+                      })
+                    }),
+                    className: `framer-1fg44cf`,
+                    fonts: [`Inter`],
+                    layoutDependency: $,
+                    layoutId: `e9pJoXTFm`,
+                    style: {
+                      "--framer-link-text-color": `rgb(0, 153, 255)`,
+                      "--framer-link-text-decoration": `underline`
+                    },
+                    text: S,
+                    verticalAlignment: `top`,
+                    withExternalLayout: !0
+                  }), /*#__PURE__*/ s(C, {
+                    __fromCanvasComponent: !0,
+                    children: /*#__PURE__*/ s(t, {
+                      children: /*#__PURE__*/ s(l.p, {
+                        className: `framer-styles-preset-c95aba`,
+                        "data-styles-preset": `x8g4OBmQ1`,
+                        dir: `auto`,
+                        style: {
+                          "--framer-text-color": `var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))`
+                        },
+                        children: `Category`
+                      })
+                    }),
+                    className: `framer-1kgjso1`,
+                    "data-framer-name": `Date`,
+                    fonts: [`Inter`],
+                    layoutDependency: $,
+                    layoutId: `TdhASPO8T`,
+                    style: {
+                      "--extracted-r6o4lv": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`,
+                      "--framer-link-text-color": `rgb(0, 153, 255)`,
+                      "--framer-link-text-decoration": `underline`
+                    },
+                    text: /*#__PURE__*/ s(`time`, {
+                      dateTime: w,
+                      children: ue
+                    }),
+                    verticalAlignment: `top`,
+                    withExternalLayout: !0
+                  })]
+                })]
+              })
+            })
+          })
+        })
+      })
+    }), Z = [`.framer-qXCbS.framer-1e4az23, .framer-qXCbS .framer-1e4az23 { display: block; }`, `.framer-qXCbS.framer-n8zo7t { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; text-decoration: none; width: 350px; }`, `.framer-qXCbS .framer-1mffi2y { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-qXCbS .framer-kdqgfg, .framer-qXCbS .framer-1kgjso1 { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-qXCbS .framer-v9hp8k { -webkit-user-select: none; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; user-select: none; width: 100%; will-change: var(--framer-will-change-override, transform); }`, `.framer-qXCbS .framer-yme2qk { flex: 1 0 0px; height: auto; image-rendering: auto; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 1px; will-change: var(--framer-will-change-filter-override, filter); }`, `.framer-qXCbS .framer-oqgboy { flex: none; height: auto; image-rendering: auto; left: 50%; overflow: var(--overflow-clip-fallback, clip); position: absolute; top: 50%; width: 100%; will-change: var(--framer-will-change-override, transform); z-index: 1; }`, `.framer-qXCbS .framer-3pqa2g { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-qXCbS .framer-1fg44cf { --framer-text-wrap-override: balance; flex: none; height: auto; position: relative; width: 100%; }`, `.framer-qXCbS.framer-v-fcep5.framer-n8zo7t { cursor: unset; }`, `.framer-qXCbS.framer-v-n8zo7t.hover .framer-oqgboy { width: 75%; }`, ...D, ...oe], Q = _(X, Z, `framer-qXCbS`), Q.displayName = `Article Card`, Q.defaultProps = {
+      height: 440,
+      width: 350
+    }, g(Q, {
+      variant: {
+        options: [`qkJaMXuuZ`, `L_gdk_7Fe`],
+        optionTitles: [`Desktop`, `Phone`],
+        title: `Variant`,
+        type: w.Enum
+      },
+      T9HbNIpi5: {
+        description: `Choose the image displayed by this component.`,
+        title: `Image`,
+        type: w.ResponsiveImage
+      },
+      ytHY5Nlms: {
+        defaultValue: `Title`,
+        description: `Sets the main text label displayed by this component.`,
+        displayTextArea: !1,
+        title: `Title`,
+        type: w.String
+      },
+      onytHY5NlmsChange: {
+        changes: `ytHY5Nlms`,
+        type: w.ChangeHandler
+      },
+      KlivmH8mW: {
+        defaultValue: `1970-01-01T00:00:00.000Z`,
+        description: `Sets the date shown by this component.`,
+        title: `Date`,
+        type: w.Date
+      },
+      onKlivmH8mWChange: {
+        changes: `KlivmH8mW`,
+        type: w.ChangeHandler
+      },
+      gvuPCI9f4: {
+        defaultValue: `Category`,
+        description: `Controls the article type used by this component.`,
+        displayTextArea: !1,
+        title: `Article Type`,
+        type: w.String
+      },
+      ongvuPCI9f4Change: {
+        changes: `gvuPCI9f4`,
+        type: w.ChangeHandler
+      },
+      AhAXVbKIy: {
+        description: `Choose where this element navigates when selected.`,
+        title: `Link`,
+        type: w.Link
+      }
+    }), h(Q, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }]
+    }, ...p(E), ...p(A)], {
+      supportsExplicitInterCodegen: !0
+    })
+  })))()
+}
+export {
+  $ as n, Q as t
+};
+//# sourceMappingURL=caaAwhF9X.BYTWrlvA.mjs.map

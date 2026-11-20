@@ -176,6 +176,19 @@ const INIT = ({ seed }) => {
       setTime(v, t);
     }
   };
+  // Le chargement réseau des vidéos se fait en temps réel : on attend que chaque vidéo qui a une source
+  // ait une image décodée (readyState ≥ 2) avant de faire avancer le temps virtuel, sinon sa durée
+  // (fin, boucle) et l'image affichée dépendent de la vitesse du réseau (D-020).
+  window.__mira.videosLoaded = async (timeout = 15000) => {
+    const vids = [...document.querySelectorAll('video')].filter((v) => (v.currentSrc || v.src || v.querySelector('source')) && v.readyState < 2 && !v.error);
+    await Promise.all(vids.map((v) => new Promise((r) => {
+      if (v.preload === 'none') v.preload = 'auto';
+      v.addEventListener('loadeddata', r, { once: true }); v.addEventListener('error', r, { once: true });
+      if (v.networkState === 0 || v.networkState === 3) v.load();
+      setTimeout(r, timeout);
+    })));
+    return vids.length;
+  };
   window.__mira.videosSettled = async () => {
     const vids = [...document.querySelectorAll('video')];
     await Promise.all(vids.map((v) => (v.seeking ? new Promise((r) => { v.addEventListener('seeked', r, { once: true }); setTimeout(r, 5000); }) : null)));
@@ -253,6 +266,10 @@ export async function videosSettled(page) {
   await page.evaluate(() => window.__mira.videosSettled());
 }
 
+export async function videosLoaded(page) {
+  return page.evaluate(() => window.__mira.videosLoaded());
+}
+
 export async function realFrames(page, n = 2) {
   await page.evaluate((k) => window.__mira.realFrames(k), n);
 }
@@ -310,6 +327,7 @@ async function mediaReady(page) {
 
 // Fige toutes les vidéos chargées sur l'instant `t` (s) et attend le décodage. La page les croit toujours en lecture.
 export async function freezeVideos(page, t = 0) {
+  await videosLoaded(page);
   await page.evaluate(async (tt) => {
     await Promise.all([...document.querySelectorAll('video')].map((v) => new Promise((res) => {
       (v.__v ||= { playing: false, at: 0, from: 0 }).frozen = true;
@@ -333,12 +351,14 @@ export async function gotoStable(h, route, { preloaderMs = 6000, settleMs = 2500
   await page.goto(urlFor(target, route), { waitUntil: 'load', timeout: 120000 });
   await hideOutOfScope(page, target);
   await realFrames(page, 3);
+  await videosLoaded(page);
   await advance(page, preloaderMs, { step: 100 });
   if (scrollThrough) {
     const H = await page.evaluate(() => document.documentElement.scrollHeight);
     for (let y = 0; y < H; y += Math.round(h.height * scrollStep)) {
       await page.evaluate((yy) => window.scrollTo(0, yy), y);
       await realFrames(page, 2);
+      await videosLoaded(page);
       await advance(page, 400, { step: 100 });
     }
     await page.evaluate(() => window.scrollTo(0, 0));
@@ -368,6 +388,7 @@ export async function scrollSequence(h, { stepFrac = 0.25, settleMs = 1200, sect
   for (let i = 0; i < ys.length; i++) {
     await page.evaluate((yy) => window.scrollTo(0, yy), ys[i]);
     await realFrames(page, 2);
+    await videosLoaded(page);
     await advance(page, settleMs, { step: 100 });
     await freezeVideos(page, 0);
     await realFrames(page, 2);

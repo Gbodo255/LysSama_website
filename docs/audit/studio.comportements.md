@@ -1,0 +1,29 @@
+# Registre des comportements — `/studio` (agent studio)
+
+Format de `docs/COMPORTEMENTS.md`. Sources : module de route `NwlKyBR…` (« module »), `rWbx8J1Z4`, `cM8Lf1CeK`, mesures `reference/agents/studio/{dom-*,anim-1440,lightbox-1440}.json`. Composants partagés (équipe, clients, journal, prise de contact, header, footer) : registres des agents homea / homeb / global.
+
+| ID | Page | Élément | Largeurs | Déclencheur | Résultat exact | Source de la mesure | Preuve attendue | Statut |
+|---|---|---|---|---|---|---|---|---|
+| C-STUDIO-001 | /studio | Hero `framer-1x0mefb` | ≥ 1200 | Défilement 0 → ~859 px | `position: sticky; top:0` ; scale 1 → 0.925 et opacité 1 → 0.6, linéaires au défilement (100 → 0.991269/0.953434, 800 → 0.930151/0.627474, ≥ 900 → 0.925/0.6) ; recouvert par « Studio » (fond blanc) | module (onScrollTarget seuil 1) + anim-1440 `heroScroll` | courbe scroll → transform/opacity ± 3 % | [ ] |
+| C-STUDIO-002 | /studio | Hero, tablette/mobile | 810, 390 | Défilement | Aucun effet ; `position: relative` | CSS studio.css + module overrides | comparaison captures défilement | [ ] |
+| C-STUDIO-003 | /studio | Inside Container `framer-hb5ox2` | ≥ 1200 | Défilement | Parallaxe translateY = −0.3 × scrollY (100 → −30, 1100 → −330) ; aucune en 810/390 | module (speed 130) + anim-1440 | courbe scroll → translateY | [ ] |
+| C-STUDIO-004 | /studio | Fond de hero (cM8Lf1CeK) | toutes | Entrée en vue seuil 0.5, une fois | Masque linéaire 0 % → 100 % et scale 1.5 → 1 ; ressort 120/25/0.3 délai 0.8 s ; voile rgb(13,13,13) 0.65 | cM8Lf1CeK (code) — non mesuré | courbe image par image après préchargeur | [ ] |
+| C-STUDIO-005 | /studio | H1 « the studio. » | toutes | Chargement (appear 1wbcwny) | opacité .001 → 1, y 40 → 0, ressort 120/25/0.3, délai 1.15 s ; texte ajusté (139.757px desktop, 134.67 tablette, 91.1006 mobile) | module + dom-* | courbe + géométrie ± 2 px | [ ] |
+| C-STUDIO-006 | /studio | Chapeau du hero | toutes | onInView, une fois | Apparition par ligne : y 15 → 0, opacité → 1, tween 0.8 s `[.215,.61,.355,1]`, décalage 0.1 s, startDelay 1.25 s ; 27 espaces d'indentation, justifié | module (jt) + dom-* | courbe par ligne | [ ] |
+| C-STUDIO-007 | /studio | Location, Services, nav du hero, bouton | toutes (nav et 7hchzy masqués en mobile) | Chargement | opacité .001 → 1, ressort bounce .1 / 1.2 s, délais 1.25, 1.35, 1.45, 1.55, 1.65 s | module (Dt, Ot, Mt, Nt, Ft) | courbes | [ ] |
+| C-STUDIO-008 | /studio | Liste Services (CMS CcG2fKX4y) | toutes | — | 4 entrées : Brand Identity, Web Design, Framer Dev, Art Direction | module + dom-* | texte | [ ] |
+| C-STUDIO-009 | /studio | Images « Our culture. » | toutes | Entrée en vue | opacité 0, x −20 → 1, 0 ; tween 0.85 s `[.215,.61,.355,1]`, délai 0.3 / 0.4 s | module (Y, It, Lt) | courbe | [ ] |
+| C-STUDIO-010 | /studio | Images « Our culture. » | 1440 (autres à mesurer) | Clic | Lightbox : fond fixe `rgba(23,22,22,0.75)` z 10 ; image agrandie (animation de mise en page) de la vignette à 840 × 840 (padding 30) en ≈ 480 ms, `[.87,0,.13,1]` ; curseur pointer | module (lightbox) + lightbox-1440 | scénario différentiel + courbe de taille | [ ] |
+| C-STUDIO-011 | /studio | Lightbox | 1440 | Échap | Fermeture | lightbox-1440 | scénario | [ ] |
+| C-STUDIO-012 | /studio | Lightbox | toutes | Clic sur le fond | inconnu (non testé) | — | scénario | [ ] |
+| C-STUDIO-013 | /studio | H2 « We care about details… » | toutes | onInView, une fois | Par ligne : y 15 → 0, tween 1.1 s, décalage 0.1, startDelay 0.2 ; 26 espaces d'indentation ; 5/6/7/7 lignes (1440/1200/810/390) | module (Rt) + dom-* | courbe + retours à la ligne | [ ] |
+| C-STUDIO-014 | /studio | 4 compteurs | toutes | Entrée en vue (amount some) | 0 → 12, 3, 24hr, 92% ; ressort 500/60/1 ; arrondi toFixed(0) ; final atteint à ~576 ms (16 ms : 0/0/0hr/1 % ; 112 ms : 7/2/13hr/50 %) | rWbx8J1Z4 (Y) + anim-1440 `counterCurve` | courbe texte par image | [ ] |
+| C-STUDIO-015 | /studio | 4 compteurs | toutes | Sortie de vue puis rentrée | Remise à 0 / 0 / 0hr / 0 % à la sortie ; rejoue à la rentrée (replay true) | rWbx8J1Z4 + anim-1440 `countersAfterLeave`, `counterReplay` | scénario différentiel | [ ] |
+| C-STUDIO-016 | /studio | Compteurs, texte initial | toutes | Avant hydratation | HTML SSR : `+0%` pour les 4 ; après hydratation hors vue : `0`, `0`, `0hr`, `0%` (compteur 2 vu à `3` après la stabilisation du banc : anomalie) | reference/html/studio.html + dom-* | texte | [ ] |
+| C-STUDIO-017 | /studio | H2 « What guides us. », « Awards. » | toutes | onInView, une fois | Par ligne : y 10 → 0, tween 1.1 s, décalage 0.2, startDelay 0.2 | module (Z) | courbe | [ ] |
+| C-STUDIO-018 | /studio | Numéros de principes 01–04 | toutes | Défilement (carte au seuil 0.5) | translateY −100 → 0 lié au défilement (numéro à y_vue ≈ 480 → −99.4 ; 330 → −14.2 ; ≤ 315 → 0) | rWbx8J1Z4 (Q) + anim-1440 `principles` | courbe scroll → translateY | [ ] |
+| C-STUDIO-019 | /studio | Filets des principes et des prix | toutes | Entrée en vue seuil 0.5, une fois | Variante b5cbcgrAD → iLlY2rby8 (filet), tween 1 s `[.56,.22,.05,.99]` ; délais prix 0.1/0.2/0.3/0.4 | rWbx8J1Z4 + Eu60T7thi | courbe | [ ] |
+| C-STUDIO-020 | /studio | Cartes de principes, lignes de prix | 1440 | Survol | Aucun changement (curseur auto) | anim-1440 `hover` | capture avant/après | [ ] |
+| C-STUDIO-021 | /studio | Lignes de prix | 390 | — | Variante Phone : organisation sur sa ligne, puis prix + année ; colonne « Awarded by » masquée | dom-390 | géométrie | [ ] |
+| C-STUDIO-022 | /studio | Défilement adouci | toutes | Molette | Lenis intensity 8, vertical, smooth, non infini | module (l_dsh9X8x) | scénario défilement | [ ] |
+| C-STUDIO-023 | /studio | Équipe, clients, journal, prise de contact | toutes | — | Composants partagés b8Sr4iAT1, j5aYpocx_, IG23J3JvE, dnCTHsXKw (variantes listées dans studio.md) | module | voir registres homea/homeb | [ ] |

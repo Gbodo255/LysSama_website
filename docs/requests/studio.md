@@ -1,0 +1,5 @@
+# Demandes de l'agent studio
+
+1. **Limitation / décision — anomalie du compteur 2** (`UC380yGKP`, « people max on any project ») : après la stabilisation standard du banc (`gotoStable`, défilement complet puis retour en haut), il affiche `3` au lieu de `0` alors que les trois autres sont remis à 0 ; il se remet à 0 après une nouvelle sortie de vue. Probable course entre l'animation (3 atteint très tôt) et la remise à zéro. À décider (D-xxx) : reproduire ou non ; la valeur n'est visible que hors de la vue, donc sans effet visuel attendu. Preuve : `reference/agents/studio/dom-1440.json`, `anim-1440.json` (`countersAtTop` vs `countersAfterLeave`).
+2. **LIMITATIONS.md (contenu à corriger au rebranding)** : prix Awwwards / FWA / CSS Design Awards fictifs (`src/data/studio.ts` → `awards`, `demo: true`) et statistiques inventées (12 industries, 3 personnes, 24hr, 92 %).
+3. **Banc (amélioration suggérée, non bloquante)** : pour les textes à effet « par ligne », Framer découpe en spans par caractère ; un relevé de têtes de ligne par mot (et non par nœud texte) serait utile dans l'outil commun d'extraction.
