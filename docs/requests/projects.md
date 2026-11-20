@@ -1,0 +1,10 @@
+# Demandes de l'agent `projects`
+
+1. **docs/LINKS.md** : fusionner `docs/audit/projects.links.md` (Back to projects, logo, View live ×6 → `https://launchnow.design?utm_source=miratemplate` `_blank` placeholder, More projects ×30, Play Film YouTube `https://www.youtube.com/watch?v=6aioEoCdBJw` placeholder sur gucci et puma).
+2. **docs/LIMITATIONS.md — « Contenu à corriger au rebranding »** :
+   - 6 études de cas au nom de vraies marques avec chiffres et citations inventés (auteurs : voir `content/projects/*.md`, champs `authorName`/`authorRole`) ; portraits de personnes fictives ;
+   - vidéo YouTube de démonstration identique pour gucci et puma ; under-armour a une Youtube URL renseignée mais `Show Video = false` (sans effet visible) ;
+   - libellés de section incohérents entre projets (chanel `THE BRIEF` en majuscules dans le CMS ; une page `The Outcome` au lieu de `Outcomes` ; une page `Words from client` au lieu de `The Word`) — à reproduire tels quels ;
+   - galeries de gucci et chanel (et d'autres) montrant des boîtes kraft sans rapport avec la marque (alt « kraft shipping boxes ») : à vérifier par page.
+3. **docs/DECISIONS.md** (proposition) : la fenêtre « Play Film » charge un iframe YouTube (domaine tiers). Le clone doit soit garder l'iframe YouTube (le site final appellerait youtube.com, pas un domaine Framer : compatible avec MISSION Étape H), soit le remplacer ; à trancher par la session principale. Lors de l'audit, toutes les requêtes hors `mirastudio.framer.website` / `framerusercontent.com` / `fonts.gstatic.com` ont été bloquées par une route ajoutée dans `scripts/agents/projects/measure.mjs` (le banc en mode `record` irait sinon chercher youtube.com).
+4. **Collection CMS** : `src/data/projects.ts` et `content/projects/*.md` utilisent des noms de champ en camelCase dérivés des titres Framer (table de correspondance dans `docs/audit/projects.md` §1). Le champ `Client Logo` est un VectorSetItem (pointeur 0…5 dans le jeu `YWNQYYGzTRHTLkX14hnf`) : les SVG des logos ne sont pas dans le manifest sous un nom explicite — à rattacher (agent assets).

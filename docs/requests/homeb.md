@@ -1,0 +1,7 @@
+# Demandes de l'agent homeb
+
+1. **Banc (`scripts/lib/harness.mjs`)** : `gotoStable` dépasse 10 min sur l'accueil à 1440 sur ce poste (mesuré : arrêt par le chien de garde à 570 s). J'ai utilisé une stabilisation allégée (défilement par pas de 450 px, `advance` en mode `fast`, voir `scripts/agents/homeb/dom.mjs`, ~160 s). À valider ou à corriger dans le banc ; à consigner dans DECISIONS.
+2. **DECISIONS — formulaire « Book a call »** : l'original envoie vers `https://api.framer.com/forms/v1/forms/c71bee6d-c169-40fa-bab9-1ec6105cfe8a/submit` et contient 11 champs pièges cachés (`website`, `company`, `message`, `subject`, `title`, `description`, `feedback`, `notes`, `details`, `remarks`, `comments`). Décider de la cible d'envoi du clone et de la reproduction des champs pièges.
+3. **DECISIONS — Reel** : le lecteur est une `iframe` YouTube (`6aioEoCdBJw`), incompatible avec « aucun appel hors domaine » et le rejeu hors ligne. Décider : iframe identique (masquée dans les comparaisons) ou autre.
+4. **LIMITATIONS (contenu à corriger au rebranding)** : `aria-label` des options de prix sans espace (`Motion designAdd-on Toggle`) ; témoignage « Founder, Oslo » (lieu à la place de la société) ; témoignages au nom de Gucci/Chanel ; `+1 (805) 450 1432` et `hello@mira.studio` de démonstration, ouverts en `target=_blank`.
+5. **Assets** : vérifier la présence dans `public/assets/manifest.json` des médias listés dans `src/data/homeb.ts` (non vérifié ici).

@@ -123,9 +123,29 @@ const INIT = ({ seed }) => {
   const origAnimate = Element.prototype.animate;
   Element.prototype.animate = function (...args) {
     const a = origAnimate.apply(this, args);
-    try { window.__mira.born.set(a, performance.now()); } catch {}
+    // Mise en pause immédiate : sinon l'animation court en temps réel jusqu'au prochain recalage et,
+    // le rendu logiciel étant lent, une animation courte peut finir avant d'être recalée (D-021).
+    try { window.__mira.born.set(a, performance.now()); a.__miraOwned = true; a.pause(); a.currentTime = 0; } catch {}
     return a;
   };
+  // Motion fixe `startTime` à partir de performance.now() (virtuel) alors que document.timeline est réel :
+  // l'animation serait aussitôt « finished ». Pour une animation prise en main, l'affectation est mémorisée
+  // mais n'a pas d'effet ; le recalage (syncAnimations) pilote currentTime sur le temps virtuel (D-021).
+  const stDesc = Object.getOwnPropertyDescriptor(Animation.prototype, 'startTime');
+  Object.defineProperty(Animation.prototype, 'startTime', {
+    configurable: true,
+    get() { return this.__miraOwned && '__st' in this ? this.__st : stDesc.get.call(this); },
+    set(v) { if (this.__miraOwned) this.__st = v; else stDesc.set.call(this, v); },
+  });
+  // Transitions et animations CSS : même prise en main dès leur création.
+  for (const type of ['transitionrun', 'animationstart']) document.addEventListener(type, (e) => {
+    const now = performance.now();
+    for (const a of e.target.getAnimations ? e.target.getAnimations() : []) {
+      if (window.__mira.born.has(a)) continue;
+      window.__mira.born.set(a, now); a.__miraOwned = true;
+      try { a.pause(); a.currentTime = 0; } catch {}
+    }
+  }, true);
 
   // Vidéos en temps virtuel : aucune lecture réelle ; play() est simulé et currentTime suit l'horloge
   // virtuelle à chaque pas (syncAnimations). La page voit les événements play/playing/pause/ended habituels.
