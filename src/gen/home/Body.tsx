@@ -1,6 +1,7 @@
 // Généré par scripts/genpage.mjs depuis reference/html/home.html (D-033) — ne pas modifier à la main : régénérer.
 import './Body.css';
 import { T } from '@/data/text/home';
+import { AddonCheck } from '@/components/fx/Pricing';
 import { FormButtonFx } from '@/components/forms/FormFx';
 import { FormFx } from '@/components/forms/FormFx';
 import { HOME_TEXT_REVEAL } from '@/data/webgl';
@@ -11,6 +12,9 @@ import { InView } from '@/components/fx/InView';
 import { Lk } from '@/components/Lk';
 import { Loop } from '@/components/fx/Loop';
 import { NavLinks } from '@/components/nav/parts';
+import { PT } from '@/components/fx/Pricing';
+import { PriceDisplay } from '@/components/fx/Pricing';
+import { PricingProvider } from '@/components/fx/Pricing';
 import { Revelo } from '@/components/fx/Revelo';
 import { SV } from '@/components/Variants';
 import { ScrollFx, Parallax } from '@/components/fx/Scroll';
@@ -39,7 +43,7 @@ export function Body() {
         <div className="framer-545x8x" data-framer-name="Content">
           <div className="framer-188p22q" data-framer-name="Hero / About">
             <SV c="ssr-variant hidden-gw4wpc hidden-1aemvzd" show={["desktop"]}>
-              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-ycmhje"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["tablet","phone"]} className="framer-gdnth6" data-framer-name="Hero" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-ycmhje"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={["tablet","phone"]} className="framer-gdnth6" data-framer-name="Hero" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
                 <div className="framer-16qy4y3" data-framer-name="Slider Container">
                   <div className="framer-ey8enx-container" data-framer-name="Project Showcase Slider" {...{ name: "Project Showcase Slider" }}><HomeSlider slot={<div className="framer-1p6mac3" data-framer-name="Projects Source (Slot)">
                       <Lk className="framer-1oyvw8h framer-1ayeqj4" data-framer-name="Project Card" href="./projects/gucci" to="/projects/gucci">
@@ -207,7 +211,7 @@ export function Body() {
               </ScrollFx>
             </SV>
             <SV c="ssr-variant hidden-coh9ff hidden-1aemvzd" show={["tablet"]}>
-              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-ycmhje"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["tablet","phone"]} className="framer-gdnth6" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-ycmhje"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={["tablet","phone"]} className="framer-gdnth6" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
                 <div className="framer-16qy4y3" data-framer-name="Slider Container">
                   <div className="framer-ey8enx-container" data-framer-name="Project Showcase Slider" {...{ name: "Project Showcase Slider" }}><HomeSlider slot={<div className="framer-1p6mac3" data-framer-name="Projects Source (Slot)">
                       <Lk className="framer-1oyvw8h framer-1ayeqj4" data-framer-name="Project Card" href="./projects/gucci" to="/projects/gucci">
@@ -375,7 +379,7 @@ export function Body() {
               </ScrollFx>
             </SV>
             <SV c="ssr-variant hidden-coh9ff hidden-gw4wpc" show={["phone"]}>
-              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-ycmhje"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["tablet","phone"]} className="framer-gdnth6" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-ycmhje"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={["tablet","phone"]} className="framer-gdnth6" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
                 <div className="framer-16qy4y3" data-framer-name="Slider Container">
                   <div className="framer-ey8enx-container" data-framer-name="Project Showcase Slider" {...{ name: "Project Showcase Slider" }}><HomeSlider slot={<div className="framer-1p6mac3" data-framer-name="Projects Source (Slot)">
                       <Lk className="framer-1oyvw8h framer-1ayeqj4" data-framer-name="Project Card" href="./projects/gucci" to="/projects/gucci">
@@ -780,8 +784,8 @@ export function Body() {
                     </InView>
                   </div>
                 </div>
-                <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":3.1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-4ctmxs"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-1jgewsq" data-framer-name="Media" style={{ "willChange": "transform", "opacity": "1", "transform": "scale(3.1)" }}>
-                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-4ctmxs"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-ul47s4" data-framer-name="Dark Overlay" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }} />
+                <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":3.1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-4ctmxs"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={[]} className="framer-1jgewsq" data-framer-name="Media" style={{ "willChange": "transform", "opacity": "1", "transform": "scale(3.1)" }}>
+                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-4ctmxs"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={0.65} off={[]} className="framer-ul47s4" data-framer-name="Dark Overlay" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }} />
                   <div className="framer-br9d9a" data-framer-name="Top Row">
                     <SV c="ssr-variant" show={["desktop","tablet","phone"]}>
                       <div className="framer-pcfn12-container" data-framer-name="Top" {...{ name: "Top" }}>
@@ -3506,10 +3510,10 @@ export function Body() {
               </div>
             </div>
             <SV c="ssr-variant hidden-1aemvzd" show={["desktop","tablet"]}>
-              <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-m79k4k"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":500}}]} threshold={1} off={["phone"]} className="framer-16i0mj7" data-framer-name="Process" id="process1" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-m79k4k"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":500}}]} threshold={1} target={1} off={["phone"]} className="framer-16i0mj7" data-framer-name="Process" id="process1" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
                 <div className="framer-17mh57q" data-framer-name="Proccess Container">
                   <div className="framer-smi9hy-container" data-framer-name="Process Accordian" {...{ name: "Process Accordian" }}>
-                    <VRoot as="div" map={{"Cth7STIQR":{"cls":"framer-v-18rjlel","name":"Process Step 3"},"dPWqybCNx":{"cls":"framer-v-ss4gxa","name":"Process Step 2"},"kw8StE0kn":{"cls":"framer-v-312wk3","name":"Phone"},"NMtXp8_Fx":{"cls":"framer-v-1wkn9vt","name":"Process Step 4"},"Wv6mVM6uN":{"cls":"framer-v-9qs5q4","name":"Process Step 1"}}} initial="Wv6mVM6uN" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"dPWqybCNx","threshold":0.5,"once":false}} {...{ name: "Process Accordian" }} className="framer-nhusq framer-9qs5q4 framer-v-9qs5q4" data-framer-name="Process Step 1" data-hide-scrollbars="true" style={{ "height": "100%", "width": "100%" }}>
+                    <VRoot as="div" map={{"Cth7STIQR":{"cls":"framer-v-18rjlel","name":"Process Step 3"},"dPWqybCNx":{"cls":"framer-v-ss4gxa","name":"Process Step 2"},"kw8StE0kn":{"cls":"framer-v-312wk3","name":"Phone"},"NMtXp8_Fx":{"cls":"framer-v-1wkn9vt","name":"Process Step 4"},"Wv6mVM6uN":{"cls":"framer-v-9qs5q4","name":"Process Step 1"}}} initial="Wv6mVM6uN" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} scrollTargets={{"targets":[{"cls":"framer-lxir8x","to":"dPWqybCNx"},{"cls":"framer-1o2peh6","to":"Cth7STIQR"},{"cls":"framer-i4jw4l","to":"NMtXp8_Fx"}],"threshold":0.5,"once":false}} {...{ name: "Process Accordian" }} className="framer-nhusq framer-9qs5q4 framer-v-9qs5q4" data-framer-name="Process Step 1" data-hide-scrollbars="true" style={{ "height": "100%", "width": "100%" }}>
                       <div className="framer-1os8yxm-container" data-framer-name="Card 1" {...{ name: "Card 1" }}>
                         <div {...{ name: "Card 1" }} className="framer-gkSx9 framer-Me6vv framer-uqMg0 framer-QoPvp framer-1jv6b9g framer-v-1jv6b9g" data-framer-name="Active" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                           <div className="framer-mj1z6b" data-framer-name="Image" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -3709,10 +3713,10 @@ export function Body() {
               </ScrollFx>
             </SV>
             <SV c="ssr-variant hidden-coh9ff hidden-gw4wpc" show={["phone"]}>
-              <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-m79k4k"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":500}}]} threshold={1} off={["phone"]} className="framer-16i0mj7" data-framer-name="Process" id="process1" style={{ "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-m79k4k"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":500}}]} threshold={1} target={1} off={["phone"]} className="framer-16i0mj7" data-framer-name="Process" id="process1" style={{ "opacity": "1", "transform": "none" }}>
                 <div className="framer-17mh57q" data-framer-name="Proccess Container">
                   <div className="framer-smi9hy-container" data-framer-name="Process Accordian" {...{ name: "Process Accordian" }}>
-                    <VRoot as="div" map={{"Cth7STIQR":{"cls":"framer-v-18rjlel","name":"Process Step 3"},"dPWqybCNx":{"cls":"framer-v-ss4gxa","name":"Process Step 2"},"kw8StE0kn":{"cls":"framer-v-312wk3","name":"Phone"},"NMtXp8_Fx":{"cls":"framer-v-1wkn9vt","name":"Process Step 4"},"Wv6mVM6uN":{"cls":"framer-v-9qs5q4","name":"Process Step 1"}}} initial="kw8StE0kn" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"dPWqybCNx","threshold":0.5,"once":false}} {...{ name: "Process Accordian" }} className="framer-nhusq framer-9qs5q4 framer-v-312wk3" data-framer-name="Phone" data-hide-scrollbars="true" style={{ "width": "100%" }}>
+                    <VRoot as="div" map={{"Cth7STIQR":{"cls":"framer-v-18rjlel","name":"Process Step 3"},"dPWqybCNx":{"cls":"framer-v-ss4gxa","name":"Process Step 2"},"kw8StE0kn":{"cls":"framer-v-312wk3","name":"Phone"},"NMtXp8_Fx":{"cls":"framer-v-1wkn9vt","name":"Process Step 4"},"Wv6mVM6uN":{"cls":"framer-v-9qs5q4","name":"Process Step 1"}}} initial="kw8StE0kn" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} scrollTargets={{"targets":[{"cls":"framer-lxir8x","to":"dPWqybCNx"},{"cls":"framer-1o2peh6","to":"Cth7STIQR"},{"cls":"framer-i4jw4l","to":"NMtXp8_Fx"}],"threshold":0.5,"once":false}} {...{ name: "Process Accordian" }} className="framer-nhusq framer-9qs5q4 framer-v-312wk3" data-framer-name="Phone" data-hide-scrollbars="true" style={{ "width": "100%" }}>
                       <div className="framer-1os8yxm-container" data-framer-name="Card 1" {...{ name: "Card 1" }}>
                         <div {...{ name: "Card 1" }} className="framer-gkSx9 framer-Me6vv framer-uqMg0 framer-QoPvp framer-1jv6b9g framer-v-u5wair" data-framer-name="Phone" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                           <div className="framer-mj1z6b" data-framer-name="Image" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -3915,7 +3919,7 @@ export function Body() {
           <div className="framer-6t3cye" data-framer-name="Play Reel">
             <div className="framer-m79k4k" data-framer-name="Reel" id="video">
               <SV c="ssr-variant" show={["desktop","tablet","phone"]}>
-                <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":-5,"rotateX":5,"rotateY":15,"scale":0.6,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-1p1tvr6-container" data-framer-name="Video / Image Thumbnail" {...{ name: "Video / Image Thumbnail" }} style={{ "willChange": "transform", "opacity": "1", "transform": "perspective(1200px) scale(0.6) rotate(-5deg) rotateX(5deg) rotateY(15deg)" }}>
+                <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":-5,"rotateX":5,"rotateY":15,"scale":0.6,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={[]} className="framer-1p1tvr6-container" data-framer-name="Video / Image Thumbnail" {...{ name: "Video / Image Thumbnail" }} style={{ "willChange": "transform", "opacity": "1", "transform": "perspective(1200px) scale(0.6) rotate(-5deg) rotateX(5deg) rotateY(15deg)" }}>
                   <div {...{ name: "Video / Image Thumbnail" }} className="framer-GJxp5 framer-ygyp3d framer-v-1gumnrm" data-framer-name="End" style={{ "height": "100%", "width": "100%" }}>
                     <div className="framer-fbyx7b" data-framer-name="BG" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "filter": "grayscale(0)", "WebkitFilter": "grayscale(0)", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                       <div className="framer-2rkagx" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.3" }} />
@@ -3928,14 +3932,14 @@ export function Body() {
               </SV>
               <div className="framer-z6chk2" data-framer-name="Play CTA">
                 <div className="framer-11bjnkm" data-framer-name="Time">
-                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":-5,"rotateX":5,"rotateY":15,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-50}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-1nikuxu" data-framer-name="Reel Duration" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "flex-end", "willChange": "transform", "opacity": "0", "transform": "translateY(-50px) rotate(-5deg) rotateX(5deg) rotateY(15deg)" }}>
+                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":-5,"rotateX":5,"rotateY":15,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-50}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={0.75} off={[]} className="framer-1nikuxu" data-framer-name="Reel Duration" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "flex-end", "willChange": "transform", "opacity": "0", "transform": "translateY(-50px) rotate(-5deg) rotateX(5deg) rotateY(15deg)" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
                       {T[424]}
                     </p>
                   </ScrollFx>
                 </div>
-                <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":-10,"rotateX":15,"rotateY":25,"scale":2,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-c7nifx" data-framer-name="Play Reel" style={{ "willChange": "transform", "opacity": "1", "transform": "perspective(1200px) scale(2) rotate(-10deg) rotateX(15deg) rotateY(25deg)" }}>
-                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":-500,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-1pwqs1k" data-framer-name="Reel Play Label" data-framer-component-type="RichTextContainer" style={{ "willChange": "transform", "opacity": "0", "transform": "perspective(1200px) translateX(-500px)" }}>
+                <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":-10,"rotateX":15,"rotateY":25,"scale":2,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={[]} className="framer-c7nifx" data-framer-name="Play Reel" style={{ "willChange": "transform", "opacity": "1", "transform": "perspective(1200px) scale(2) rotate(-10deg) rotateX(15deg) rotateY(25deg)" }}>
+                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":-500,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={[]} className="framer-1pwqs1k" data-framer-name="Reel Play Label" data-framer-component-type="RichTextContainer" style={{ "willChange": "transform", "opacity": "0", "transform": "perspective(1200px) translateX(-500px)" }}>
                     <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
                       {T[425]}
                     </h2>
@@ -3947,14 +3951,14 @@ export function Body() {
                       </div>
                     </div>
                   </div>
-                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":500,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-fsssoq" data-framer-name="Reel Label" data-framer-component-type="RichTextContainer" style={{ "willChange": "transform", "opacity": "0", "transform": "perspective(1200px) translateX(500px)" }}>
+                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":500,"y":0}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={1} off={[]} className="framer-fsssoq" data-framer-name="Reel Label" data-framer-component-type="RichTextContainer" style={{ "willChange": "transform", "opacity": "0", "transform": "perspective(1200px) translateX(500px)" }}>
                     <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
                       {T[426]}
                     </h2>
                   </ScrollFx>
                 </ScrollFx>
                 <div className="framer-mgfg6o" data-framer-name="Years">
-                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":-5,"rotateX":5,"rotateY":15,"scale":1,"skewX":0,"skewY":0,"x":0,"y":50}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={[]} className="framer-16ddp1o-container" data-framer-name="Studio Years Timeline" {...{ name: "Studio Years Timeline" }} style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(50px) rotate(-5deg) rotateX(5deg) rotateY(15deg)" }}>
+                  <ScrollFx as="div" targets={[{"target":{"opacity":0,"rotate":-5,"rotateX":5,"rotateY":15,"scale":1,"skewX":0,"skewY":0,"x":0,"y":50}},{"ref":{"cls":"framer-1llc9gt"},"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} target={0.75} off={[]} className="framer-16ddp1o-container" data-framer-name="Studio Years Timeline" {...{ name: "Studio Years Timeline" }} style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(50px) rotate(-5deg) rotateX(5deg) rotateY(15deg)" }}>
                     <div {...{ name: "Studio Years Timeline" }} className="framer-w6BnQ framer-yTVl5 framer-Me6vv framer-162pug6 framer-v-19gulb1" data-framer-name="Small">
                       <div className="framer-14g1br8" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "flex-end", "--extracted-r6o4lv": "var(--variable-reference-XU6EGhHcu-D21Ecyglh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-XU6EGhHcu-D21Ecyglh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-XU6EGhHcu-D21Ecyglh))" }}>
@@ -4218,651 +4222,631 @@ export function Body() {
                     <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" } }, segs: [T[458]] }]} className="framer-1xw8v5t" data-framer-name="Pricing Description" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </div>
                   <SV c="ssr-variant hidden-1aemvzd" show={["desktop","tablet"]}>
-                    <div className="framer-189pfpj-container" data-framer-name="Pricing Card" {...{ name: "Pricing Card" }}>
-                      <div {...{ name: "Pricing Card" }} className="framer-VhWls framer-AWIXE framer-2Ps8M framer-QoPvp framer-Me6vv framer-10qci3b framer-v-10qci3b" data-framer-name="Desktop" style={{ "maxWidth": "100%", "width": "100%" }}>
-                        <div className="framer-geltb-container">
-                          <div data-build="layout-jump-preventer-prod-20260926-01" aria-hidden="true" data-layout-jump-preventer="" style={{ "position": "relative", "pointerEvents": "none" }} />
-                        </div>
-                        <div className="framer-wo6jnk" data-framer-name="Pricing Plan Card">
-                          <div className="framer-iqmsij">
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-du4s0o" data-framer-name="Top" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(-20px)" }}>
-                              <div className="framer-3kk6s5" data-framer-name="Logo / Text">
-                                <div className="framer-1xjrc framer-u7g0w7" />
-                                <div className="framer-zsxvaw-container">
-                                  <div className="framer-Oiz8K framer-Me6vv framer-7fzx66 framer-v-7fzx66" data-framer-name="Item 1 Active" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                    <div className="framer-1juij8x" data-framer-name="Toggle" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }} />
-                                    <div className="framer-1r8in0t" data-framer-name="Item 1">
-                                      <div className="framer-1ou6ttg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13)))" }}>
-                                          {T[459]}
+                    <PricingProvider><div className="framer-189pfpj-container" data-framer-name="Pricing Card" {...{ name: "Pricing Card" }}>
+                        <VRoot as="div" map={{"b_CpEBBVa":{"cls":"framer-v-15mb0ql","name":"Desktop Toggled"},"cup93khkL":{"cls":"framer-v-10qci3b","name":"Desktop"},"H7ehOVhk3":{"cls":"framer-v-amnb9i","name":"Phone Toggled"},"ppP1s1b10":{"cls":"framer-v-1mnt6a4","name":"Phone"}}} initial="cup93khkL" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="card" {...{ name: "Pricing Card" }} className="framer-VhWls framer-AWIXE framer-2Ps8M framer-QoPvp framer-Me6vv framer-10qci3b framer-v-10qci3b" data-framer-name="Desktop" style={{ "maxWidth": "100%", "width": "100%" }}>
+                          <div className="framer-geltb-container">
+                            <div data-build="layout-jump-preventer-prod-20260926-01" aria-hidden="true" data-layout-jump-preventer="" style={{ "position": "relative", "pointerEvents": "none" }} />
+                          </div>
+                          <div className="framer-wo6jnk" data-framer-name="Pricing Plan Card">
+                            <div className="framer-iqmsij">
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-du4s0o" data-framer-name="Top" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(-20px)" }}>
+                                <div className="framer-3kk6s5" data-framer-name="Logo / Text">
+                                  <div className="framer-1xjrc framer-u7g0w7" />
+                                  <div className="framer-zsxvaw-container">
+                                    <VRoot as="div" map={{"kTxvluWFa":{"cls":"framer-v-m9h68i","name":"Item 2 Active"},"Q9UIdlaan":{"cls":"framer-v-7fzx66","name":"Item 1 Active"}}} initial="Q9UIdlaan" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="toggle" className="framer-Oiz8K framer-Me6vv framer-7fzx66 framer-v-7fzx66" data-framer-name="Item 1 Active" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                      <div className="framer-1juij8x" data-framer-name="Toggle" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }} />
+                                      <div className="framer-1r8in0t" data-framer-name="Item 1">
+                                        <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}} variants={{"kTxvluWFa":{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}}} className="framer-1ou6ttg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13)))" }}>
+                                            <PT t={T[459]} />
+                                          </p>
+                                        </VEl>
+                                      </div>
+                                      <div className="framer-1q217rn" data-framer-name="Item 2">
+                                        <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"kTxvluWFa":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1v5q4sn" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                            <PT t={T[460]} />
+                                          </p>
+                                        </VEl>
+                                      </div>
+                                    </VRoot>
+                                  </div>
+                                </div>
+                                <div className="framer-1uafou2" data-framer-name="Price / Qualifier">
+                                  <div className="framer-1vxchwh" data-framer-name="Price">
+                                    <div className="framer-1iw8zg9" data-framer-name="Cost">
+                                      <div className="framer-1ir18tf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                        <p className="framer-text framer-styles-preset-ss7lqy" data-styles-preset="aT6ueLJwl" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                          <PT t={T[461]} />
                                         </p>
                                       </div>
+                                      <div className="framer-1qwesob" data-framer-name="Cost / Label">
+                                        <div className="framer-1pl2uqb-container"><PriceDisplay kind="total" style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }} ariaStyle={{"position":"absolute","width":"1px","height":"1px","margin":"-1px","padding":"0","border":"0","clip":"rect(0 0 0 0)","overflow":"hidden","whiteSpace":"nowrap"}}>
+                                            <div style={{ "width": "max-content" }}>
+                                              <div className="framer-1pl0lqq" data-framer-name="Calculator Text">
+                                                <div className="framer-3t4rhi" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                                  <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                                    <PT t={T[462]} />
+                                                  </h2>
+                                                </div>
+                                              </div>
+                                            </div>
+</PriceDisplay></div>
+                                        <div className="framer-22hsnh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[463]} />
+                                          </p>
+                                        </div>
+                                      </div>
                                     </div>
-                                    <div className="framer-1q217rn" data-framer-name="Item 2">
-                                      <div className="framer-1v5q4sn" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[460]}
-                                        </p>
+                                    <div className="framer-1j8tciz" data-framer-name="Breakdown">
+                                      <div className="framer-mm3hsr" data-framer-name="Base">
+                                        <div className="framer-160kkey" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                            <PT t={T[464]} />
+                                          </p>
+                                        </div>
+                                        <div className="framer-1firdy7" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[465]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                      <div className="framer-ey5qsp" data-framer-name="Add-ons">
+                                        <div className="framer-19j6oiy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                            <PT t={T[466]} />
+                                          </p>
+                                        </div>
+                                        <div className="framer-z5vqk5-container"><PriceDisplay kind="addons" style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }} ariaStyle={{"position":"absolute","width":"1px","height":"1px","margin":"-1px","padding":"0","border":"0","clip":"rect(0 0 0 0)","overflow":"hidden","whiteSpace":"nowrap"}}>
+                                            <div style={{ "width": "max-content" }}>
+                                              <div className="framer-kdh1w1" data-framer-name="Addons Calculator Text">
+                                                <div className="framer-l3qgwr" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
+                                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
+                                                    <PT t={T[467]} />
+                                                  </p>
+                                                </div>
+                                              </div>
+                                            </div>
+</PriceDisplay></div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
+                              </InView>
+                              <div className="framer-1phi9k4" data-framer-name="Bottom">
+                                <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-9v4fjv" data-framer-name="Included" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
+                                  <div className="framer-8arrle" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                      <PT t={T[468]} />
+                                    </p>
+                                  </div>
+                                  <div className="framer-1enl1sg" data-framer-name="Benefits">
+                                    <div className="framer-1hssucp-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[469]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="framer-1i98m3d-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[470]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="framer-oefzz2-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[471]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="framer-1lmbhv9-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[472]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </InView>
+                                <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-dh1w8s" data-framer-name="Add-ons" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
+                                  <div className="framer-vnbu4j" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                      <PT t={T[473]} />
+                                    </p>
+                                  </div>
+                                  <div className="framer-zht3po" data-framer-name="Addons">
+                                    <div className="framer-1rn2ijv-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={0} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[474]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[475]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={0} type="button" role="checkbox" aria-label={T[476]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                    <div className="framer-3px9nt-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={1} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[477]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[478]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={1} type="button" role="checkbox" aria-label={T[479]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                    <div className="framer-1okd3tw-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={2} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[480]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[481]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={2} type="button" role="checkbox" aria-label={T[482]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                    <div className="framer-hayzl9-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={3} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[483]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[484]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={3} type="button" role="checkbox" aria-label={T[485]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                  </div>
+                                </InView>
                               </div>
-                              <div className="framer-1uafou2" data-framer-name="Price / Qualifier">
-                                <div className="framer-1vxchwh" data-framer-name="Price">
-                                  <div className="framer-1iw8zg9" data-framer-name="Cost">
-                                    <div className="framer-1ir18tf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                      <p className="framer-text framer-styles-preset-ss7lqy" data-styles-preset="aT6ueLJwl" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                        {T[461]}
+                            </div>
+                            <div className="framer-utqaq6">
+                              <div className="framer-99npy4" data-framer-name="Qualifier" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                  <PT t={T[486]} />
+                                </p>
+                              </div>
+                              <div className="framer-168qn2y-container">
+                                <Lk className="framer-asHOM framer-khCxy framer-1pwzy88 framer-v-1pwzy88 framer-19k8iop" data-framer-name="Default" data-reset="button" href="./contact" style={{ "width": "100%" }} to="/contact">
+                                  <div className="framer-1dag8of" data-framer-name="BG Color" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }} />
+                                  <div className="framer-1jczrf8" data-framer-name="Text">
+                                    <div className="framer-1ucuywo" data-framer-name="top" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
+                                      <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
+                                        <PT t={T[487]} />
                                       </p>
                                     </div>
-                                    <div className="framer-1qwesob" data-framer-name="Cost / Label">
-                                      <div className="framer-1pl2uqb-container">
-                                        <div style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }}>
-                                          <div style={{ "width": "max-content" }}>
-                                            <div className="framer-1pl0lqq" data-framer-name="Calculator Text">
-                                              <div className="framer-3t4rhi" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                                <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                                  {T[462]}
-                                                </h2>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <span aria-live="polite" style={{ "position": "absolute", "width": "1px", "height": "1px", "margin": "-1px", "padding": "0", "border": "0", "clip": "rect(0 0 0 0)", "overflow": "hidden", "whiteSpace": "nowrap" }}>
-                                            {T[463]}
-                                          </span>
-                                        </div>
-                                      </div>
-                                      <div className="framer-22hsnh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[464]}
-                                        </p>
-                                      </div>
+                                    <div className="framer-76c8x0" data-framer-name="bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
+                                      <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
+                                        <PT t={T[488]} />
+                                      </p>
                                     </div>
                                   </div>
-                                  <div className="framer-1j8tciz" data-framer-name="Breakdown">
-                                    <div className="framer-mm3hsr" data-framer-name="Base">
-                                      <div className="framer-160kkey" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[465]}
-                                        </p>
-                                      </div>
-                                      <div className="framer-1firdy7" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[466]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                    <div className="framer-ey5qsp" data-framer-name="Add-ons">
-                                      <div className="framer-19j6oiy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[467]}
-                                        </p>
-                                      </div>
-                                      <div className="framer-z5vqk5-container">
-                                        <div style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }}>
-                                          <div style={{ "width": "max-content" }}>
-                                            <div className="framer-kdh1w1" data-framer-name="Addons Calculator Text">
-                                              <div className="framer-l3qgwr" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
-                                                <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                                  {T[468]}
-                                                </p>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <span aria-live="polite" style={{ "position": "absolute", "width": "1px", "height": "1px", "margin": "-1px", "padding": "0", "border": "0", "clip": "rect(0 0 0 0)", "overflow": "hidden", "whiteSpace": "nowrap" }}>
-                                            {T[469]}
-                                          </span>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
+                                </Lk>
                               </div>
-                            </InView>
-                            <div className="framer-1phi9k4" data-framer-name="Bottom">
-                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-9v4fjv" data-framer-name="Included" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
-                                <div className="framer-8arrle" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                    {T[470]}
-                                  </p>
-                                </div>
-                                <div className="framer-1enl1sg" data-framer-name="Benefits">
-                                  <div className="framer-1hssucp-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[471]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-1i98m3d-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[472]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-oefzz2-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[473]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-1lmbhv9-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[474]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </InView>
-                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-dh1w8s" data-framer-name="Add-ons" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
-                                <div className="framer-vnbu4j" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                    {T[475]}
-                                  </p>
-                                </div>
-                                <div className="framer-zht3po" data-framer-name="Addons">
-                                  <div className="framer-1rn2ijv-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[476]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[477]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[478]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-3px9nt-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[479]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[480]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[481]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-1okd3tw-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[482]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[483]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[484]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-hayzl9-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[485]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[486]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[487]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </InView>
                             </div>
                           </div>
-                          <div className="framer-utqaq6">
-                            <div className="framer-99npy4" data-framer-name="Qualifier" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                              <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[488]}
-                              </p>
-                            </div>
-                            <div className="framer-168qn2y-container">
-                              <Lk className="framer-asHOM framer-khCxy framer-1pwzy88 framer-v-1pwzy88 framer-19k8iop" data-framer-name="Default" data-reset="button" href="./contact" style={{ "width": "100%" }} to="/contact">
-                                <div className="framer-1dag8of" data-framer-name="BG Color" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }} />
-                                <div className="framer-1jczrf8" data-framer-name="Text">
-                                  <div className="framer-1ucuywo" data-framer-name="top" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
-                                      {T[489]}
-                                    </p>
-                                  </div>
-                                  <div className="framer-76c8x0" data-framer-name="bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
-                                      {T[490]}
-                                    </p>
-                                  </div>
-                                </div>
-                              </Lk>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                        </VRoot>
+                      </div></PricingProvider>
                   </SV>
                   <SV c="ssr-variant hidden-coh9ff hidden-gw4wpc" show={["phone"]}>
-                    <div className="framer-189pfpj-container" data-framer-name="Pricing Card" {...{ name: "Pricing Card" }}>
-                      <div {...{ name: "Pricing Card" }} className="framer-VhWls framer-AWIXE framer-2Ps8M framer-QoPvp framer-Me6vv framer-10qci3b framer-v-1mnt6a4" data-framer-name="Phone" style={{ "maxWidth": "100%", "width": "100%" }}>
-                        <div className="framer-geltb-container">
-                          <div data-build="layout-jump-preventer-prod-20260926-01" aria-hidden="true" data-layout-jump-preventer="" style={{ "position": "relative", "pointerEvents": "none" }} />
-                        </div>
-                        <div className="framer-wo6jnk" data-framer-name="Pricing Plan Card">
-                          <div className="framer-iqmsij">
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-du4s0o" data-framer-name="Top" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(-20px)" }}>
-                              <div className="framer-3kk6s5" data-framer-name="Logo / Text">
-                                <div className="framer-zsxvaw-container">
-                                  <div className="framer-Oiz8K framer-Me6vv framer-7fzx66 framer-v-7fzx66" data-framer-name="Item 1 Active" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                    <div className="framer-1juij8x" data-framer-name="Toggle" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }} />
-                                    <div className="framer-1r8in0t" data-framer-name="Item 1">
-                                      <div className="framer-1ou6ttg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13)))" }}>
-                                          {T[491]}
+                    <PricingProvider><div className="framer-189pfpj-container" data-framer-name="Pricing Card" {...{ name: "Pricing Card" }}>
+                        <VRoot as="div" map={{"b_CpEBBVa":{"cls":"framer-v-15mb0ql","name":"Desktop Toggled"},"cup93khkL":{"cls":"framer-v-10qci3b","name":"Desktop"},"H7ehOVhk3":{"cls":"framer-v-amnb9i","name":"Phone Toggled"},"ppP1s1b10":{"cls":"framer-v-1mnt6a4","name":"Phone"}}} initial="ppP1s1b10" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="card" {...{ name: "Pricing Card" }} className="framer-VhWls framer-AWIXE framer-2Ps8M framer-QoPvp framer-Me6vv framer-10qci3b framer-v-1mnt6a4" data-framer-name="Phone" style={{ "maxWidth": "100%", "width": "100%" }}>
+                          <div className="framer-geltb-container">
+                            <div data-build="layout-jump-preventer-prod-20260926-01" aria-hidden="true" data-layout-jump-preventer="" style={{ "position": "relative", "pointerEvents": "none" }} />
+                          </div>
+                          <div className="framer-wo6jnk" data-framer-name="Pricing Plan Card">
+                            <div className="framer-iqmsij">
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-du4s0o" data-framer-name="Top" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(-20px)" }}>
+                                <div className="framer-3kk6s5" data-framer-name="Logo / Text">
+                                  <div className="framer-zsxvaw-container">
+                                    <VRoot as="div" map={{"kTxvluWFa":{"cls":"framer-v-m9h68i","name":"Item 2 Active"},"Q9UIdlaan":{"cls":"framer-v-7fzx66","name":"Item 1 Active"}}} initial="Q9UIdlaan" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="toggle" className="framer-Oiz8K framer-Me6vv framer-7fzx66 framer-v-7fzx66" data-framer-name="Item 1 Active" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                      <div className="framer-1juij8x" data-framer-name="Toggle" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }} />
+                                      <div className="framer-1r8in0t" data-framer-name="Item 1">
+                                        <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}} variants={{"kTxvluWFa":{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}}} className="framer-1ou6ttg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13)))" }}>
+                                            <PT t={T[489]} />
+                                          </p>
+                                        </VEl>
+                                      </div>
+                                      <div className="framer-1q217rn" data-framer-name="Item 2">
+                                        <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"kTxvluWFa":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1v5q4sn" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                            <PT t={T[490]} />
+                                          </p>
+                                        </VEl>
+                                      </div>
+                                    </VRoot>
+                                  </div>
+                                </div>
+                                <div className="framer-1uafou2" data-framer-name="Price / Qualifier">
+                                  <div className="framer-1vxchwh" data-framer-name="Price">
+                                    <div className="framer-1iw8zg9" data-framer-name="Cost">
+                                      <div className="framer-1ir18tf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                        <p className="framer-text framer-styles-preset-ss7lqy" data-styles-preset="aT6ueLJwl" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                          <PT t={T[491]} />
                                         </p>
                                       </div>
+                                      <div className="framer-1qwesob" data-framer-name="Cost / Label">
+                                        <div className="framer-1pl2uqb-container"><PriceDisplay kind="total" style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }} ariaStyle={{"position":"absolute","width":"1px","height":"1px","margin":"-1px","padding":"0","border":"0","clip":"rect(0 0 0 0)","overflow":"hidden","whiteSpace":"nowrap"}}>
+                                            <div style={{ "width": "max-content" }}>
+                                              <div className="framer-1pl0lqq" data-framer-name="Calculator Text">
+                                                <div className="framer-3t4rhi" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                                  <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                                    <PT t={T[492]} />
+                                                  </h2>
+                                                </div>
+                                              </div>
+                                            </div>
+</PriceDisplay></div>
+                                        <div className="framer-22hsnh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[493]} />
+                                          </p>
+                                        </div>
+                                      </div>
                                     </div>
-                                    <div className="framer-1q217rn" data-framer-name="Item 2">
-                                      <div className="framer-1v5q4sn" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[492]}
-                                        </p>
+                                    <div className="framer-1j8tciz" data-framer-name="Breakdown">
+                                      <div className="framer-mm3hsr" data-framer-name="Base">
+                                        <div className="framer-160kkey" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                            <PT t={T[494]} />
+                                          </p>
+                                        </div>
+                                        <div className="framer-1firdy7" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[495]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                      <div className="framer-ey5qsp" data-framer-name="Add-ons">
+                                        <div className="framer-19j6oiy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                            <PT t={T[496]} />
+                                          </p>
+                                        </div>
+                                        <div className="framer-z5vqk5-container"><PriceDisplay kind="addons" style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }} ariaStyle={{"position":"absolute","width":"1px","height":"1px","margin":"-1px","padding":"0","border":"0","clip":"rect(0 0 0 0)","overflow":"hidden","whiteSpace":"nowrap"}}>
+                                            <div style={{ "width": "max-content" }}>
+                                              <div className="framer-kdh1w1" data-framer-name="Addons Calculator Text">
+                                                <div className="framer-l3qgwr" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
+                                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
+                                                    <PT t={T[497]} />
+                                                  </p>
+                                                </div>
+                                              </div>
+                                            </div>
+</PriceDisplay></div>
                                       </div>
                                     </div>
                                   </div>
                                 </div>
+                              </InView>
+                              <div className="framer-1phi9k4" data-framer-name="Bottom">
+                                <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-9v4fjv" data-framer-name="Included" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
+                                  <div className="framer-8arrle" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                      <PT t={T[498]} />
+                                    </p>
+                                  </div>
+                                  <div className="framer-1enl1sg" data-framer-name="Benefits">
+                                    <div className="framer-1hssucp-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[499]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="framer-1i98m3d-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[500]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="framer-oefzz2-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[501]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div className="framer-1lmbhv9-container">
+                                      <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
+                                        <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                          <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
+                                        </div>
+                                        <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                            <PT t={T[502]} />
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </InView>
+                                <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-dh1w8s" data-framer-name="Add-ons" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
+                                  <div className="framer-vnbu4j" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
+                                      <PT t={T[503]} />
+                                    </p>
+                                  </div>
+                                  <div className="framer-zht3po" data-framer-name="Addons">
+                                    <div className="framer-1rn2ijv-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={4} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[504]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[505]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={0} type="button" role="checkbox" aria-label={T[506]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                    <div className="framer-3px9nt-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={5} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[507]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[508]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={1} type="button" role="checkbox" aria-label={T[509]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                    <div className="framer-1okd3tw-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={6} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[510]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[511]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={2} type="button" role="checkbox" aria-label={T[512]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                    <div className="framer-hayzl9-container">
+                                      <VRoot as="div" map={{"LUln1HeAw":{"cls":"framer-v-1trk730","name":"Checked"},"ng7Xm9wfI":{"cls":"framer-v-1128hhv","name":"Unchecked"}}} initial="ng7Xm9wfI" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} bind="addon" index={7} className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                        <div className="framer-oejksn" data-framer-name="Icon / Title">
+                                          <div className="framer-1nmpriv-container">
+                                            <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                              <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                                <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                                <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
+                                              </VEl>
+                                            </VRoot>
+                                          </div>
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[513]} />
+                                            </p>
+                                          </VEl>
+                                        </div>
+                                        <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
+                                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"}} variants={{"LUln1HeAw":{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}}} className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                            <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                              <PT t={T[514]} />
+                                            </p>
+                                          </VEl>
+                                          <div className="framer-btaama-container">
+                                            <AddonCheck i={3} type="button" role="checkbox" aria-label={T[515]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
+                                              <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
+</AddonCheck>
+                                          </div>
+                                        </div>
+                                      </VRoot>
+                                    </div>
+                                  </div>
+                                </InView>
                               </div>
-                              <div className="framer-1uafou2" data-framer-name="Price / Qualifier">
-                                <div className="framer-1vxchwh" data-framer-name="Price">
-                                  <div className="framer-1iw8zg9" data-framer-name="Cost">
-                                    <div className="framer-1ir18tf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                      <p className="framer-text framer-styles-preset-ss7lqy" data-styles-preset="aT6ueLJwl" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                        {T[493]}
+                            </div>
+                            <div className="framer-utqaq6">
+                              <div className="framer-99npy4" data-framer-name="Qualifier" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
+                                <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
+                                  <PT t={T[516]} />
+                                </p>
+                              </div>
+                              <div className="framer-168qn2y-container">
+                                <Lk className="framer-asHOM framer-khCxy framer-1pwzy88 framer-v-1pwzy88 framer-19k8iop" data-framer-name="Default" data-reset="button" href="./contact" style={{ "width": "100%" }} to="/contact">
+                                  <div className="framer-1dag8of" data-framer-name="BG Color" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }} />
+                                  <div className="framer-1jczrf8" data-framer-name="Text">
+                                    <div className="framer-1ucuywo" data-framer-name="top" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
+                                      <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
+                                        <PT t={T[517]} />
                                       </p>
                                     </div>
-                                    <div className="framer-1qwesob" data-framer-name="Cost / Label">
-                                      <div className="framer-1pl2uqb-container">
-                                        <div style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }}>
-                                          <div style={{ "width": "max-content" }}>
-                                            <div className="framer-1pl0lqq" data-framer-name="Calculator Text">
-                                              <div className="framer-3t4rhi" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                                <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                                  {T[494]}
-                                                </h2>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <span aria-live="polite" style={{ "position": "absolute", "width": "1px", "height": "1px", "margin": "-1px", "padding": "0", "border": "0", "clip": "rect(0 0 0 0)", "overflow": "hidden", "whiteSpace": "nowrap" }}>
-                                            {T[495]}
-                                          </span>
-                                        </div>
-                                      </div>
-                                      <div className="framer-22hsnh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[496]}
-                                        </p>
-                                      </div>
+                                    <div className="framer-76c8x0" data-framer-name="bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
+                                      <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
+                                        <PT t={T[518]} />
+                                      </p>
                                     </div>
                                   </div>
-                                  <div className="framer-1j8tciz" data-framer-name="Breakdown">
-                                    <div className="framer-mm3hsr" data-framer-name="Base">
-                                      <div className="framer-160kkey" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[497]}
-                                        </p>
-                                      </div>
-                                      <div className="framer-1firdy7" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[498]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                    <div className="framer-ey5qsp" data-framer-name="Add-ons">
-                                      <div className="framer-19j6oiy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[499]}
-                                        </p>
-                                      </div>
-                                      <div className="framer-z5vqk5-container">
-                                        <div style={{ "position": "relative", "display": "inline-flex", "alignItems": "center", "justifyContent": "flex-start", "width": "max-content", "minWidth": "max-content", "textAlign": "left" }}>
-                                          <div style={{ "width": "max-content" }}>
-                                            <div className="framer-kdh1w1" data-framer-name="Addons Calculator Text">
-                                              <div className="framer-l3qgwr" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
-                                                <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                                  {T[500]}
-                                                </p>
-                                              </div>
-                                            </div>
-                                          </div>
-                                          <span aria-live="polite" style={{ "position": "absolute", "width": "1px", "height": "1px", "margin": "-1px", "padding": "0", "border": "0", "clip": "rect(0 0 0 0)", "overflow": "hidden", "whiteSpace": "nowrap" }}>
-                                            {T[501]}
-                                          </span>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
+                                </Lk>
                               </div>
-                            </InView>
-                            <div className="framer-1phi9k4" data-framer-name="Bottom">
-                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-9v4fjv" data-framer-name="Included" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
-                                <div className="framer-8arrle" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                    {T[502]}
-                                  </p>
-                                </div>
-                                <div className="framer-1enl1sg" data-framer-name="Benefits">
-                                  <div className="framer-1hssucp-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[503]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-1i98m3d-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[504]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-oefzz2-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[505]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-1lmbhv9-container">
-                                    <div className="framer-kXvVU framer-QoPvp framer-w8gkbz framer-v-w8gkbz" data-framer-name="Variant 1" style={{ "width": "100%" }}>
-                                      <div className="framer-12bli19" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                        <svg className="framer-FCBgc framer-15mrwxe" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "--js9iwy": "5" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3338047389\"></use>" }} />
-                                      </div>
-                                      <div className="framer-dkfoxh" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                        <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[506]}
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </InView>
-                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-dh1w8s" data-framer-name="Add-ons" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cornerShape": "superellipse(1.5)", "willChange": "transform", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "opacity": "0", "transform": "translateY(20px)" }}>
-                                <div className="framer-vnbu4j" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                    {T[507]}
-                                  </p>
-                                </div>
-                                <div className="framer-zht3po" data-framer-name="Addons">
-                                  <div className="framer-1rn2ijv-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[508]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[509]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[510]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-3px9nt-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[511]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[512]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[513]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-1okd3tw-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[514]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[515]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[516]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="framer-hayzl9-container">
-                                    <div className="framer-IGk3i framer-QoPvp framer-Me6vv framer-1128hhv framer-v-1128hhv" data-framer-name="Unchecked" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                      <div className="framer-oejksn" data-framer-name="Icon / Title">
-                                        <div className="framer-1nmpriv-container">
-                                          <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                            <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                              <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                              <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
-                                            </VEl>
-                                          </VRoot>
-                                        </div>
-                                        <div className="framer-udrury" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[517]}
-                                          </p>
-                                        </div>
-                                      </div>
-                                      <div className="framer-k6sjtm" data-framer-name="Price / Checkmark">
-                                        <div className="framer-xmj7e9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                                          <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                            {T[518]}
-                                          </p>
-                                        </div>
-                                        <div className="framer-btaama-container">
-                                          <button type="button" role="checkbox" aria-checked="false" aria-label={T[519]} style={{ "position": "relative", "width": "13px", "height": "13px", "display": "inline-flex", "alignItems": "center", "justifyContent": "center", "border": "1px solid var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))", "padding": "0", "margin": "0", "borderRadius": "2px", "background": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(23, 22, 22))", "cursor": "pointer", "appearance": "none" }}>
-                                            <svg viewBox="0 0 24 24" width="9" height="9" aria-hidden="true" style={{ "display": "block", "opacity": "0", "transform": "scale(0.6)" }} dangerouslySetInnerHTML={{ __html: "<path d=\"M5 12.5L10 17.5L19 7.5\" fill=\"none\" stroke=\"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>" }} />
-                                          </button>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </InView>
                             </div>
                           </div>
-                          <div className="framer-utqaq6">
-                            <div className="framer-99npy4" data-framer-name="Qualifier" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
-                              <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[520]}
-                              </p>
-                            </div>
-                            <div className="framer-168qn2y-container">
-                              <Lk className="framer-asHOM framer-khCxy framer-1pwzy88 framer-v-1pwzy88 framer-19k8iop" data-framer-name="Default" data-reset="button" href="./contact" style={{ "width": "100%" }} to="/contact">
-                                <div className="framer-1dag8of" data-framer-name="BG Color" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }} />
-                                <div className="framer-1jczrf8" data-framer-name="Text">
-                                  <div className="framer-1ucuywo" data-framer-name="top" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
-                                      {T[521]}
-                                    </p>
-                                  </div>
-                                  <div className="framer-76c8x0" data-framer-name="bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-odJoTSF6e-xZJNPlpYe": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-odJoTSF6e-xZJNPlpYe))" }}>
-                                      {T[522]}
-                                    </p>
-                                  </div>
-                                </div>
-                              </Lk>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                        </VRoot>
+                      </div></PricingProvider>
                   </SV>
                 </div>
               </div>
@@ -4877,22 +4861,74 @@ export function Body() {
                       <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                         <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                            {T[523]}
+                            {T[519]}
                           </p>
                         </div>
                         <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                            {T[524]}
+                            {T[520]}
                           </p>
                         </div>
                       </div>
                     </div>
                     <div className="framer-1f7pes0">
-                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[525]] }]} className="framer-1yriwtq" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[521]] }]} className="framer-1yriwtq" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                       <div className="framer-1gwkvmf">
                         <div className="framer-lxqxb0-container">
                           <div {...{ "xfvgfptcn": "tw5CtHDal" }} className="framer-BcSXX framer-12rngdm framer-v-12rngdm" data-framer-name="FAQ" style={{ "width": "100%" }}>
                             <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.3,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-126jzuy-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
+                                      {T[522]}
+                                    </p>
+                                  </VEl>
+                                  <div className="framer-4atvja-container">
+                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                      </VEl>
+                                    </VRoot>
+                                  </div>
+                                </VEl>
+                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                      {T[523]}
+                                    </p>
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </InView>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.4,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-g64ihk-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
+                                      {T[524]}
+                                    </p>
+                                  </VEl>
+                                  <div className="framer-4atvja-container">
+                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                      </VEl>
+                                    </VRoot>
+                                  </div>
+                                </VEl>
+                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                      {T[525]}
+                                    </p>
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </InView>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.5,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1g1zt2c-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -4918,7 +4954,7 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.4,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-g64ihk-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-8f1u33-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -4944,7 +4980,7 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.5,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1g1zt2c-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1iqftmo-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -4970,7 +5006,7 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-8f1u33-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-p6vj3b-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -4996,58 +5032,6 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1iqftmo-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
-                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
-                                      {T[534]}
-                                    </p>
-                                  </VEl>
-                                  <div className="framer-4atvja-container">
-                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                      </VEl>
-                                    </VRoot>
-                                  </div>
-                                </VEl>
-                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
-                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                      {T[535]}
-                                    </p>
-                                  </div>
-                                </VEl>
-                              </VRoot>
-                            </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-p6vj3b-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
-                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
-                                      {T[536]}
-                                    </p>
-                                  </VEl>
-                                  <div className="framer-4atvja-container">
-                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                      </VEl>
-                                    </VRoot>
-                                  </div>
-                                </VEl>
-                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
-                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                      {T[537]}
-                                    </p>
-                                  </div>
-                                </VEl>
-                              </VRoot>
-                            </InView>
                             <div className="framer-1kp8kba-container" style={{ "transform": "translateX(-50%)" }}>
                               <div data-build="layout-jump-preventer-prod-20260926-01" aria-hidden="true" data-layout-jump-preventer="" style={{ "position": "relative", "pointerEvents": "none" }} />
                             </div>
@@ -5055,10 +5039,10 @@ export function Body() {
                         </div>
                         <div className="framer-k0wudn" data-framer-name="Contact">
                           <div className="framer-fjmwxv">
-                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":1,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h3", attrs: { "className": "framer-text framer-styles-preset-s3qbre", "data-styles-preset": "fXy3B9GKl", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[538]] }]} className="framer-1g3rpwd" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":1,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h3", attrs: { "className": "framer-text framer-styles-preset-s3qbre", "data-styles-preset": "fXy3B9GKl", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[534]] }]} className="framer-1g3rpwd" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                             <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":1,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-16v0v5e" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "willChange": "transform", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[539]}
+                                {T[535]}
                               </p>
                             </InView>
                           </div>
@@ -5097,12 +5081,12 @@ export function Body() {
                                 <div className="framer-1dzfdpz" data-framer-name="Text">
                                   <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                                     <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                      {T[540]}
+                                      {T[536]}
                                     </p>
                                   </div>
                                   <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                                     <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                      {T[541]}
+                                      {T[537]}
                                     </p>
                                   </div>
                                 </div>
@@ -5125,22 +5109,74 @@ export function Body() {
                       <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                         <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                            {T[542]}
+                            {T[538]}
                           </p>
                         </div>
                         <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                            {T[543]}
+                            {T[539]}
                           </p>
                         </div>
                       </div>
                     </div>
                     <div className="framer-1f7pes0">
-                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[544]] }]} className="framer-1yriwtq" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[540]] }]} className="framer-1yriwtq" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                       <div className="framer-1gwkvmf">
                         <div className="framer-lxqxb0-container">
                           <div {...{ "xfvgfptcn": "tw5CtHDal" }} className="framer-BcSXX framer-12rngdm framer-v-12rngdm" data-framer-name="FAQ" style={{ "width": "100%" }}>
                             <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.3,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-126jzuy-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
+                                      {T[541]}
+                                    </p>
+                                  </VEl>
+                                  <div className="framer-4atvja-container">
+                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                      </VEl>
+                                    </VRoot>
+                                  </div>
+                                </VEl>
+                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                      {T[542]}
+                                    </p>
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </InView>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.4,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-g64ihk-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
+                                      {T[543]}
+                                    </p>
+                                  </VEl>
+                                  <div className="framer-4atvja-container">
+                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                      </VEl>
+                                    </VRoot>
+                                  </div>
+                                </VEl>
+                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                      {T[544]}
+                                    </p>
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </InView>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.5,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1g1zt2c-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5166,7 +5202,7 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.4,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-g64ihk-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-8f1u33-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5192,7 +5228,7 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.5,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1g1zt2c-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1iqftmo-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5218,7 +5254,7 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-8f1u33-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-p6vj3b-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                               <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                                 <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                   <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5244,58 +5280,6 @@ export function Body() {
                                 </VEl>
                               </VRoot>
                             </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1iqftmo-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
-                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
-                                      {T[553]}
-                                    </p>
-                                  </VEl>
-                                  <div className="framer-4atvja-container">
-                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                      </VEl>
-                                    </VRoot>
-                                  </div>
-                                </VEl>
-                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
-                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                      {T[554]}
-                                    </p>
-                                  </div>
-                                </VEl>
-                              </VRoot>
-                            </InView>
-                            <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-p6vj3b-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                              <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
-                                <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                  <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
-                                      {T[555]}
-                                    </p>
-                                  </VEl>
-                                  <div className="framer-4atvja-container">
-                                    <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                      <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                        <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                        <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                      </VEl>
-                                    </VRoot>
-                                  </div>
-                                </VEl>
-                                <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
-                                  <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                    <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                      {T[556]}
-                                    </p>
-                                  </div>
-                                </VEl>
-                              </VRoot>
-                            </InView>
                             <div className="framer-1kp8kba-container" style={{ "transform": "translateX(-50%)" }}>
                               <div data-build="layout-jump-preventer-prod-20260926-01" aria-hidden="true" data-layout-jump-preventer="" style={{ "position": "relative", "pointerEvents": "none" }} />
                             </div>
@@ -5303,10 +5287,10 @@ export function Body() {
                         </div>
                         <div className="framer-k0wudn" data-framer-name="Contact">
                           <div className="framer-fjmwxv">
-                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":1,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h3", attrs: { "className": "framer-text framer-styles-preset-s3qbre", "data-styles-preset": "fXy3B9GKl", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[557]] }]} className="framer-1g3rpwd" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":1,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h3", attrs: { "className": "framer-text framer-styles-preset-s3qbre", "data-styles-preset": "fXy3B9GKl", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[553]] }]} className="framer-1g3rpwd" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                             <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":1,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-16v0v5e" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "willChange": "transform", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[558]}
+                                {T[554]}
                               </p>
                             </InView>
                           </div>
@@ -5345,12 +5329,12 @@ export function Body() {
                                 <div className="framer-1dzfdpz" data-framer-name="Text">
                                   <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                                     <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                      {T[559]}
+                                      {T[555]}
                                     </p>
                                   </div>
                                   <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                                     <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                      {T[560]}
+                                      {T[556]}
                                     </p>
                                   </div>
                                 </div>
@@ -5376,22 +5360,74 @@ export function Body() {
                     <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                       <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                          {T[561]}
+                          {T[557]}
                         </p>
                       </div>
                       <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                          {T[562]}
+                          {T[558]}
                         </p>
                       </div>
                     </div>
                   </div>
                   <div className="framer-1f7pes0">
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[563]] }]} className="framer-1yriwtq" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[559]] }]} className="framer-1yriwtq" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                     <div className="framer-1gwkvmf">
                       <div className="framer-lxqxb0-container">
                         <div {...{ "xfvgfptcn": "tw5CtHDal" }} className="framer-BcSXX framer-12rngdm framer-v-12rngdm" data-framer-name="FAQ" style={{ "width": "100%" }}>
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.3,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-126jzuy-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
+                                    {T[560]}
+                                  </p>
+                                </VEl>
+                                <div className="framer-4atvja-container">
+                                  <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                    <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                      <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                      <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                    </VEl>
+                                  </VRoot>
+                                </div>
+                              </VEl>
+                              <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {T[561]}
+                                  </p>
+                                </div>
+                              </VEl>
+                            </VRoot>
+                          </InView>
+                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.4,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-g64ihk-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                            <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
+                                    {T[562]}
+                                  </p>
+                                </VEl>
+                                <div className="framer-4atvja-container">
+                                  <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
+                                    <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
+                                      <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                      <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
+                                    </VEl>
+                                  </VRoot>
+                                </div>
+                              </VEl>
+                              <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {T[563]}
+                                  </p>
+                                </div>
+                              </VEl>
+                            </VRoot>
+                          </InView>
+                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.5,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1g1zt2c-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                             <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                               <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                 <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5417,7 +5453,7 @@ export function Body() {
                               </VEl>
                             </VRoot>
                           </InView>
-                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.4,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-g64ihk-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-8f1u33-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                             <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                               <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                 <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5443,7 +5479,7 @@ export function Body() {
                               </VEl>
                             </VRoot>
                           </InView>
-                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.5,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1g1zt2c-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1iqftmo-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                             <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                               <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                 <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5469,7 +5505,7 @@ export function Body() {
                               </VEl>
                             </VRoot>
                           </InView>
-                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-8f1u33-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
+                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-p6vj3b-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
                             <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
                               <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                                 <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -5495,58 +5531,6 @@ export function Body() {
                               </VEl>
                             </VRoot>
                           </InView>
-                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-1iqftmo-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                            <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
-                              <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
-                                    {T[572]}
-                                  </p>
-                                </VEl>
-                                <div className="framer-4atvja-container">
-                                  <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                    <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                      <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                      <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                    </VEl>
-                                  </VRoot>
-                                </div>
-                              </VEl>
-                              <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
-                                <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                    {T[573]}
-                                  </p>
-                                </div>
-                              </VEl>
-                            </VRoot>
-                          </InView>
-                          <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-p6vj3b-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                            <VRoot as="div" map={{"tw5CtHDal":{"cls":"framer-v-c1bwse","name":"Closed"},"z490WtIIP":{"cls":"framer-v-10s7ezb","name":"Open"}}} initial="tw5CtHDal" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} tap={{"tw5CtHDal":"z490WtIIP","z490WtIIP":"tw5CtHDal"}} className="framer-pOYKh framer-laVYw framer-10s7ezb framer-v-c1bwse" data-framer-name="Closed" data-highlight="true" tabIndex={0} style={{ "--corner-shape-fallback": "1", "cornerShape": "superellipse(1)", "width": "100%" }}>
-                              <VEl as="div" base={{"backgroundColor":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}} variants={{"tw5CtHDal":{"backgroundColor":"var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"}}} className="framer-jfr4il" data-framer-name="Title" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
-                                <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"}} variants={{"tw5CtHDal":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"}}} className="framer-1pe7kbn" data-framer-name="Title" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" }}>
-                                    {T[574]}
-                                  </p>
-                                </VEl>
-                                <div className="framer-4atvja-container">
-                                  <VRoot as="div" map={{"dwfiz8xsn":{"cls":"framer-v-1q1cc5y","name":"Closed"},"k601oOa0D":{"cls":"framer-v-5x09si","name":"Open"}}} initial="dwfiz8xsn" transition={{"delay":0,"duration":0.26,"ease":[0.87,0,0.13,1],"type":"tween"}} follow={{"tw5CtHDal":"dwfiz8xsn","z490WtIIP":"k601oOa0D"}} className="framer-LQ8sa framer-1q1cc5y framer-v-1q1cc5y" data-framer-name="Closed" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "height": "100%", "width": "100%", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }}>
-                                    <VEl as="div" base={{"rotate":0}} variants={{"k601oOa0D":{"rotate":360}}} className="framer-1uijhxj" data-framer-name="Plus" style={{ "transform": "none" }}>
-                                      <div className="framer-17e2lex" data-framer-name="V" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                      <div className="framer-1f2jp2r" data-framer-name="H" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))" }} />
-                                    </VEl>
-                                  </VRoot>
-                                </div>
-                              </VEl>
-                              <VEl as="div" base={{"opacity":1}} variants={{"tw5CtHDal":{"opacity":0}}} className="framer-oupqxc" data-framer-name="Content" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
-                                <div className="framer-12txq6p" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
-                                  <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                    {T[575]}
-                                  </p>
-                                </div>
-                              </VEl>
-                            </VRoot>
-                          </InView>
                           <div className="framer-1kp8kba-container" style={{ "transform": "translateX(-50%)" }}>
                             <div data-build="layout-jump-preventer-prod-20260926-01" aria-hidden="true" data-layout-jump-preventer="" style={{ "position": "relative", "pointerEvents": "none" }} />
                           </div>
@@ -5554,10 +5538,10 @@ export function Body() {
                       </div>
                       <div className="framer-k0wudn" data-framer-name="Contact">
                         <div className="framer-fjmwxv">
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":1,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h3", attrs: { "className": "framer-text framer-styles-preset-s3qbre", "data-styles-preset": "fXy3B9GKl", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[576]] }]} className="framer-1g3rpwd" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":1,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h3", attrs: { "className": "framer-text framer-styles-preset-s3qbre", "data-styles-preset": "fXy3B9GKl", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[572]] }]} className="framer-1g3rpwd" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":1,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-16v0v5e" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "willChange": "transform", "opacity": "0", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                              {T[577]}
+                              {T[573]}
                             </p>
                           </InView>
                         </div>
@@ -5596,12 +5580,12 @@ export function Body() {
                               <div className="framer-1dzfdpz" data-framer-name="Text">
                                 <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                    {T[578]}
+                                    {T[574]}
                                   </p>
                                 </div>
                                 <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                    {T[579]}
+                                    {T[575]}
                                   </p>
                                 </div>
                               </div>
@@ -5641,12 +5625,12 @@ export function Body() {
                           <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                             <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                                {T[580]}
+                                {T[576]}
                               </p>
                             </div>
                             <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                                {T[581]}
+                                {T[577]}
                               </p>
                             </div>
                           </div>
@@ -5683,9 +5667,9 @@ export function Body() {
                           </div>
                           <div className="framer-11fc1lh" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                              {T[582]}
+                              {T[578]}
                               <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[583]}
+                                {T[579]}
                               </span>
                             </p>
                           </div>
@@ -5694,18 +5678,18 @@ export function Body() {
                           <div className="framer-QRwP7 framer-QoPvp framer-1kijlsy framer-v-1kijlsy" data-framer-name="Author" style={{ "width": "100%" }}>
                             <div className="framer-1ldgocu" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[584]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                                <img decoding="async" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[580]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                               </div>
                             </div>
                             <div className="framer-lpw2kj" data-framer-name="Name / Role">
                               <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
-                                  {T[585]}
+                                  {T[581]}
                                 </p>
                               </div>
                               <div className="framer-t6pkcg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-DrFk2xWcP-TJ9zZTo1g)", "--variable-reference-DrFk2xWcP-TJ9zZTo1g": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-DrFk2xWcP-TJ9zZTo1g))" }}>
-                                  {T[586]}
+                                  {T[582]}
                                 </p>
                               </div>
                             </div>
@@ -5716,96 +5700,96 @@ export function Body() {
                         <div className="framer-13uprae" data-framer-name="Filler" />
                         <div className="framer-sec3t8" data-framer-name="Heading / Form">
                           <div className="framer-11w2tx5" data-framer-name="Heading / Description">
-                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[587], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[588] }, T[589]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
-                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[590], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[591] }, T[592]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
+                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[583], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[584] }, T[585]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
+                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[586], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[587] }, T[588]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
                           </div>
                           <div className="framer-behbyg" data-framer-name="Form / Contact Info">
                             <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-13sow98-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
                               <VRoot as="div" map={{"ecW7wXnOV":{"cls":"framer-v-hothbd","name":"Error"},"Esh2uhvll":{"cls":"framer-v-5vpfx1","name":"Success"},"NgDnrA0wF":{"cls":"framer-v-11230cp","name":"Default"},"SHEQP1pE0":{"cls":"framer-v-99qclq","name":"Loading"}}} initial="NgDnrA0wF" transition={{"delay":0,"duration":0.6,"ease":[0.87,0,0.13,1],"type":"tween"}} events={{"loading":"SHEQP1pE0","error":"ecW7wXnOV","success":"Esh2uhvll"}} className="framer-KEC63 framer-khCxy framer-QoPvp framer-xYquH framer-11230cp framer-v-11230cp" data-framer-name="Default" style={{ "maxWidth": "100%", "width": "100%" }}>
-                                <div className="framer-1i55y59-container" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                <VEl as="div" base={{"opacity":0}} variants={{"SHEQP1pE0":{"opacity":1}}} className="framer-1i55y59-container" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
                                   <div className="framer-pEZXs framer-7sj87n framer-v-7sj87n" data-framer-name="Spinner">
                                     <div className="framer-1yqlm52" data-framer-name="Spinner" style={{ "mask": "url('/assets/icons/aUWUtcn3fJZH3ENCarDzP6b2ryQ.svg') alpha no-repeat center / cover add", "WebkitMask": "url('/assets/icons/aUWUtcn3fJZH3ENCarDzP6b2ryQ.svg') alpha no-repeat center / cover add" }}>
                                       <div className="framer-1m1l9lh" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "50%", "borderBottomRightRadius": "50%", "borderTopLeftRadius": "50%", "borderTopRightRadius": "50%" }} />
                                     </div>
                                   </div>
-                                </div>
+                                </VEl>
                                 <FormFx kind="home" vel base={{"filter":"none","opacity":1,"scale":1,"WebkitFilter":"none"}} variants={{"ecW7wXnOV":{"filter":"none","opacity":1,"scale":1,"WebkitFilter":"none"},"Esh2uhvll":{"filter":"blur(5px)","opacity":0.35,"scale":0.95,"WebkitFilter":"blur(5px)"},"SHEQP1pE0":{"filter":"blur(5px)","scale":0.95,"WebkitFilter":"blur(5px)"}}} className="framer-3onib8" data-highlight="true" method="post" data-framer-form="" style={{ "filter": "none", "WebkitFilter": "none", "opacity": "1", "transform": "none" }}>
                                   <VEl as="div" base={{"opacity":1}} variants={{"ecW7wXnOV":{"opacity":0.5}}} className="framer-17d941x" data-framer-name="Fields" style={{ "opacity": "1" }}>
                                     <div className="framer-1c5kg59" data-framer-name="Name / Company" style={{ "--1jqv5zi": "1 0 0px", "--tze0fu": "1px", "--xa888v": "row" }}>
                                       <label className="framer-myo4nu" data-framer-name="Name">
                                         <div className="framer-fvxa39" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                            {T[593]}
+                                            {T[589]}
                                           </p>
                                         </div>
                                         <div className="framer-form-text-input framer-form-input-wrapper framer-d692lq framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                          <input type="text" required name="Name" placeholder={T[594]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                          <input type="text" required name="Name" placeholder={T[590]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                         </div>
                                       </label>
                                       <label className="framer-c41om3" data-framer-name="Company">
                                         <div className="framer-1ghdy9u" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                            {T[595]}
+                                            {T[591]}
                                           </p>
                                         </div>
                                         <div className="framer-form-text-input framer-form-input-wrapper framer-er8fe framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                          <input type="text" name="Company" placeholder={T[596]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                          <input type="text" name="Company" placeholder={T[592]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                         </div>
                                       </label>
                                     </div>
                                     <label className="framer-ausbnb" data-framer-name="Help With">
                                       <div className="framer-17k9ytc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[597]}
+                                          {T[593]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-1qo6tv9 framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" name="I need help with" placeholder={T[598]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="I need help with" placeholder={T[594]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-3t0b9d" data-framer-name="Pitch">
                                       <div className="framer-fgq56l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[599]}
+                                          {T[595]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-9t7fli framer-form-textarea-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                        <textarea required name="Pitch" placeholder={T[600]} className="framer-form-input" />
+                                        <textarea required name="Pitch" placeholder={T[596]} className="framer-form-input" />
                                       </div>
                                     </label>
                                     <div className="framer-1lq4m9b" data-framer-name="Budget & Timeline" style={{ "--1jqv5zi": "1 0 0px", "--tze0fu": "1px", "--xa888v": "row" }}>
                                       <label className="framer-mvvosq" data-framer-name="Budget">
                                         <div className="framer-16h4pdc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                            {T[601]}
+                                            {T[597]}
                                           </p>
                                         </div>
                                         <div className="framer-form-text-input framer-form-input-wrapper framer-km6j1d framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                          <input type="text" name="Budget" placeholder={T[602]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                          <input type="text" name="Budget" placeholder={T[598]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                         </div>
                                       </label>
                                       <label className="framer-78o1yk" data-framer-name="Start">
                                         <div className="framer-k2st13" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                            {T[603]}
+                                            {T[599]}
                                           </p>
                                         </div>
                                         <div className="framer-form-input-wrapper framer-form-select-wrapper framer-btzrlz" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-color": "rgb(153, 153, 153)", "--framer-input-invalid-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
                                           <select name="Start" required className="framer-form-input">
                                             <option value="" disabled>
-                                              {T[604]}
+                                              {T[600]}
                                             </option>
                                             <option value="ASAP">
-                                              {T[605]}
+                                              {T[601]}
                                             </option>
                                             <option value="Within a month">
-                                              {T[606]}
+                                              {T[602]}
                                             </option>
                                             <option value="This quarter">
-                                              {T[607]}
+                                              {T[603]}
                                             </option>
                                             <option value="Just exploring">
-                                              {T[608]}
+                                              {T[604]}
                                             </option>
                                           </select>
                                         </div>
@@ -5814,11 +5798,11 @@ export function Body() {
                                     <label className="framer-u8bpr7" data-framer-name="Email">
                                       <div className="framer-1ikczjy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[609]}
+                                          {T[605]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-e811z7" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="email" required name="Email" placeholder={T[610]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="email" required name="Email" placeholder={T[606]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                   </VEl>
@@ -5826,22 +5810,22 @@ export function Body() {
                                     <div className="framer-mrpb47" data-framer-name="Legal">
                                       <div className="framer-1mzwcwg" data-framer-component-type="RichTextContainer" style={{ "--extracted-3sq8v0": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[611]}
+                                          {T[607]}
                                           <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="./terms-conditions" to="/terms-conditions">
-                                            {T[612]}
+                                            {T[608]}
                                           </Lk>
-                                          {T[613]}
+                                          {T[609]}
                                           <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                            {T[614]}
+                                            {T[610]}
                                           </span>
                                           <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="./privacy-policy" to="/privacy-policy">
-                                            {T[615]}
+                                            {T[611]}
                                           </Lk>
                                         </p>
                                       </div>
                                     </div>
                                     <div className="framer-16ay88s-container">
-                                      <FormButtonFx label={T[616]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
+                                      <FormButtonFx label={T[612]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
                                     </div>
                                   </div>
                                   <input type="text" name="website" tabIndex={-1} autoComplete="one-time-code" aria-hidden="true" style={{ "position": "absolute", "transform": "scale(0)" }} data-1p-ignore="true" data-lpignore="true" data-form-type="other" data-bwignore="true" defaultValue="" />
@@ -5863,14 +5847,14 @@ export function Body() {
                                 <div className="framer-irhihs" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-ervepf" data-styles-preset="SM8X5ezGX" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                     <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="tel:+18054501432" target="_blank" rel="">
-                                      {T[617]}
+                                      {T[613]}
                                     </a>
                                   </p>
                                 </div>
                                 <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                     <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
-                                      {T[618]}
+                                      {T[614]}
                                     </a>
                                   </p>
                                 </div>
@@ -5887,19 +5871,19 @@ export function Body() {
                             <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                  {T[619]}
+                                  {T[615]}
                                 </p>
                               </div>
                             </div>
                             <div className="framer-re0eey" data-framer-name="Text">
                               <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[620]}
+                                  {T[616]}
                                 </p>
                               </div>
                               <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                  {T[621]}
+                                  {T[617]}
                                 </p>
                               </div>
                             </div>
@@ -5910,19 +5894,19 @@ export function Body() {
                             <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                  {T[622]}
+                                  {T[618]}
                                 </p>
                               </div>
                             </div>
                             <div className="framer-re0eey" data-framer-name="Text">
                               <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[623]}
+                                  {T[619]}
                                 </p>
                               </div>
                               <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                  {T[624]}
+                                  {T[620]}
                                 </p>
                               </div>
                             </div>
@@ -5933,19 +5917,19 @@ export function Body() {
                             <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                  {T[625]}
+                                  {T[621]}
                                 </p>
                               </div>
                             </div>
                             <div className="framer-re0eey" data-framer-name="Text">
                               <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[626]}
+                                  {T[622]}
                                 </p>
                               </div>
                               <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                  {T[627]}
+                                  {T[623]}
                                 </p>
                               </div>
                             </div>
@@ -5977,12 +5961,12 @@ export function Body() {
                           <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                             <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                                {T[628]}
+                                {T[624]}
                               </p>
                             </div>
                             <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                                {T[629]}
+                                {T[625]}
                               </p>
                             </div>
                           </div>
@@ -6019,9 +6003,9 @@ export function Body() {
                           </div>
                           <div className="framer-11fc1lh" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                              {T[630]}
+                              {T[626]}
                               <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[631]}
+                                {T[627]}
                               </span>
                             </p>
                           </div>
@@ -6030,18 +6014,18 @@ export function Body() {
                           <div className="framer-QRwP7 framer-QoPvp framer-1kijlsy framer-v-1kijlsy" data-framer-name="Author" style={{ "width": "100%" }}>
                             <div className="framer-1ldgocu" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[632]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                                <img decoding="async" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[628]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                               </div>
                             </div>
                             <div className="framer-lpw2kj" data-framer-name="Name / Role">
                               <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
-                                  {T[633]}
+                                  {T[629]}
                                 </p>
                               </div>
                               <div className="framer-t6pkcg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-DrFk2xWcP-TJ9zZTo1g)", "--variable-reference-DrFk2xWcP-TJ9zZTo1g": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-DrFk2xWcP-TJ9zZTo1g))" }}>
-                                  {T[634]}
+                                  {T[630]}
                                 </p>
                               </div>
                             </div>
@@ -6051,96 +6035,96 @@ export function Body() {
                       <div className="framer-1vtoytd" data-framer-name="Middle">
                         <div className="framer-sec3t8" data-framer-name="Heading / Form">
                           <div className="framer-11w2tx5" data-framer-name="Heading / Description">
-                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[635], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[636] }, T[637]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
-                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[638], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[639] }, T[640]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
+                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[631], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[632] }, T[633]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
+                            <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[634], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[635] }, T[636]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
                           </div>
                           <div className="framer-behbyg" data-framer-name="Form / Contact Info">
                             <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-13sow98-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
                               <VRoot as="div" map={{"ecW7wXnOV":{"cls":"framer-v-hothbd","name":"Error"},"Esh2uhvll":{"cls":"framer-v-5vpfx1","name":"Success"},"NgDnrA0wF":{"cls":"framer-v-11230cp","name":"Default"},"SHEQP1pE0":{"cls":"framer-v-99qclq","name":"Loading"}}} initial="NgDnrA0wF" transition={{"delay":0,"duration":0.6,"ease":[0.87,0,0.13,1],"type":"tween"}} events={{"loading":"SHEQP1pE0","error":"ecW7wXnOV","success":"Esh2uhvll"}} className="framer-KEC63 framer-khCxy framer-QoPvp framer-xYquH framer-11230cp framer-v-11230cp" data-framer-name="Default" style={{ "maxWidth": "100%", "width": "100%" }}>
-                                <div className="framer-1i55y59-container" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                                <VEl as="div" base={{"opacity":0}} variants={{"SHEQP1pE0":{"opacity":1}}} className="framer-1i55y59-container" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
                                   <div className="framer-pEZXs framer-7sj87n framer-v-7sj87n" data-framer-name="Spinner">
                                     <div className="framer-1yqlm52" data-framer-name="Spinner" style={{ "mask": "url('/assets/icons/aUWUtcn3fJZH3ENCarDzP6b2ryQ.svg') alpha no-repeat center / cover add", "WebkitMask": "url('/assets/icons/aUWUtcn3fJZH3ENCarDzP6b2ryQ.svg') alpha no-repeat center / cover add" }}>
                                       <div className="framer-1m1l9lh" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "50%", "borderBottomRightRadius": "50%", "borderTopLeftRadius": "50%", "borderTopRightRadius": "50%" }} />
                                     </div>
                                   </div>
-                                </div>
+                                </VEl>
                                 <FormFx kind="home" vel base={{"filter":"none","opacity":1,"scale":1,"WebkitFilter":"none"}} variants={{"ecW7wXnOV":{"filter":"none","opacity":1,"scale":1,"WebkitFilter":"none"},"Esh2uhvll":{"filter":"blur(5px)","opacity":0.35,"scale":0.95,"WebkitFilter":"blur(5px)"},"SHEQP1pE0":{"filter":"blur(5px)","scale":0.95,"WebkitFilter":"blur(5px)"}}} className="framer-3onib8" data-highlight="true" method="post" data-framer-form="" style={{ "filter": "none", "WebkitFilter": "none", "opacity": "1", "transform": "none" }}>
                                   <VEl as="div" base={{"opacity":1}} variants={{"ecW7wXnOV":{"opacity":0.5}}} className="framer-17d941x" data-framer-name="Fields" style={{ "opacity": "1" }}>
                                     <div className="framer-1c5kg59" data-framer-name="Name / Company" style={{ "--1jqv5zi": "1 0 0px", "--tze0fu": "1px", "--xa888v": "row" }}>
                                       <label className="framer-myo4nu" data-framer-name="Name">
                                         <div className="framer-fvxa39" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                            {T[641]}
+                                            {T[637]}
                                           </p>
                                         </div>
                                         <div className="framer-form-text-input framer-form-input-wrapper framer-d692lq framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                          <input type="text" required name="Name" placeholder={T[642]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                          <input type="text" required name="Name" placeholder={T[638]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                         </div>
                                       </label>
                                       <label className="framer-c41om3" data-framer-name="Company">
                                         <div className="framer-1ghdy9u" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                            {T[643]}
+                                            {T[639]}
                                           </p>
                                         </div>
                                         <div className="framer-form-text-input framer-form-input-wrapper framer-er8fe framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                          <input type="text" name="Company" placeholder={T[644]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                          <input type="text" name="Company" placeholder={T[640]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                         </div>
                                       </label>
                                     </div>
                                     <label className="framer-ausbnb" data-framer-name="Help With">
                                       <div className="framer-17k9ytc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[645]}
+                                          {T[641]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-1qo6tv9 framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" name="I need help with" placeholder={T[646]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="I need help with" placeholder={T[642]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-3t0b9d" data-framer-name="Pitch">
                                       <div className="framer-fgq56l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[647]}
+                                          {T[643]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-9t7fli framer-form-textarea-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                        <textarea required name="Pitch" placeholder={T[648]} className="framer-form-input" />
+                                        <textarea required name="Pitch" placeholder={T[644]} className="framer-form-input" />
                                       </div>
                                     </label>
                                     <div className="framer-1lq4m9b" data-framer-name="Budget & Timeline" style={{ "--1jqv5zi": "1 0 0px", "--tze0fu": "1px", "--xa888v": "row" }}>
                                       <label className="framer-mvvosq" data-framer-name="Budget">
                                         <div className="framer-16h4pdc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                            {T[649]}
+                                            {T[645]}
                                           </p>
                                         </div>
                                         <div className="framer-form-text-input framer-form-input-wrapper framer-km6j1d framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                          <input type="text" name="Budget" placeholder={T[650]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                          <input type="text" name="Budget" placeholder={T[646]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                         </div>
                                       </label>
                                       <label className="framer-78o1yk" data-framer-name="Start">
                                         <div className="framer-k2st13" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                           <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                            {T[651]}
+                                            {T[647]}
                                           </p>
                                         </div>
                                         <div className="framer-form-input-wrapper framer-form-select-wrapper framer-btzrlz" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-color": "rgb(153, 153, 153)", "--framer-input-invalid-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
                                           <select name="Start" required className="framer-form-input">
                                             <option value="" disabled>
-                                              {T[652]}
+                                              {T[648]}
                                             </option>
                                             <option value="ASAP">
-                                              {T[653]}
+                                              {T[649]}
                                             </option>
                                             <option value="Within a month">
-                                              {T[654]}
+                                              {T[650]}
                                             </option>
                                             <option value="This quarter">
-                                              {T[655]}
+                                              {T[651]}
                                             </option>
                                             <option value="Just exploring">
-                                              {T[656]}
+                                              {T[652]}
                                             </option>
                                           </select>
                                         </div>
@@ -6149,11 +6133,11 @@ export function Body() {
                                     <label className="framer-u8bpr7" data-framer-name="Email">
                                       <div className="framer-1ikczjy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[657]}
+                                          {T[653]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-e811z7" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="email" required name="Email" placeholder={T[658]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="email" required name="Email" placeholder={T[654]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                   </VEl>
@@ -6161,22 +6145,22 @@ export function Body() {
                                     <div className="framer-mrpb47" data-framer-name="Legal">
                                       <div className="framer-1mzwcwg" data-framer-component-type="RichTextContainer" style={{ "--extracted-3sq8v0": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                          {T[659]}
+                                          {T[655]}
                                           <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="./terms-conditions" to="/terms-conditions">
-                                            {T[660]}
+                                            {T[656]}
                                           </Lk>
-                                          {T[661]}
+                                          {T[657]}
                                           <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                            {T[662]}
+                                            {T[658]}
                                           </span>
                                           <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="./privacy-policy" to="/privacy-policy">
-                                            {T[663]}
+                                            {T[659]}
                                           </Lk>
                                         </p>
                                       </div>
                                     </div>
                                     <div className="framer-16ay88s-container">
-                                      <FormButtonFx label={T[664]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
+                                      <FormButtonFx label={T[660]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
                                     </div>
                                   </div>
                                   <input type="text" name="website" tabIndex={-1} autoComplete="one-time-code" aria-hidden="true" style={{ "position": "absolute", "transform": "scale(0)" }} data-1p-ignore="true" data-lpignore="true" data-form-type="other" data-bwignore="true" defaultValue="" />
@@ -6198,14 +6182,14 @@ export function Body() {
                                 <div className="framer-irhihs" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-ervepf" data-styles-preset="SM8X5ezGX" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                     <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="tel:+18054501432" target="_blank" rel="">
-                                      {T[665]}
+                                      {T[661]}
                                     </a>
                                   </p>
                                 </div>
                                 <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                     <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
-                                      {T[666]}
+                                      {T[662]}
                                     </a>
                                   </p>
                                 </div>
@@ -6221,19 +6205,19 @@ export function Body() {
                             <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                  {T[667]}
+                                  {T[663]}
                                 </p>
                               </div>
                             </div>
                             <div className="framer-re0eey" data-framer-name="Text">
                               <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[668]}
+                                  {T[664]}
                                 </p>
                               </div>
                               <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                  {T[669]}
+                                  {T[665]}
                                 </p>
                               </div>
                             </div>
@@ -6244,19 +6228,19 @@ export function Body() {
                             <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                  {T[670]}
+                                  {T[666]}
                                 </p>
                               </div>
                             </div>
                             <div className="framer-re0eey" data-framer-name="Text">
                               <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[671]}
+                                  {T[667]}
                                 </p>
                               </div>
                               <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                  {T[672]}
+                                  {T[668]}
                                 </p>
                               </div>
                             </div>
@@ -6267,19 +6251,19 @@ export function Body() {
                             <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                  {T[673]}
+                                  {T[669]}
                                 </p>
                               </div>
                             </div>
                             <div className="framer-re0eey" data-framer-name="Text">
                               <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[674]}
+                                  {T[670]}
                                 </p>
                               </div>
                               <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                  {T[675]}
+                                  {T[671]}
                                 </p>
                               </div>
                             </div>
@@ -6314,12 +6298,12 @@ export function Body() {
                         <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                           <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                              {T[676]}
+                              {T[672]}
                             </p>
                           </div>
                           <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                              {T[677]}
+                              {T[673]}
                             </p>
                           </div>
                         </div>
@@ -6356,9 +6340,9 @@ export function Body() {
                         </div>
                         <div className="framer-11fc1lh" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                            {T[678]}
+                            {T[674]}
                             <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                              {T[679]}
+                              {T[675]}
                             </span>
                           </p>
                         </div>
@@ -6367,18 +6351,18 @@ export function Body() {
                         <div className="framer-QRwP7 framer-QoPvp framer-1kijlsy framer-v-1kijlsy" data-framer-name="Author" style={{ "width": "100%" }}>
                           <div className="framer-1ldgocu" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                              <img decoding="async" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[680]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                              <img decoding="async" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[676]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                             </div>
                           </div>
                           <div className="framer-lpw2kj" data-framer-name="Name / Role">
                             <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
-                                {T[681]}
+                                {T[677]}
                               </p>
                             </div>
                             <div className="framer-t6pkcg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-DrFk2xWcP-TJ9zZTo1g)", "--variable-reference-DrFk2xWcP-TJ9zZTo1g": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-DrFk2xWcP-TJ9zZTo1g))" }}>
-                                {T[682]}
+                                {T[678]}
                               </p>
                             </div>
                           </div>
@@ -6388,96 +6372,96 @@ export function Body() {
                     <div className="framer-1vtoytd" data-framer-name="Middle">
                       <div className="framer-sec3t8" data-framer-name="Heading / Form">
                         <div className="framer-11w2tx5" data-framer-name="Heading / Description">
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[683], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[684] }, T[685]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[686], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[687] }, T[688]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[679], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[680] }, T[681]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[682], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[683] }, T[684]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
                         </div>
                         <div className="framer-behbyg" data-framer-name="Form / Contact Info">
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-13sow98-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
                             <VRoot as="div" map={{"ecW7wXnOV":{"cls":"framer-v-hothbd","name":"Error"},"Esh2uhvll":{"cls":"framer-v-5vpfx1","name":"Success"},"NgDnrA0wF":{"cls":"framer-v-11230cp","name":"Default"},"SHEQP1pE0":{"cls":"framer-v-99qclq","name":"Loading"}}} initial="NgDnrA0wF" transition={{"delay":0,"duration":0.6,"ease":[0.87,0,0.13,1],"type":"tween"}} events={{"loading":"SHEQP1pE0","error":"ecW7wXnOV","success":"Esh2uhvll"}} className="framer-KEC63 framer-khCxy framer-QoPvp framer-xYquH framer-11230cp framer-v-11230cp" data-framer-name="Default" style={{ "maxWidth": "100%", "width": "100%" }}>
-                              <div className="framer-1i55y59-container" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
+                              <VEl as="div" base={{"opacity":0}} variants={{"SHEQP1pE0":{"opacity":1}}} className="framer-1i55y59-container" style={{ "opacity": "0", "transform": "translate(-50%, -50%)" }}>
                                 <div className="framer-pEZXs framer-7sj87n framer-v-7sj87n" data-framer-name="Spinner">
                                   <div className="framer-1yqlm52" data-framer-name="Spinner" style={{ "mask": "url('/assets/icons/aUWUtcn3fJZH3ENCarDzP6b2ryQ.svg') alpha no-repeat center / cover add", "WebkitMask": "url('/assets/icons/aUWUtcn3fJZH3ENCarDzP6b2ryQ.svg') alpha no-repeat center / cover add" }}>
                                     <div className="framer-1m1l9lh" style={{ "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "borderBottomLeftRadius": "50%", "borderBottomRightRadius": "50%", "borderTopLeftRadius": "50%", "borderTopRightRadius": "50%" }} />
                                   </div>
                                 </div>
-                              </div>
+                              </VEl>
                               <FormFx kind="home" vel base={{"filter":"none","opacity":1,"scale":1,"WebkitFilter":"none"}} variants={{"ecW7wXnOV":{"filter":"none","opacity":1,"scale":1,"WebkitFilter":"none"},"Esh2uhvll":{"filter":"blur(5px)","opacity":0.35,"scale":0.95,"WebkitFilter":"blur(5px)"},"SHEQP1pE0":{"filter":"blur(5px)","scale":0.95,"WebkitFilter":"blur(5px)"}}} className="framer-3onib8" data-highlight="true" method="post" data-framer-form="" style={{ "filter": "none", "WebkitFilter": "none", "opacity": "1", "transform": "none" }}>
                                 <VEl as="div" base={{"opacity":1}} variants={{"ecW7wXnOV":{"opacity":0.5}}} className="framer-17d941x" data-framer-name="Fields" style={{ "opacity": "1" }}>
                                   <div className="framer-1c5kg59" data-framer-name="Name / Company" style={{ "--tze0fu": "100%", "--xa888v": "column" }}>
                                     <label className="framer-myo4nu" data-framer-name="Name">
                                       <div className="framer-fvxa39" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[689]}
+                                          {T[685]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-d692lq framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" required name="Name" placeholder={T[690]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" required name="Name" placeholder={T[686]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-c41om3" data-framer-name="Company">
                                       <div className="framer-1ghdy9u" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[691]}
+                                          {T[687]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-er8fe framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" name="Company" placeholder={T[692]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Company" placeholder={T[688]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                   </div>
                                   <label className="framer-ausbnb" data-framer-name="Help With">
                                     <div className="framer-17k9ytc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[693]}
+                                        {T[689]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-1qo6tv9 framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="text" name="I need help with" placeholder={T[694]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="text" name="I need help with" placeholder={T[690]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                   <label className="framer-3t0b9d" data-framer-name="Pitch">
                                     <div className="framer-fgq56l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[695]}
+                                        {T[691]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-9t7fli framer-form-textarea-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                      <textarea required name="Pitch" placeholder={T[696]} className="framer-form-input" />
+                                      <textarea required name="Pitch" placeholder={T[692]} className="framer-form-input" />
                                     </div>
                                   </label>
                                   <div className="framer-1lq4m9b" data-framer-name="Budget & Timeline" style={{ "--tze0fu": "100%", "--xa888v": "column" }}>
                                     <label className="framer-mvvosq" data-framer-name="Budget">
                                       <div className="framer-16h4pdc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[697]}
+                                          {T[693]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-km6j1d framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                        <input type="text" name="Budget" placeholder={T[698]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Budget" placeholder={T[694]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-78o1yk" data-framer-name="Start">
                                       <div className="framer-k2st13" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[699]}
+                                          {T[695]}
                                         </p>
                                       </div>
                                       <div className="framer-form-input-wrapper framer-form-select-wrapper framer-btzrlz" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-color": "rgb(153, 153, 153)", "--framer-input-invalid-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
                                         <select name="Start" required className="framer-form-input">
                                           <option value="" disabled>
-                                            {T[700]}
+                                            {T[696]}
                                           </option>
                                           <option value="ASAP">
-                                            {T[701]}
+                                            {T[697]}
                                           </option>
                                           <option value="Within a month">
-                                            {T[702]}
+                                            {T[698]}
                                           </option>
                                           <option value="This quarter">
-                                            {T[703]}
+                                            {T[699]}
                                           </option>
                                           <option value="Just exploring">
-                                            {T[704]}
+                                            {T[700]}
                                           </option>
                                         </select>
                                       </div>
@@ -6486,11 +6470,11 @@ export function Body() {
                                   <label className="framer-u8bpr7" data-framer-name="Email">
                                     <div className="framer-1ikczjy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                        {T[705]}
+                                        {T[701]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-e811z7" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="email" required name="Email" placeholder={T[706]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="email" required name="Email" placeholder={T[702]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                 </VEl>
@@ -6498,22 +6482,22 @@ export function Body() {
                                   <div className="framer-mrpb47" data-framer-name="Legal">
                                     <div className="framer-1mzwcwg" data-framer-component-type="RichTextContainer" style={{ "--extracted-3sq8v0": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                        {T[707]}
+                                        {T[703]}
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="./terms-conditions" to="/terms-conditions">
-                                          {T[708]}
+                                          {T[704]}
                                         </Lk>
-                                        {T[709]}
+                                        {T[705]}
                                         <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                          {T[710]}
+                                          {T[706]}
                                         </span>
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="./privacy-policy" to="/privacy-policy">
-                                          {T[711]}
+                                          {T[707]}
                                         </Lk>
                                       </p>
                                     </div>
                                   </div>
                                   <div className="framer-16ay88s-container">
-                                    <FormButtonFx label={T[712]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
+                                    <FormButtonFx label={T[708]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
                                   </div>
                                 </div>
                                 <input type="text" name="website" tabIndex={-1} autoComplete="one-time-code" aria-hidden="true" style={{ "position": "absolute", "transform": "scale(0)" }} data-1p-ignore="true" data-lpignore="true" data-form-type="other" data-bwignore="true" defaultValue="" />
@@ -6535,14 +6519,14 @@ export function Body() {
                               <div className="framer-irhihs" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-ervepf" data-styles-preset="SM8X5ezGX" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="tel:+18054501432" target="_blank" rel="">
-                                    {T[713]}
+                                    {T[709]}
                                   </a>
                                 </p>
                               </div>
                               <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
-                                    {T[714]}
+                                    {T[710]}
                                   </a>
                                 </p>
                               </div>
@@ -6558,19 +6542,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[715]}
+                                {T[711]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[716]}
+                                {T[712]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[717]}
+                                {T[713]}
                               </p>
                             </div>
                           </div>
@@ -6581,19 +6565,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[718]}
+                                {T[714]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[719]}
+                                {T[715]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[720]}
+                                {T[716]}
                               </p>
                             </div>
                           </div>
@@ -6604,19 +6588,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[721]}
+                                {T[717]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[722]}
+                                {T[718]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[723]}
+                                {T[719]}
                               </p>
                             </div>
                           </div>
@@ -6640,29 +6624,29 @@ export function Body() {
                           <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                             <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                                {T[724]}
+                                {T[720]}
                               </p>
                             </div>
                             <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                                {T[725]}
+                                {T[721]}
                               </p>
                             </div>
                           </div>
                         </div>
-                        <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[726]] }]} className="framer-3j1snh" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                        <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[722]] }]} className="framer-3j1snh" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                       </div>
                       <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-151hr3l-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
                         <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07" data-framer-name="Desktop - Right" href="./journal" to="/journal">
                           <div className="framer-1dzfdpz" data-framer-name="Text">
                             <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[727]}
+                                {T[723]}
                               </p>
                             </div>
                             <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[728]}
+                                {T[724]}
                               </p>
                             </div>
                           </div>
@@ -6678,18 +6662,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[729]}
+                                {T[725]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "1.4336198662846227", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[730]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[726]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.4336198662846227", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[731]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[727]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -6697,13 +6681,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[732]}
+                                {T[728]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-06-15T00:00:00.000Z">
-                                  {T[733]}
+                                  {T[729]}
                                 </time>
                               </p>
                             </div>
@@ -6715,18 +6699,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[734]}
+                                {T[730]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "0.7533333333333333", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[735]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[731]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "0.7533333333333333", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[736]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[732]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -6734,13 +6718,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[737]}
+                                {T[733]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-05-05T00:00:00.000Z">
-                                  {T[738]}
+                                  {T[734]}
                                 </time>
                               </p>
                             </div>
@@ -6752,18 +6736,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[739]}
+                                {T[735]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "1.7770034843205575", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[740]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[736]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7770034843205575", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[741]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[737]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -6771,13 +6755,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[742]}
+                                {T[738]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-04-03T00:00:00.000Z">
-                                  {T[743]}
+                                  {T[739]}
                                 </time>
                               </p>
                             </div>
@@ -6789,18 +6773,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[744]}
+                                {T[740]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "0.753062224399804", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[745]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[741]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "0.753062224399804", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[746]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[742]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -6808,13 +6792,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[747]}
+                                {T[743]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-03-20T00:00:00.000Z">
-                                  {T[748]}
+                                  {T[744]}
                                 </time>
                               </p>
                             </div>
@@ -6835,29 +6819,29 @@ export function Body() {
                           <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                             <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                                {T[749]}
+                                {T[745]}
                               </p>
                             </div>
                             <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                                {T[750]}
+                                {T[746]}
                               </p>
                             </div>
                           </div>
                         </div>
-                        <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[751]] }]} className="framer-3j1snh" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                        <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[747]] }]} className="framer-3j1snh" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                       </div>
                       <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-151hr3l-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
                         <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07" data-framer-name="Desktop - Right" href="./journal" to="/journal">
                           <div className="framer-1dzfdpz" data-framer-name="Text">
                             <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[752]}
+                                {T[748]}
                               </p>
                             </div>
                             <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[753]}
+                                {T[749]}
                               </p>
                             </div>
                           </div>
@@ -6873,18 +6857,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[754]}
+                                {T[750]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "1.4336198662846227", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[755]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[751]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.4336198662846227", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[756]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[752]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -6892,13 +6876,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[757]}
+                                {T[753]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-06-15T00:00:00.000Z">
-                                  {T[758]}
+                                  {T[754]}
                                 </time>
                               </p>
                             </div>
@@ -6910,18 +6894,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[759]}
+                                {T[755]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "0.7533333333333333", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[760]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[756]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "0.7533333333333333", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[761]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[757]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -6929,13 +6913,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[762]}
+                                {T[758]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-05-05T00:00:00.000Z">
-                                  {T[763]}
+                                  {T[759]}
                                 </time>
                               </p>
                             </div>
@@ -6947,18 +6931,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[764]}
+                                {T[760]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "1.7770034843205575", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[765]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[761]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7770034843205575", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[766]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[762]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -6966,13 +6950,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[767]}
+                                {T[763]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-04-03T00:00:00.000Z">
-                                  {T[768]}
+                                  {T[764]}
                                 </time>
                               </p>
                             </div>
@@ -6984,18 +6968,18 @@ export function Body() {
                           <div className="framer-1mffi2y" data-framer-name="Category / Image">
                             <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                {T[769]}
+                                {T[765]}
                               </p>
                             </div>
                             <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "0.753062224399804", "transform": "none" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[770]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[766]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                               <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "0.753062224399804", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                                 <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[771]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[767]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                                 </div>
                               </div>
                             </div>
@@ -7003,13 +6987,13 @@ export function Body() {
                           <div className="framer-3pqa2g" data-framer-name="Title / Date">
                             <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                                {T[772]}
+                                {T[768]}
                               </p>
                             </div>
                             <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                                 <time dateTime="2026-03-20T00:00:00.000Z">
-                                  {T[773]}
+                                  {T[769]}
                                 </time>
                               </p>
                             </div>
@@ -7032,29 +7016,29 @@ export function Body() {
                         <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                           <div className="framer-1qsszq" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-xr4VRVrT5-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-xr4VRVrT5-gQb2X9aVh": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-xr4VRVrT5-gQb2X9aVh))" }}>
-                              {T[774]}
+                              {T[770]}
                             </p>
                           </div>
                           <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                              {T[775]}
+                              {T[771]}
                             </p>
                           </div>
                         </div>
                       </div>
-                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[776]] }]} className="framer-3j1snh" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-alignment": "left" } }, segs: [T[772]] }]} className="framer-3j1snh" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                     </div>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-151hr3l-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
                       <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07" data-framer-name="Desktop - Right" href="./journal" to="/journal">
                         <div className="framer-1dzfdpz" data-framer-name="Text">
                           <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                              {T[777]}
+                              {T[773]}
                             </p>
                           </div>
                           <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                              {T[778]}
+                              {T[774]}
                             </p>
                           </div>
                         </div>
@@ -7070,18 +7054,18 @@ export function Body() {
                         <div className="framer-1mffi2y" data-framer-name="Category / Image">
                           <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                              {T[779]}
+                              {T[775]}
                             </p>
                           </div>
                           <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "1.4336198662846227", "transform": "none" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[780]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[776]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                             <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.4336198662846227", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[781]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={1501} height={1047} src="/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg" alt={T[777]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                           </div>
@@ -7089,13 +7073,13 @@ export function Body() {
                         <div className="framer-3pqa2g" data-framer-name="Title / Date">
                           <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                              {T[782]}
+                              {T[778]}
                             </p>
                           </div>
                           <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-06-15T00:00:00.000Z">
-                                {T[783]}
+                                {T[779]}
                               </time>
                             </p>
                           </div>
@@ -7107,18 +7091,18 @@ export function Body() {
                         <div className="framer-1mffi2y" data-framer-name="Category / Image">
                           <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                              {T[784]}
+                              {T[780]}
                             </p>
                           </div>
                           <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "0.7533333333333333", "transform": "none" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[785]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[781]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                             <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "0.7533333333333333", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[786]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={904} height={1200} src="/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg" alt={T[782]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                           </div>
@@ -7126,13 +7110,13 @@ export function Body() {
                         <div className="framer-3pqa2g" data-framer-name="Title / Date">
                           <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                              {T[787]}
+                              {T[783]}
                             </p>
                           </div>
                           <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-05-05T00:00:00.000Z">
-                                {T[788]}
+                                {T[784]}
                               </time>
                             </p>
                           </div>
@@ -7144,18 +7128,18 @@ export function Body() {
                         <div className="framer-1mffi2y" data-framer-name="Category / Image">
                           <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                              {T[789]}
+                              {T[785]}
                             </p>
                           </div>
                           <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "1.7770034843205575", "transform": "none" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[790]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[786]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                             <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7770034843205575", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[791]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={2040} height={1148} src="/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg" alt={T[787]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                           </div>
@@ -7163,13 +7147,13 @@ export function Body() {
                         <div className="framer-3pqa2g" data-framer-name="Title / Date">
                           <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                              {T[792]}
+                              {T[788]}
                             </p>
                           </div>
                           <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-04-03T00:00:00.000Z">
-                                {T[793]}
+                                {T[789]}
                               </time>
                             </p>
                           </div>
@@ -7181,18 +7165,18 @@ export function Body() {
                         <div className="framer-1mffi2y" data-framer-name="Category / Image">
                           <div className="framer-kdqgfg" data-framer-name="Category" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                              {T[794]}
+                              {T[790]}
                             </p>
                           </div>
                           <div className="framer-v9hp8k" data-framer-name="Image Container" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-yme2qk" data-framer-name="Bg Image" draggable={false} style={{ "filter": "none", "WebkitFilter": "none", "height": "auto", "aspectRatio": "0.753062224399804", "transform": "none" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[795]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[791]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                             <div className="framer-oqgboy" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "0.753062224399804", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "translate(-50%, -50%)" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[796]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" width={1537} height={2041} src="/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg" alt={T[792]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                           </div>
@@ -7200,13 +7184,13 @@ export function Body() {
                         <div className="framer-3pqa2g" data-framer-name="Title / Date">
                           <div className="framer-1fg44cf" data-framer-component-type="RichTextContainer" style={{ "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto">
-                              {T[797]}
+                              {T[793]}
                             </p>
                           </div>
                           <div className="framer-1kgjso1" data-framer-name="Date" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-03-20T00:00:00.000Z">
-                                {T[798]}
+                                {T[794]}
                               </time>
                             </p>
                           </div>

@@ -127,7 +127,7 @@ for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.te
     if (!cls || !vNode || vNode.type !== 'ObjectExpression') return;
     const vv = val(vNode); if (!vv || typeof vv !== 'object') return;
     const base = sNode && sNode.type === 'ObjectExpression' ? val(sNode) : null;
-    for (const c of cls.split(/\s+/).filter((c) => /^framer-[a-z0-9]+$/.test(c))) (styles[c] ||= []).push({ module: f, base, variants: vv });
+    for (const c of cls.split(/\s+/).filter((c) => /^framer-[a-z0-9]+(-container)?$/.test(c))) (styles[c] ||= []).push({ module: f, base, variants: vv });
   });
   // tables des variantes : { id: 'framer-v-xxx' } et { 'Nom lisible': id }
   walk(ast, (n) => {

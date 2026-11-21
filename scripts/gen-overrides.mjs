@@ -2,6 +2,7 @@
 // match(n, { slug, name, cls }) → bool ; render(n, h) → JSX (h.jsx(enfant), h.attrs(n), h.tx(texte), h.d profondeur).
 const attr = (n, k) => n.attrs.find(([a]) => a === k)?.[1];
 const find = (n, re) => { const s = attr(n, 'style'); const m = s && s.match(re); if (m) return m[1]; for (const k of n.kids || []) { if (k.tag) { const r = find(k, re); if (r) return r; } } return null; };
+const styleCamel = (n) => Object.fromEntries(Object.entries(styleOf(n)).map(([k, v]) => [k.replace(/-([a-z])/g, (_, c) => c.toUpperCase()), v]));
 const styleOf = (n) => Object.fromEntries((attr(n, 'style') || '').split(';').filter((d) => d.includes(':')).map((d) => { const i = d.indexOf(':'); return [d.slice(0, i).trim(), d.slice(i + 1).trim()]; }));
 
 // copie du nœud dont le 1er nœud texte devient une expression ; `done` évite de réappliquer la surcharge
@@ -9,7 +10,38 @@ const withText = (n, expr) => { let hit = false; const c = (x) => (x.t !== undef
 
 let counterSeq = 0;
 const byName = (n, nm) => { if (attr(n, 'data-framer-name') === nm) return n; for (const k of n.kids || []) { if (k.tag) { const r = byName(k, nm); if (r) return r; } } return null; };
+let addonSeq = 0;
+const NL = String.fromCharCode(10);
 export const OVERRIDES = [
+  // Pages projet : « Video Mirror » (composant de l'auteur porté) ; affiche = image du SSR (prop poster de l'instance).
+  {
+    match: (n, { cls }) => cls.includes('framer-1efyi3-container'),
+    imports: [`import { VideoMirror } from '@/components/fx/VideoMirror';`],
+    render: (n, h) => {
+      const img = (function f(x) { if (x.tag === 'img') return x; for (const k of x.kids || []) { if (k.tag) { const r = f(k); if (r) return r; } } return null; })(n);
+      const poster = img ? `{ src: ${JSON.stringify(attr(img, 'src'))}, alt: ${h.tx(attr(img, 'alt') || '')} }` : 'undefined';
+      return `<div${h.attrs(n)}><VideoMirror radius={0} poster={${poster}} style={{ height: '100%', width: '100%' }} /></div>`;
+    },
+  },
+  // Calculateur Pricing (accueil) : état partagé autour de la carte, Price Display (total, options), cases à cocher.
+  {
+    match: (n, { cls }) => cls.includes('framer-189pfpj-container') && !n.done,
+    imports: [`import { PricingProvider } from '@/components/fx/Pricing';`],
+    render: (n, h) => { addonSeq = 0; h.pricing(+1); const r = `<PricingProvider>${h.jsx({ ...n, done: true }, h.d + 1).trim()}</PricingProvider>`; h.pricing(-1); return r; },
+  },
+  {
+    match: (n, { cls }) => cls.includes('framer-1pl2uqb-container') || cls.includes('framer-z5vqk5-container'),
+    imports: [`import { PriceDisplay } from '@/components/fx/Pricing';`],
+    render: (n, h) => {
+      const d = n.kids.find((k) => k.tag); const inner = d.kids.filter((k) => k.tag && k.tag !== 'span'); const aria = d.kids.find((k) => k.tag === 'span');
+      return `<div${h.attrs(n)}><PriceDisplay kind="${attr(n, 'class').includes('1pl2uqb') ? 'total' : 'addons'}"${h.attrs(d)} ariaStyle={${JSON.stringify(styleCamel(aria))}}>${NL}${inner.map((k) => h.jsx(k, h.d + 2)).join(NL)}${NL}</PriceDisplay></div>`;
+    },
+  },
+  {
+    match: (n) => n.tag === 'button' && attr(n, 'role') === 'checkbox' && /Add-on Toggle$/.test(attr(n, 'aria-label') || ''),
+    imports: [`import { AddonCheck } from '@/components/fx/Pricing';`],
+    render: (n, h) => `<AddonCheck i={${addonSeq++ % 4}}${h.attrs(n).replace(/ aria-checked="[^"]*"/, '')}>${NL}${n.kids.map((k) => h.jsx(k, h.d + 1)).filter(Boolean).join(NL)}${NL}</AddonCheck>`,
+  },
   // Accueil : « Text Reveal » (Revelo, GSAP 3.13.0) ; texte d'origine (« Edit text reveal here ») passé comme textComponent.
   {
     match: (n, { name, cls }) => name === 'Text Reveal' && cls.some((c) => c.endsWith('-container')),

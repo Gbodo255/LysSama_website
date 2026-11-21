@@ -9,66 +9,21 @@
  },
  "counts": {
   "ref": 900,
-  "clone": 901,
+  "clone": 900,
   "missing": 0,
-  "extra": 1,
-  "geo": 2,
+  "extra": 0,
+  "geo": 0,
   "styles": 0,
   "text": 0
  },
  "missing": [],
- "extra": [
-  "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>section[data-framer-name=\"Hero\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>div[data-framer-name=\"Image / Project Info\"]:nth-of-type(1)>div[data-framer-name=\"Image / Video\"]:nth-of-type(1)>div>div[data-framer-name=\"Video Overlay\"]>div:nth-of-type(1)>div>img"
- ],
- "geo": [
-  {
-   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div:nth-of-type(2)>section[data-framer-name=\"Desktop\"]>div[data-framer-name=\"Outer Container\"]>div:nth-of-type(1)>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)",
-   "d": 469.91,
-   "ref": {
-    "x": 62,
-    "y": 6075.44,
-    "width": 1375,
-    "height": 1289.34
-   },
-   "clone": {
-    "x": -172.95,
-    "y": 5851.35,
-    "width": 1844.91,
-    "height": 1737.51
-   }
-  },
-  {
-   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div:nth-of-type(2)>section[data-framer-name=\"Desktop\"]>div[data-framer-name=\"Outer Container\"]>div:nth-of-type(1)>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)>video",
-   "d": 469.91,
-   "ref": {
-    "x": 62,
-    "y": 6075.44,
-    "width": 1375,
-    "height": 1289.34
-   },
-   "clone": {
-    "x": -172.95,
-    "y": 5851.35,
-    "width": 1844.91,
-    "height": 1737.51
-   }
-  }
- ],
+ "extra": [],
+ "geo": [],
  "styles": [],
  "text": [],
  "pixels": {
-  "worst": 26.912,
-  "over2": [
-   "seq-024.webp",
-   "seq-025.webp",
-   "seq-026.webp",
-   "seq-027.webp",
-   "seq-028.webp",
-   "seq-029.webp",
-   "seq-030.webp",
-   "seq-031.webp",
-   "seq-032.webp"
-  ],
+  "worst": 1.31,
+  "over2": [],
   "n": 34
  }
 }

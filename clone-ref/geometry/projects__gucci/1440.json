@@ -1247,63 +1247,6 @@
    }
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>section[data-framer-name=\"Hero\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>div[data-framer-name=\"Image / Project Info\"]:nth-of-type(1)>div[data-framer-name=\"Image / Video\"]:nth-of-type(1)>div>div[data-framer-name=\"Video Overlay\"]>div:nth-of-type(1)>div>img",
-   "tag": "img",
-   "name": null,
-   "rect": {
-    "x": 92,
-    "y": 355.05,
-    "width": 313.75,
-    "height": 176.47
-   },
-   "style": {
-    "fontFamily": "sans-serif",
-    "fontWeight": "400",
-    "fontSize": "12px",
-    "lineHeight": "normal",
-    "letterSpacing": "normal",
-    "textTransform": "none",
-    "fontStyle": "normal",
-    "fontFeatureSettings": "normal",
-    "fontVariationSettings": "normal",
-    "textAlign": "start",
-    "textDecorationLine": "none",
-    "color": "rgb(0, 0, 0)",
-    "backgroundColor": "rgba(0, 0, 0, 0)",
-    "backgroundImage": "none",
-    "borderTopWidth": "0px",
-    "borderTopColor": "rgb(0, 0, 0)",
-    "borderTopStyle": "none",
-    "borderRadius": "0px",
-    "boxShadow": "none",
-    "filter": "none",
-    "backdropFilter": "none",
-    "mixBlendMode": "normal",
-    "clipPath": "none",
-    "maskImage": "none",
-    "paddingTop": "0px",
-    "paddingRight": "0px",
-    "paddingBottom": "0px",
-    "paddingLeft": "0px",
-    "gap": "normal",
-    "opacity": "1",
-    "transform": "none",
-    "objectFit": "cover",
-    "objectPosition": "50% 50%",
-    "position": "absolute",
-    "zIndex": "auto",
-    "overflow": "clip",
-    "whiteSpace": "normal",
-    "webkitFontSmoothing": "antialiased"
-   },
-   "src": "http://127.0.0.1:4173/assets/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg",
-   "alt": "Close-up of a model wearing wraparound sunglasses covered in water droplets",
-   "natural": [
-    2400,
-    1350
-   ]
-  },
-  {
    "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>section[data-framer-name=\"Hero\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>div[data-framer-name=\"Image / Project Info\"]:nth-of-type(1)>div[data-framer-name=\"Image / Video\"]:nth-of-type(1)>div>div[data-framer-name=\"Video Overlay\"]>div:nth-of-type(1)>div>canvas",
    "tag": "canvas",
    "name": null,
@@ -1354,8 +1297,8 @@
     "webkitFontSmoothing": "antialiased"
    },
    "canvas": [
-    300,
-    150
+    314,
+    176
    ]
   },
   {
@@ -30068,10 +30011,10 @@
    "tag": "div",
    "name": "Uploaded Video",
    "rect": {
-    "x": -172.95,
-    "y": 5851.35,
-    "width": 1844.91,
-    "height": 1737.51
+    "x": 62,
+    "y": 6075.44,
+    "width": 1375,
+    "height": 1289.34
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -30104,7 +30047,7 @@
     "paddingLeft": "0px",
     "gap": "normal",
     "opacity": "1",
-    "transform": "matrix(1.29921, 0.0453693, -0.0453693, 1.29921, 0, 0)",
+    "transform": "none",
     "objectFit": "fill",
     "objectPosition": "50% 50%",
     "position": "relative",
@@ -30119,10 +30062,10 @@
    "tag": "video",
    "name": null,
    "rect": {
-    "x": -172.95,
-    "y": 5851.35,
-    "width": 1844.91,
-    "height": 1737.51
+    "x": 62,
+    "y": 6075.44,
+    "width": 1375,
+    "height": 1289.34
    },
    "style": {
     "fontFamily": "sans-serif",

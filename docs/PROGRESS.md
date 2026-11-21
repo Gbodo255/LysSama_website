@@ -36,7 +36,7 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 - [~] Footer + Newsletter — statique validé 1440/1200/810/390 : 0 écart (`compare/privacy-policy/<w>-Footer.json`) ; états du formulaire et survols : Phase 4-5
 
 ## Phase 3 — Pages (sections listées après l'audit ; chaque section × 1440/1200/810/390)
-- [~] `/` accueil — construit (préchargeur, diaporama WebGL, Text Reveal GSAP, Lenis) ; 1440 : 2331/2331 éléments, 0 manquant, hauteur 0 % ; restent 10 géométries, 1 texte, pixels
+- [~] `/` accueil — 1440 : 2331/2331 éléments, 0 manquant/en trop/géométrie/style/texte, hauteur 0 % ; restent pixels (section Process, 17 plans) et les 3 autres largeurs
 - [~] `/projects` — construit (vitrine incurvée portée, Lenis horizontal) ; référence de l'original non capturée (onglet planté), à refaire
 - [~] `/projects/gucci` · `chanel` · `puma` · `adidas` · `nike` · `under-armour` — hauteurs identiques, 0 géométrie/style/texte ; ~450 éléments en trop (variantes non retirées) à corriger ; pixels gucci/puma jusqu'à 27 %
 - [~] `/studio` — 0 manquant/en trop/géométrie/style/texte, hauteur 0 % aux 4 largeurs ; pixels ≤ 0,53 % à 1440/810/390 ; 1200 : capture d'écran impossible côté banc (« Unable to capture screenshot »), à refaire. Compteurs portés à l'identique (D-027), effets de défilement (hero, parallaxe) désactivés hors desktop comme l'original
@@ -44,7 +44,7 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 - [~] `/journal/<8 articles>` — 0 manquant/en trop/géométrie/style/texte et hauteur 0 % aux 4 largeurs pour les 8 ; pixels ≤ 1,7 % à 1440/1200/810, 2,3–3,6 % sur 2–4 plans à 390 (apparition du corps encore en cours dans l'original à l'instant de capture : minutage, Phase 5)
 - [x] `/contact` — 0 écart structurel/style/texte, hauteur 0 %, pixels ≤ 0,54 % aux 4 largeurs (`compare/contact/<w>.json`) ; formulaire (FormFx, D-023), FAQ (VRoot clic), boucles des créneaux (mécanique du runtime) ; états Loading/Success non déclenchables sur l'original
 - [x] `/privacy-policy` · `/terms-conditions` · `/cookie-policy` — statique + apparitions : 0 manquant, 0 en trop, 0 géométrie, 0 style, 0 texte, hauteur 0 %, pixels ≤ 1,04 % aux 4 largeurs (`compare/<slug>/<w>.json`, D-033) ; survol du lien du corps : Phase 4
-- [~] 404 — construite (texte 3D filaire porté) ; 1440 : 11 éléments manquants à corriger
+- [~] 404 — 1440 : 0 écart (COMPARAISON OK) ; 3 autres largeurs à valider
 
 ## Phase 4 — Interactions (lignes du registre)
 ## Phase 5 — Animations (`compare/animations.md`)

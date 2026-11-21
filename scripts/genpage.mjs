@@ -94,7 +94,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
   const T = [];
   const tx = (s) => { T.push(s); return `T[${T.length - 1}]`; };
   const imports = new Set();
-  const vstack = [], vinit = [], ancV = [];
+  const vstack = [], vinit = [], ancV = []; let inPricing = 0;
   const svStack = [0]; let svSeq = 0; const idxCount = new Map();
   const appearUsed = {};
 
@@ -142,11 +142,11 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
   const attr = (n, k) => n.attrs.find(([a]) => a === k)?.[1];
   function jsx(n, d) {
     const ind = '  '.repeat(d);
-    if (n.t !== undefined) return n.t === '' ? '' : `${ind}{${tx(n.t)}}`;
+    if (n.t !== undefined) return n.t === '' ? '' : inPricing > 0 && n.t.trim() ? (imports.add(`import { PT } from '@/components/fx/Pricing';`), `${ind}<PT t={${tx(n.t)}} />`) : `${ind}{${tx(n.t)}}`;
     if (n.expr !== undefined) return `${ind}{${n.expr}}`; // valeur calculée (surcharges)
     const name = attr(n, 'data-framer-name');
     const ov = OVERRIDES.find((o) => o.match(n, { slug, name, cls: cls(n) }));
-    if (ov) { for (const i of ov.imports || []) imports.add(i); if (ov.rewrite) return jsx(ov.rewrite(n), d); return ind + ov.render(n, { jsx: (k, dd) => jsx(k, dd ?? d + 1), attrs, tx, d, slug, route, T }); }
+    if (ov) { for (const i of ov.imports || []) imports.add(i); if (ov.rewrite) return jsx(ov.rewrite(n), d); return ind + ov.render(n, { jsx: (k, dd) => jsx(k, dd ?? d + 1), attrs, tx, d, slug, route, T, pricing: (x) => { inPricing += x; } }); }
     const c = cls(n);
     // variante d'origine de chaque instance de composant (classe de portée + framer-v-*) pour les surcharges par variante
     const sc = c.find((x) => COMPS[x]);
@@ -205,7 +205,8 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     const gfx = !vfx && fxs.find((p) => p.__framer__variantAppearEffectEnabled === true && typeof p.__framer__targets?.[0]?.target === 'string' && VARS[p.__framer__targets[0].target]);
     if (gfx) {
       const toId = gfx.__framer__targets[0].target;
-      const mark = (k) => { if (!k.tag) return false; const sc = cls(k).find((c) => COMPS[c]?.variants[toId]); if (sc) { k.vapp = { to: VARS[toId], toId, threshold: gfx.__framer__threshold ?? 0, once: !!gfx.__framer__animateOnce }; return true; } return (k.kids || []).some(mark); };
+      const tg = gfx.__framer__targets.filter((t) => typeof t.target === 'string').map((t) => ({ ...(t.ref && typeof t.ref === 'object' ? { cls: t.ref.cls } : {}), to: t.target }));
+      const mark = (k) => { if (!k.tag) return false; const sc = cls(k).find((c) => COMPS[c]?.variants[toId]); if (sc) { k.vapp = { to: VARS[toId], toId, threshold: gfx.__framer__threshold ?? 0, once: !!gfx.__framer__animateOnce, targets: tg }; return true; } return (k.kids || []).some(mark); };
       n.kids.some(mark);
     }
     const vscope = n.vapp && cls(n).find((c) => COMPS[c] && COMPS[c].variants[n.vapp.toId]);
@@ -213,7 +214,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       const C = COMPS[vscope];
       const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
       imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);
-      open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}} appear={${JSON.stringify({ to: n.vapp.toId, threshold: n.vapp.threshold, once: n.vapp.once })}}`; close = 'VRoot';
+      open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}} ${n.vapp.targets ? `scrollTargets={${JSON.stringify({ targets: n.vapp.targets, threshold: n.vapp.threshold, once: n.vapp.once })}}` : `appear={${JSON.stringify({ to: n.vapp.toId, threshold: n.vapp.threshold, once: n.vapp.once })}}`}`; close = 'VRoot';
       vstack.push(C); vinit.push(initial); pushedV = true;
     } else if (n.vapp && !aid) {
       imports.add(`import { VariantAppear } from '@/components/fx/VariantAppear';`);
@@ -236,7 +237,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     if (sfx && !aid && open === n.tag) {
       imports.add(`import { ScrollFx, Parallax } from '@/components/fx/Scroll';`);
       const targets = sfx.__framer__transformTargets.map((t) => ({ ...t, ref: t.ref && typeof t.ref === 'object' ? t.ref : t.ref ? 'self' : undefined }));
-      open = `ScrollFx as="${n.tag}" targets={${JSON.stringify(targets)}} threshold={${sfx.__framer__transformViewportThreshold ?? 0}} off={${JSON.stringify(offFor(sfx, '__framer__styleTransformEffectEnabled'))}}`; close = 'ScrollFx';
+      open = `ScrollFx as="${n.tag}" targets={${JSON.stringify(targets)}} threshold={${sfx.__framer__transformViewportThreshold ?? 0}} target={${sfx.__targetOpacity ?? 1}} off={${JSON.stringify(offFor(sfx, '__framer__styleTransformEffectEnabled'))}}`; close = 'ScrollFx';
     } else if (pfx && !aid && open === n.tag) {
       imports.add(`import { ScrollFx, Parallax } from '@/components/fx/Scroll';`);
       open = `Parallax as="${n.tag}" speed={${pfx.__framer__speed}} off={${JSON.stringify(offFor(pfx, '__framer__parallaxTransformEnabled'))}}`; close = 'Parallax';
@@ -266,7 +267,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
       if (initial) {
         imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);
-        open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}}${cfg.tap ? ` tap={${JSON.stringify(cfg.tap)}}` : ''}${cfg.follow ? ` follow={${JSON.stringify(cfg.follow)}}` : ''}${cfg.events ? ` events={${JSON.stringify(cfg.events)}}` : ''}`; close = 'VRoot';
+        open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}}${cfg.tap ? ` tap={${JSON.stringify(cfg.tap)}}` : ''}${cfg.follow ? ` follow={${JSON.stringify(cfg.follow)}}` : ''}${cfg.events ? ` events={${JSON.stringify(cfg.events)}}` : ''}${cfg.bind ? ` bind="${cfg.bind}"` : ''}${cfg.indexed ? ` index={${(() => { const key = svStack.join('.') + '|' + scope; const i = idxCount.get(key) || 0; idxCount.set(key, i + 1); return i; })()}}` : ''}`; close = 'VRoot';
         vstack.push(C); vinit.push(initial); pushed = true;
       }
     } else if (vstack.length && open === n.tag && !aid) {

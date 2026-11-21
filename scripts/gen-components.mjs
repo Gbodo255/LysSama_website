@@ -7,4 +7,8 @@ export const COMPONENTS = {
   'framer-LQ8sa': { follow: { tw5CtHDal: 'dwfiz8xsn', z490WtIIP: 'k601oOa0D' } },
   // Carte « Contact CTA » (n_03H18N2) : Default → Loading (onLoading), Error (onError), Success 800 ms après onSuccess.
   'framer-KEC63': { events: { loading: 'SHEQP1pE0', error: 'ecW7wXnOV', success: 'Esh2uhvll' } },
+  // Calculateur Pricing de l'accueil (src/components/fx/Pricing.tsx) : variantes imposées par l'état partagé.
+  'framer-VhWls': { bind: 'card' },
+  'framer-Oiz8K': { bind: 'toggle' },
+  'framer-IGk3i': { bind: 'addon', indexed: true },
 };
