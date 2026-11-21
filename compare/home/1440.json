@@ -1,0 +1,226 @@
+{
+ "route": "/",
+ "width": 1440,
+ "scope": null,
+ "height": {
+  "ref": 23041,
+  "clone": 23041,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 2331,
+  "clone": 2331,
+  "missing": 0,
+  "extra": 0,
+  "geo": 10,
+  "styles": 0,
+  "text": 1
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]",
+   "d": 46.84,
+   "ref": {
+    "x": 337,
+    "y": 14858.11,
+    "width": 825,
+    "height": 536.4
+   },
+   "clone": {
+    "x": 328.47,
+    "y": 14834.69,
+    "width": 842.05,
+    "height": 583.24
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]",
+   "d": 46.84,
+   "ref": {
+    "x": 337,
+    "y": 14858.11,
+    "width": 825,
+    "height": 536.4
+   },
+   "clone": {
+    "x": 328.47,
+    "y": 14834.69,
+    "width": 842.05,
+    "height": 583.24
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 46.84,
+   "ref": {
+    "x": 337,
+    "y": 14858.11,
+    "width": 825,
+    "height": 536.4
+   },
+   "clone": {
+    "x": 328.47,
+    "y": 14834.69,
+    "width": 842.05,
+    "height": 583.24
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Dark overlay\"]:nth-of-type(1)",
+   "d": 46.84,
+   "ref": {
+    "x": 337,
+    "y": 14858.11,
+    "width": 825,
+    "height": 536.4
+   },
+   "clone": {
+    "x": 328.47,
+    "y": 14834.69,
+    "width": 842.05,
+    "height": 583.24
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)",
+   "d": 46.84,
+   "ref": {
+    "x": 337,
+    "y": 14858.11,
+    "width": 825,
+    "height": 536.4
+   },
+   "clone": {
+    "x": 328.47,
+    "y": 14834.69,
+    "width": 842.05,
+    "height": 583.24
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)>video",
+   "d": 46.84,
+   "ref": {
+    "x": 337,
+    "y": 14858.11,
+    "width": 825,
+    "height": 536.4
+   },
+   "clone": {
+    "x": 328.47,
+    "y": 14834.69,
+    "width": 842.05,
+    "height": 583.24
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)",
+   "d": 27.27,
+   "ref": {
+    "x": 458.88,
+    "y": 15054.31,
+    "width": 581.25,
+    "height": 144
+   },
+   "clone": {
+    "x": 472.51,
+    "y": 15043.39,
+    "width": 553.98,
+    "height": 165.84
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)>div[data-framer-name=\"Play Button\"]:nth-of-type(2)",
+   "d": 6.34,
+   "ref": {
+    "x": 721.31,
+    "y": 15086.31,
+    "width": 80,
+    "height": 80
+   },
+   "clone": {
+    "x": 717.1,
+    "y": 15085.69,
+    "width": 86.34,
+    "height": 80.07
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)>div[data-framer-name=\"Play Button\"]:nth-of-type(2)>div[data-framer-name=\"Play Icon\"]",
+   "d": 3.17,
+   "ref": {
+    "x": 741.31,
+    "y": 15106.31,
+    "width": 40,
+    "height": 40
+   },
+   "clone": {
+    "x": 738.68,
+    "y": 15105.71,
+    "width": 43.17,
+    "height": 40.04
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)>div[data-framer-name=\"Play Button\"]:nth-of-type(2)>div[data-framer-name=\"Play Icon\"]>div>svg",
+   "d": 3.17,
+   "ref": {
+    "x": 741.31,
+    "y": 15106.31,
+    "width": 40,
+    "height": 40
+   },
+   "clone": {
+    "x": 738.68,
+    "y": 15105.71,
+    "width": 43.17,
+    "height": 40.04
+   }
+  }
+ ],
+ "styles": [],
+ "text": [
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Pricing\"]:nth-of-type(5)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Text / Pricing Card\"]:nth-of-type(2)>div:nth-of-type(2)>div[data-framer-name=\"Pricing Card\"]>div[data-framer-name=\"Desktop\"]>div[data-framer-name=\"Pricing Plan Card\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]:nth-of-type(1)>div[data-framer-name=\"Price / Qualifier\"]:nth-of-type(2)>div[data-framer-name=\"Price\"]>div[data-framer-name=\"Cost\"]:nth-of-type(1)>div[data-framer-name=\"Cost / Label\"]:nth-of-type(2)>div:nth-of-type(1)>div>div>div[data-framer-name=\"Calculator Text\"]>div>h2",
+   "kind": "texte",
+   "ref": "$4,500",
+   "clone": "$2,000"
+  }
+ ],
+ "pixels": {
+  "worst": 62.909,
+  "over2": [
+   "seq-012.webp",
+   "seq-013.webp",
+   "seq-014.webp",
+   "seq-015.webp",
+   "seq-016.webp",
+   "seq-017.webp",
+   "seq-018.webp",
+   "seq-019.webp",
+   "seq-020.webp",
+   "seq-021.webp",
+   "seq-022.webp",
+   "seq-052.webp",
+   "seq-053.webp",
+   "seq-054.webp",
+   "seq-055.webp",
+   "seq-056.webp",
+   "seq-057.webp",
+   "seq-058.webp",
+   "seq-059.webp",
+   "seq-060.webp",
+   "seq-061.webp",
+   "seq-062.webp",
+   "seq-063.webp",
+   "seq-064.webp",
+   "seq-065.webp",
+   "seq-066.webp",
+   "seq-067.webp",
+   "seq-068.webp"
+  ],
+  "n": 100
+ }
+}

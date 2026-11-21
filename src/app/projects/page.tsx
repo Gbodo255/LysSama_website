@@ -1,10 +1,15 @@
 import { PageStyle } from '@/components/PageStyle';
+import { Template } from '@/components/Template';
+import { Body } from '@/gen/projects/Body';
 
-// Page /projects — sections ajoutées par l'agent de construction propriétaire (src/sections/projects/).
+// /projects : gabarit sans footer (défilement horizontal).
 export default function Page() {
   return (
     <>
       <PageStyle slug="projects" />
+      <Template footer={false}>
+        <Body />
+      </Template>
     </>
   );
 }

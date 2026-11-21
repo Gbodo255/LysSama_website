@@ -1,0 +1,467 @@
+[
+ {
+  "k": "sideNav.width",
+  "amp": 437,
+  "from": 493,
+  "to": 56,
+  "cloneFrom": 493,
+  "cloneTo": 56,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   80,
+   368
+  ],
+  "shapePct": 1.89,
+  "ok": true
+ },
+ {
+  "k": "sideNav.borderRadius",
+  "amp": 18.947,
+  "from": 12,
+  "to": 12,
+  "cloneFrom": 12,
+  "cloneTo": 12,
+  "startEnd": [
+   16,
+   416
+  ],
+  "cloneStartEnd": null,
+  "shapePct": 50.49,
+  "ok": null
+ },
+ {
+  "k": "overlay.opacity",
+  "amp": 0.85,
+  "from": 0.85,
+  "to": 0,
+  "cloneFrom": 0.85,
+  "cloneTo": 0,
+  "startEnd": [
+   48,
+   448
+  ],
+  "cloneStartEnd": [
+   48,
+   448
+  ],
+  "shapePct": 3.26,
+  "ok": false
+ },
+ {
+  "k": "overlay.filter",
+  "amp": 1,
+  "from": 1,
+  "to": 0,
+  "cloneFrom": 1,
+  "cloneTo": 0,
+  "startEnd": [
+   48,
+   448
+  ],
+  "cloneStartEnd": [
+   48,
+   448
+  ],
+  "shapePct": 3.26,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[0]",
+  "amp": 2,
+  "from": -1,
+  "to": 1,
+  "cloneFrom": -1,
+  "cloneTo": 1,
+  "startEnd": [
+   160,
+   368
+  ],
+  "cloneStartEnd": [
+   160,
+   368
+  ],
+  "shapePct": 2.23,
+  "ok": true
+ },
+ {
+  "k": "hamburger.transform[1]",
+  "amp": 0.9824,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   64,
+   480
+  ],
+  "shapePct": 1.43,
+  "ok": true
+ },
+ {
+  "k": "hamburger.transform[2]",
+  "amp": 0.9824,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   64,
+   480
+  ],
+  "shapePct": 1.43,
+  "ok": true
+ },
+ {
+  "k": "hamburger.transform[3]",
+  "amp": 2,
+  "from": -1,
+  "to": 1,
+  "cloneFrom": -1,
+  "cloneTo": 1,
+  "startEnd": [
+   160,
+   368
+  ],
+  "cloneStartEnd": [
+   160,
+   368
+  ],
+  "shapePct": 2.23,
+  "ok": true
+ },
+ {
+  "k": "hamburger.width",
+  "amp": 6.606,
+  "from": 16,
+  "to": 16,
+  "cloneFrom": 16,
+  "cloneTo": 16,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   48,
+   496
+  ],
+  "shapePct": 9.02,
+  "ok": false
+ },
+ {
+  "k": "hamburger.height",
+  "amp": 6.606,
+  "from": 16,
+  "to": 16,
+  "cloneFrom": 16,
+  "cloneTo": 16,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   48,
+   496
+  ],
+  "shapePct": 9.02,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[0]",
+  "amp": 0.3395,
+  "from": 0.707107,
+  "to": 1,
+  "cloneFrom": 0.707107,
+  "cloneTo": 1,
+  "startEnd": [
+   16,
+   432
+  ],
+  "cloneStartEnd": [
+   16,
+   432
+  ],
+  "shapePct": 0.63,
+  "ok": true
+ },
+ {
+  "k": "hTop.transform[1]",
+  "amp": 0.8838,
+  "from": -0.707107,
+  "to": 0,
+  "cloneFrom": -0.707107,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 1.49,
+  "ok": true
+ },
+ {
+  "k": "hTop.transform[2]",
+  "amp": 0.7071,
+  "from": 0.707107,
+  "to": 0,
+  "cloneFrom": 0.707107,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 0.51,
+  "ok": true
+ },
+ {
+  "k": "hTop.transform[3]",
+  "amp": 0.7979,
+  "from": 0.707107,
+  "to": 1,
+  "cloneFrom": 0.707107,
+  "cloneTo": 1,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 1.53,
+  "ok": true
+ },
+ {
+  "k": "hTop.transform[4]",
+  "amp": 10,
+  "from": -10,
+  "to": 0,
+  "cloneFrom": -10,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   16
+  ],
+  "cloneStartEnd": [
+   16,
+   16
+  ],
+  "shapePct": 0,
+  "ok": true
+ },
+ {
+  "k": "hTop.transform[5]",
+  "amp": 5.4997,
+  "from": -1,
+  "to": 0,
+  "cloneFrom": -1,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 1.18,
+  "ok": true
+ },
+ {
+  "k": "hTop.x",
+  "amp": 6.155,
+  "from": 23.222,
+  "to": 23,
+  "cloneFrom": 23.222,
+  "cloneTo": 23,
+  "startEnd": [
+   64,
+   432
+  ],
+  "cloneStartEnd": [
+   64,
+   432
+  ],
+  "shapePct": 3.69,
+  "ok": false
+ },
+ {
+  "k": "hTop.y",
+  "amp": 1.725,
+  "from": 33.222,
+  "to": 33,
+  "cloneFrom": 33.222,
+  "cloneTo": 33,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   48,
+   496
+  ],
+  "shapePct": 2.84,
+  "ok": true
+ },
+ {
+  "k": "hBottom.transform[0]",
+  "amp": 0.3395,
+  "from": 0.707107,
+  "to": 1,
+  "cloneFrom": 0.707107,
+  "cloneTo": 1,
+  "startEnd": [
+   16,
+   432
+  ],
+  "cloneStartEnd": [
+   16,
+   432
+  ],
+  "shapePct": 0.63,
+  "ok": true
+ },
+ {
+  "k": "hBottom.transform[1]",
+  "amp": 0.8838,
+  "from": 0.707107,
+  "to": 0,
+  "cloneFrom": 0.707107,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 1.49,
+  "ok": true
+ },
+ {
+  "k": "hBottom.transform[2]",
+  "amp": 0.7071,
+  "from": -0.707107,
+  "to": 0,
+  "cloneFrom": -0.707107,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 0.51,
+  "ok": true
+ },
+ {
+  "k": "hBottom.transform[3]",
+  "amp": 0.7979,
+  "from": 0.707107,
+  "to": 1,
+  "cloneFrom": 0.707107,
+  "cloneTo": 1,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 1.53,
+  "ok": true
+ },
+ {
+  "k": "hBottom.transform[4]",
+  "amp": 10,
+  "from": -10,
+  "to": 0,
+  "cloneFrom": -10,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   16
+  ],
+  "cloneStartEnd": [
+   16,
+   16
+  ],
+  "shapePct": 0,
+  "ok": true
+ },
+ {
+  "k": "hBottom.transform[5]",
+  "amp": 4.4997,
+  "from": -1,
+  "to": 0,
+  "cloneFrom": -1,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   16,
+   448
+  ],
+  "shapePct": 1.44,
+  "ok": true
+ },
+ {
+  "k": "hBottom.x",
+  "amp": 3.455,
+  "from": 23.222,
+  "to": 23,
+  "cloneFrom": 23.222,
+  "cloneTo": 23,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   48,
+   496
+  ],
+  "shapePct": 8.71,
+  "ok": false
+ },
+ {
+  "k": "hBottom.y",
+  "amp": 9.985,
+  "from": 33.222,
+  "to": 42,
+  "cloneFrom": 33.222,
+  "cloneTo": 42,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   64,
+   480
+  ],
+  "shapePct": 2.31,
+  "ok": true
+ }
+]

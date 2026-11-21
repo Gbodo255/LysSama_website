@@ -78,3 +78,34 @@ port({
   // three r136 (même version, D-013) : le module Framer exportait l'espace de noms sous \`C\`.
   replace: [['import(`./three.module.CJpBf6nA.mjs`).then(mod => (mod.x(), mod.C))', "import('three').then(mod => mod)"]],
 });
+
+// Liaisons des extraits nommés __initReact_*/__initFramer_Q/__lazyInit (NotFound3D, CurvedShowcase).
+const shim2 = (hooks, extra = '') => shim(hooks) + `const __lazyInit = __esmMin, __initReact_R = () => {}, __initReact_s = () => {}, __initReact_T = () => {}, __initFramer_Q = () => {}, __initThree = () => {};
+const Children = React.Children;
+${extra}`;
+
+port({
+  from: 'reference/framer-code/extracted/NotFound3D.js',
+  to: 'src/webgl/notfound/Wireframe404.ts',
+  shaders: 'reference/webgl/404/shaders',
+  header: shim2('useState, useRef, useEffect', `import { Vector2, ExtrudeGeometry, Mesh, Path, PerspectiveCamera, Shape, ShaderMaterial, EdgesGeometry, RGBAFormat, Scene, CanvasTexture, Float32BufferAttribute, PlaneGeometry, Color, LineSegments, BufferGeometry, OrthographicCamera, WebGLRenderTarget, LinearFilter, WebGLRenderer } from 'three';\n`),
+  init: 'initWireframe404Module',
+  exportName: 'Wireframe404',
+  // Site publié : jamais le canevas de l'éditeur Framer.
+  replace: [['RenderTarget.current() === RenderTarget.canvas', 'false'], ['export default Wireframe404;', '']],
+});
+
+port({
+  from: 'reference/framer-code/extracted/CurvedShowcase.js',
+  to: 'src/webgl/curved-showcase/CurvyProjectShowcase.ts',
+  shaders: 'reference/webgl/curved-showcase/shaders',
+  header: shim2('useLayoutEffect, useMemo, startTransition, useState, useRef, useCallback, useEffect'),
+  init: 'initCurvyShowcaseModule',
+  exportName: 'CurvyProjectShowcase',
+  replace: [
+    ['RenderTarget.current(),', "'preview',"],
+    ['renderTarget === RenderTarget.canvas || renderTarget === RenderTarget.thumbnail || renderTarget === RenderTarget.export', 'false'],
+    ['import(`./three.module.CJpBf6nA.mjs`).then(e => (e.x(), e.C))', "import('three')"],
+    ['export default CurvyProjectShowcase;', ''],
+  ],
+});

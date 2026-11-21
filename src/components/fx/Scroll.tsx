@@ -37,7 +37,8 @@ export function ScrollFx({ as, targets, threshold, off = [], style, ...rest }: {
     let last: number | undefined;
     for (let a = targets.length; a >= 0; a--) {
       const g = targets[a]; if (!g || !g.ref) continue;
-      const el = typeof g.ref === 'object' ? visible(g.ref.cls) : ref.current; if (!el) continue;
+      // ref non résolue (calque interne d'un composant) : racine de l'instance englobante (classe framer-v-*)
+      const el = typeof g.ref === 'object' ? visible(g.ref.cls) : (ref.current?.parentElement?.closest<HTMLElement>('[class*="framer-v-"]') ?? ref.current); if (!el) continue;
       const c = offTop(el) - 1 - (g.offset ?? 0) - t, l = el.clientHeight, d = Math.max(c + l, 0);
       ir.unshift(Math.max(c, 0), last === undefined ? d : Math.min(d, Math.max(last - 1, 0)));
       last = c;

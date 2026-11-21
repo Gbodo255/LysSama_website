@@ -10,6 +10,7 @@ import { Lk } from '@/components/Lk';
 import { Loop } from '@/components/fx/Loop';
 import { SV } from '@/components/Variants';
 import { ScrollFx, Parallax } from '@/components/fx/Scroll';
+import { SmoothScroll } from '@/components/SmoothScroll';
 import { TextFx } from '@/components/fx/TextFx';
 import { VRoot, VEl } from '@/components/fx/Variant';
 
@@ -19,7 +20,7 @@ const AP = {"19jj9t8":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX
 export function Body() {
   return (
     <div data-framer-root="" className="framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw framer-1o0hdey" style={{ "minHeight": "100vh", "width": "auto", "display": "contents" }}>
-      <div className="framer-w9o3t8-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
+      <SmoothScroll className="framer-w9o3t8-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
       <main className="framer-3o3340" data-framer-name="Main">
         <HideOn on={["phone"]}>
         <div className="framer-ffrjd1-container hidden-1nc0ivo">
@@ -409,7 +410,7 @@ export function Body() {
                         </SV>
                         <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-color": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)" } }, segs: [T[44]] }]} className="framer-onrclc" data-framer-name="Big Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                       </div>
-                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":5},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847)" } }, segs: [{ tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[45] }, T[46], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[47] }, T[48], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[49] }, T[50], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[51] }, T[52], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[53] }, T[54], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[55] }, T[56], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[57] }, T[58], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[59] }, T[60], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[61] }, T[62], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[63] }, T[64], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[65] }, T[66], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[67] }, T[68], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[69] }, T[70], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[71] }, T[72], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[73] }, T[74], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[75] }, T[76], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[77] }, T[78], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[79] }, T[80], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[81] }, T[82], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[83] }, T[84], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[85] }, T[86], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[87] }, T[88], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[89] }, T[90], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[91] }, T[92], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[93] }, T[94], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[95] }, T[96], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(5px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[97] }] }]} className="framer-4e5inr" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                      <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":5},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847)" } }, segs: [T[45]] }]} className="framer-4e5inr" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                     </div>
                     <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
                       <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"delay":0.3,"duration":1,"ease":[0.4,0,0.2,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-1dh416h-container" data-framer-name="Live Link" {...{ name: "Live Link" }} style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
@@ -417,12 +418,12 @@ export function Body() {
                           <div className="framer-1dzfdpz" data-framer-name="Text">
                             <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[98]}
+                                {T[46]}
                               </p>
                             </div>
                             <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[99]}
+                                {T[47]}
                               </p>
                             </div>
                           </div>
@@ -438,12 +439,12 @@ export function Body() {
                           <div className="framer-1dzfdpz" data-framer-name="Text">
                             <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[100]}
+                                {T[48]}
                               </p>
                             </div>
                             <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
-                                {T[101]}
+                                {T[49]}
                               </p>
                             </div>
                           </div>
@@ -463,7 +464,7 @@ export function Body() {
                       <VRoot as="div" map={{"bst1eaA3L":{"cls":"framer-v-14neqw2","name":"Revealed"},"SEOMcnqgJ":{"cls":"framer-v-1fvw07s","name":"Hidden"}}} initial="SEOMcnqgJ" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"bst1eaA3L","threshold":0,"once":true}} {...{ name: "2" }} className="framer-pVIbn framer-14neqw2 framer-v-1fvw07s" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                         <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"SEOMcnqgJ":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-cbal85" data-framer-name="1" id="vg5sDbSIn-cbal85" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "height": "auto", "aspectRatio": "1.4953271028037383", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
                           <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                            <img decoding="async" loading="lazy" width={1600} height={1070} src="/assets/images/zZkUNfhYvO9rkG9BUPcqRnwaES4.jpg" alt={T[102]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                            <img decoding="async" loading="lazy" width={1600} height={1070} src="/assets/images/zZkUNfhYvO9rkG9BUPcqRnwaES4.jpg" alt={T[50]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                           </div>
                         </VEl>
                       </VRoot>
@@ -474,7 +475,7 @@ export function Body() {
                       <VRoot as="div" map={{"bst1eaA3L":{"cls":"framer-v-14neqw2","name":"Revealed"},"SEOMcnqgJ":{"cls":"framer-v-1fvw07s","name":"Hidden"}}} initial="SEOMcnqgJ" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"bst1eaA3L","threshold":0,"once":true}} {...{ name: "3" }} className="framer-pVIbn framer-14neqw2 framer-v-1fvw07s" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                         <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"SEOMcnqgJ":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-cbal85" data-framer-name="1" id="J_rDS0qwE-cbal85" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "height": "auto", "aspectRatio": "1.4945054945054945", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
                           <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                            <img decoding="async" loading="lazy" width={2040} height={1365} src="/assets/images/AkfkAZg7VDUSHERrsXGu1ocBVLw.jpg" alt={T[103]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                            <img decoding="async" loading="lazy" width={2040} height={1365} src="/assets/images/AkfkAZg7VDUSHERrsXGu1ocBVLw.jpg" alt={T[51]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                           </div>
                         </VEl>
                       </VRoot>
@@ -489,15 +490,15 @@ export function Body() {
                       <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label" style={{ "maxWidth": "100%", "width": "100%" }}>
                         <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                            {T[104]}
+                            {T[52]}
                           </p>
                         </div>
                       </div>
                     </div>
                   </SV>
                   <div className="framer-1pu5h6j" data-framer-name="Big Text / Small Text">
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-color": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)" } }, segs: [T[105]] }]} className="framer-rxaauc" data-framer-name="Big Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":2},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847)" } }, segs: [{ tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[106] }, T[107], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[108] }, T[109], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[110] }, T[111], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[112] }, T[113], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[114] }, T[115], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[116] }, T[117], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[118] }, T[119], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[120] }, T[121], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[122] }, T[123], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[124] }, T[125], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[126] }, T[127], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[128] }, T[129], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[130] }, T[131], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[132] }, T[133], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[134] }, T[135], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[136] }, T[137], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[138] }, T[139], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[140] }, T[141], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[142] }, T[143], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[144] }, T[145], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[146] }, T[147], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[148] }, T[149], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[150] }, T[151], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[152] }, T[153], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[154] }, T[155], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[156] }, T[157], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[158] }, T[159], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[160] }, T[161], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[162] }, T[163], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[164] }, T[165], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[166] }, T[167], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[168] }, T[169], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[170] }, T[171], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[172] }, T[173], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[174] }, T[175], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[176] }, T[177], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[178] }, T[179], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[180] }] }]} className="framer-1vesi0q" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-color": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)" } }, segs: [T[53]] }]} className="framer-rxaauc" data-framer-name="Big Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":2},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847)" } }, segs: [T[54]] }]} className="framer-1vesi0q" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </div>
                 </div>
               </section>
@@ -507,7 +508,7 @@ export function Body() {
                     <VRoot as="div" map={{"bst1eaA3L":{"cls":"framer-v-14neqw2","name":"Revealed"},"SEOMcnqgJ":{"cls":"framer-v-1fvw07s","name":"Hidden"}}} initial="SEOMcnqgJ" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"bst1eaA3L","threshold":0,"once":true}} {...{ name: "1" }} className="framer-pVIbn framer-14neqw2 framer-v-1fvw07s" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                       <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"SEOMcnqgJ":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-cbal85" data-framer-name="1" id="tw5rDJXHw-cbal85" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "height": "auto", "aspectRatio": "1.3333333333333333", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
                         <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/GcvKkDO27IsRDlJfH0UVKmmgzcs.jpg" alt={T[181]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/GcvKkDO27IsRDlJfH0UVKmmgzcs.jpg" alt={T[55]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                         </div>
                       </VEl>
                     </VRoot>
@@ -518,7 +519,7 @@ export function Body() {
                     <VRoot as="div" map={{"bst1eaA3L":{"cls":"framer-v-14neqw2","name":"Revealed"},"SEOMcnqgJ":{"cls":"framer-v-1fvw07s","name":"Hidden"}}} initial="SEOMcnqgJ" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"bst1eaA3L","threshold":0,"once":true}} {...{ name: "1" }} className="framer-pVIbn framer-14neqw2 framer-v-1fvw07s" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                       <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"SEOMcnqgJ":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-cbal85" data-framer-name="1" id="tw5rDJXHw-cbal85" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "height": "auto", "aspectRatio": "1.3333333333333333", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
                         <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/aV7Bvg4B8UKAz38yRHkjPEmiQYo.jpg" alt={T[182]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/aV7Bvg4B8UKAz38yRHkjPEmiQYo.jpg" alt={T[56]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                         </div>
                       </VEl>
                     </VRoot>
@@ -529,7 +530,7 @@ export function Body() {
                     <VRoot as="div" map={{"bst1eaA3L":{"cls":"framer-v-14neqw2","name":"Revealed"},"SEOMcnqgJ":{"cls":"framer-v-1fvw07s","name":"Hidden"}}} initial="SEOMcnqgJ" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"bst1eaA3L","threshold":0,"once":true}} {...{ name: "1" }} className="framer-pVIbn framer-14neqw2 framer-v-1fvw07s" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                       <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"SEOMcnqgJ":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-cbal85" data-framer-name="1" id="tw5rDJXHw-cbal85" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "height": "auto", "aspectRatio": "1.3333333333333333", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
                         <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/IF3nI7pZx5dx9jaOz7RrjwLDWSE.jpg" alt={T[183]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/IF3nI7pZx5dx9jaOz7RrjwLDWSE.jpg" alt={T[57]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                         </div>
                       </VEl>
                     </VRoot>
@@ -540,7 +541,7 @@ export function Body() {
                     <VRoot as="div" map={{"bst1eaA3L":{"cls":"framer-v-14neqw2","name":"Revealed"},"SEOMcnqgJ":{"cls":"framer-v-1fvw07s","name":"Hidden"}}} initial="SEOMcnqgJ" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"bst1eaA3L","threshold":0,"once":true}} {...{ name: "1" }} className="framer-pVIbn framer-14neqw2 framer-v-1fvw07s" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                       <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"SEOMcnqgJ":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-cbal85" data-framer-name="1" id="tw5rDJXHw-cbal85" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "height": "auto", "aspectRatio": "1.3333333333333333", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
                         <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/BwJuRkmVii0M79EIpuKU7pMF2k.jpg" alt={T[184]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                          <img decoding="async" loading="lazy" width={1800} height={1350} src="/assets/images/BwJuRkmVii0M79EIpuKU7pMF2k.jpg" alt={T[58]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                         </div>
                       </VEl>
                     </VRoot>
@@ -554,15 +555,15 @@ export function Body() {
                       <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label" style={{ "maxWidth": "100%", "width": "100%" }}>
                         <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                            {T[185]}
+                            {T[59]}
                           </p>
                         </div>
                       </div>
                     </div>
                   </SV>
                   <div className="framer-lycdyf" data-framer-name="Big Text / Small Text">
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-color": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)" } }, segs: [T[186]] }]} className="framer-1pjpizp" data-framer-name="Big Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":2},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847)" } }, segs: [{ tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[187] }, T[188], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[189] }, T[190], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[191] }, T[192], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[193] }, T[194], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[195] }, T[196], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[197] }, T[198], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[199] }, T[200], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[201] }, T[202], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[203] }, T[204], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[205] }, T[206], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[207] }, T[208], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[209] }, T[210], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[211] }, T[212], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[213] }, T[214], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[215] }, T[216], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[217] }, T[218], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[219] }, T[220], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[221] }, T[222], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[223] }, T[224], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[225] }, T[226], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[227] }, T[228], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[229] }, T[230], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[231] }, T[232], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[233] }, T[234], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[235] }, T[236], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[237] }] }]} className="framer-1761imj" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-color": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)" } }, segs: [T[60]] }]} className="framer-1pjpizp" data-framer-name="Big Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":2},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847)" } }, segs: [T[61]] }]} className="framer-1761imj" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </div>
                 </div>
               </section>
@@ -574,7 +575,7 @@ export function Body() {
                 <div className="framer-1diamj1" data-framer-name="Metrics">
                   <div className="framer-17al0v9" data-framer-name="Label" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                      {T[238]}
+                      {T[62]}
                     </p>
                   </div>
                   <div className="framer-h7w56c" data-framer-name="Metrics">
@@ -584,24 +585,24 @@ export function Body() {
                           <div className="framer-19iwyhl" data-framer-name="Stat">
                             <div className="framer-nrs2ax" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[239]}
+                                {T[63]}
                               </p>
                             </div>
                             <div className="framer-1d57mhn" data-framer-name="Number / Description">
                               <div className="framer-w3nx7a" data-framer-name="Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                                 <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[240]}
+                                  {T[64]}
                                 </h2>
                               </div>
                               <div className="framer-dkfec8" data-framer-name="Label / Description">
                                 <div className="framer-qouc4r" data-framer-name="Label" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                    {T[241]}
+                                    {T[65]}
                                   </p>
                                 </div>
                                 <div className="framer-1rvpfig" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                    {T[242]}
+                                    {T[66]}
                                   </p>
                                 </div>
                               </div>
@@ -621,24 +622,24 @@ export function Body() {
                           <div className="framer-19iwyhl" data-framer-name="Stat">
                             <div className="framer-nrs2ax" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[243]}
+                                {T[67]}
                               </p>
                             </div>
                             <div className="framer-1d57mhn" data-framer-name="Number / Description">
                               <div className="framer-w3nx7a" data-framer-name="Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                                 <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[244]}
+                                  {T[68]}
                                 </h2>
                               </div>
                               <div className="framer-dkfec8" data-framer-name="Label / Description">
                                 <div className="framer-qouc4r" data-framer-name="Label" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                    {T[245]}
+                                    {T[69]}
                                   </p>
                                 </div>
                                 <div className="framer-1rvpfig" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                    {T[246]}
+                                    {T[70]}
                                   </p>
                                 </div>
                               </div>
@@ -658,24 +659,24 @@ export function Body() {
                           <div className="framer-19iwyhl" data-framer-name="Stat">
                             <div className="framer-nrs2ax" data-framer-name="Count" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[247]}
+                                {T[71]}
                               </p>
                             </div>
                             <div className="framer-1d57mhn" data-framer-name="Number / Description">
                               <div className="framer-w3nx7a" data-framer-name="Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                                 <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                  {T[248]}
+                                  {T[72]}
                                 </h2>
                               </div>
                               <div className="framer-dkfec8" data-framer-name="Label / Description">
                                 <div className="framer-qouc4r" data-framer-name="Label" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                    {T[249]}
+                                    {T[73]}
                                   </p>
                                 </div>
                                 <div className="framer-1rvpfig" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                    {T[250]}
+                                    {T[74]}
                                   </p>
                                 </div>
                               </div>
@@ -694,40 +695,40 @@ export function Body() {
                 <div className="framer-1i331ad" data-framer-name="Quote">
                   <div className="framer-18arrr4" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                      {T[251]}
+                      {T[75]}
                     </p>
                   </div>
                   <div className="framer-vx867a" data-framer-name="Author Card">
                     <SV c="ssr-variant hidden-1nc0ivo" show={["desktop","tablet"]}>
                       <div className="framer-2sx8n0" draggable={false}>
                         <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                          <img decoding="async" loading="lazy" width={640} height={640} src="/assets/images/kmNPpdMzKtgnYgsr9piGQpLv0.jpg" alt={T[252]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                          <img decoding="async" loading="lazy" width={640} height={640} src="/assets/images/kmNPpdMzKtgnYgsr9piGQpLv0.jpg" alt={T[76]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                         </div>
                       </div>
                     </SV>
                     <SV c="ssr-variant hidden-g87bww hidden-1o0hdey" show={["phone"]}>
                       <div className="framer-2sx8n0" draggable={false}>
                         <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                          <img decoding="async" loading="lazy" width={640} height={640} src="/assets/images/kmNPpdMzKtgnYgsr9piGQpLv0.jpg" alt={T[253]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                          <img decoding="async" loading="lazy" width={640} height={640} src="/assets/images/kmNPpdMzKtgnYgsr9piGQpLv0.jpg" alt={T[77]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                         </div>
                       </div>
                     </SV>
                     <div className="framer-18y1rde" data-framer-name="Name / Role">
                       <div className="framer-169brk5" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
-                          {T[254]}
+                          {T[78]}
                         </p>
                       </div>
                       <div className="framer-1xpol5b" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                          {T[255]}
+                          {T[79]}
                         </p>
                       </div>
                     </div>
                   </div>
                   <div className="framer-1cax6r0" data-framer-name="Quote">
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-ervepf", "data-styles-preset": "SM8X5ezGX", "dir": "auto", style: { "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" } }, segs: [T[256]] }]} className="framer-i1tksj" data-framer-name="Quote" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":2},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" } }, segs: [{ tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[257] }, T[258], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[259] }, T[260], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[261] }, T[262], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[263] }, T[264], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[265] }, T[266], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[267] }, T[268], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[269] }, T[270], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[271] }, T[272], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[273] }, T[274], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[275] }, T[276], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[277] }, T[278], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[279] }, T[280], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[281] }, T[282], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[283] }, T[284], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[285] }, T[286], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[287] }, T[288], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[289] }, T[290], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[291] }, T[292], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[293] }, T[294], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[295] }, T[296], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[297] }, T[298], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[299] }, T[300], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[301] }, T[302], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[303] }, T[304], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[305] }, T[306], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[307] }, T[308], { tag: "span", attrs: { style: { "display": "inline-block", "opacity": "0.001", "transform": "translateX(0px) translateY(2px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)" } }, text: T[309] }] }]} className="framer-wo1sty" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-ervepf", "data-styles-preset": "SM8X5ezGX", "dir": "auto", style: { "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" } }, segs: [T[80]] }]} className="framer-i1tksj" data-framer-name="Quote" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":2},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" } }, segs: [T[81]] }]} className="framer-wo1sty" data-framer-name="Small Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </div>
                 </div>
               </div>
@@ -739,7 +740,7 @@ export function Body() {
               <div className="framer-xrsurv" data-framer-name="Projects">
                 <div className="framer-ug8u0a" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                   <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))" }}>
-                    {T[310]}
+                    {T[82]}
                   </p>
                 </div>
                 <div className="framer-vf3z5h">
@@ -750,19 +751,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[311]}
+                                {T[83]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[312]}
+                                {T[84]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-07-08T00:00:00.000Z">
-                                {T[313]}
+                                {T[85]}
                               </time>
                             </p>
                           </div>
@@ -787,19 +788,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[314]}
+                                {T[86]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[315]}
+                                {T[87]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-07-08T00:00:00.000Z">
-                                {T[316]}
+                                {T[88]}
                               </time>
                             </p>
                           </div>
@@ -821,19 +822,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[317]}
+                                {T[89]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[318]}
+                                {T[90]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-05-05T00:00:00.000Z">
-                                {T[319]}
+                                {T[91]}
                               </time>
                             </p>
                           </div>
@@ -858,19 +859,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[320]}
+                                {T[92]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[321]}
+                                {T[93]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-05-05T00:00:00.000Z">
-                                {T[322]}
+                                {T[94]}
                               </time>
                             </p>
                           </div>
@@ -892,19 +893,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[323]}
+                                {T[95]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[324]}
+                                {T[96]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-04-15T00:00:00.000Z">
-                                {T[325]}
+                                {T[97]}
                               </time>
                             </p>
                           </div>
@@ -914,7 +915,7 @@ export function Body() {
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7777777777777777", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" loading="lazy" width={2400} height={1350} src="/assets/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg" alt={T[326]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" loading="lazy" width={2400} height={1350} src="/assets/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg" alt={T[98]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
@@ -931,19 +932,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[327]}
+                                {T[99]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[328]}
+                                {T[100]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-04-15T00:00:00.000Z">
-                                {T[329]}
+                                {T[101]}
                               </time>
                             </p>
                           </div>
@@ -952,7 +953,7 @@ export function Body() {
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" loading="lazy" width={2400} height={1350} src="/assets/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg" alt={T[330]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" loading="lazy" width={2400} height={1350} src="/assets/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg" alt={T[102]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                           </div>
@@ -967,19 +968,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[331]}
+                                {T[103]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[332]}
+                                {T[104]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-01-01T00:00:00.000Z">
-                                {T[333]}
+                                {T[105]}
                               </time>
                             </p>
                           </div>
@@ -989,7 +990,7 @@ export function Body() {
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7770034843205575", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg" alt={T[334]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg" alt={T[106]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
@@ -1006,19 +1007,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[335]}
+                                {T[107]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[336]}
+                                {T[108]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-01-01T00:00:00.000Z">
-                                {T[337]}
+                                {T[109]}
                               </time>
                             </p>
                           </div>
@@ -1027,7 +1028,7 @@ export function Body() {
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg" alt={T[338]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg" alt={T[110]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                           </div>
@@ -1042,19 +1043,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[339]}
+                                {T[111]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[340]}
+                                {T[112]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2023-02-01T00:00:00.000Z">
-                                {T[341]}
+                                {T[113]}
                               </time>
                             </p>
                           </div>
@@ -1064,7 +1065,7 @@ export function Body() {
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7770034843205575", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg" alt={T[342]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg" alt={T[114]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
@@ -1081,19 +1082,19 @@ export function Body() {
                           <div className="framer-1nl3ckl" data-framer-name="Text">
                             <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
-                                {T[343]}
+                                {T[115]}
                               </h2>
                             </div>
                             <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
-                                {T[344]}
+                                {T[116]}
                               </h2>
                             </div>
                           </div>
                           <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2023-02-01T00:00:00.000Z">
-                                {T[345]}
+                                {T[117]}
                               </time>
                             </p>
                           </div>
@@ -1102,7 +1103,7 @@ export function Body() {
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg" alt={T[346]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                <img decoding="async" loading="lazy" width={2040} height={1148} src="/assets/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg" alt={T[118]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                               </div>
                             </div>
                           </div>
@@ -1127,7 +1128,7 @@ export function Body() {
                         <div className="framer-2rkagx" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.65" }} />
                         <VEl as="div" base={{"rotate":2,"scale":1.3}} variants={{"DlVS4BEWz":{"rotate":0,"scale":1}}} className="framer-1rd84u6" data-framer-name="BG Image" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3) rotate(2deg)" }}>
                           <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                            <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[347]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                            <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[119]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                           </div>
                         </VEl>
                       </VEl>
@@ -1139,7 +1140,7 @@ export function Body() {
                         <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                           <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                              {T[348]}
+                              {T[120]}
                             </p>
                           </div>
                         </div>
@@ -1176,9 +1177,9 @@ export function Body() {
                         </div>
                         <div className="framer-11fc1lh" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                            {T[349]}
+                            {T[121]}
                             <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                              {T[350]}
+                              {T[122]}
                             </span>
                           </p>
                         </div>
@@ -1187,18 +1188,18 @@ export function Body() {
                         <div className="framer-QRwP7 framer-QoPvp framer-1kijlsy framer-v-1kijlsy" data-framer-name="Author" style={{ "width": "100%" }}>
                           <div className="framer-1ldgocu" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                              <img decoding="async" loading="lazy" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[351]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                              <img decoding="async" loading="lazy" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[123]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                             </div>
                           </div>
                           <div className="framer-lpw2kj" data-framer-name="Name / Role">
                             <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
-                                {T[352]}
+                                {T[124]}
                               </p>
                             </div>
                             <div className="framer-t6pkcg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-DrFk2xWcP-TJ9zZTo1g)", "--variable-reference-DrFk2xWcP-TJ9zZTo1g": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-DrFk2xWcP-TJ9zZTo1g))" }}>
-                                {T[353]}
+                                {T[125]}
                               </p>
                             </div>
                           </div>
@@ -1209,8 +1210,8 @@ export function Body() {
                       <div className="framer-13uprae" data-framer-name="Filler" />
                       <div className="framer-sec3t8" data-framer-name="Heading / Form">
                         <div className="framer-11w2tx5" data-framer-name="Heading / Description">
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[354], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[355] }, T[356]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[357], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[358] }, T[359]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[126], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[127] }, T[128]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[129], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[130] }, T[131]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
                         </div>
                         <div className="framer-behbyg" data-framer-name="Form / Contact Info">
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-13sow98-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
@@ -1228,77 +1229,77 @@ export function Body() {
                                     <label className="framer-myo4nu" data-framer-name="Name">
                                       <div className="framer-fvxa39" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[360]}
+                                          {T[132]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-d692lq framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" required name="Name" placeholder={T[361]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" required name="Name" placeholder={T[133]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-c41om3" data-framer-name="Company">
                                       <div className="framer-1ghdy9u" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[362]}
+                                          {T[134]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-er8fe framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" name="Company" placeholder={T[363]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Company" placeholder={T[135]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                   </div>
                                   <label className="framer-ausbnb" data-framer-name="Help With">
                                     <div className="framer-17k9ytc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[364]}
+                                        {T[136]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-1qo6tv9 framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="text" name="I need help with" placeholder={T[365]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="text" name="I need help with" placeholder={T[137]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                   <label className="framer-3t0b9d" data-framer-name="Pitch">
                                     <div className="framer-fgq56l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[366]}
+                                        {T[138]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-9t7fli framer-form-textarea-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                      <textarea required name="Pitch" placeholder={T[367]} className="framer-form-input" />
+                                      <textarea required name="Pitch" placeholder={T[139]} className="framer-form-input" />
                                     </div>
                                   </label>
                                   <div className="framer-1lq4m9b" data-framer-name="Budget & Timeline" style={{ "--1jqv5zi": "1 0 0px", "--tze0fu": "1px", "--xa888v": "row" }}>
                                     <label className="framer-mvvosq" data-framer-name="Budget">
                                       <div className="framer-16h4pdc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[368]}
+                                          {T[140]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-km6j1d framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                        <input type="text" name="Budget" placeholder={T[369]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Budget" placeholder={T[141]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-78o1yk" data-framer-name="Start">
                                       <div className="framer-k2st13" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[370]}
+                                          {T[142]}
                                         </p>
                                       </div>
                                       <div className="framer-form-input-wrapper framer-form-select-wrapper framer-btzrlz" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-color": "rgb(153, 153, 153)", "--framer-input-invalid-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
                                         <select name="Start" required className="framer-form-input">
                                           <option value="" disabled>
-                                            {T[371]}
+                                            {T[143]}
                                           </option>
                                           <option value="ASAP">
-                                            {T[372]}
+                                            {T[144]}
                                           </option>
                                           <option value="Within a month">
-                                            {T[373]}
+                                            {T[145]}
                                           </option>
                                           <option value="This quarter">
-                                            {T[374]}
+                                            {T[146]}
                                           </option>
                                           <option value="Just exploring">
-                                            {T[375]}
+                                            {T[147]}
                                           </option>
                                         </select>
                                       </div>
@@ -1307,11 +1308,11 @@ export function Body() {
                                   <label className="framer-u8bpr7" data-framer-name="Email">
                                     <div className="framer-1ikczjy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                        {T[376]}
+                                        {T[148]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-e811z7" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="email" required name="Email" placeholder={T[377]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="email" required name="Email" placeholder={T[149]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                 </VEl>
@@ -1319,22 +1320,22 @@ export function Body() {
                                   <div className="framer-mrpb47" data-framer-name="Legal">
                                     <div className="framer-1mzwcwg" data-framer-component-type="RichTextContainer" style={{ "--extracted-3sq8v0": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                        {T[378]}
+                                        {T[150]}
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="../terms-conditions" to="/terms-conditions">
-                                          {T[379]}
+                                          {T[151]}
                                         </Lk>
-                                        {T[380]}
+                                        {T[152]}
                                         <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                          {T[381]}
+                                          {T[153]}
                                         </span>
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="../privacy-policy" to="/privacy-policy">
-                                          {T[382]}
+                                          {T[154]}
                                         </Lk>
                                       </p>
                                     </div>
                                   </div>
                                   <div className="framer-16ay88s-container">
-                                    <FormButtonFx label={T[383]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
+                                    <FormButtonFx label={T[155]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
                                   </div>
                                 </div>
                                 <input type="text" name="website" tabIndex={-1} autoComplete="one-time-code" aria-hidden="true" style={{ "position": "absolute", "transform": "scale(0)" }} data-1p-ignore="true" data-lpignore="true" data-form-type="other" data-bwignore="true" defaultValue="" />
@@ -1356,14 +1357,14 @@ export function Body() {
                               <div className="framer-irhihs" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-ervepf" data-styles-preset="SM8X5ezGX" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="tel:+18054501432" target="_blank" rel="">
-                                    {T[384]}
+                                    {T[156]}
                                   </a>
                                 </p>
                               </div>
                               <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
-                                    {T[385]}
+                                    {T[157]}
                                   </a>
                                 </p>
                               </div>
@@ -1380,19 +1381,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[386]}
+                                {T[158]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[387]}
+                                {T[159]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[388]}
+                                {T[160]}
                               </p>
                             </div>
                           </div>
@@ -1403,19 +1404,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[389]}
+                                {T[161]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[390]}
+                                {T[162]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[391]}
+                                {T[163]}
                               </p>
                             </div>
                           </div>
@@ -1426,19 +1427,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[392]}
+                                {T[164]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[393]}
+                                {T[165]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[394]}
+                                {T[166]}
                               </p>
                             </div>
                           </div>
@@ -1460,7 +1461,7 @@ export function Body() {
                         <div className="framer-2rkagx" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.65" }} />
                         <VEl as="div" base={{"rotate":2,"scale":1.3}} variants={{"DlVS4BEWz":{"rotate":0,"scale":1}}} className="framer-1rd84u6" data-framer-name="BG Image" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3) rotate(2deg)" }}>
                           <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                            <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[395]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                            <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[167]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                           </div>
                         </VEl>
                       </VEl>
@@ -1472,7 +1473,7 @@ export function Body() {
                         <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                           <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                              {T[396]}
+                              {T[168]}
                             </p>
                           </div>
                         </div>
@@ -1509,9 +1510,9 @@ export function Body() {
                         </div>
                         <div className="framer-11fc1lh" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                            {T[397]}
+                            {T[169]}
                             <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                              {T[398]}
+                              {T[170]}
                             </span>
                           </p>
                         </div>
@@ -1520,18 +1521,18 @@ export function Body() {
                         <div className="framer-QRwP7 framer-QoPvp framer-1kijlsy framer-v-1kijlsy" data-framer-name="Author" style={{ "width": "100%" }}>
                           <div className="framer-1ldgocu" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                              <img decoding="async" loading="lazy" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[399]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                              <img decoding="async" loading="lazy" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[171]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                             </div>
                           </div>
                           <div className="framer-lpw2kj" data-framer-name="Name / Role">
                             <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
-                                {T[400]}
+                                {T[172]}
                               </p>
                             </div>
                             <div className="framer-t6pkcg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-DrFk2xWcP-TJ9zZTo1g)", "--variable-reference-DrFk2xWcP-TJ9zZTo1g": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-DrFk2xWcP-TJ9zZTo1g))" }}>
-                                {T[401]}
+                                {T[173]}
                               </p>
                             </div>
                           </div>
@@ -1541,8 +1542,8 @@ export function Body() {
                     <div className="framer-1vtoytd" data-framer-name="Middle">
                       <div className="framer-sec3t8" data-framer-name="Heading / Form">
                         <div className="framer-11w2tx5" data-framer-name="Heading / Description">
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[402], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[403] }, T[404]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[405], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[406] }, T[407]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[174], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[175] }, T[176]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[177], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[178] }, T[179]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
                         </div>
                         <div className="framer-behbyg" data-framer-name="Form / Contact Info">
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-13sow98-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
@@ -1560,77 +1561,77 @@ export function Body() {
                                     <label className="framer-myo4nu" data-framer-name="Name">
                                       <div className="framer-fvxa39" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[408]}
+                                          {T[180]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-d692lq framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" required name="Name" placeholder={T[409]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" required name="Name" placeholder={T[181]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-c41om3" data-framer-name="Company">
                                       <div className="framer-1ghdy9u" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[410]}
+                                          {T[182]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-er8fe framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" name="Company" placeholder={T[411]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Company" placeholder={T[183]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                   </div>
                                   <label className="framer-ausbnb" data-framer-name="Help With">
                                     <div className="framer-17k9ytc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[412]}
+                                        {T[184]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-1qo6tv9 framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="text" name="I need help with" placeholder={T[413]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="text" name="I need help with" placeholder={T[185]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                   <label className="framer-3t0b9d" data-framer-name="Pitch">
                                     <div className="framer-fgq56l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[414]}
+                                        {T[186]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-9t7fli framer-form-textarea-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                      <textarea required name="Pitch" placeholder={T[415]} className="framer-form-input" />
+                                      <textarea required name="Pitch" placeholder={T[187]} className="framer-form-input" />
                                     </div>
                                   </label>
                                   <div className="framer-1lq4m9b" data-framer-name="Budget & Timeline" style={{ "--tze0fu": "100%", "--xa888v": "column" }}>
                                     <label className="framer-mvvosq" data-framer-name="Budget">
                                       <div className="framer-16h4pdc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[416]}
+                                          {T[188]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-km6j1d framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                        <input type="text" name="Budget" placeholder={T[417]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Budget" placeholder={T[189]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-78o1yk" data-framer-name="Start">
                                       <div className="framer-k2st13" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[418]}
+                                          {T[190]}
                                         </p>
                                       </div>
                                       <div className="framer-form-input-wrapper framer-form-select-wrapper framer-btzrlz" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-color": "rgb(153, 153, 153)", "--framer-input-invalid-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
                                         <select name="Start" required className="framer-form-input">
                                           <option value="" disabled>
-                                            {T[419]}
+                                            {T[191]}
                                           </option>
                                           <option value="ASAP">
-                                            {T[420]}
+                                            {T[192]}
                                           </option>
                                           <option value="Within a month">
-                                            {T[421]}
+                                            {T[193]}
                                           </option>
                                           <option value="This quarter">
-                                            {T[422]}
+                                            {T[194]}
                                           </option>
                                           <option value="Just exploring">
-                                            {T[423]}
+                                            {T[195]}
                                           </option>
                                         </select>
                                       </div>
@@ -1639,11 +1640,11 @@ export function Body() {
                                   <label className="framer-u8bpr7" data-framer-name="Email">
                                     <div className="framer-1ikczjy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                        {T[424]}
+                                        {T[196]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-e811z7" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="email" required name="Email" placeholder={T[425]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="email" required name="Email" placeholder={T[197]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                 </VEl>
@@ -1651,22 +1652,22 @@ export function Body() {
                                   <div className="framer-mrpb47" data-framer-name="Legal">
                                     <div className="framer-1mzwcwg" data-framer-component-type="RichTextContainer" style={{ "--extracted-3sq8v0": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                        {T[426]}
+                                        {T[198]}
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="../terms-conditions" to="/terms-conditions">
-                                          {T[427]}
+                                          {T[199]}
                                         </Lk>
-                                        {T[428]}
+                                        {T[200]}
                                         <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                          {T[429]}
+                                          {T[201]}
                                         </span>
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="../privacy-policy" to="/privacy-policy">
-                                          {T[430]}
+                                          {T[202]}
                                         </Lk>
                                       </p>
                                     </div>
                                   </div>
                                   <div className="framer-16ay88s-container">
-                                    <FormButtonFx label={T[431]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
+                                    <FormButtonFx label={T[203]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
                                   </div>
                                 </div>
                                 <input type="text" name="website" tabIndex={-1} autoComplete="one-time-code" aria-hidden="true" style={{ "position": "absolute", "transform": "scale(0)" }} data-1p-ignore="true" data-lpignore="true" data-form-type="other" data-bwignore="true" defaultValue="" />
@@ -1688,14 +1689,14 @@ export function Body() {
                               <div className="framer-irhihs" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-ervepf" data-styles-preset="SM8X5ezGX" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="tel:+18054501432" target="_blank" rel="">
-                                    {T[432]}
+                                    {T[204]}
                                   </a>
                                 </p>
                               </div>
                               <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
-                                    {T[433]}
+                                    {T[205]}
                                   </a>
                                 </p>
                               </div>
@@ -1711,19 +1712,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[434]}
+                                {T[206]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[435]}
+                                {T[207]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[436]}
+                                {T[208]}
                               </p>
                             </div>
                           </div>
@@ -1734,19 +1735,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[437]}
+                                {T[209]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[438]}
+                                {T[210]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[439]}
+                                {T[211]}
                               </p>
                             </div>
                           </div>
@@ -1757,19 +1758,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[440]}
+                                {T[212]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[441]}
+                                {T[213]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[442]}
+                                {T[214]}
                               </p>
                             </div>
                           </div>
@@ -1791,7 +1792,7 @@ export function Body() {
                         <div className="framer-2rkagx" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.65" }} />
                         <VEl as="div" base={{"rotate":2,"scale":1.3}} variants={{"DlVS4BEWz":{"rotate":0,"scale":1}}} className="framer-1rd84u6" data-framer-name="BG Image" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3) rotate(2deg)" }}>
                           <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                            <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[443]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                            <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[215]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
                           </div>
                         </VEl>
                       </VEl>
@@ -1803,7 +1804,7 @@ export function Body() {
                         <div className="framer-Cuyir framer-Me6vv framer-mi0u4 framer-v-mi0u4" data-framer-name="Label">
                           <div className="framer-moe5to" data-framer-name="Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-fgjj4TIuY-gQb2X9aVh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-fgjj4TIuY-gQb2X9aVh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-fgjj4TIuY-gQb2X9aVh))" }}>
-                              {T[444]}
+                              {T[216]}
                             </p>
                           </div>
                         </div>
@@ -1840,9 +1841,9 @@ export function Body() {
                         </div>
                         <div className="framer-11fc1lh" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                           <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                            {T[445]}
+                            {T[217]}
                             <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                              {T[446]}
+                              {T[218]}
                             </span>
                           </p>
                         </div>
@@ -1851,18 +1852,18 @@ export function Body() {
                         <div className="framer-QRwP7 framer-QoPvp framer-1kijlsy framer-v-1kijlsy" data-framer-name="Author" style={{ "width": "100%" }}>
                           <div className="framer-1ldgocu" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                              <img decoding="async" loading="lazy" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[447]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                              <img decoding="async" loading="lazy" width={84} height={84} src="/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg" alt={T[219]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                             </div>
                           </div>
                           <div className="framer-lpw2kj" data-framer-name="Name / Role">
                             <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
-                                {T[448]}
+                                {T[220]}
                               </p>
                             </div>
                             <div className="framer-t6pkcg" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-DrFk2xWcP-TJ9zZTo1g)", "--variable-reference-DrFk2xWcP-TJ9zZTo1g": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-DrFk2xWcP-TJ9zZTo1g))" }}>
-                                {T[449]}
+                                {T[221]}
                               </p>
                             </div>
                           </div>
@@ -1872,8 +1873,8 @@ export function Body() {
                     <div className="framer-1vtoytd" data-framer-name="Middle">
                       <div className="framer-sec3t8" data-framer-name="Heading / Form">
                         <div className="framer-11w2tx5" data-framer-name="Heading / Description">
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[450], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[451] }, T[452]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
-                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[453], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[454] }, T[455]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":1.1,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1c0t51l", "data-styles-preset": "iLKnB8A0V", "dir": "auto", style: { "--framer-text-color": "var(--extracted-1of0zx5, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[222], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1qn201a, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" } }, text: T[223] }, T[224]] }]} className="framer-1xbm67e" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--extracted-1qn201a": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }} />
+                          <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":10},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.2,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" } }, segs: [T[225], { tag: "span", attrs: { "className": "framer-text", style: { "--framer-text-color": "var(--extracted-1w3ko1f, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" } }, text: T[226] }, T[227]] }]} className="framer-1ppt5ho" data-framer-component-type="RichTextContainer" style={{ "--extracted-1w3ko1f": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }} />
                         </div>
                         <div className="framer-behbyg" data-framer-name="Form / Contact Info">
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.6,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-13sow98-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
@@ -1891,77 +1892,77 @@ export function Body() {
                                     <label className="framer-myo4nu" data-framer-name="Name">
                                       <div className="framer-fvxa39" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[456]}
+                                          {T[228]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-d692lq framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" required name="Name" placeholder={T[457]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" required name="Name" placeholder={T[229]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-c41om3" data-framer-name="Company">
                                       <div className="framer-1ghdy9u" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                          {T[458]}
+                                          {T[230]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-er8fe framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                        <input type="text" name="Company" placeholder={T[459]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Company" placeholder={T[231]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                   </div>
                                   <label className="framer-ausbnb" data-framer-name="Help With">
                                     <div className="framer-17k9ytc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[460]}
+                                        {T[232]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-1qo6tv9 framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="text" name="I need help with" placeholder={T[461]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="text" name="I need help with" placeholder={T[233]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                   <label className="framer-3t0b9d" data-framer-name="Pitch">
                                     <div className="framer-fgq56l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                        {T[462]}
+                                        {T[234]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-9t7fli framer-form-textarea-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                      <textarea required name="Pitch" placeholder={T[463]} className="framer-form-input" />
+                                      <textarea required name="Pitch" placeholder={T[235]} className="framer-form-input" />
                                     </div>
                                   </label>
                                   <div className="framer-1lq4m9b" data-framer-name="Budget & Timeline" style={{ "--1jqv5zi": "1 0 0px", "--tze0fu": "1px", "--xa888v": "row" }}>
                                     <label className="framer-mvvosq" data-framer-name="Budget">
                                       <div className="framer-16h4pdc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[464]}
+                                          {T[236]}
                                         </p>
                                       </div>
                                       <div className="framer-form-text-input framer-form-input-wrapper framer-km6j1d framer-form-text-input-type" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
-                                        <input type="text" name="Budget" placeholder={T[465]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                        <input type="text" name="Budget" placeholder={T[237]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                       </div>
                                     </label>
                                     <label className="framer-78o1yk" data-framer-name="Start">
                                       <div className="framer-k2st13" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "transform": "none" }}>
                                         <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94))" }}>
-                                          {T[466]}
+                                          {T[238]}
                                         </p>
                                       </div>
                                       <div className="framer-form-input-wrapper framer-form-select-wrapper framer-btzrlz" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)", "--framer-input-icon-color": "rgb(153, 153, 153)", "--framer-input-invalid-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb)" }}>
                                         <select name="Start" required className="framer-form-input">
                                           <option value="" disabled>
-                                            {T[467]}
+                                            {T[239]}
                                           </option>
                                           <option value="ASAP">
-                                            {T[468]}
+                                            {T[240]}
                                           </option>
                                           <option value="Within a month">
-                                            {T[469]}
+                                            {T[241]}
                                           </option>
                                           <option value="This quarter">
-                                            {T[470]}
+                                            {T[242]}
                                           </option>
                                           <option value="Just exploring">
-                                            {T[471]}
+                                            {T[243]}
                                           </option>
                                         </select>
                                       </div>
@@ -1970,11 +1971,11 @@ export function Body() {
                                   <label className="framer-u8bpr7" data-framer-name="Email">
                                     <div className="framer-1ikczjy" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                        {T[472]}
+                                        {T[244]}
                                       </p>
                                     </div>
                                     <div className="framer-form-text-input framer-form-input-wrapper framer-e811z7" style={{ "--corner-shape-fallback": "0.752", "--framer-input-background": "rgba(10, 10, 10, 0.75)", "--framer-input-border-radius-bottom-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-bottom-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-left": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-border-radius-top-right": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "--framer-input-corner-shape": "superellipse(1.5)", "--framer-input-font-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-input-icon-mask-image": "none", "--framer-input-placeholder-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
-                                      <input type="email" required name="Email" placeholder={T[473]} className="framer-form-input framer-form-input-empty" defaultValue="" />
+                                      <input type="email" required name="Email" placeholder={T[245]} className="framer-form-input framer-form-input-empty" defaultValue="" />
                                     </div>
                                   </label>
                                 </VEl>
@@ -1982,22 +1983,22 @@ export function Body() {
                                   <div className="framer-mrpb47" data-framer-name="Legal">
                                     <div className="framer-1mzwcwg" data-framer-component-type="RichTextContainer" style={{ "--extracted-3sq8v0": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "transform": "none" }}>
                                       <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                        {T[474]}
+                                        {T[246]}
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="../terms-conditions" to="/terms-conditions">
-                                          {T[475]}
+                                          {T[247]}
                                         </Lk>
-                                        {T[476]}
+                                        {T[248]}
                                         <span className="framer-text" style={{ "--framer-text-color": "var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                                          {T[477]}
+                                          {T[249]}
                                         </span>
                                         <Lk className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="../privacy-policy" to="/privacy-policy">
-                                          {T[478]}
+                                          {T[250]}
                                         </Lk>
                                       </p>
                                     </div>
                                   </div>
                                   <div className="framer-16ay88s-container">
-                                    <FormButtonFx label={T[479]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
+                                    <FormButtonFx label={T[251]} color={"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"} textColor={"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"} style={{"width":"100%"}} />
                                   </div>
                                 </div>
                                 <input type="text" name="website" tabIndex={-1} autoComplete="one-time-code" aria-hidden="true" style={{ "position": "absolute", "transform": "scale(0)" }} data-1p-ignore="true" data-lpignore="true" data-form-type="other" data-bwignore="true" defaultValue="" />
@@ -2019,14 +2020,14 @@ export function Body() {
                               <div className="framer-irhihs" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-ervepf" data-styles-preset="SM8X5ezGX" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="tel:+18054501432" target="_blank" rel="">
-                                    {T[480]}
+                                    {T[252]}
                                   </a>
                                 </p>
                               </div>
                               <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                 <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
                                   <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
-                                    {T[481]}
+                                    {T[253]}
                                   </a>
                                 </p>
                               </div>
@@ -2042,19 +2043,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[482]}
+                                {T[254]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[483]}
+                                {T[255]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[484]}
+                                {T[256]}
                               </p>
                             </div>
                           </div>
@@ -2065,19 +2066,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[485]}
+                                {T[257]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[486]}
+                                {T[258]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[487]}
+                                {T[259]}
                               </p>
                             </div>
                           </div>
@@ -2088,19 +2089,19 @@ export function Body() {
                           <div className="framer-v8qtu5" data-framer-name="Step" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cnai0k" data-framer-name="01" data-framer-component-type="RichTextContainer" style={{ "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                                {T[488]}
+                                {T[260]}
                               </p>
                             </div>
                           </div>
                           <div className="framer-re0eey" data-framer-name="Text">
                             <div className="framer-qynumf" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                {T[489]}
+                                {T[261]}
                               </p>
                             </div>
                             <div className="framer-127574l" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "--framer-paragraph-spacing": "0px", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188)))" }}>
-                                {T[490]}
+                                {T[262]}
                               </p>
                             </div>
                           </div>

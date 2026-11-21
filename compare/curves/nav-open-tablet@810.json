@@ -1,0 +1,467 @@
+[
+ {
+  "k": "sideNav.width",
+  "amp": 437,
+  "from": 56,
+  "to": 493,
+  "cloneFrom": 56,
+  "cloneTo": 493,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   96,
+   384
+  ],
+  "shapePct": 22.43,
+  "ok": false
+ },
+ {
+  "k": "sideNav.borderRadius",
+  "amp": 18.9929,
+  "from": 12,
+  "to": 12,
+  "cloneFrom": 12,
+  "cloneTo": 12,
+  "startEnd": [
+   16,
+   416
+  ],
+  "cloneStartEnd": null,
+  "shapePct": 50.36,
+  "ok": null
+ },
+ {
+  "k": "overlay.opacity",
+  "amp": 0.85,
+  "from": 0,
+  "to": 0.85,
+  "cloneFrom": 0,
+  "cloneTo": 0.85,
+  "startEnd": [
+   64,
+   544
+  ],
+  "cloneStartEnd": [
+   64,
+   544
+  ],
+  "shapePct": 1.36,
+  "ok": true
+ },
+ {
+  "k": "overlay.filter",
+  "amp": 1,
+  "from": 0,
+  "to": 1,
+  "cloneFrom": 0,
+  "cloneTo": 1,
+  "startEnd": [
+   64,
+   544
+  ],
+  "cloneStartEnd": [
+   64,
+   544
+  ],
+  "shapePct": 1.36,
+  "ok": true
+ },
+ {
+  "k": "hamburger.transform[0]",
+  "amp": 2,
+  "from": 1,
+  "to": -1,
+  "cloneFrom": 1,
+  "cloneTo": -1,
+  "startEnd": [
+   176,
+   368
+  ],
+  "cloneStartEnd": [
+   192,
+   384
+  ],
+  "shapePct": 28.9,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[1]",
+  "amp": 0.9629,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   80,
+   496
+  ],
+  "shapePct": 18.4,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[2]",
+  "amp": 0.9629,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   80,
+   496
+  ],
+  "shapePct": 18.4,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[3]",
+  "amp": 2,
+  "from": 1,
+  "to": -1,
+  "cloneFrom": 1,
+  "cloneTo": -1,
+  "startEnd": [
+   176,
+   368
+  ],
+  "cloneStartEnd": [
+   192,
+   384
+  ],
+  "shapePct": 28.9,
+  "ok": false
+ },
+ {
+  "k": "hamburger.width",
+  "amp": 6.626,
+  "from": 16,
+  "to": 16,
+  "cloneFrom": 16,
+  "cloneTo": 16,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   64,
+   512
+  ],
+  "shapePct": 26.09,
+  "ok": false
+ },
+ {
+  "k": "hamburger.height",
+  "amp": 6.626,
+  "from": 16,
+  "to": 16,
+  "cloneFrom": 16,
+  "cloneTo": 16,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   64,
+   512
+  ],
+  "shapePct": 26.09,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[0]",
+  "amp": 0.2929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   464
+  ],
+  "cloneStartEnd": [
+   32,
+   480
+  ],
+  "shapePct": 68.28,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[1]",
+  "amp": 0.7071,
+  "from": 0,
+  "to": -0.707107,
+  "cloneFrom": 0,
+  "cloneTo": -0.707107,
+  "startEnd": [
+   96,
+   448
+  ],
+  "cloneStartEnd": [
+   112,
+   464
+  ],
+  "shapePct": 19.23,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[2]",
+  "amp": 0.9084,
+  "from": 0,
+  "to": 0.707107,
+  "cloneFrom": 0,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   64,
+   464
+  ],
+  "cloneStartEnd": [
+   80,
+   480
+  ],
+  "shapePct": 16.42,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[3]",
+  "amp": 2.7929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 89.51,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[4]",
+  "amp": 10,
+  "from": 0,
+  "to": -10,
+  "cloneFrom": 0,
+  "cloneTo": -10,
+  "startEnd": [
+   16,
+   16
+  ],
+  "cloneStartEnd": [
+   32,
+   32
+  ],
+  "shapePct": 100,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[5]",
+  "amp": 5.5,
+  "from": 0,
+  "to": -1,
+  "cloneFrom": 0,
+  "cloneTo": -1,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 100,
+  "ok": false
+ },
+ {
+  "k": "hTop.x",
+  "amp": 6.081,
+  "from": 23,
+  "to": 23.222,
+  "cloneFrom": 23,
+  "cloneTo": 23.222,
+  "startEnd": [
+   112,
+   480
+  ],
+  "cloneStartEnd": [
+   16,
+   496
+  ],
+  "shapePct": 131.56,
+  "ok": false
+ },
+ {
+  "k": "hTop.y",
+  "amp": 1.717,
+  "from": 33,
+  "to": 33.222,
+  "cloneFrom": 33,
+  "cloneTo": 33.222,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   16,
+   512
+  ],
+  "shapePct": 465.93,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[0]",
+  "amp": 0.2929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   464
+  ],
+  "cloneStartEnd": [
+   32,
+   480
+  ],
+  "shapePct": 68.28,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[1]",
+  "amp": 0.7071,
+  "from": 0,
+  "to": 0.707107,
+  "cloneFrom": 0,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   96,
+   448
+  ],
+  "cloneStartEnd": [
+   112,
+   464
+  ],
+  "shapePct": 19.23,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[2]",
+  "amp": 0.9084,
+  "from": 0,
+  "to": -0.707107,
+  "cloneFrom": 0,
+  "cloneTo": -0.707107,
+  "startEnd": [
+   64,
+   464
+  ],
+  "cloneStartEnd": [
+   80,
+   480
+  ],
+  "shapePct": 16.42,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[3]",
+  "amp": 2.7929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 89.51,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[4]",
+  "amp": 10,
+  "from": 0,
+  "to": -10,
+  "cloneFrom": 0,
+  "cloneTo": -10,
+  "startEnd": [
+   16,
+   16
+  ],
+  "cloneStartEnd": [
+   32,
+   32
+  ],
+  "shapePct": 100,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[5]",
+  "amp": 4.5,
+  "from": 0,
+  "to": -1,
+  "cloneFrom": 0,
+  "cloneTo": -1,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 77.78,
+  "ok": false
+ },
+ {
+  "k": "hBottom.x",
+  "amp": 4.139,
+  "from": 23,
+  "to": 23.222,
+  "cloneFrom": 23,
+  "cloneTo": 23.222,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   16,
+   512
+  ],
+  "shapePct": 193.28,
+  "ok": false
+ },
+ {
+  "k": "hBottom.y",
+  "amp": 9.673,
+  "from": 42,
+  "to": 33.222,
+  "cloneFrom": 42,
+  "cloneTo": 33.222,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   16,
+   496
+  ],
+  "shapePct": 31.91,
+  "ok": false
+ }
+]

@@ -33,8 +33,8 @@ export function TextFx({ as, fx, paras, ...rest }: { as: string; fx: TextEffect;
       if (fx.tokenization === 'line') {
         const tops: number[] = [];
         for (const c of chars) { const top = Math.round((c.parentElement as HTMLElement).offsetTop); let i = tops.indexOf(top); if (i < 0) { tops.push(top); i = tops.length - 1; } rank.set(c, i); }
-      } else if (fx.tokenization === 'word') {
-        const words = [...new Set(chars.map((c) => c.parentElement))]; chars.forEach((c) => rank.set(c, words.indexOf(c.parentElement)));
+      } else if (fx.tokenization === 'word') { // un jeton par mot (span par mot)
+        chars.forEach((c, i) => rank.set(c, i));
       } else if (fx.tokenization === 'element') chars.forEach((c) => rank.set(c, 0));
       else chars.forEach((c, i) => rank.set(c, i));
       const base = { duration: t.duration, ease: t.ease as [number, number, number, number] | undefined, type: t.type === 'spring' ? 'spring' : undefined, stiffness: t.stiffness, damping: t.damping, mass: t.mass, bounce: t.bounce };
@@ -55,7 +55,10 @@ export function TextFx({ as, fx, paras, ...rest }: { as: string; fx: TextEffect;
   const init: CSSProperties = { display: 'inline-block', opacity: fx.effect.opacity ?? 1, transform: tf(fx.effect) };
   // mot de 13 caractères ou plus : white-space unset (mesuré sur tous les DOM de référence : 24 cas, 0 exception)
   // chaque segment (texte brut ou <span class="framer-text"> stylé) est découpé séparément, comme l'original
-  const split = (text: string) => text.split(' ').flatMap((w, j) => [j ? ' ' : null, <span key={j} style={{ whiteSpace: [...w].length > 12 ? 'unset' : 'nowrap' }}>{[...w].map((c, k) => <span key={k} data-fx-char="" style={init}>{c}</span>)}</span>]);
+  // tokenisation « word » : un <span inline-block> par mot, sans découpage en caractères (DOM mesuré, pages projet)
+  const split = (text: string) => fx.tokenization === 'word'
+    ? text.split(' ').flatMap((w, j) => [j ? ' ' : null, <span key={j} data-fx-char="" style={init}>{w}</span>])
+    : text.split(' ').flatMap((w, j) => [j ? ' ' : null, <span key={j} style={{ whiteSpace: [...w].length > 12 ? 'unset' : 'nowrap' }}>{[...w].map((c, k) => <span key={k} data-fx-char="" style={init}>{c}</span>)}</span>]);
   return createElement(as, { ...rest, ref }, paras.map((p, i) => createElement(p.tag, { key: i, ...p.attrs },
     p.segs.map((g, j) => (typeof g === 'string' ? <Frag key={j}>{split(g)}</Frag> : createElement(g.tag, { key: j, ...g.attrs }, split(g.text)))))));
 }

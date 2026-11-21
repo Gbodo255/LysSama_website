@@ -8,7 +8,45 @@ const styleOf = (n) => Object.fromEntries((attr(n, 'style') || '').split(';').fi
 const withText = (n, expr) => { let hit = false; const c = (x) => (x.t !== undefined ? (hit ? x : ((hit = true), { expr })) : x.kids ? { ...x, kids: x.kids.map(c) } : x); const r = c(n); r.done = true; return r; };
 
 let counterSeq = 0;
+const byName = (n, nm) => { if (attr(n, 'data-framer-name') === nm) return n; for (const k of n.kids || []) { if (k.tag) { const r = byName(k, nm); if (r) return r; } } return null; };
 export const OVERRIDES = [
+  // Accueil : « Text Reveal » (Revelo, GSAP 3.13.0) ; texte d'origine (« Edit text reveal here ») passé comme textComponent.
+  {
+    match: (n, { name, cls }) => name === 'Text Reveal' && cls.some((c) => c.endsWith('-container')),
+    imports: [`import { Revelo } from '@/components/fx/Revelo';`, `import { HOME_TEXT_REVEAL } from '@/data/webgl';`],
+    render: (n, h) => `<div${h.attrs(n)}><Revelo {...HOME_TEXT_REVEAL} textComponent={${h.jsx(byName(n, 'Edit text reveal here'), h.d + 1).trim()}} /></div>`,
+  },
+  // Bandeau « Template Buy Button » : hors périmètre (D-011), non reproduit.
+  { match: (n, { name }) => name === 'Template Buy Button', render: () => '{null}' },
+  // /projects : vitrine incurvée (composant de l'auteur porté) et ses slots CMS d'origine.
+  {
+    match: (n, { cls }) => cls.includes('framer-q4xdmx-container'),
+    imports: [`import { ProjectsShowcase } from '@/webgl/projects/ProjectsShowcase';`],
+    render: (n, h) => `<div${h.attrs(n)}><ProjectsShowcase ${[['slot', 'Projects Source (Slot)'], ['fontSlot', 'Title Font Goes Here'], ['countFontSlot', 'Count Font Goes Here'], ['detailsSlot', 'Card Details (Slot)']].map(([k, nm]) => `${k}={${h.jsx(byName(n, nm), h.d + 1).trim()}}`).join(' ')} /></div>`,
+  },
+  // Accueil : préchargeur et diaporama WebGL (composants de l'auteur portés) ; slots CMS d'origine passés tels quels.
+  {
+    match: (n, { name, cls }) => name === 'Site Preloader' && cls.some((c) => c.endsWith('-container')),
+    imports: [`import { HomePreloader } from '@/webgl/home/HomeWebgl';`],
+    render: (n, h) => `<div${h.attrs(n)}><HomePreloader counterSlot={${h.jsx(byName(n, 'Preloader Progress Font'), h.d + 1).trim()}} /></div>`,
+  },
+  {
+    match: (n, { name, cls }) => name === 'Project Showcase Slider' && cls.some((c) => c.endsWith('-container')),
+    imports: [`import { HomeSlider } from '@/webgl/home/HomeWebgl';`],
+    render: (n, h) => `<div${h.attrs(n)}><HomeSlider slot={${h.jsx(byName(n, 'Projects Source (Slot)'), h.d + 1).trim()}} /></div>`,
+  },
+  // 404 : texte 3D filaire (composant de code de l'auteur porté, src/webgl/notfound) dans son conteneur.
+  {
+    match: (n, { cls }) => cls.includes('framer-nwf2ea-container'),
+    imports: [`import { Wireframe404 } from '@/webgl/notfound/Wireframe404';`, `import { NOTFOUND_3D } from '@/data/webgl';`],
+    render: (n, h) => `<div${h.attrs(n)}><Wireframe404 {...NOTFOUND_3D} /></div>`,
+  },
+  // Défilement Lenis (composant de code) : options de l'instance (D-025) ; /projects horizontal.
+  {
+    match: (n, { name, cls }) => (name === 'Lenis Smooth Scroll' || name === 'Smooth Scroll') && cls.some((c) => c.endsWith('-container')),
+    imports: [`import { SmoothScroll } from '@/components/SmoothScroll';`],
+    render: (n, h) => `<SmoothScroll${h.slug === 'projects' ? ' orientation="horizontal"' : ''}${h.attrs(n)} />`,
+  },
   // Compteurs de /studio (rWbx8J1Z4) : même ordre que studioNumbers.metrics, répété dans chaque variante de breakpoint.
   {
     match: (n, { slug, name }) => slug === 'studio' && name === 'Big Counter' && !n.done,

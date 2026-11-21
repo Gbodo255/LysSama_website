@@ -1,5 +1,5 @@
 'use client';
-import { useSyncExternalStore, type ReactNode } from 'react';
+import { createContext, useContext, useSyncExternalStore, type ReactNode } from 'react';
 import { MQ, type Breakpoint } from '@/lib/breakpoints';
 
 // Même mécanisme que l'original : le HTML statique contient une variante par breakpoint (masquées en CSS,
@@ -19,9 +19,16 @@ const HIDE: Record<Breakpoint, string> = { desktop: 'hidden-1e6htkk', tablet: 'h
 const ALL: Breakpoint[] = ['desktop', 'tablet', 'phone'];
 
 /** `d`/`t`/`p` : contenu par breakpoint. Un même nœud peut servir plusieurs breakpoints (ex. t = d). */
+// Pages rendues entièrement côté client par l'original (mesuré : 0 enveloppe `ssr-variant` dans le DOM hydraté des
+// 6 pages projet) : après hydratation, seul le contenu du groupe actif reste, sans enveloppe.
+const Flat = createContext(false);
+export function FlatPage({ children }: { children: ReactNode }) { return <Flat.Provider value>{children}</Flat.Provider>; }
+
 export function Variants({ d, t, p }: { d: ReactNode; t: ReactNode; p: ReactNode }) {
   const bp = useBreakpoint();
+  const flat = useContext(Flat);
   const by: Record<Breakpoint, ReactNode> = { desktop: d, tablet: t, phone: p };
+  if (flat && bp) return <>{by[bp]}</>;
   // Regroupe les breakpoints qui partagent le même nœud, comme le SSR d'origine. Après hydratation, l'original
   // garde l'enveloppe `ssr-variant` du groupe actif et retire les autres (mesuré : reference/dom/privacy-policy/*.html).
   const groups: { node: ReactNode; bps: Breakpoint[] }[] = [];
@@ -33,7 +40,9 @@ export function Variants({ d, t, p }: { d: ReactNode; t: ReactNode; p: ReactNode
  *  hydratation hors des breakpoints `show` (même mécanisme que `Variants`, mesuré D-030). */
 export function SV({ c, show, children }: { c: string; show: Breakpoint[]; children?: ReactNode }) {
   const bp = useBreakpoint();
-  return bp && !show.includes(bp) ? null : <div className={c}>{children}</div>;
+  const flat = useContext(Flat);
+  if (bp && !show.includes(bp)) return null;
+  return flat && bp ? <>{children}</> : <div className={c}>{children}</div>;
 }
 
 /** Élément porteur d'une classe `hidden-*` : présent dans le HTML statique, retiré du DOM après hydratation sur les

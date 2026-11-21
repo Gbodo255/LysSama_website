@@ -1,0 +1,644 @@
+[
+ {
+  "k": "sideNav.x",
+  "amp": 3,
+  "from": 6,
+  "to": 3,
+  "cloneFrom": 6,
+  "cloneTo": 3,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   96,
+   384
+  ],
+  "shapePct": 22.43,
+  "ok": false
+ },
+ {
+  "k": "sideNav.y",
+  "amp": 3,
+  "from": 6,
+  "to": 3,
+  "cloneFrom": 6,
+  "cloneTo": 3,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   96,
+   384
+  ],
+  "shapePct": 22.43,
+  "ok": false
+ },
+ {
+  "k": "sideNav.width",
+  "amp": 6,
+  "from": 378,
+  "to": 384,
+  "cloneFrom": 378,
+  "cloneTo": 384,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   96,
+   384
+  ],
+  "shapePct": 22.43,
+  "ok": false
+ },
+ {
+  "k": "sideNav.height",
+  "amp": 442.187,
+  "from": 51.969,
+  "to": 494.156,
+  "cloneFrom": 51.969,
+  "cloneTo": 494.156,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   96,
+   384
+  ],
+  "shapePct": 22.43,
+  "ok": false
+ },
+ {
+  "k": "sideNav.borderRadius",
+  "amp": 9.3545,
+  "from": 10,
+  "to": 12,
+  "cloneFrom": 10,
+  "cloneTo": 12,
+  "startEnd": [
+   16,
+   416
+  ],
+  "cloneStartEnd": [
+   144,
+   336
+  ],
+  "shapePct": 94.82,
+  "ok": false
+ },
+ {
+  "k": "overlay.opacity",
+  "amp": 0.85,
+  "from": 0,
+  "to": 0.85,
+  "cloneFrom": 0,
+  "cloneTo": 0.85,
+  "startEnd": [
+   64,
+   544
+  ],
+  "cloneStartEnd": [
+   64,
+   544
+  ],
+  "shapePct": 1.81,
+  "ok": true
+ },
+ {
+  "k": "overlay.filter",
+  "amp": 1,
+  "from": 0,
+  "to": 1,
+  "cloneFrom": 0,
+  "cloneTo": 1,
+  "startEnd": [
+   64,
+   544
+  ],
+  "cloneStartEnd": [
+   64,
+   544
+  ],
+  "shapePct": 1.81,
+  "ok": true
+ },
+ {
+  "k": "menu.x",
+  "amp": 3.013,
+  "from": 6,
+  "to": 3,
+  "cloneFrom": 6,
+  "cloneTo": 3,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   96,
+   384
+  ],
+  "shapePct": 22.34,
+  "ok": false
+ },
+ {
+  "k": "menu.y",
+  "amp": 3.031,
+  "from": 58,
+  "to": 54.969,
+  "cloneFrom": 58,
+  "cloneTo": 54.969,
+  "startEnd": [
+   80,
+   384
+  ],
+  "cloneStartEnd": [
+   96,
+   400
+  ],
+  "shapePct": 22.2,
+  "ok": false
+ },
+ {
+  "k": "menu.width",
+  "amp": 6,
+  "from": 378,
+  "to": 384,
+  "cloneFrom": 378,
+  "cloneTo": 384,
+  "startEnd": [
+   256,
+   656
+  ],
+  "cloneStartEnd": [
+   272,
+   672
+  ],
+  "shapePct": 7.05,
+  "ok": false
+ },
+ {
+  "k": "menu.height",
+  "amp": 0.001,
+  "from": 442.188,
+  "to": 442.188,
+  "cloneFrom": 442.188,
+  "cloneTo": 442.188,
+  "startEnd": null,
+  "cloneStartEnd": null,
+  "shapePct": 100,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[0]",
+  "amp": 2,
+  "from": 1,
+  "to": -1,
+  "cloneFrom": 1,
+  "cloneTo": -1,
+  "startEnd": [
+   176,
+   368
+  ],
+  "cloneStartEnd": [
+   192,
+   384
+  ],
+  "shapePct": 28.9,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[1]",
+  "amp": 0.9629,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   80,
+   496
+  ],
+  "shapePct": 18.4,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[2]",
+  "amp": 0.9629,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   80,
+   496
+  ],
+  "shapePct": 18.4,
+  "ok": false
+ },
+ {
+  "k": "hamburger.transform[3]",
+  "amp": 2,
+  "from": 1,
+  "to": -1,
+  "cloneFrom": 1,
+  "cloneTo": -1,
+  "startEnd": [
+   176,
+   368
+  ],
+  "cloneStartEnd": [
+   192,
+   384
+  ],
+  "shapePct": 28.9,
+  "ok": false
+ },
+ {
+  "k": "hamburger.width",
+  "amp": 6.626,
+  "from": 16,
+  "to": 16,
+  "cloneFrom": 16,
+  "cloneTo": 16,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   64,
+   512
+  ],
+  "shapePct": 26.09,
+  "ok": false
+ },
+ {
+  "k": "hamburger.height",
+  "amp": 6.626,
+  "from": 16,
+  "to": 16,
+  "cloneFrom": 16,
+  "cloneTo": 16,
+  "startEnd": [
+   48,
+   496
+  ],
+  "cloneStartEnd": [
+   64,
+   512
+  ],
+  "shapePct": 26.09,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[0]",
+  "amp": 0.2929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   464
+  ],
+  "cloneStartEnd": [
+   32,
+   480
+  ],
+  "shapePct": 68.28,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[1]",
+  "amp": 0.7071,
+  "from": 0,
+  "to": -0.707107,
+  "cloneFrom": 0,
+  "cloneTo": -0.707107,
+  "startEnd": [
+   96,
+   448
+  ],
+  "cloneStartEnd": [
+   112,
+   464
+  ],
+  "shapePct": 19.23,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[2]",
+  "amp": 0.9084,
+  "from": 0,
+  "to": 0.707107,
+  "cloneFrom": 0,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   64,
+   464
+  ],
+  "cloneStartEnd": [
+   80,
+   480
+  ],
+  "shapePct": 16.42,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[3]",
+  "amp": 2.7929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 89.51,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[4]",
+  "amp": 10,
+  "from": 0,
+  "to": -10,
+  "cloneFrom": 0,
+  "cloneTo": -10,
+  "startEnd": [
+   16,
+   16
+  ],
+  "cloneStartEnd": [
+   32,
+   32
+  ],
+  "shapePct": 100,
+  "ok": false
+ },
+ {
+  "k": "hTop.transform[5]",
+  "amp": 5.5,
+  "from": 0,
+  "to": -1,
+  "cloneFrom": 0,
+  "cloneTo": -1,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 100,
+  "ok": false
+ },
+ {
+  "k": "hTop.x",
+  "amp": 8.754,
+  "from": 351,
+  "to": 354.222,
+  "cloneFrom": 351,
+  "cloneTo": 354.222,
+  "startEnd": [
+   96,
+   464
+  ],
+  "cloneStartEnd": [
+   16,
+   480
+  ],
+  "shapePct": 91.39,
+  "ok": false
+ },
+ {
+  "k": "hTop.y",
+  "amp": 4.014,
+  "from": 23.984,
+  "to": 21.206,
+  "cloneFrom": 23.984,
+  "cloneTo": 21.206,
+  "startEnd": [
+   64,
+   480
+  ],
+  "cloneStartEnd": [
+   16,
+   496
+  ],
+  "shapePct": 199.3,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[0]",
+  "amp": 0.2929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   464
+  ],
+  "cloneStartEnd": [
+   32,
+   480
+  ],
+  "shapePct": 68.28,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[1]",
+  "amp": 0.7071,
+  "from": 0,
+  "to": 0.707107,
+  "cloneFrom": 0,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   96,
+   448
+  ],
+  "cloneStartEnd": [
+   112,
+   464
+  ],
+  "shapePct": 19.23,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[2]",
+  "amp": 0.9084,
+  "from": 0,
+  "to": -0.707107,
+  "cloneFrom": 0,
+  "cloneTo": -0.707107,
+  "startEnd": [
+   64,
+   464
+  ],
+  "cloneStartEnd": [
+   80,
+   480
+  ],
+  "shapePct": 16.42,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[3]",
+  "amp": 2.7929,
+  "from": 1,
+  "to": 0.707107,
+  "cloneFrom": 1,
+  "cloneTo": 0.707107,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 89.51,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[4]",
+  "amp": 10,
+  "from": 0,
+  "to": -10,
+  "cloneFrom": 0,
+  "cloneTo": -10,
+  "startEnd": [
+   16,
+   16
+  ],
+  "cloneStartEnd": [
+   32,
+   32
+  ],
+  "shapePct": 100,
+  "ok": false
+ },
+ {
+  "k": "hBottom.transform[5]",
+  "amp": 4.5,
+  "from": 0,
+  "to": -1,
+  "cloneFrom": 0,
+  "cloneTo": -1,
+  "startEnd": [
+   16,
+   448
+  ],
+  "cloneStartEnd": [
+   32,
+   464
+  ],
+  "shapePct": 77.78,
+  "ok": false
+ },
+ {
+  "k": "hBottom.x",
+  "amp": 5.614,
+  "from": 351,
+  "to": 354.222,
+  "cloneFrom": 351,
+  "cloneTo": 354.222,
+  "startEnd": [
+   64,
+   496
+  ],
+  "cloneStartEnd": [
+   16,
+   496
+  ],
+  "shapePct": 142.5,
+  "ok": false
+ },
+ {
+  "k": "hBottom.y",
+  "amp": 12.346,
+  "from": 32.984,
+  "to": 21.206,
+  "cloneFrom": 32.984,
+  "cloneTo": 21.206,
+  "startEnd": [
+   64,
+   464
+  ],
+  "cloneStartEnd": [
+   16,
+   480
+  ],
+  "shapePct": 24.4,
+  "ok": false
+ },
+ {
+  "k": "navItems.x",
+  "amp": 3.014,
+  "from": 23,
+  "to": 20,
+  "cloneFrom": 23,
+  "cloneTo": 20,
+  "startEnd": [
+   80,
+   368
+  ],
+  "cloneStartEnd": [
+   96,
+   384
+  ],
+  "shapePct": 22.33,
+  "ok": false
+ },
+ {
+  "k": "navItems.y",
+  "amp": 3.031,
+  "from": 75,
+  "to": 71.969,
+  "cloneFrom": 75,
+  "cloneTo": 71.969,
+  "startEnd": [
+   80,
+   384
+  ],
+  "cloneStartEnd": [
+   96,
+   400
+  ],
+  "shapePct": 22.2,
+  "ok": false
+ },
+ {
+  "k": "navItems.width",
+  "amp": 6,
+  "from": 344,
+  "to": 350,
+  "cloneFrom": 344,
+  "cloneTo": 350,
+  "startEnd": [
+   256,
+   656
+  ],
+  "cloneStartEnd": [
+   272,
+   672
+  ],
+  "shapePct": 7.05,
+  "ok": false
+ }
+]

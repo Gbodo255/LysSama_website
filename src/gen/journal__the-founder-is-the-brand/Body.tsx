@@ -6,6 +6,7 @@ import { HideOn } from '@/components/Variants';
 import { InView } from '@/components/fx/InView';
 import { Lk } from '@/components/Lk';
 import { SV } from '@/components/Variants';
+import { SmoothScroll } from '@/components/SmoothScroll';
 import { TextFx } from '@/components/fx/TextFx';
 
 const BPS = {"163lh2b":"desktop","1atwfmo":"tablet","1dpavhp":"phone","1pvmz1y":"phone","1wjgfnr":"tablet","1e6htkk":"desktop"} as const;
@@ -14,7 +15,7 @@ const AP = {"1pw0cc0":{"default":{"initial":{"opacity":1,"rotate":0,"rotateX":0,
 export function Body() {
   return (
     <div data-framer-root="" className="framer-eegra framer-Me6vv framer-0dCId framer-laVYw framer-yTVl5 framer-v0AwH framer-2idDo framer-xYkzt framer-UVrHC framer-bH6LT framer-uLP0Q framer-LlsZh framer-khCxy framer-163lh2b" style={{ "minHeight": "100vh", "width": "auto", "display": "contents" }}>
-      <div className="framer-1177xuw-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
+      <SmoothScroll className="framer-1177xuw-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
       <main className="framer-1vg7lwo" data-framer-name="Main">
         <HideOn on={["phone"]}>
         <div className="framer-3xbfd8-container hidden-1dpavhp">

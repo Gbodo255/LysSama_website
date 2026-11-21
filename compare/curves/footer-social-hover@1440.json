@@ -1,0 +1,20 @@
+[
+ {
+  "k": "icon.opacity",
+  "amp": 0.5,
+  "from": 1,
+  "to": 0.5,
+  "cloneFrom": 1,
+  "cloneTo": 0.5,
+  "startEnd": [
+   32,
+   272
+  ],
+  "cloneStartEnd": [
+   48,
+   288
+  ],
+  "shapePct": 8.01,
+  "ok": false
+ }
+]

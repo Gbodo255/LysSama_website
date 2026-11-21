@@ -5,6 +5,7 @@ import { Appear } from '@/components/Appear';
 import { HideOn } from '@/components/Variants';
 import { Lk } from '@/components/Lk';
 import { SV } from '@/components/Variants';
+import { SmoothScroll } from '@/components/SmoothScroll';
 import { TextFx } from '@/components/fx/TextFx';
 import { articles } from '@/data/journal';
 
@@ -14,7 +15,7 @@ const AP = {"479px2":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX"
 export function Body() {
   return (
     <div data-framer-root="" className="framer-4vxtl framer-yTVl5 framer-AWIXE framer-Me6vv framer-GC3F4 framer-1idsw5c" style={{ "minHeight": "100vh", "width": "auto", "display": "contents" }}>
-      <div className="framer-48vjmc-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
+      <SmoothScroll className="framer-48vjmc-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
       <main className="framer-vk992d" data-framer-name="Main">
         <HideOn on={["phone"]}>
         <div className="framer-1papd5a-container hidden-15bxuw3">

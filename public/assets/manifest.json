@@ -2915,5 +2915,13 @@
   ],
   "width": 1920,
   "height": 1280
+ },
+ "https://framerusercontent.com/assets/UNBtynp7L2M6fruNPHYtc3EKUA.json": {
+  "local": "/assets/fonts/UNBtynp7L2M6fruNPHYtc3EKUA.json",
+  "kind": "fonts",
+  "bytes": 315068,
+  "pages": [
+   "this-page-does-not-exist-404"
+  ]
  }
 }

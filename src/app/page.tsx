@@ -1,10 +1,14 @@
 import { PageStyle } from '@/components/PageStyle';
+import { Template } from '@/components/Template';
+import { Body } from '@/gen/home/Body';
 
-// Page / — sections ajoutées par l'agent de construction propriétaire (src/sections/home/).
 export default function Page() {
   return (
     <>
       <PageStyle slug="home" />
+      <Template>
+        <Body />
+      </Template>
     </>
   );
 }

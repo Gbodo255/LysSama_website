@@ -33,8 +33,8 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
   const p = await ctx.newPage();
   await p.setContent(html, { waitUntil: 'domcontentloaded' });
   const res = await p.evaluate(() => {
-    const tpl = document.querySelector('#main > div > .framer-eYdsD');
-    const pick = (e) => [...e.children].find((k) => k.tagName === "DIV"); const root = tpl ? pick(tpl) : pick(document.querySelector("#main > div"));
+    const tpl = document.querySelector('#main > .framer-eYdsD, #main > div > .framer-eYdsD'); // gabarit « Nav & Footer »
+    const pick = (e) => [...e.children].find((k) => k.tagName === "DIV"); const root = tpl ? pick(tpl) : document.querySelector("#main > div"); // sans gabarit (404) : racine de page entière
     const ser = (e) => {
       if (e.nodeType === 3) return { t: e.textContent };
       if (e.nodeType !== 1 || ['SCRIPT', 'STYLE', 'NOSCRIPT', 'TEMPLATE'].includes(e.tagName)) return null;
@@ -224,7 +224,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       imports.add(`import { TextFx } from '@/components/fx/TextFx';`);
       const text = (k) => (k.t !== undefined ? k.t : (k.kids || []).map(text).join(''));
       // segments : texte des mots (<span white-space:nowrap>) et espaces ; autre élément en ligne = segment stylé
-      const segs = (k) => { const out = []; let cur = '', has = false; for (const c of k.kids) { if (c.t !== undefined || /white-space:\s*(nowrap|unset)/.test(attr(c, 'style') || '')) { cur += text(c); has = true; } else { if (has) out.push(tx(cur)); cur = ''; has = false; out.push(`{ tag: ${JSON.stringify(c.tag)}, attrs: ${attrsObj(c)}, text: ${tx(text(c))} }`); } } if (has) out.push(tx(cur)); return out; };
+      const segs = (k) => { const out = []; let cur = '', has = false; for (const c of k.kids) { if (c.t !== undefined || /white-space:\s*(nowrap|unset)|display:\s*inline-block/.test(attr(c, 'style') || '')) { cur += text(c); has = true; } else { if (has) out.push(tx(cur)); cur = ''; has = false; out.push(`{ tag: ${JSON.stringify(c.tag)}, attrs: ${attrsObj(c)}, text: ${tx(text(c))} }`); } } if (has) out.push(tx(cur)); return out; };
       const paras = n.kids.filter((k) => k.tag).map((k) => `{ tag: ${JSON.stringify(k.tag)}, attrs: ${attrsObj(k)}, segs: [${segs(k).join(', ')}] }`);
       return `${ind}<TextFx as="${n.tag}" fx={${JSON.stringify(tfx.effect)}} paras={[${paras.join(', ')}]}${attrs(n)} />`;
     }

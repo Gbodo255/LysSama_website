@@ -1,0 +1,115 @@
+{
+ "route": "/this-page-does-not-exist-404",
+ "width": 1440,
+ "scope": null,
+ "height": {
+  "ref": 900,
+  "clone": 900,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 29,
+  "clone": 18,
+  "missing": 11,
+  "extra": 0,
+  "geo": 3,
+  "styles": 4,
+  "text": 0
+ },
+ "missing": [
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(1)>div>a[data-framer-name=\"Link Container\"]",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(1)>div>a[data-framer-name=\"Link Container\"]>div[data-framer-name=\"Logo\"]",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Projects\"]:nth-of-type(1)",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Projects\"]:nth-of-type(1)>a[data-framer-name=\"Small\"]",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Projects\"]:nth-of-type(1)>a[data-framer-name=\"Small\"]>div:nth-of-type(3)>div>div[data-framer-name=\"Count Text\"]",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Studio\"]:nth-of-type(2)",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Studio\"]:nth-of-type(2)>a[data-framer-name=\"Small\"]",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Journal\"]:nth-of-type(3)",
+  "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Journal\"]:nth-of-type(3)>a[data-framer-name=\"Small\"]"
+ ],
+ "extra": [],
+ "geo": [
+  {
+   "sel": "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Journal\"]:nth-of-type(3)>a[data-framer-name=\"Small\"]>div:nth-of-type(1)>p",
+   "d": 955.47,
+   "ref": {
+    "x": 1338.47,
+    "y": 36,
+    "width": 65.53,
+    "height": 26.45
+   },
+   "clone": {
+    "x": 383,
+    "y": 36,
+    "width": 65.53,
+    "height": 26.45
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Studio\"]:nth-of-type(2)>a[data-framer-name=\"Small\"]>div:nth-of-type(1)>p",
+   "d": 495.64,
+   "ref": {
+    "x": 878.64,
+    "y": 36,
+    "width": 54.36,
+    "height": 26.45
+   },
+   "clone": {
+    "x": 383,
+    "y": 36,
+    "width": 54.36,
+    "height": 26.45
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Projects\"]:nth-of-type(1)>a[data-framer-name=\"Small\"]>div:nth-of-type(3)>div>div[data-framer-name=\"Count Text\"]>div>p",
+   "d": 76.19,
+   "ref": {
+    "x": 459.19,
+    "y": 36,
+    "width": 13.98,
+    "height": 18
+   },
+   "clone": {
+    "x": 383,
+    "y": 36,
+    "width": 13.98,
+    "height": 18
+   }
+  }
+ ],
+ "styles": [
+  {
+   "sel": "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Projects\"]:nth-of-type(1)>a[data-framer-name=\"Small\"]>div:nth-of-type(1)>p",
+   "k": "whiteSpace",
+   "ref": "pre",
+   "clone": "normal"
+  },
+  {
+   "sel": "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Projects\"]:nth-of-type(1)>a[data-framer-name=\"Small\"]>div:nth-of-type(3)>div>div[data-framer-name=\"Count Text\"]>div>p",
+   "k": "whiteSpace",
+   "ref": "pre",
+   "clone": "normal"
+  },
+  {
+   "sel": "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Studio\"]:nth-of-type(2)>a[data-framer-name=\"Small\"]>div:nth-of-type(1)>p",
+   "k": "whiteSpace",
+   "ref": "pre",
+   "clone": "normal"
+  },
+  {
+   "sel": "div:nth-of-type(1)>section[data-framer-name=\"404\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>header[data-framer-name=\"Top\"]>div:nth-of-type(2)>div>div>div[data-framer-name=\"Desktop - Top\"]>div[data-framer-name=\"Journal\"]:nth-of-type(3)>a[data-framer-name=\"Small\"]>div:nth-of-type(1)>p",
+   "k": "whiteSpace",
+   "ref": "pre",
+   "clone": "normal"
+  }
+ ],
+ "text": [],
+ "pixels": {
+  "worst": 0.156,
+  "over2": [],
+  "n": 1
+ }
+}

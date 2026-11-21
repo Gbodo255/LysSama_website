@@ -1,0 +1,200 @@
+[
+ {
+  "k": "button.transform[0]",
+  "amp": 0.05,
+  "from": 1,
+  "to": 0.95,
+  "cloneFrom": 1,
+  "cloneTo": 0.95,
+  "startEnd": [
+   128,
+   480
+  ],
+  "cloneStartEnd": [
+   128,
+   480
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "button.transform[3]",
+  "amp": 0.05,
+  "from": 1,
+  "to": 0.95,
+  "cloneFrom": 1,
+  "cloneTo": 0.95,
+  "startEnd": [
+   128,
+   480
+  ],
+  "cloneStartEnd": [
+   128,
+   480
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "button.borderRadius",
+  "amp": 12,
+  "from": 4,
+  "to": 16,
+  "cloneFrom": 4,
+  "cloneTo": 16,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   112,
+   512
+  ],
+  "shapePct": 18.08,
+  "ok": false
+ },
+ {
+  "k": "button.width",
+  "amp": 7.5,
+  "from": 150,
+  "to": 142.5,
+  "cloneFrom": 150,
+  "cloneTo": 142.5,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "button.height",
+  "amp": 2.1,
+  "from": 42,
+  "to": 39.9,
+  "cloneFrom": 42,
+  "cloneTo": 39.9,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.76,
+  "ok": false
+ },
+ {
+  "k": "picture.borderRadius",
+  "amp": 8,
+  "from": 4,
+  "to": 12,
+  "cloneFrom": 4,
+  "cloneTo": 12,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   112,
+   512
+  ],
+  "shapePct": 18.08,
+  "ok": false
+ },
+ {
+  "k": "picture.x",
+  "amp": 3.5,
+  "from": 1262,
+  "to": 1265.5,
+  "cloneFrom": 1262,
+  "cloneTo": 1265.5,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "picture.y",
+  "amp": 0.8,
+  "from": 822.922,
+  "to": 823.722,
+  "cloneFrom": 822.75,
+  "cloneTo": 823.55,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 30.25,
+  "ok": false
+ },
+ {
+  "k": "picture.width",
+  "amp": 1.6,
+  "from": 32,
+  "to": 30.4,
+  "cloneFrom": 32,
+  "cloneTo": 30.4,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.75,
+  "ok": false
+ },
+ {
+  "k": "arrow.x",
+  "amp": 2.602,
+  "from": 1375,
+  "to": 1377.6,
+  "cloneFrom": 1375,
+  "cloneTo": 1377.6,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   16,
+   496
+  ],
+  "shapePct": 192.16,
+  "ok": false
+ },
+ {
+  "k": "arrow.y",
+  "amp": 0.425,
+  "from": 830.422,
+  "to": 830.847,
+  "cloneFrom": 830.25,
+  "cloneTo": 830.675,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 49.41,
+  "ok": false
+ }
+]

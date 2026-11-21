@@ -1,0 +1,194 @@
+[
+ {
+  "k": "bg.transform[0]",
+  "amp": 0.05,
+  "from": 1,
+  "to": 0.95,
+  "cloneFrom": 1,
+  "cloneTo": 0.95,
+  "startEnd": [
+   128,
+   480
+  ],
+  "cloneStartEnd": [
+   128,
+   480
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "bg.transform[3]",
+  "amp": 0.05,
+  "from": 1,
+  "to": 0.95,
+  "cloneFrom": 1,
+  "cloneTo": 0.95,
+  "startEnd": [
+   128,
+   480
+  ],
+  "cloneStartEnd": [
+   128,
+   480
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "bg.borderRadius",
+  "amp": 8,
+  "from": 8,
+  "to": 16,
+  "cloneFrom": 8,
+  "cloneTo": 16,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   112,
+   512
+  ],
+  "shapePct": 18.08,
+  "ok": false
+ },
+ {
+  "k": "top.opacity",
+  "amp": 1,
+  "from": 1,
+  "to": 0,
+  "cloneFrom": 1,
+  "cloneTo": 0,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 11.52,
+  "ok": false
+ },
+ {
+  "k": "top.transform[0]",
+  "amp": 0.1,
+  "from": 1,
+  "to": 0.9,
+  "cloneFrom": 1,
+  "cloneTo": 0.9,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "top.transform[3]",
+  "amp": 0.1,
+  "from": 1,
+  "to": 0.9,
+  "cloneFrom": 1,
+  "cloneTo": 0.9,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "top.transform[5]",
+  "amp": 19.9986,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   496
+  ],
+  "cloneStartEnd": null,
+  "shapePct": 100,
+  "ok": null
+ },
+ {
+  "k": "bottom.opacity",
+  "amp": 1,
+  "from": 0,
+  "to": 1,
+  "cloneFrom": 0,
+  "cloneTo": 1,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 11.52,
+  "ok": false
+ },
+ {
+  "k": "bottom.transform[0]",
+  "amp": 0.1,
+  "from": 1,
+  "to": 0.9,
+  "cloneFrom": 1,
+  "cloneTo": 0.9,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "bottom.transform[3]",
+  "amp": 0.1,
+  "from": 1,
+  "to": 0.9,
+  "cloneFrom": 1,
+  "cloneTo": 0.9,
+  "startEnd": [
+   96,
+   496
+  ],
+  "cloneStartEnd": [
+   96,
+   512
+  ],
+  "shapePct": 8.77,
+  "ok": false
+ },
+ {
+  "k": "bottom.transform[5]",
+  "amp": 19.9986,
+  "from": 0,
+  "to": 0,
+  "cloneFrom": 0,
+  "cloneTo": 0,
+  "startEnd": [
+   16,
+   496
+  ],
+  "cloneStartEnd": null,
+  "shapePct": 100,
+  "ok": null
+ }
+]

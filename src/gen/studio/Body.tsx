@@ -12,6 +12,7 @@ import { Loop } from '@/components/fx/Loop';
 import { NavLinks } from '@/components/nav/parts';
 import { SV } from '@/components/Variants';
 import { ScrollFx, Parallax } from '@/components/fx/Scroll';
+import { SmoothScroll } from '@/components/SmoothScroll';
 import { TextFx } from '@/components/fx/TextFx';
 import { VRoot, VEl } from '@/components/fx/Variant';
 import { studioNumbers } from '@/data/studio';
@@ -22,7 +23,7 @@ const AP = {"8330z8":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX"
 export function Body() {
   return (
     <div data-framer-root="" className="framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4 framer-ynarf2" style={{ "minHeight": "100vh", "width": "auto", "display": "contents" }}>
-      <div className="framer-1mn4ta-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
+      <SmoothScroll className="framer-1mn4ta-container" data-framer-name="Lenis Smooth Scroll" {...{ name: "Lenis Smooth Scroll" }} />
       <main className="framer-es8rs7" data-framer-name="Main">
         <HideOn on={["phone"]}>
         <div className="framer-1i9wie5-container hidden-n4shxz">

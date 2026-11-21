@@ -1,0 +1,74 @@
+[
+ {
+  "k": "label1.y",
+  "amp": 45,
+  "from": 234.359,
+  "to": 189.359,
+  "cloneFrom": 234.359,
+  "cloneTo": 189.359,
+  "startEnd": [
+   64,
+   320
+  ],
+  "cloneStartEnd": [
+   80,
+   336
+  ],
+  "shapePct": 26.66,
+  "ok": false
+ },
+ {
+  "k": "label1.opacity",
+  "amp": 1,
+  "from": 1,
+  "to": 0,
+  "cloneFrom": 1,
+  "cloneTo": 0,
+  "startEnd": [
+   64,
+   320
+  ],
+  "cloneStartEnd": [
+   80,
+   336
+  ],
+  "shapePct": 18.02,
+  "ok": false
+ },
+ {
+  "k": "label2.y",
+  "amp": 45,
+  "from": 279.359,
+  "to": 234.359,
+  "cloneFrom": 279.359,
+  "cloneTo": 234.359,
+  "startEnd": [
+   64,
+   320
+  ],
+  "cloneStartEnd": [
+   80,
+   336
+  ],
+  "shapePct": 26.66,
+  "ok": false
+ },
+ {
+  "k": "label2.opacity",
+  "amp": 1,
+  "from": 0,
+  "to": 1,
+  "cloneFrom": 0,
+  "cloneTo": 1,
+  "startEnd": [
+   64,
+   320
+  ],
+  "cloneStartEnd": [
+   80,
+   336
+  ],
+  "shapePct": 18.02,
+  "ok": false
+ }
+]
