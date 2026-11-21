@@ -1,0 +1,4077 @@
+[
+ {
+  "s": "home",
+  "n": 38,
+  "f": "contact,cookie-policy,home"
+ },
+ {
+  "s": "start a project.",
+  "n": 1,
+  "f": "contact"
+ },
+ {
+  "s": "Book a 30-minute call or send us a message.",
+  "n": 1,
+  "f": "contact"
+ },
+ {
+  "s": "We respond within 24 hours.",
+  "n": 1,
+  "f": "contact"
+ },
+ {
+  "s": "X Link",
+  "n": 5,
+  "f": "contact,studio"
+ },
+ {
+  "s": "Instagram Link",
+  "n": 5,
+  "f": "contact,studio"
+ },
+ {
+  "s": "Dribbble Link",
+  "n": 5,
+  "f": "contact,studio"
+ },
+ {
+  "s": "Behance Link",
+  "n": 5,
+  "f": "contact,studio"
+ },
+ {
+  "s": "Address",
+  "n": 1,
+  "f": "contact"
+ },
+ {
+  "s": "2800 East Observatory Road Los Angeles, USA 90027",
+  "n": 1,
+  "f": "contact"
+ },
+ {
+  "s": "Office Hours",
+  "n": 1,
+  "f": "contact"
+ },
+ {
+  "s": "Monday to Friday: 9:00 AM – 6:00 PM",
+  "n": 1,
+  "f": "contact"
+ },
+ {
+  "s": "Book a call",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "2 slots for",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "August '26",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Portrait of Jin Yuen",
+  "n": 43,
+  "f": "contact,home,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Jin Yuen",
+  "n": 45,
+  "f": "contact,home,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Founder",
+  "n": 38,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Let's make you",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "impossible",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "to ignore.",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Tell us what you're building.",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "We'll tell you how we'd make it land.",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "My name is",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Name *",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "i’m from",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Company Name",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "and I need help with",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "This service",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "here’s the Idea:",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "A sentence or two about the project…*",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "my budget is around",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "and i’d like to start",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "When…",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "ASAP",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Within a month",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "This quarter",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Just exploring",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "reach me at",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Email *",
+  "n": 27,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "By submitting, you agree to our",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "terms",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "and",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "privacy policy.",
+  "n": 30,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Start a project",
+  "n": 53,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "hello@mira.studio",
+  "n": 45,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "You hear back within a day.",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "From the founder, not a form-bot. We read every enquiry personally.",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "A short discovery call.",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Thirty minutes to understand your goals, audience, and what's not working.",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "A fixed-quote proposal.",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Clear scope, clear timeline, clear price. No surprises later.",
+  "n": 29,
+  "f": "contact,home,projects__adidas"
+ },
+ {
+  "s": "Answers",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "FAQ.",
+  "n": 6,
+  "f": "contact,home"
+ },
+ {
+  "s": "What's the difference between monthly and per project?",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "A project has an end date. We build the brand and the site, hand it over, and it's yours. Membership is for what comes after, or instead of it. $4,500 a month keeps one active request moving, and you pause any month you don't need us.",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "Is that the final price?",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "It's a real starting number, not a teaser. Scope is the only thing that moves it: an extra page, a second brand direction, a deadline that needs two of us. We lock the figure on the first call and it holds from there.",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "How long will it take?",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "Two to four weeks for a single piece of work, four to six for a full brand and site. We only take two clients a month, so your start date is real rather than a spot in a queue.",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "Who actually does the work?",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "The founder. You hire Mira, you get Mira. No juniors, no handoffs, no account manager relaying your feedback.",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "What do you need from me to start?",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "A short brief and someone who can make decisions. The clearer you are on the goal, the faster we move.",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "Do you offer support after launch?",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "Every build ships with 30 days of post-launch support. After that, membership keeps us on call at $4,500 a month. Cancel it the month you stop needing us.",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "more questions?",
+  "n": 6,
+  "f": "contact,home"
+ },
+ {
+  "s": "Reach out anytime. We're happy to answer before you commit to working together.",
+  "n": 8,
+  "f": "contact,home,Faq"
+ },
+ {
+  "s": "Last updated",
+  "n": 3,
+  "f": "cookie-policy,privacy-policy,terms-conditions"
+ },
+ {
+  "s": "Cookies.",
+  "n": 2,
+  "f": "cookie-policy,Footer"
+ },
+ {
+  "s": "COOKIES ARE SMALL TEXT FILES STORED ON YOUR DEVICE WHEN YOU VISIT OUR WEBSITE. THIS POLICY EXPLAINS WHICH COOKIES MIRA STUDIO USES, WHY WE USE THEM, AND HOW YOU CAN CONTROL THEM. WE KEEP COOKIE USE TO A MINIMUM.",
+  "n": 2,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Types of Cookies We Use",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Essential Cookies",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "These are required for the site to function properly:",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Session cookies to maintain your current visit",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Security cookies to protect against fraud",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Preference cookies to remember your cookie choices",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Analytics Cookies",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "With your consent, we use analytics cookies to understand how the site is used:",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Which pages are viewed most often",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "How long visitors stay on each page",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Which links and CTAs get clicked",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Which projects and articles get the most attention",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Third-Party Cookies",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "A small number of trusted third-party services set cookies on our site:",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Framer for hosting and performance",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Google Analytics for anonymous usage analytics",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Vimeo or YouTube if a project page includes embedded video",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "What We Do Not Use",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "We do not use:",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Advertising or retargeting cookies",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Cross-site tracking pixels",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Social media tracking cookies",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Third-party marketing cookies",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Managing Cookie Preferences",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Our Cookie Banner",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "The first time you visit the site, you will see a banner asking you to accept or decline non-essential cookies. You can change your preferences at any time via the \"Cookie preferences\" link in the footer.",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Browser Settings",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "You can also control cookies through your browser settings:",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Block all cookies (may affect site functionality)",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Block third-party cookies only",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Clear existing cookies from your device",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Set preferences for future cookie acceptance",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Cookie Retention",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Different cookies are stored for different lengths of time:",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Session cookies: Deleted when you close your browser",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Preference cookies: Stored for up to 12 months",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Analytics cookies: Stored for up to 24 months",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Updates to This Policy",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "We may update this Cookie Policy to reflect changes in how we use cookies or new legal requirements. Material changes will be reflected in the \"Last Updated\" date at the top of the page.",
+  "n": 1,
+  "f": "cookie-policy"
+ },
+ {
+  "s": "Close-up of a model wearing wraparound sunglasses covered in water droplets",
+  "n": 6,
+  "f": "home,projects,projects__gucci"
+ },
+ {
+  "s": "Gucci",
+  "n": 26,
+  "f": "home,projects,projects__adidas"
+ },
+ {
+  "s": "Model applying face cream to her cheek against a pale background",
+  "n": 23,
+  "f": "home,projects,projects__adidas"
+ },
+ {
+  "s": "Chanel",
+  "n": 27,
+  "f": "home,projects,projects__adidas"
+ },
+ {
+  "s": "Runner in a red rain jacket and black cap on a misty coastline",
+  "n": 6,
+  "f": "home,projects,projects__puma"
+ },
+ {
+  "s": "Puma",
+  "n": 26,
+  "f": "home,projects,projects__adidas"
+ },
+ {
+  "s": "Close-up of a tennis player with braids looking over her racket",
+  "n": 23,
+  "f": "home,projects,projects__adidas"
+ },
+ {
+  "s": "Adidas",
+  "n": 27,
+  "f": "home,projects,projects__adidas"
+ },
+ {
+  "s": "Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look.",
+  "n": 3,
+  "f": "home"
+ },
+ {
+  "s": "based in",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "los angeles",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "tokyo",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Services",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Brand Identity",
+  "n": 22,
+  "f": "home,projects__adidas,projects__chanel"
+ },
+ {
+  "s": "Web Design",
+  "n": 22,
+  "f": "home,projects__adidas,projects__chanel"
+ },
+ {
+  "s": "Framer Dev",
+  "n": 22,
+  "f": "home,projects__adidas,projects__chanel"
+ },
+ {
+  "s": "Art Direction",
+  "n": 15,
+  "f": "home,projects__adidas,projects__nike"
+ },
+ {
+  "s": "let’s talk",
+  "n": 4,
+  "f": "home,Footer"
+ },
+ {
+  "s": "contact",
+  "n": 3,
+  "f": "home"
+ },
+ {
+  "s": "About us",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "WE BUILD BRANDS FOR FOUNDERS WHO",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "REFUSE",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "(My philosophy)",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question:",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "does this actually move the business forward?",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "See the studio",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "50 BRANDS.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "14 YEARS.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "ONE",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "STANDARD.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "See all",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Our clients",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Trusted by",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "50+ clients",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Why us",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "why Mira® is your",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "next",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "choice.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND,",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "*Across client launches from 2023 to 2026, measured over the first six months post-launch.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "With Mira",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "+47% inbound",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Industry avg",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Average growth in qualified enquiries, first six months after launch",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Most clients come back for the next project. The rest send referrals.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "brands launched",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "shipped on time",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "6 Wks",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "(AVERAGE TIME TO LAUNCH)",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Most projects go from first call to live site in under two months.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "(REFERRALS SENT BY CLIENTS)",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Happy clients are the only marketing channel we've ever needed.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "NOT EVERY BRIEF IS A FIT.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "WHEN IT ISN'T, WE'LL TELL YOU.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Founder, Mira",
+  "n": 7,
+  "f": "home,journal__awards-dont-build-brands,journal__on-saying-no"
+ },
+ {
+  "s": "What we bring",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "services.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Everything you need to look established, and nothing you don’t.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Each service is priced and scoped before we start.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Hands holding OMG drink cans over a pool table",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Brand Identity.",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Starts at $4,500",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Logo, type, color, and the system that keeps it consistent everywhere it lives.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Delivery time",
+  "n": 8,
+  "f": "home"
+ },
+ {
+  "s": "2-3 weeks",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "includes",
+  "n": 8,
+  "f": "home"
+ },
+ {
+  "s": "Logo and wordmark",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Typography system",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Color palette",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Brand guidelines",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Laptop on a white chair showing a website design",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Web Design.",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Starts at $6,500",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Sites built to turn attention into enquiries, not just look good.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "3-4 weeks",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Up to 6 unique page designs",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Mobile and tablet layouts",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Component library",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Hand-off documentation",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Corner of a black phone printed with Made for Creatives",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Framer Dev.",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Starts at $4,000",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Fast, animated, and easy for you to update yourself.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Pixel-perfect build in Framer",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "CMS setup and migration",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Responsive across breakpoints",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "30-day post-launch support",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Two models with bold orange lipstick posing cheek to cheek",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Art Direction.",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Starts at $3,500",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Photography, motion, and the visual language that ties everything together.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "2 weeks",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Mood and direction boards",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Shoot or motion brief",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Asset selection and edit",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Usage guidelines",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "EST. 2012",
+  "n": 8,
+  "f": "home,studio,SharedNavigation"
+ },
+ {
+  "s": "Meet the team",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "WE STAYED",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "SMALL",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "SO WE COULD",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "STAY PICKY",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": ". EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "(4) Team Members",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Portrait of Sarah Park",
+  "n": 10,
+  "f": "home,journal__small-looks-expensive,journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Sarah Park",
+  "n": 10,
+  "f": "home,journal__small-looks-expensive,journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Designer",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Portrait of Alex West",
+  "n": 10,
+  "f": "home,journal__the-brief-before-the-brief,journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Alex West",
+  "n": 10,
+  "f": "home,journal__the-brief-before-the-brief,journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Client Manager",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Portrait of David Torres",
+  "n": 8,
+  "f": "home,journal__fewer-projects-more-attention,studio"
+ },
+ {
+  "s": "David Torres",
+  "n": 8,
+  "f": "home,journal__fewer-projects-more-attention,studio"
+ },
+ {
+  "s": "Developer",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "join us, we're hiring.",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Open Positions",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "Email us",
+  "n": 12,
+  "f": "home,studio"
+ },
+ {
+  "s": "Studio team talking in a bright workshop",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "The Process",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "How we carry every project from brief to",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "launch",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "day.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Nothing falls through the cracks, because there are no cracks.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "One team, one plan, one room.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "You get one point of contact and one shared timeline. Updates arrive before you think to ask for them.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Discovery.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "One call, one sharp brief. Your goals, your audience, and what’s in the way.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Strategy.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "One creative direction, argued for and agreed — before a single pixel moves.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Design.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Brand and site designed, then built in Framer. Three rounds, sharp ones.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Launch.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "We ship, hand over the keys, and stay close for thirty days after go-live.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "12:33 mins",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Play",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Reel",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "What they say",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "client stories.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "THE WORK SPEAKS FOR ITSELF,",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "BUT THE PEOPLE WE BUILT IT WITH SAY IT BETTER.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Ines Costa",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "Founder, Gucci",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "“Gucci finally has a site that shows the frames the way our customers already saw them. ”",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "We used to explain what we were making. Mira built us a site that doesn't need explanation. It just shows what the frames are, and lets people fall for them.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "sold out",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "10 days",
+  "n": 3,
+  "f": "home,projects__gucci"
+ },
+ {
+  "s": "waitlist growth",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Pricing",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "KNOW THE NUMBER",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "UP FRONT.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Two ways to work together: month to month, or one fixed-scope project.",
+  "n": 1,
+  "f": "home"
+ },
+ {
+  "s": "Monthly",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Per Project",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Starts at",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "/month",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Base",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Add-ons",
+  "n": 4,
+  "f": "home"
+ },
+ {
+  "s": "included",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "One active request at a time",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Unlimited revisions",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Priority turnaround",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Pause or cancel anytime",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Motion design",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Motion designAdd-on Toggle",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Illustration & brand assets",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Illustration & brand assetsAdd-on Toggle",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Photography direction",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Photography directionAdd-on Toggle",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Pitch deck or sales kit",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "Pitch deck or sales kitAdd-on Toggle",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "*A starting estimate. We lock the final scope and price after the discovery call.",
+  "n": 2,
+  "f": "home"
+ },
+ {
+  "s": "From the journal",
+  "n": 30,
+  "f": "home,journal__awards-dont-build-brands,journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "articles.",
+  "n": 6,
+  "f": "home,studio"
+ },
+ {
+  "s": "View All",
+  "n": 60,
+  "f": "home,journal__awards-dont-build-brands,journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "(Studio Notes)",
+  "n": 46,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Close-up of glossy red lips",
+  "n": 62,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Fewer projects, more attention.",
+  "n": 32,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "(Opinion)",
+  "n": 33,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Black and white silhouette framed by outstretched hands",
+  "n": 62,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Awards don't build brands.",
+  "n": 31,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "(Process)",
+  "n": 33,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Black horse wearing a flower garland in a field",
+  "n": 62,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Why we quote fixed.",
+  "n": 31,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "(Craft)",
+  "n": 33,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Chrome hand reaching out beside a rainbow light flare",
+  "n": 62,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "The best type is invisible.",
+  "n": 31,
+  "f": "home,journal,journal__awards-dont-build-brands"
+ },
+ {
+  "s": "articles",
+  "n": 1,
+  "f": "journal"
+ },
+ {
+  "s": "our Journal.",
+  "n": 1,
+  "f": "journal"
+ },
+ {
+  "s": "Notes from the studio on process, craft, and",
+  "n": 1,
+  "f": "journal"
+ },
+ {
+  "s": "the work behind the work.",
+  "n": 1,
+  "f": "journal"
+ },
+ {
+  "s": "Figure in a white hood sitting cross-legged with a red light across the eyes",
+  "n": 32,
+  "f": "journal,journal__awards-dont-build-brands,journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "On saying no.",
+  "n": 16,
+  "f": "journal,journal__awards-dont-build-brands,journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Woman in a white outfit walking with a handbag against a white wall",
+  "n": 8,
+  "f": "journal,journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "The brief before the brief.",
+  "n": 4,
+  "f": "journal,journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Woman leaning out of a vintage car in the mountains",
+  "n": 8,
+  "f": "journal,journal__small-looks-expensive"
+ },
+ {
+  "s": "Small looks expensive.",
+  "n": 4,
+  "f": "journal,journal__small-looks-expensive"
+ },
+ {
+  "s": "Blurred colorful flower against a grey background",
+  "n": 8,
+  "f": "journal,journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "The founder is the brand.",
+  "n": 4,
+  "f": "journal,journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "Back to the journal",
+  "n": 48,
+  "f": "journal__awards-dont-build-brands,journal__fewer-projects-more-attention,journal__on-saying-no"
+ },
+ {
+  "s": "May 5, 2026",
+  "n": 2,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "The relationship between award-winning design and business outcomes is not what most studios pretend.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "The design industry loves awards. Every studio homepage has a laurel row. Every deck has a featured-in slide. Here is why we think the relationship between award-winning design and business-effective design is far weaker than most studios pretend, and what that means for how you should evaluate design work you are about to pay for.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Two different audiences",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Awards juries and paying customers are not the same audience. Juries are made up of other designers, judging the work against other work in the same category, at the same show, in the same year. They reward novelty, craft, and technical ambition. That is not a bad thing. It just is not the same test the market is running.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "The buyer at the other end is not asking whether a site looks like it deserves a Site of the Day badge. They are asking whether the brand feels credible enough to trust with a purchase decision. Different question, different answer.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "What awards actually reward",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Sites that win Awwwards or FWA usually share a few traits: an ambitious hero interaction, a strong visual signature, a moment of technical craft that stops the scroll. Those traits are wonderful. They are also, in most cases, expensive to build, hard to maintain, and mostly invisible to the person who actually needs to convert.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "We know because we have shipped both. The projects with the biggest business outcomes rarely had the flashiest craft moments. The projects with the flashiest craft moments rarely had the biggest business outcomes. This is not an accident.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Where they overlap",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Occasionally, the same project wins both games. A hero that is both cinematic and commercially precise. A brand system that is both jury-friendly and clear enough to sell. Those are the projects everyone celebrates. They are rare, and they usually happen when the studio and client are aligned on what matters before the work starts.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "What we tell clients",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "We tell clients honestly: awards are for us, not for you. If the work is jury-friendly, we will submit. If it is not, we will not, and we will not compromise the effectiveness of the work to make it juryable. The client is paying for outcomes. The award is a bonus if the work happens to earn one. It is not the goal.",
+  "n": 1,
+  "f": "journal__awards-dont-build-brands"
+ },
+ {
+  "s": "Share",
+  "n": 8,
+  "f": "journal__awards-dont-build-brands,journal__fewer-projects-more-attention,journal__on-saying-no"
+ },
+ {
+  "s": "Share on Twitter",
+  "n": 8,
+  "f": "journal__awards-dont-build-brands,journal__fewer-projects-more-attention,journal__on-saying-no"
+ },
+ {
+  "s": "Share on LinkedIn",
+  "n": 8,
+  "f": "journal__awards-dont-build-brands,journal__fewer-projects-more-attention,journal__on-saying-no"
+ },
+ {
+  "s": "Share on Email",
+  "n": 8,
+  "f": "journal__awards-dont-build-brands,journal__fewer-projects-more-attention,journal__on-saying-no"
+ },
+ {
+  "s": "Copy URL to clipboard",
+  "n": 8,
+  "f": "journal__awards-dont-build-brands,journal__fewer-projects-more-attention,journal__on-saying-no"
+ },
+ {
+  "s": "More articles.",
+  "n": 24,
+  "f": "journal__awards-dont-build-brands,journal__fewer-projects-more-attention,journal__on-saying-no"
+ },
+ {
+  "s": "Jun 15, 2026",
+  "n": 2,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Why Mira takes fewer projects than most studios our size, and what it does for the work.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Developer, Mira",
+  "n": 2,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Most studios grow by taking on more clients. Mira grows by taking on fewer. Here is why we hold a hard ceiling on the number of projects we accept each year, and what that ceiling actually gives back to the work, to the client, and to the studio itself.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "The math against volume",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Most creative studios model their business the way accounting firms do: more billable hours, more revenue. That model works for accounting. It does not work for design. The moment a studio takes on more work than it can carry, the founder stops being in the room, and the founder is usually the reason clients hired the studio in the first place.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "We hold the ceiling at six to nine projects a year. That number is small enough that Jin is on every call, in every review, and responsible for every decision. It is also large enough that the studio stays financially healthy without ever needing to compromise on the projects we take.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "What attention actually means",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "When we say attention, we mean specific things. It means the founder replies to messages personally, usually the same day. It means the founder is in the design review, not a designer relaying feedback back to the founder. It means the person deciding what the brand should be is also the person putting pixels down on the canvas.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Attention is not a marketing word for us. It is the operating principle. Every project we take is a project we can give this to.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "The trade-off we accept",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "The trade-off is real. We say no to more work than we say yes to. Every year, more inbound gets turned down than gets taken. That is uncomfortable in the short term and correct in the long term. The projects we do take get everything, and the projects we do not take go to studios that would have taken them anyway.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Why this is the whole edge",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Most studios our size are chasing a bigger version of themselves. We are chasing the best version of what we can already do. That difference shows up in the work, and buyers can feel it even when they cannot name it.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Fewer projects, more attention. It is not a slogan. It is how we stay in business.",
+  "n": 1,
+  "f": "journal__fewer-projects-more-attention"
+ },
+ {
+  "s": "Feb 18, 2026",
+  "n": 2,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "The projects Mira turns down, and why we are better for it.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "We turn down more work than we accept. This year alone, three good opportunities we walked away from. Here is why saying no is a studio skill we have practised deliberately, what it costs us in short-term revenue, and what it protects on the yes side of the ledger over the long run.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "The three we turned down this year",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "A Series B SaaS that wanted us to speed up their sales cycle through a rebrand. A fashion label pivoting mid-launch who could not describe the pivot in a sentence. A founder with a compelling story who could not articulate what the business actually sold. Three real inbound conversations. Three no's.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "Each of those was a real revenue opportunity. Each of them was also a project that would have quietly compromised the studio, either by pulling attention from a better-fit engagement or by demanding a scope we did not think we could deliver honestly.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "What every no protects",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "The maths of a small studio is unforgiving. If we take on the wrong project, it does not just affect that project. It steals capacity from the next two projects, because the founder is now debugging a bad brief instead of pushing the right one forward. Every no protects the yes.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "Studios that say yes to everything eventually stop being good at anything. We watched a couple of studios we admire drift this way in the last three years. We do not want to be next.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "The habit is harder than it sounds",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "Saying no is not a skill studios teach. Every referral feels like an obligation to the person referring. Every quick project feels like it might turn into something bigger later. Every founder pitching feels sincere in the moment. All of that is real, and none of it changes whether the project is a fit.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "Getting comfortable with no took us years. We had to learn to say it kindly, quickly, and with a clear reason. We had to learn to not sugarcoat it into a maybe.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "Why the work is better for it",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "The projects on our site now are the ones we said yes to for the right reasons. Every one of them had a clear brief, a client who was ready, and a scope we knew we could ship well. That is not accident. That is the compounding effect of a hundred quiet nos.",
+  "n": 1,
+  "f": "journal__on-saying-no"
+ },
+ {
+  "s": "Dec 12, 2025",
+  "n": 2,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Why restraint reads as premium, and how to design for it without becoming boring.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Designer, Mira",
+  "n": 4,
+  "f": "journal__small-looks-expensive,journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Cheap brands add. Expensive brands remove. Here is why restraint is the actual visual language of luxury, and how to design for premium without falling into the traps most agencies fall into the moment the word premium appears anywhere in the brief.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "What most agencies think premium means",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "When premium shows up in a brief, most agencies start layering. Gradients. Oversized serifs. Gold foil. Marble backgrounds. Moody photography. Product renders with soft shadows. All of those signals are supposed to say luxury, and none of them actually do.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "The reason they fail is that they are performing luxury rather than embodying it. Real luxury brands almost never look like moodboards of luxury brands. They are quieter, cleaner, and more restrained than the agencies briefed to imitate them.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Why restraint reads as expensive",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Expensive works because of what it does not do. It does not fill every corner. It does not over-explain. It does not perform. The word luxury appears nowhere on a luxury site because it does not have to. The brand is confident enough not to need to say it.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Restraint signals confidence, and confidence signals value. A brand that trusts a single photograph and a single sentence to carry a whole homepage reads as more premium than a brand that layers five moments trying to prove it deserves the price.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "The trap of the moodboard",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Most premium briefs get killed at the moodboard stage. The client sends references. The references are all layered. The moodboard becomes a synthesis of a dozen busy looks. The final work is a slightly busier version of the busiest reference. Nothing about the process points toward restraint.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Our approach on premium projects is to remove first, add later. Strip the site to almost nothing. Design the one thing worth showing. Add only what the composition genuinely needs. Most of the time, we do not add much.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "What small-looks-expensive actually looks like",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "One photograph, treated large. One sentence, treated with confidence. Space around both. That is the whole formula. The most premium moment on any site is the empty space around the one thing worth looking at. Everything else is decoration, and decoration is what makes a brand look cheaper than it actually is.",
+  "n": 1,
+  "f": "journal__small-looks-expensive"
+ },
+ {
+  "s": "Mar 20, 2026",
+  "n": 2,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Typography choices we make so you do not have to notice them.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "If someone reads your website and remembers the fonts you used, you failed. Typography should carry the voice of a brand without ever asking to be looked at. Here is how we think about type on every Mira project, and why restraint at this layer lets us be louder everywhere else on the page.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Two faces, no more",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Every Mira project starts with the same type decision: one workhorse for body copy that reads for hours without effort, and one display face with enough personality to hold a headline. That is the whole system. No third face for accents. No decorative flourishes borrowed from moodboards. No condensed variant just because it looked good on Pinterest.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Two faces is not a rule of taste. It is a rule of maintenance. Buyers of design templates and clients handing off brand systems always drift toward complexity. Every extra face is one more thing to police, one more chance for the system to break the moment a junior designer picks a heading style.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Restraint at the type layer earns loudness everywhere else",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "When type stays quiet, everything around it gets to be loud. Bigger images. Bolder statements. More confident whitespace. This is the trade we make on every project. The typography is doing the invisible work of holding voice, so the rest of the design can push harder in the visible directions.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "The best sites we have shipped are the ones where the reader could not name the typeface if you asked them. They only remember how the site felt. That is type doing its job.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Where most brands go wrong",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Most brands over-select type. They pick a wordmark font, a headline font, a subheading font, a body font, and a monospace accent, and they think the layered specificity is a strength. It is not. It is a system with five points of failure and no single voice.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Restraint is the harder move. Pick two. Use them everywhere. Let the tone come from what you write and where you place it, not from how many typefaces you rotated through.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "What invisible looks like",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Invisible does not mean bland. It means legible, distinctive, and unremarkable in the right places. Good typography feels natural. You feel it before you see it. If a client asks us why we chose a particular font, we usually answer by asking them how the site felt to read. That is the whole test.",
+  "n": 1,
+  "f": "journal__the-best-type-is-invisible"
+ },
+ {
+  "s": "Jan 28, 2026",
+  "n": 2,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Why the most important part of a project happens before anyone opens a Figma file.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Client Manager, Mira",
+  "n": 4,
+  "f": "journal__the-brief-before-the-brief,journal__why-we-quote-fixed"
+ },
+ {
+  "s": "The most important part of any Mira project happens before anyone opens a design file. Here is why the discovery call, not the brief document, is where the real work of a project actually gets defined, and what we listen for in the first thirty minutes that reshapes the whole engagement.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "What clients think they need",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Clients usually come to a studio with a specific request. A rebrand. A website redesign. A packaging refresh. Those requests are almost never wrong, but they are almost never the whole problem either. They are the surface symptom of something bigger sitting underneath.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "A rebrand often means the positioning drifted before the visual identity did. A website redesign often means the naming stopped working before the site did. A packaging refresh often signals a distribution shift the founder has not yet articulated. The request is the tip of the iceberg. The real project is below.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "What we listen for",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "The first thirty minutes of a discovery call are the most valuable minutes in the whole engagement. We are listening for what the client is not saying as much as what they are. Where do they stumble in describing the business? What competitor do they mention twice? What do they get defensive about? What have they already tried?",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Those tells tell us what the brief actually needs to solve, which is often not what the client wrote in their intro email.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "How we redefine the scope",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "By the end of the call, we usually reframe the project. Not to talk the client into a bigger engagement. To make sure the engagement we agree on is aimed at the right problem. Sometimes that means we shrink the scope. Sometimes it means we push it wider. Almost always, it means we shift what the deliverables are actually for.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Why this is not scope creep",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Scope creep happens when the definition of the project changes after work has started. What we are describing is the opposite: doing the definition properly before work starts, so no one is surprised later. That work is unglamorous. It happens on a Zoom call, not in Figma. It is also the single biggest predictor of whether a project ships well.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "The brief that comes in the email is a symptom. The brief we agree on the call is the actual project. That is the whole difference.",
+  "n": 1,
+  "f": "journal__the-brief-before-the-brief"
+ },
+ {
+  "s": "Nov 4, 2025",
+  "n": 2,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "For small studios and small brands, the founder's presence is the most under-used asset.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "Every small brand under-uses its founder. Every small studio does too. Here is why the founder's presence, story, and voice are the most under-leveraged asset in most emerging brands, and what we do on every Mira project to bring the founder back to the surface of the work.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "The invisible founder problem",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "We work with founders who spend six figures on a rebrand and then refuse to appear anywhere on the site. Their story is the reason the business exists. Their point of view is what the customer is actually buying. And yet the About page shows a stock photo of a laptop on a wooden desk and a paragraph of corporate we-language.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "The pattern is so common we now expect it. Founders are trained by decades of corporate culture to remove themselves from the brand as it grows. That instinct is the opposite of what a small brand actually needs.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "What the buyer is actually buying",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "For small brands, the buyer is not just buying the product. They are buying the reason the product exists, and reason has a face. The founder's story is not filler on the About page. It is the credibility engine of the whole brand.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "A candle brand from Savannah is more compelling because a real person in Savannah is pouring the candles. A leather workshop in Milan is more compelling because a family in Milan is cutting the leather. Anonymise either brand and the value proposition weakens. Put the founder back in and it strengthens immediately.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "How we surface the founder",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "On every Mira project, we push for a founder moment near the top of the homepage. A photo, a short story, a signed statement. Not a full About page relocated to the top. Just enough presence to establish that a real person is behind the brand. It changes the emotional register of everything below it.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "Some founders resist this at first. They worry it looks unprofessional. It does not. What looks unprofessional is a small brand pretending to be a big one.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "Why this is the unfair advantage",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "The competition is well-funded, well-designed, and personality-free. Big brands cannot use their founders because their founders are usually a board of directors. Small brands can, and most refuse to. That refusal is the single biggest gift small brands hand to their competitors every day.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "Show up. Say what you believe. Sign your name. The founder is your unfair advantage. Use them.",
+  "n": 1,
+  "f": "journal__the-founder-is-the-brand"
+ },
+ {
+  "s": "Apr 3, 2026",
+  "n": 2,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Every Mira project is priced up front. No hourly. No estimates that quietly grow. Here is why.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Every Mira project is priced up front. No hourly billing. No estimates that quietly grow past the number we agreed on. Here is the reasoning behind fixed pricing, and why we think it is the only honest way for a small studio to charge for the kind of work we do.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "What hourly billing actually incentivises",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Hourly billing is a broken incentive on both sides of the invoice. The faster the studio works, the less it makes. The more careful the studio is, the more the client pays. Neither party wins. The studio has a quiet reason to slow down. The client has an ongoing reason to worry about scope creep. Neither of those energies is healthy for the actual work.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "We have watched this play out at other agencies for years. Projects that should take four weeks stretch to eight because the invoice grows every Friday. Clients start hoarding decisions because every question costs money. The work suffers.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "What fixed pricing actually does",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Fixed pricing moves the pressure to the outcome, not the clock. The number is agreed up front. If we can ship the same result in half the time, that is our problem to solve, not yours to fund. If a project takes longer than we estimated, that is on us to absorb.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "The upside for the client is that they know what they are committing to before anything starts. The upside for the studio is that we are financially motivated to work efficiently, ship on time, and avoid the scope creep spiral that eats agencies alive.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "What it costs us",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Fixed pricing forces the studio to say no more often. Some projects genuinely do not fit a fixed number. A client who cannot describe what they want. A founder whose scope will obviously double after the first review. A brief that keeps changing shape week to week. Those get turned down. The studio loses a percentage of potential revenue in exchange for keeping the pricing model honest.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Why we hold the line",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "The alternative is worse. Hourly billing makes the studio a vendor. Fixed pricing makes the studio a partner. We chose the harder model on purpose, and every year we get more convinced we chose right.",
+  "n": 1,
+  "f": "journal__why-we-quote-fixed"
+ },
+ {
+  "s": "Privacy Policy.",
+  "n": 2,
+  "f": "privacy-policy,Footer"
+ },
+ {
+  "s": "MIRA STUDIO (\"WE,\" \"OUR,\" OR \"US\") RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO.",
+  "n": 2,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Information We Collect",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Information You Provide",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "We only collect information you give us directly, including:",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Contact form submissions (name, email, company, project details)",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Newsletter signups (email address)",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Enquiries sent via email or scheduling links",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Information shared during discovery calls and project engagements",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Automatic Information",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "When you visit our site, we automatically collect limited technical data:",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "IP address and general location",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Browser type and device information",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Pages visited and time spent on site",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Referring website",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "How We Use Your Information",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Studio Operations",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Respond to project enquiries and support requests",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Send project updates and communications",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Deliver project work and share progress",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Invoice for services rendered",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Newsletter and Journal",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Send occasional emails about new work, essays, and studio updates",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "You can unsubscribe at any time using the link in every email",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Site Improvement",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Understand which pages are most useful to visitors",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Identify and fix issues on the site",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Improve the site's structure and content",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Data Sharing",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Service Providers",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "We use a small number of trusted third parties to run the studio:",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Framer for website hosting and CMS",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Google Workspace for email and calendar",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Stripe for payment processing",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Notion for project management",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Legal Requirements",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "We may disclose information if required by law, court order, or to protect the rights, property, or safety of Mira Studio, our clients, or the public.",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "We Do Not Sell Data",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "We do not sell, rent, or trade your personal information to third parties for marketing purposes. Ever.",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Data Security",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Security Measures",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "We take reasonable steps to protect the information you share:",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Encryption in transit and at rest",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Access limited to studio staff who need the data",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Regular security reviews of the tools we use",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Two-factor authentication on all studio accounts",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Data Retention",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Contact form data: Retained while a project is active, then archived for 24 months",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Newsletter subscribers: Retained until you unsubscribe",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Analytics data: Retained for 24 months",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Project files: Retained for 5 years after project close, then deleted",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Your Rights and Choices",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Access and Control",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "You have the right to:",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Ask what personal information we hold about you",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Correct information that is inaccurate",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Ask us to delete your information",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Export your data in a portable format",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Object to certain uses of your data",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Contact Us",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "To exercise any of these rights, email us at",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "hello@mirastudio.com",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": ". We respond to every request within seven business days.",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "International Transfers",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Some of our service providers are based outside your country. When we transfer data internationally, we rely on standard contractual clauses and other legally recognised safeguards to protect it.",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Children",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Our services are not intended for anyone under 18. We do not knowingly collect information from children.",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "Changes to This Policy",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "We may update this Privacy Policy from time to time. Material changes will be reflected in the \"Last Updated\" date at the top of the page and, where appropriate, notified via email.",
+  "n": 1,
+  "f": "privacy-policy"
+ },
+ {
+  "s": "selected works",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Athlete lacing orange and white running shoes on a stadium track",
+  "n": 20,
+  "f": "projects,projects__adidas,projects__chanel"
+ },
+ {
+  "s": "Nike",
+  "n": 24,
+  "f": "projects,projects__adidas,projects__chanel"
+ },
+ {
+  "s": "Smiling athlete in a black tank top after a workout",
+  "n": 20,
+  "f": "projects,projects__adidas,projects__chanel"
+ },
+ {
+  "s": "Under Armour",
+  "n": 24,
+  "f": "projects,projects__adidas,projects__chanel"
+ },
+ {
+  "s": "project title",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Count Font",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Eyewear",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Women's Skincare",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Technical Outerwear",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Tennis Apparel",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Sportswear",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Training",
+  "n": 1,
+  "f": "projects"
+ },
+ {
+  "s": "Back to projects",
+  "n": 32,
+  "f": "projects__adidas,projects__chanel,projects__gucci"
+ },
+ {
+  "s": "Adidas wanted its tennis line to feel like the club on a Sunday morning, not a stadium broadcast.",
+  "n": 3,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "timeline",
+  "n": 16,
+  "f": "projects__adidas,projects__chanel,projects__gucci"
+ },
+ {
+  "s": "8 weeks",
+  "n": 3,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "scope",
+  "n": 16,
+  "f": "projects__adidas,projects__chanel,projects__gucci"
+ },
+ {
+  "s": "The German sportswear house. This engagement covered the digital home of its tennis apparel line.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "The Brief",
+  "n": 5,
+  "f": "projects__adidas,projects__gucci,projects__nike"
+ },
+ {
+  "s": "Court, not costume.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "The line needed to signal tennis without leaning on the sport's tired symbols. No headbands on models, no wooden racquets propped in corners. The clothes had to do the work.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "View live",
+  "n": 24,
+  "f": "projects__adidas,projects__chanel,projects__gucci"
+ },
+ {
+  "s": "Tennis player lying on a blue court among tennis balls, holding her racket",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Tennis player in a blue sweatshirt lying on the court surrounded by tennis balls",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Tennis player in a visor lying on the court and reaching toward the camera",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "The Approach",
+  "n": 6,
+  "f": "projects__adidas,projects__chanel,projects__gucci"
+ },
+ {
+  "s": "Shot on a real court, in real light.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "We shot a full lookbook at a club court in mid-afternoon. Every campaign image was pulled from that day. The page is built from what happens between points, not what happens at the baseline.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Tennis player lying on a blue court with tennis balls around her",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Tennis player seen through a racket as tennis balls fly overhead",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Tennis player in a blue sweatshirt sitting courtside",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "The Outcome",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Sold out. Booked back in.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "The first drop cleared in twelve days. Sessions nearly tripled against the previous line page. Two members-only clubs picked up the collection before the page had been live a month.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Results",
+  "n": 6,
+  "f": "projects__adidas,projects__chanel,projects__gucci"
+ },
+ {
+  "s": "Sold out",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "(in 12 days)",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "First drop cleared through the site alone.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "(site sessions)",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Sessions vs. the previous line page.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "2 clubs",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "(picked up at launch)",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Members-only clubs stocking the line before the second delivery.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Words from client",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Portrait of Naomi Adeyemi",
+  "n": 2,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Naomi Adeyemi",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "Line Director, Adidas Tennis",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "“ Mira gave the line a home that finally feels like the court on a Sunday morning. ”",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "We wanted quiet, and Mira understood quiet. The brand feels like what we love about tennis, not what the sport has been packaged as for the last thirty years.",
+  "n": 1,
+  "f": "projects__adidas"
+ },
+ {
+  "s": "more projects",
+  "n": 6,
+  "f": "projects__adidas,projects__chanel,projects__gucci"
+ },
+ {
+  "s": "Chanel asked for a skincare launch as considered as the formulas it was built to carry.",
+  "n": 3,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "10 weeks",
+  "n": 3,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "The Parisian house. This engagement covered the digital launch of a women's skincare line.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "THE BRIEF",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Skincare that doesn't need convincing.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Skincare launches either shout science or whisper apology. Chanel needed neither. The line had to look exactly like what it is: considered, quiet, and certain of itself.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Stacked black packaging boxes printed with 006",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Black pump bottle on dark coal rocks",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Light on the skin. Dark on the glass.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "We split the shoot in two. Skin in soft morning light, product in black glass and shadow. The page moves between the two like a ritual: calm where it touches the face, precise where it touches the bottle.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Black bottle lying on dark coal rocks",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Black cosmetic jar on a coal rock in soft mist",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Small black jar among dark rocks and dried flowers",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Black dropper bottle on dark rocks",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Outcomes",
+  "n": 5,
+  "f": "projects__chanel,projects__gucci,projects__nike"
+ },
+ {
+  "s": "The line sold out. Twice.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "The launch allocation cleared in nine days. The restock cleared in six. Two flagship counters moved the line to front-of-house before the second batch had shipped.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "9 days",
+  "n": 2,
+  "f": "projects__chanel,projects__puma"
+ },
+ {
+  "s": "(sold out)",
+  "n": 2,
+  "f": "projects__chanel,projects__gucci"
+ },
+ {
+  "s": "Launch allocation cleared through the site alone.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "2 restocks",
+  "n": 2,
+  "f": "projects__chanel,projects__nike"
+ },
+ {
+  "s": "(in first month)",
+  "n": 2,
+  "f": "projects__chanel,projects__nike"
+ },
+ {
+  "s": "Both restocks cleared inside a week of shipping.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "2 counters",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "(moved front-of-house)",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Flagship counters repositioned the line before batch two shipped.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "The Word",
+  "n": 5,
+  "f": "projects__chanel,projects__gucci,projects__nike"
+ },
+ {
+  "s": "Portrait of Margaux Lefevre",
+  "n": 2,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Margaux Lefevre",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Head of Digital, Chanel Skincare",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "“ Mira built calm into a category that usually gets shouted at. ”",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Every skincare brief we saw came back loud. Jin came back quiet. It is the first launch page I have ever wanted to send to a friend.",
+  "n": 1,
+  "f": "projects__chanel"
+ },
+ {
+  "s": "Play Film",
+  "n": 4,
+  "f": "projects__gucci,projects__puma"
+ },
+ {
+  "s": "Gucci needed its new eyewear capsule to land online with the same weight it carries in the case.",
+  "n": 2,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "7 weeks",
+  "n": 2,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "The Florentine fashion house, founded in 1921. This engagement covered the digital launch of a single eyewear capsule.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Sunglasses that deserved their own light.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "A house like Gucci does not need an introduction. The capsule needed a page that treated each frame as an object, not a SKU, and moved at the pace of the campaign rather than the catalog.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Model in silver sunglasses with wet hair",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Model in wraparound sunglasses with water splashing around her face",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Shot in water. Set in stone.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "We built the launch around the campaign's water-drenched photography and let each frame hold the screen alone. No grid overload. No noise. Just the frame, and the reason to want it.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Stack of kraft shipping boxes on a white surface",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Overhead view of rows of kraft shipping boxes",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Kraft shipping boxes scattered on a white floor",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Three tall kraft boxes standing in a row",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Sold out. Then reordered.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "The capsule allocation cleared in ten days. The waitlist for the second colorway doubled overnight. Two more capsule launches were commissioned before summer.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Capsule allocation cleared through the launch page alone.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "(waitlist growth)",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Second-colorway waitlist doubled inside 24 hours of launch.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Portrait of Chiara Bellini",
+  "n": 2,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Chiara Bellini",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Digital Director, Gucci Eyewear",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "“ The capsule finally has a page that shows the frames the way the campaign saw them. ”",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "We brief a lot of studios. Mira was the only one that treated the page like part of the collection. It just shows what the frames are, and lets people fall for them.",
+  "n": 1,
+  "f": "projects__gucci"
+ },
+ {
+  "s": "Nike wanted a drop page that moves like the sport does. On the track, on the court, and on the street.",
+  "n": 3,
+  "f": "projects__nike"
+ },
+ {
+  "s": "6 weeks",
+  "n": 5,
+  "f": "projects__nike,projects__puma"
+ },
+ {
+  "s": "The American sportswear company. This engagement covered the digital launch of a sport-style capsule.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Signal the game without shouting it.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Every campaign within a mile of the sport looks the same. Same shot, same crop, same hoodie on the same wall. This capsule had to carry the game from the track to the street without repeating the vocabulary.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player in a varsity jacket and checkered socks crouching with a ball on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player in a patterned jersey and denim shorts posing on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player in a black bomber jacket kneeling next to a basketball on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Full studio, one drop.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "One studio, one photographer, one afternoon. The whole drop was shot in three hours, from starting blocks to street fits. The page follows the same energy. Fast, saturated, moving.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player in a patterned jersey reaching toward the camera on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player crouching with his hands out on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player kneeling and smiling on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player in a varsity jacket holding a ball on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player in a black bomber jacket sitting on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Basketball player crouching in a bomber jacket and checkered socks on a red backdrop",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Sold out. Restocked. Sold out again.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "The drop cleared in six days. The restock cleared in four. Two flagship city stores asked for the capsule before the page had been live a month.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "6 days",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "(first drop cleared)",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Full inventory sold through the drop page alone.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Both restocks cleared inside a week.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Portrait of Devin Cross",
+  "n": 2,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Devin Cross",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Brand Director, Nike Sportswear",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "“ Mira built us a page that looks like the game feels. ”",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "We did not want a drop page that looked like every other drop page. Jin got that in the first call. What we shipped feels like a mixtape, not a lookbook.",
+  "n": 1,
+  "f": "projects__nike"
+ },
+ {
+  "s": "Puma needed its technical outerwear line to read as gear, not merchandising.",
+  "n": 2,
+  "f": "projects__puma"
+ },
+ {
+  "s": "The German sportswear company. This engagement covered the launch of a technical outerwear capsule.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Made for the weather. Cut for the person.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Big sportswear over-engineers its language. Every seam becomes a feature. Every zipper gets a name. Puma wanted a launch that respected the fabric and trusted the wearer to notice.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Man in a white puffer jacket with motion blur around him",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Man in a white puffer jacket surrounded by swirling fabric",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Motion, not stillness.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "We shot the collection in wind and rain. The models were not posed. The fabric shows the weather, and the page shows the fabric. No product renders, no cutout backgrounds. Just outerwear in the conditions it is built for.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Phone leaning against a wall showing a red and white poster design",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Desktop monitor showing a black and white poster with red type",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Laptop and phone showing the campaign poster design",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Desk setup with a monitor, keyboard, and mouse showing the poster design",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Two drops, one launch system.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "The autumn drop cleared in fourteen days. The winter drop cleared in nine. The launch system we built carried both without a redesign.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "14 days",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "(autumn drop cleared)",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "First drop sold out through the launch page alone.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "(winter drop cleared)",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Second drop sold through faster on the same system.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Portrait of Jonas Keller",
+  "n": 2,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Jonas Keller",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Category Lead, Puma Outerwear",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "“ Mira understood weather. And gear. And what it feels like to trust both. ”",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "The page feels like standing outside in a good jacket. Nothing extra. Just enough. Jin never overexplained, and neither does the line now.",
+  "n": 1,
+  "f": "projects__puma"
+ },
+ {
+  "s": "Under Armour wanted its studio training line to feel like the practice, not the locker room.",
+  "n": 3,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "5 weeks",
+  "n": 3,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "The American performance brand. This engagement covered the launch of a women's studio training collection.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "One collection. One promise.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Training brands promise everything and deliver noise. This collection promises one thing: gear that disappears into the practice. The launch had to match that restraint.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Close-up of an athlete's arm gripping a rowing machine handle",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Raised wrist wearing a black smartwatch against a pale sky",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Smartwatch on a wrist in low light",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Show the practice, not the product.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "The page leads with people mid-practice, not with feature bullets. Pilates on the reformer, breath work in the studio, the last rep of a hard set. The gear is the thread. The practice is the point.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Athlete stretching in a side plank at sunrise",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Athlete training on a reformer machine",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Silhouette of an athlete kneeling on a reformer machine",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Black gym bag, notebook, and headphones laid out on a table",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Black kettlebells and dumbbells on a black pedestal",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Black weights arranged on a floating shelf",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Pre-orders sold out in five days.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "First-run inventory cleared in five days. The waitlist for the second run grew by 4,000 in the first month. Three studio chains opened conversations about carrying the line.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "5 days",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "(pre-orders sold out)",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Full first-run inventory cleared through the page.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "(waitlist added)",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "New signups for the second production run.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "3 studios",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "(in conversation)",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Studio chains opened wholesale talks in month one.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Portrait of Wren Beaumont",
+  "n": 2,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Wren Beaumont",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "GM, Under Armour Studio",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "“ Mira understood that training has to feel like the practice, not the pitch. ”",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "Every pitch we heard leaned on optimization language. Jin was the only one who talked about calm. The page feels like a five-minute breath in the middle of a hard day.",
+  "n": 1,
+  "f": "projects__under-armour"
+ },
+ {
+  "s": "A brand and web studio for founders who care how they’re seen. Small on purpose, and personal by design.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "Our culture.",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "Black and white photo of the studio team posing together",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "Black and white photo of the team playing table football",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "We care about details most people never notice. We argue about kerning and mean it. Everyone here has taste and gets to use it. Nothing leaves the studio that we wouldn’t put our",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "own name on.",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "by the numbers.",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "industries we’ve shipped in",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "people max on any project",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "longest you’ll wait for a reply",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "of our launches are still live",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "What guides us.",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "You talk to the maker.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "No account layer, no handoffs. The person in your calls is the person in the file.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "Scope is set before we start.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "Price, timeline, and deliverables on paper before day one. Surprises are a design flaw.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "We say no early.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "If design is not your real problem, we will tell you in the first call and point you somewhere better.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "You own the work.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "Every file, font, and license comes with the handoff. Nothing stays hostage in our drive.",
+  "n": 3,
+  "f": "studio"
+ },
+ {
+  "s": "Awards.",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "Awarded by",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "Award",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "year",
+  "n": 1,
+  "f": "studio"
+ },
+ {
+  "s": "Awwwards",
+  "n": 4,
+  "f": "studio"
+ },
+ {
+  "s": "Site of the Day",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "FWA",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "FWA of the day",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "CSS design awards",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "Website of the day",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "Honorable Mention",
+  "n": 2,
+  "f": "studio"
+ },
+ {
+  "s": "Terms & Conditions.",
+  "n": 2,
+  "f": "terms-conditions,Footer"
+ },
+ {
+  "s": "THESE TERMS AND CONDITIONS GOVERN YOUR USE OF THE MIRA STUDIO WEBSITE AND THE PROJECTS, SERVICES, AND TEMPLATES WE PROVIDE. BY USING OUR SITE OR ENGAGING US FOR WORK, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE SITE OR ENGAGE THE STUDIO.",
+  "n": 2,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "The Studio",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "About Mira",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Mira Studio is an independent brand and web design studio operated by Jin Yuen. We take on a limited number of client projects each year and occasionally release templates and other design resources.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Contact",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "General enquiries: hello@mirastudio.com",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Legal: legal@mirastudio.com",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Support: support@mirastudio.com",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Using the Website",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Permitted Use",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "You may use our website to:",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "View our work, read the journal, and learn about the studio",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Contact us about a potential project",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Subscribe to our newsletter",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Purchase and download any templates we release",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Prohibited Use",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "You may not:",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Copy or reproduce site content without written permission",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Use the site or its content to build a competing service",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Attempt to gain unauthorised access to any part of the site",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Use automated tools to scrape content",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Misrepresent your identity when contacting the studio",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Client Projects",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Engagements",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "All client projects operate under a separate written agreement that includes:",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Fixed project fee",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Scope of work and deliverables",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Timeline and milestones",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Payment schedule and terms",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Ownership and licensing details",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Fees and Payment",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Projects are priced as fixed fees, agreed in advance",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "A deposit is required before work begins",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Remaining fees are payable per the agreed schedule",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Late payments may pause active work until resolved",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Ownership and Licensing",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Clients own final approved deliverables upon full payment",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Mira Studio retains the right to display completed work in our portfolio",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Fonts, stock imagery, and licensed assets remain the property of their respective owners",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Source files and working documents are made available upon project close",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Templates and Digital Products",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "License",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "When you purchase a template from Mira, you receive:",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "A single-project license to use the template for one final website",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Permission to modify the template for your own use",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Access to updates for twelve months from purchase",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Restrictions",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "You may not resell, redistribute, or share the template with others",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "You may not use the template to create competing templates for resale",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "You may not remove copyright notices from the source files",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Refunds",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Because digital products are delivered instantly and cannot be returned, all sales are final. If a template does not perform as described, contact us within 14 days and we will work with you to resolve the issue.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Intellectual Property",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Studio Content",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "All content on the Mira Studio website, including text, images, video, code, and design systems, is the property of Mira Studio unless otherwise noted. It is protected by copyright and other intellectual property laws.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Client Content",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "You retain ownership of anything you send us. By sending materials for a project, you grant us a license to use them for the purpose of completing the work.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Warranties and Liability",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Warranties",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "We provide our services with reasonable care and skill. We do not guarantee that our website will be error-free or continuously available.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Limitation of Liability",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "To the fullest extent permitted by law, our total liability to you for any claim relating to our services is limited to the fees paid for those services in the twelve months preceding the claim.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Nothing Waived",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Nothing in these terms limits or excludes liability for:",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Death or personal injury caused by our negligence",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Fraud or fraudulent misrepresentation",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Any liability that cannot be limited by applicable law",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "General",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Changes to These Terms",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "We may update these terms from time to time. Material changes will be reflected in the \"Last Updated\" date at the top of the page.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Governing Law",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "These terms are governed by the laws of the jurisdiction in which Mira Studio is registered. Disputes will be resolved in that jurisdiction unless otherwise required by law.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Entire Agreement",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "These terms, together with any separate project agreements, constitute the entire agreement between you and Mira Studio regarding the use of our services.",
+  "n": 1,
+  "f": "terms-conditions"
+ },
+ {
+  "s": "Back Home",
+  "n": 4,
+  "f": "this-page-does-not-exist-404"
+ },
+ {
+  "s": "THIS PAGE NEVER MADE IT PAST WIREFRAMES.",
+  "n": 1,
+  "f": "this-page-does-not-exist-404"
+ },
+ {
+  "s": "THE REST OF THE SITE DID.",
+  "n": 1,
+  "f": "this-page-does-not-exist-404"
+ },
+ {
+  "s": "hold to explode",
+  "n": 1,
+  "f": "this-page-does-not-exist-404"
+ },
+ {
+  "s": "projects",
+  "n": 10,
+  "f": "Footer,SharedNavigation"
+ },
+ {
+  "s": "Studio",
+  "n": 10,
+  "f": "Footer,SharedNavigation"
+ },
+ {
+  "s": "Journal",
+  "n": 10,
+  "f": "Footer,SharedNavigation"
+ },
+ {
+  "s": "Home",
+  "n": 8,
+  "f": "Footer,SharedNavigation"
+ },
+ {
+  "s": "MIRA",
+  "n": 4,
+  "f": "Footer,SharedNavigation"
+ },
+ {
+  "s": "All rights reserved.",
+  "n": 4,
+  "f": "Footer,SharedNavigation"
+ },
+ {
+  "s": "A LETTER, ONCE A MONTH.",
+  "n": 1,
+  "f": "Footer"
+ },
+ {
+  "s": "New work from the studio, fresh thinking from the founder, the occasional opinion.",
+  "n": 1,
+  "f": "Footer"
+ },
+ {
+  "s": "No filler. SUBSCRIBE BELOW.",
+  "n": 1,
+  "f": "Footer"
+ },
+ {
+  "s": "Join Now",
+  "n": 2,
+  "f": "Footer"
+ },
+ {
+  "s": "By signing up, you’re agreeing to our",
+  "n": 1,
+  "f": "Footer"
+ },
+ {
+  "s": "legal",
+  "n": 1,
+  "f": "Footer"
+ },
+ {
+  "s": "let's talk",
+  "n": 3,
+  "f": "SharedNavigation"
+ }
+]

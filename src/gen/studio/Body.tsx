@@ -124,28 +124,28 @@ export function Body() {
                     <div className="framer-shGv8 framer-4tnhfa framer-v-4tnhfa" data-framer-name="Desktop">
                       <div className="framer-17kf78c-container" data-framer-name="X" {...{ name: "X" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "X" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[10]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com" target="_blank">
+                          <a aria-label={T[10]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com/ErmitePasNette" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-LAEqS framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-1smje0b-container" data-framer-name="IG" {...{ name: "IG" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "IG" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[11]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com" target="_blank">
+                          <a aria-label={T[11]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com/lys__sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-uZnUQ framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-t1kefs-container" data-framer-name="Dribbble" {...{ name: "Dribbble" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Dribbble" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[12]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://dribbble.com" target="_blank">
+                          <a aria-label={T[12]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.tiktok.com/@lys.sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-K6Gdb framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-1cdugcb-container" data-framer-name="Behance" {...{ name: "Behance" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[13]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://behance.com" target="_blank">
+                          <a aria-label={T[13]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.threads.com/@lys__sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-lYLYO framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
@@ -249,28 +249,28 @@ export function Body() {
                     <div className="framer-shGv8 framer-4tnhfa framer-v-5pv308" data-framer-name="Phone">
                       <div className="framer-17kf78c-container" data-framer-name="X" {...{ name: "X" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "X" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[24]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com" target="_blank">
+                          <a aria-label={T[24]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com/ErmitePasNette" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-LAEqS framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-1smje0b-container" data-framer-name="IG" {...{ name: "IG" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "IG" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[25]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com" target="_blank">
+                          <a aria-label={T[25]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com/lys__sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-uZnUQ framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-t1kefs-container" data-framer-name="Dribbble" {...{ name: "Dribbble" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Dribbble" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[26]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://dribbble.com" target="_blank">
+                          <a aria-label={T[26]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.tiktok.com/@lys.sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-K6Gdb framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-1cdugcb-container" data-framer-name="Behance" {...{ name: "Behance" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[27]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://behance.com" target="_blank">
+                          <a aria-label={T[27]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.threads.com/@lys__sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-lYLYO framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
@@ -374,28 +374,28 @@ export function Body() {
                     <div className="framer-shGv8 framer-4tnhfa framer-v-4tnhfa" data-framer-name="Desktop">
                       <div className="framer-17kf78c-container" data-framer-name="X" {...{ name: "X" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "X" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[38]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com" target="_blank">
+                          <a aria-label={T[38]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com/ErmitePasNette" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-LAEqS framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-1smje0b-container" data-framer-name="IG" {...{ name: "IG" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "IG" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[39]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com" target="_blank">
+                          <a aria-label={T[39]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com/lys__sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-uZnUQ framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-t1kefs-container" data-framer-name="Dribbble" {...{ name: "Dribbble" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Dribbble" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[40]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://dribbble.com" target="_blank">
+                          <a aria-label={T[40]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.tiktok.com/@lys.sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-K6Gdb framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
                       </div>
                       <div className="framer-1cdugcb-container" data-framer-name="Behance" {...{ name: "Behance" }}>
                         <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[41]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://behance.com" target="_blank">
+                          <a aria-label={T[41]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.threads.com/@lys__sama" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-lYLYO framer-1fo7tgr" style={{ "--87ol9m": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }} />
                           </a>
                         </VRoot>
@@ -3113,7 +3113,7 @@ export function Body() {
                                   </div>
                                   <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                     <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                      <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
+                                      <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:melyssa.kekelipro@gmail.com" target="_blank" rel="">
                                         {T[336]}
                                       </a>
                                     </p>
@@ -3443,7 +3443,7 @@ export function Body() {
                                   </div>
                                   <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                     <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                      <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
+                                      <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:melyssa.kekelipro@gmail.com" target="_blank" rel="">
                                         {T[383]}
                                       </a>
                                     </p>
@@ -3775,7 +3775,7 @@ export function Body() {
                                 </div>
                                 <div className="framer-1ejwr34" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-10r2g7l" data-styles-preset="YXSEQA_bn" dir="auto" style={{ "--framer-text-alignment": "justify", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))" }}>
-                                    <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:hello@mira.studio" target="_blank" rel="">
+                                    <a className="framer-text framer-styles-preset-3w9o9k" data-styles-preset="ajnWj2z9Q" href="mailto:melyssa.kekelipro@gmail.com" target="_blank" rel="">
                                       {T[430]}
                                     </a>
                                   </p>

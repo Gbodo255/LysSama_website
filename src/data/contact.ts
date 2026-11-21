@@ -4,43 +4,43 @@
 // seule différence ici : index de section 0 = index masqué.
 
 export const contactHero = {
-  title: 'start a project.',
+  title: "travailler ensemble.",
   // 27 espaces de tête = retrait de première ligne (texte justifié) ; 1re partie en gris (token 82d92470).
   intro: {
     indent: '                           ',
     muted: 'Book a 30-minute call or send us a message. ',
-    strong: 'We respond within 24 hours.',
+    strong: "Je réponds personnellement à chaque demande.",
   },
   address: {
-    label: 'Address',
-    value: '2800 East Observatory Road Los Angeles, USA 90027',
+    label: "Basée à",
+    value: "Cotonou, Bénin",
     demo: true,
   },
   officeHours: {
-    label: 'Office Hours', // dans <strong>
-    value: 'Monday to Friday: 9:00 AM – 6:00 PM',
+    label: "Collaborations", // dans <strong>
+    value: "Créatrices, créateurs, marques : parlons de votre projet.",
     demo: true,
   },
 };
 
 export const contactSections = {
-  bookCall: { sectionCount: 0, showIndex: false, label: 'Book a call', showVideo: false, videoUrl: '' },
-  faq: { sectionCount: 0, showIndex: false, label: 'Answers' },
+  bookCall: { sectionCount: 0, showIndex: false, label: "Me contacter", showVideo: false, videoUrl: '' },
+  faq: { sectionCount: 0, showIndex: false, label: "Réponses" },
 };
 
 export const contactCta = {
   image: { src: '/assets/images/EYivEG50p7YL92jdB9h51wLz4iU.jpg', width: 2400, height: 1808, alt: '', demo: true },
-  founder: { name: 'Jin Yuen', role: 'Founder', avatar: '/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg', alt: 'Portrait of Jin Yuen', demo: true },
-  slots: { before: '2 slots for', month: "August '26", demo: true },
-  heading: { before: "Let's make you", accent: 'impossible', after: 'to ignore.' },
+  founder: { name: "Lys Sama", role: "Créatrice de contenu", avatar: '/assets/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg', alt: "Portrait de Lys Sama", demo: true },
+  slots: { before: "Collaborations", month: "August '26", demo: true },
+  heading: { before: "Let's make you", accent: 'impossible', after: "béninoise." },
   subheading: { muted: "Tell us what you're building.", strong: "We'll tell you how we'd make it land." },
-  phone: { label: '+1 (805) 450 1432', href: 'tel:+18054501432', target: '_blank', demo: true },
-  email: { label: 'hello@mira.studio', href: 'mailto:hello@mira.studio', target: '_blank', demo: true },
+  phone: { label: "WhatsApp pro", href: 'tel:+18054501432', target: '_blank', demo: true },
+  email: { label: "melyssa.kekelipro@gmail.com", href: 'mailto:melyssa.kekelipro@gmail.com', target: '_blank', demo: true },
   formAction: 'https://api.framer.com/forms/v1/forms/c71bee6d-c169-40fa-bab9-1ec6105cfe8a/submit',
   steps: [
-    { index: '01', title: 'You hear back within a day.', text: 'From the founder, not a form-bot. We read every enquiry personally.' },
-    { index: '02', title: 'A short discovery call.', text: "Thirty minutes to understand your goals, audience, and what's not working." },
-    { index: '03', title: 'A fixed-quote proposal.', text: 'Clear scope, clear timeline, clear price. No surprises later.' },
+    { index: '01', title: "Une réponse, de moi directement.", text: "Pas de robot, pas d’intermédiaire : je lis chaque message moi-même." },
+    { index: '02', title: "Un premier échange.", text: "Thirty minutes to understand your goals, audience, and what's not working." },
+    { index: '03', title: "Une proposition claire.", text: "Le format, le calendrier et le tarif, posés à l’écrit avant de commencer." },
   ],
   demo: true,
 };
@@ -55,8 +55,8 @@ export const contactFaqAvatars = [
 export const legalPages = [
   {
     slug: 'privacy-policy',
-    title: 'Privacy Policy.',
-    lastUpdatedLabel: 'Last updated',
+    title: "Confidentialité.",
+    lastUpdatedLabel: "Dernière mise à jour",
     datetime: '2026-07-28T00:29:40.343Z',
     lastUpdated: '7/28/26',
     intro: 'MIRA STUDIO ("WE," "OUR," OR "US") RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO.',
@@ -64,20 +64,20 @@ export const legalPages = [
   },
   {
     slug: 'terms-conditions',
-    title: 'Terms & Conditions.',
-    lastUpdatedLabel: 'Last updated',
+    title: "Conditions d’utilisation.",
+    lastUpdatedLabel: "Dernière mise à jour",
     datetime: '2026-07-10T20:21:50.799Z',
     lastUpdated: '7/10/26',
-    intro: 'THESE TERMS AND CONDITIONS GOVERN YOUR USE OF THE MIRA STUDIO WEBSITE AND THE PROJECTS, SERVICES, AND TEMPLATES WE PROVIDE. BY USING OUR SITE OR ENGAGING US FOR WORK, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE SITE OR ENGAGE THE STUDIO.',
+    intro: "CES CONDITIONS ENCADRENT L’UTILISATION DU SITE DE LYS SAMA ET DES COLLABORATIONS PROPOSÉES. EN UTILISANT LE SITE OU EN PROPOSANT UNE COLLABORATION, TU LES ACCEPTES. SI TU N’ES PAS D’ACCORD, MERCI DE NE PAS UTILISER LE SITE.",
     demo: true,
   },
   {
     slug: 'cookie-policy',
-    title: 'Cookies.',
-    lastUpdatedLabel: 'Last updated',
+    title: "Cookies.",
+    lastUpdatedLabel: "Dernière mise à jour",
     datetime: '2026-07-10T20:22:00.842Z',
     lastUpdated: '7/10/26',
-    intro: 'COOKIES ARE SMALL TEXT FILES STORED ON YOUR DEVICE WHEN YOU VISIT OUR WEBSITE. THIS POLICY EXPLAINS WHICH COOKIES MIRA STUDIO USES, WHY WE USE THEM, AND HOW YOU CAN CONTROL THEM. WE KEEP COOKIE USE TO A MINIMUM.',
+    intro: "LES COOKIES SONT DE PETITS FICHIERS TEXTE ENREGISTRÉS SUR TON APPAREIL QUAND TU VISITES CE SITE. CETTE POLITIQUE EXPLIQUE QUELS COOKIES LE SITE DE LYS SAMA UTILISE, POURQUOI, ET COMMENT LES CONTRÔLER. NOUS EN UTILISONS LE MOINS POSSIBLE.",
     demo: true,
   },
 ];

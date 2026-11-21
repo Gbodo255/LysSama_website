@@ -334,7 +334,7 @@ export function Body() {
                   </h3>
                   <p dir="auto" className="framer-text framer-styles-preset-zesxvw">
                     {T[64]}
-                    <a className="framer-text framer-styles-preset-vu1xf3" href="mailto:hello@mirastudio.com" target="_blank" rel="">
+                    <a className="framer-text framer-styles-preset-vu1xf3" href="mailto:melyssa.kekelipro@gmail.com" target="_blank" rel="">
                       {T[65]}
                     </a>
                     {T[66]}
