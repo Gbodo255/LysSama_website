@@ -38,7 +38,7 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 3 — Pages (sections listées après l'audit ; chaque section × 1440/1200/810/390)
 - [~] `/` accueil — 1440 : 2331/2331 éléments, 0 manquant/en trop/géométrie/style/texte, hauteur 0 % ; restent pixels (section Process, 17 plans) et les 3 autres largeurs
 - [~] `/projects` — construit (vitrine incurvée portée, Lenis horizontal) ; référence de l'original non capturée (onglet planté), à refaire
-- [~] `/projects/gucci` · `chanel` · `puma` · `adidas` · `nike` · `under-armour` — hauteurs identiques, 0 géométrie/style/texte ; ~450 éléments en trop (variantes non retirées) à corriger ; pixels gucci/puma jusqu'à 27 %
+- [~] `/projects/gucci` · `chanel` · `puma` · `adidas` · `nike` · `under-armour` — 1440 : gucci, chanel, puma 0 écart (pixels ≤ 1,31 %) ; adidas, nike, under-armour à remesurer après D-037/D-038 ; 1200/810/390 à valider ; pixels gucci/puma jusqu'à 27 %
 - [~] `/studio` — 0 manquant/en trop/géométrie/style/texte, hauteur 0 % aux 4 largeurs ; pixels ≤ 0,53 % à 1440/810/390 ; 1200 : capture d'écran impossible côté banc (« Unable to capture screenshot »), à refaire. Compteurs portés à l'identique (D-027), effets de défilement (hero, parallaxe) désactivés hors desktop comme l'original
 - [x] `/journal` — 0 écart structurel, hauteur 0 %, pixels ≤ 0,54 % aux 4 largeurs (`compare/journal/<w>.json`)
 - [~] `/journal/<8 articles>` — 0 manquant/en trop/géométrie/style/texte et hauteur 0 % aux 4 largeurs pour les 8 ; pixels ≤ 1,7 % à 1440/1200/810, 2,3–3,6 % sur 2–4 plans à 390 (apparition du corps encore en cours dans l'original à l'instant de capture : minutage, Phase 5)
@@ -54,6 +54,29 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 9 — Tests fonctionnels et différentiels
 ## Phase 10 — Revue indépendante
 ## Phase 11 — Qualité, `check:launch`, RAPPORT.md
+
+## Point d'avancement (2026-11-21, session 4) — à lire en premier
+**Fait et commité** (dernier commit sur `main`) : toutes les pages sont construites par génération outillée (D-033) et
+comparées au même banc. Validées 0 écart aux 4 largeurs : pages légales, `/journal`, `/contact`, `/studio` (pixels 1200
+non capturés). Structure identique aux 4 largeurs : 8 articles. Validées à 1440 seulement : accueil (structure), 404,
+gucci, chanel, puma. Composants de code de l'auteur portés tels quels : préchargeur, diaporama WebGL, vitrine `/projects`,
+texte 3D 404, Video Mirror, Revelo (GSAP 3.13.0), compteurs ; Lenis ; moteur générique d'effets et de variantes
+(`src/components/fx/*`, extraits automatiquement du code compilé : `scripts/extract-fx.mjs`, `extract-components.mjs`).
+
+**Comment voir le rendu** : `npx next build` puis `node scripts/serve-out.mjs --port=4173` → http://127.0.0.1:4173.
+**Cycle de travail rapide** : `bash scripts/agents/main/cycle.sh "<routes>" <largeurs>` (régénère, construit, mesure, compare).
+
+**Reste à faire, dans l'ordre** :
+1. Lightbox (`framer-8k5osh` des projets, `framer-1frrzdj`/`1jz2epk` de /studio : fond rgba(23,22,22,.75), maxWidth 1920,
+   padding 30, z 10, transition 0,6 s [.87,0,.13,1]) — relevé de l'original : `scripts/agents/main/lightbox-probe.mjs`.
+2. Accueil : pixels de la section Process (accordéon piloté par le défilement), puis 1200/810/390.
+3. `/projects` : capturer la référence (`extract.mjs --target=ref --only=/projects`, l'onglet a planté une fois), comparer.
+4. Revalider toutes les routes aux 4 largeurs (changements globaux : Lenis, effets, CSS d'origine des raccourcis).
+5. Phases 4–11 : interactions du registre (survols, fenêtres vidéo YouTube « Play Reel »/« Play Film », cartes de services,
+   témoignages, curseur), courbes d'animation, WebGL (images de référence), liste B, tests, `check:launch`, RAPPORT.md.
+
+**Points de vigilance** : processus de capture bloqué PID 17344 (à arrêter : `Stop-Process -Id 17344 -Force`) ; le serveur
+de dev Next plante en mémoire sur les grandes pages → travailler sur l'export statique ; disque C: ~90 % plein.
 
 ## Point de reprise (2026-11-21, session 3)
 - Agents D-032 interrompus sans composant ; reprise par `scripts/genpage.mjs` (D-033). Légales validées. Curseur construit (C-044, courbe à mesurer). Suite : accueil, studio, contact, journal (+8), projets (+6), /projects, 404.
