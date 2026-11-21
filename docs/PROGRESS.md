@@ -71,11 +71,16 @@ texte 3D 404, Video Mirror, Revelo (GSAP 3.13.0), compteurs ; Lenis ; moteur gé
 
 **Reste à faire, dans l'ordre** :
 1. ~~Lightbox~~ fait (D-039). Les 6 pages projet sont à 0 écart à 1440.
-2. Accueil : pixels de la section Process (accordéon piloté par le défilement), puis 1200/810/390.
+2. Accueil : pixels de la section Process — corrigé dans le code (instances imbriquées qui suivent le parent, follows.json), à remesurer seul ; puis 1200/810/390.
 3. `/projects` : capturer la référence (`extract.mjs --target=ref --only=/projects`, l'onglet a planté une fois), comparer.
 4. Revalider toutes les routes aux 4 largeurs (changements globaux : Lenis, effets, CSS d'origine des raccourcis).
 5. Phases 4–11 : interactions du registre (survols, fenêtres vidéo YouTube « Play Reel »/« Play Film », cartes de services,
    témoignages, curseur), courbes d'animation, WebGL (images de référence), liste B, tests, `check:launch`, RAPPORT.md.
+
+**Contrainte machine (mesurée 2026-11-21)** : 3,8 Go de RAM au total (0,2–0,3 Go libres pendant les mesures). Deux
+navigateurs de banc en parallèle font planter les onglets (« Target crashed »), échouer l'encodage des captures
+(« webpsave: unable to encode ») ou rendre des captures vides. Règle : **une seule mesure à la fois**, `--jobs=1` pour
+l'accueil, Chrome fermé pendant les mesures.
 
 **Points de vigilance** : processus de capture bloqué PID 17344 (à arrêter : `Stop-Process -Id 17344 -Force`) ; le serveur
 de dev Next plante en mémoire sur les grandes pages → travailler sur l'export statique ; disque C: ~90 % plein.
