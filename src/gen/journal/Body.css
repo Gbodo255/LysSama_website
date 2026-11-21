@@ -2,6 +2,7 @@
 @media (min-width: 1200px) { .hidden-1idsw5c { display: none !important; } }
 @media (min-width: 810px) and (max-width: 1199.98px) { .hidden-1f0wwcx { display: none !important; } }
 @media (max-width: 809.98px) { .hidden-15bxuw3 { display: none !important; } }
+.framer-4vxtl.framer-1j2uk82, .framer-4vxtl .framer-1j2uk82 { display: block; }
 .framer-4vxtl.framer-1idsw5c { background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94,#fff); height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: center flex-start; align-items: center; gap: 0px; width: 1200px; padding: 0px; display: flex; position: relative; }
 .framer-4vxtl .framer-48vjmc-container { z-index: 1; flex: 0 0 auto; width: auto; height: auto; position: relative; }
 .framer-4vxtl .framer-vk992d { background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94,#fff); height: min-content; overflow: var(--overflow-clip-fallback,clip); z-index: 1; flex-flow: row; flex: 0 0 auto; place-content: flex-start center; align-items: flex-start; gap: 0px; width: 100%; padding: 0px; display: flex; position: relative; }
@@ -13,6 +14,9 @@
 .framer-4vxtl .framer-479px2-container { will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; place-self: center start; width: fit-content; height: auto; position: relative; }
 .framer-4vxtl .framer-t46hau { height: min-content; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-effect-override,transform); flex-flow: row; flex: 0 0 auto; grid-column: span 2; place-content: flex-start; place-self: center start; align-items: flex-start; gap: 3px; width: 100%; padding: 0px; display: flex; position: relative; }
 .framer-4vxtl .framer-mr1if5, .framer-4vxtl .framer-dykrxz { white-space: pre; flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-4vxtl .framer-bqbv5h { flex-flow: column; place-content: flex-start center; align-items: flex-start; gap: 20px; width: min-content; height: min-content; padding: 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-9kywhn { flex-flow: row; flex: 0 0 auto; place-content: center flex-start; align-items: center; gap: 10px; width: min-content; height: min-content; padding: 0px; text-decoration: none; display: flex; position: relative; }
+.framer-4vxtl .framer-oyh0q0 { border-radius: 8px; flex: 0 0 auto; width: 30px; height: 30px; position: relative; }
 .framer-4vxtl .framer-14j50wt { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: row; place-content: center; align-items: center; gap: 15px; width: min-content; padding: 0px; display: flex; position: relative; }
 .framer-4vxtl .framer-yejo9x { --framer-link-text-color: #09f; --framer-link-text-decoration: underline; white-space: pre; flex: 0 0 auto; width: auto; height: auto; position: relative; }
 .framer-4vxtl .framer-1jg9bh7-container { will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; place-self: center end; width: 100%; height: auto; position: relative; }

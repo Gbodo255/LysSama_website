@@ -67,32 +67,32 @@ export function Body() {
                   <Appear as="div" spec={AP["c6ixgn"]} bps={BPS} className="framer-c6ixgn-container" data-framer-appear-id="c6ixgn" style={{ "opacity": "0.001", "transform": "none" }}>
                     <div className="framer-shGv8 framer-4tnhfa framer-v-4tnhfa" data-framer-name="Desktop">
                       <div className="framer-17kf78c-container" data-framer-name="X" {...{ name: "X" }}>
-                        <div {...{ name: "X" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "X" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[4]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-LAEqS framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                       <div className="framer-1smje0b-container" data-framer-name="IG" {...{ name: "IG" }}>
-                        <div {...{ name: "IG" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "IG" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[5]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-uZnUQ framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                       <div className="framer-t1kefs-container" data-framer-name="Dribbble" {...{ name: "Dribbble" }}>
-                        <div {...{ name: "Dribbble" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Dribbble" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[6]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://dribbble.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-K6Gdb framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                       <div className="framer-1cdugcb-container" data-framer-name="Behance" {...{ name: "Behance" }}>
-                        <div {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[7]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://behance.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-lYLYO framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                     </div>
                   </Appear>
@@ -101,32 +101,32 @@ export function Body() {
                   <Appear as="div" spec={AP["c6ixgn"]} bps={BPS} className="framer-c6ixgn-container" data-framer-appear-id="c6ixgn" style={{ "opacity": "0.001", "transform": "none" }}>
                     <div className="framer-shGv8 framer-4tnhfa framer-v-5pv308" data-framer-name="Phone">
                       <div className="framer-17kf78c-container" data-framer-name="X" {...{ name: "X" }}>
-                        <div {...{ name: "X" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "X" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[8]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://x.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-LAEqS framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                       <div className="framer-1smje0b-container" data-framer-name="IG" {...{ name: "IG" }}>
-                        <div {...{ name: "IG" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "IG" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[9]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://instagram.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-uZnUQ framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                       <div className="framer-t1kefs-container" data-framer-name="Dribbble" {...{ name: "Dribbble" }}>
-                        <div {...{ name: "Dribbble" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Dribbble" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[10]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://dribbble.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-K6Gdb framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                       <div className="framer-1cdugcb-container" data-framer-name="Behance" {...{ name: "Behance" }}>
-                        <div {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
                           <a aria-label={T[11]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://behance.com" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-lYLYO framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
-                        </div>
+                        </VRoot>
                       </div>
                     </div>
                   </Appear>
@@ -1374,23 +1374,23 @@ export function Body() {
                             </InView>
                           </div>
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":1.3,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-1vtfl6s-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
-                            <a className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07" data-framer-name="Desktop - Right" href="mailto:hello@mira.studio">
+                            <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="jinEk1yag" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07" data-framer-name="Desktop - Right" href="mailto:hello@mira.studio">
                               <div className="framer-1dzfdpz" data-framer-name="Text">
-                                <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
+                                <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                     {T[173]}
                                   </p>
-                                </div>
-                                <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
+                                </VEl>
+                                <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                     {T[174]}
                                   </p>
-                                </div>
+                                </VEl>
                               </div>
-                              <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                              <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                                 <svg className="framer-ab47M framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#2903821725\"></use>" }} />
-                              </div>
-                            </a>
+                              </VEl>
+                            </VRoot>
                           </InView>
                         </div>
                       </div>
@@ -1619,23 +1619,23 @@ export function Body() {
                             </InView>
                           </div>
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":1.3,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-1vtfl6s-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
-                            <a className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ls2zup framer-ghew07" data-framer-name="Phone Right" href="mailto:hello@mira.studio">
+                            <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="UFuPupHWY" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ls2zup framer-ghew07" data-framer-name="Phone Right" href="mailto:hello@mira.studio">
                               <div className="framer-1dzfdpz" data-framer-name="Text">
-                                <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
+                                <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                     {T[191]}
                                   </p>
-                                </div>
-                                <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
+                                </VEl>
+                                <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                     {T[192]}
                                   </p>
-                                </div>
+                                </VEl>
                               </div>
-                              <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                              <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                                 <svg className="framer-ab47M framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#2903821725\"></use>" }} />
-                              </div>
-                            </a>
+                              </VEl>
+                            </VRoot>
                           </InView>
                         </div>
                       </div>
@@ -1864,23 +1864,23 @@ export function Body() {
                             </InView>
                           </div>
                           <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":1.3,"duration":1.2,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-1vtfl6s-container" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
-                            <a className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ls2zup framer-ghew07" data-framer-name="Phone Right" href="mailto:hello@mira.studio">
+                            <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="UFuPupHWY" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ls2zup framer-ghew07" data-framer-name="Phone Right" href="mailto:hello@mira.studio">
                               <div className="framer-1dzfdpz" data-framer-name="Text">
-                                <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
+                                <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                     {T[209]}
                                   </p>
-                                </div>
-                                <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
+                                </VEl>
+                                <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                                   <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                     {T[210]}
                                   </p>
-                                </div>
+                                </VEl>
                               </div>
-                              <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                              <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                                 <svg className="framer-ab47M framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#2903821725\"></use>" }} />
-                              </div>
-                            </a>
+                              </VEl>
+                            </VRoot>
                           </InView>
                         </div>
                       </div>

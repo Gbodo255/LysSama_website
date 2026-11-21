@@ -2,6 +2,7 @@
 @media (min-width: 1200px) { .hidden-1o0hdey { display: none !important; } }
 @media (min-width: 810px) and (max-width: 1199.98px) { .hidden-g87bww { display: none !important; } }
 @media (max-width: 809.98px) { .hidden-1nc0ivo { display: none !important; } }
+.framer-hglyy.framer-b1wj9z, .framer-hglyy .framer-b1wj9z { display: block; }
 .framer-hglyy.framer-1o0hdey { background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94,#fff); height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: center flex-start; align-items: center; gap: 0px; width: 1200px; padding: 0px; display: flex; position: relative; }
 .framer-hglyy .framer-w9o3t8-container, .framer-hglyy .framer-ffrjd1-container, .framer-hglyy .framer-1dh416h-container, .framer-hglyy .framer-td6puf-container { flex: 0 0 auto; width: auto; height: auto; position: relative; }
 .framer-hglyy .framer-3o3340 { background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94,#fff); height: min-content; overflow: var(--overflow-clip-fallback,clip); z-index: 1; flex-flow: row; flex: 0 0 auto; place-content: flex-start center; align-items: flex-start; gap: 0px; width: 100%; padding: 0px; display: flex; position: relative; }
@@ -18,6 +19,8 @@
 .framer-hglyy .framer-t241s { --corner-shape-fallback: .752; border-bottom-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-bottom-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); corner-shape: superellipse(1.5); height: min-content; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-effect-override,transform); flex-flow: column; flex: 0 0 auto; place-content: center; place-self: end start; align-items: center; gap: 15px; width: 100%; padding: 0px; display: flex; position: relative; }
 .framer-hglyy .framer-8k5osh { --corner-shape-fallback: .752; border-bottom-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-bottom-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-left-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); border-top-right-radius: calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1))); corner-shape: superellipse(1.5); cursor: pointer; image-rendering: auto; height: auto; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); flex: 0 0 auto; width: 100%; position: relative; }
 .framer-hglyy .framer-1kc26e3-container, .framer-hglyy .framer-pgnxge-container, .framer-hglyy .framer-1gxwewy-container, .framer-hglyy .framer-366ugj-container, .framer-hglyy .framer-1vs0idl-container { flex: 0 0 auto; width: 100%; height: auto; position: relative; }
+.framer-hglyy.framer-1j1vw8z { user-select: none; z-index: 9; background-color: rgba(13, 13, 13, 0.85); position: fixed; inset: 0px; }
+.framer-hglyy.framer-15gpuh9-container { aspect-ratio: 1.77615 / 1; will-change: var(--framer-will-change-effect-override,transform); z-index: 9; flex: 0 0 auto; width: 80%; height: auto; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); }
 .framer-hglyy .framer-1niuf3q, .framer-hglyy .framer-pjaw51 { height: 1px; overflow: var(--overflow-clip-fallback,clip); flex: 0 0 auto; place-self: start; width: 100%; position: relative; }
 .framer-hglyy .framer-1wtwicl { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; grid-column: span 2; place-content: flex-start center; place-self: end center; align-items: flex-start; gap: 20px; width: 100%; padding: 0px; display: flex; position: relative; }
 .framer-hglyy .framer-1by17e4 { will-change: var(--framer-will-change-effect-override,transform); flex-flow: column; flex: 0 0 auto; place-content: flex-start center; align-items: flex-start; gap: 10px; width: 100%; height: min-content; padding: 0px; display: flex; position: relative; overflow: visible; }
@@ -70,6 +73,7 @@
 .framer-hglyy .framer-vf3z5h { flex-flow: column; flex: 0 0 auto; place-content: flex-start center; align-items: flex-start; gap: 15px; width: 100%; height: min-content; padding: 0px; display: flex; position: relative; }
 @media (min-width: 810px) and (max-width: 1199.98px) { .framer-hglyy.framer-1o0hdey { width: 810px; } }
 @media (min-width: 810px) and (max-width: 1199.98px) { .framer-hglyy .framer-3ye8xs { top: unset; position: relative; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-hglyy.framer-15gpuh9-container { width: 85%; } }
 @media (min-width: 810px) and (max-width: 1199.98px) { .framer-hglyy .framer-102xlp0, .framer-hglyy .framer-qgqtua, .framer-hglyy .framer-1ui1s1v, .framer-hglyy .framer-1smvlsv, .framer-hglyy .framer-npfnrg { padding: 90px 0px; } }
 @media (min-width: 810px) and (max-width: 1199.98px) { .framer-hglyy .framer-euk6vp { gap: 90px; } }
 @media (min-width: 810px) and (max-width: 1199.98px) { .framer-hglyy .framer-1diamj1 { gap: 40px; } }
@@ -79,6 +83,7 @@
 @media (max-width: 809.98px) { .framer-hglyy .framer-5km0ir { padding: 0px 0px 30px; } }
 @media (max-width: 809.98px) { .framer-hglyy .framer-184oqzw, .framer-hglyy .framer-1diamj1 { grid-template-columns: repeat(1, minmax(50px, 1fr)); } }
 @media (max-width: 809.98px) { .framer-hglyy .framer-8k5osh { cursor: unset; } }
+@media (max-width: 809.98px) { .framer-hglyy.framer-15gpuh9-container { width: 90%; } }
 @media (max-width: 809.98px) { .framer-hglyy .framer-1wtwicl, .framer-hglyy .framer-1od0ywm, .framer-hglyy .framer-1iv0l1s, .framer-hglyy .framer-tok2gr-container, .framer-hglyy .framer-1pu5h6j, .framer-hglyy .framer-vc7mx5-container, .framer-hglyy .framer-lycdyf, .framer-hglyy .framer-17al0v9, .framer-hglyy .framer-h7w56c, .framer-hglyy .framer-xrsurv { grid-column: span 1; } }
 @media (max-width: 809.98px) { .framer-hglyy .framer-1l9jlre { grid-template-columns: repeat(2, minmax(50px, 1fr)); padding: 30px 0px 0px; } }
 @media (max-width: 809.98px) { .framer-hglyy .framer-6nrbi8, .framer-hglyy .framer-9t0tqy { grid-column: unset; } }
@@ -98,10 +103,12 @@
 .framer-form-text-input textarea::-webkit-scrollbar { cursor: pointer; background: 0px 0px; }
 .framer-form-text-input textarea::-webkit-scrollbar-corner { background: 0px 0px; outline: none; }
 .framer-form-text-input.framer-form-text-input-type::before { content: var(--framer-input-icon-content,none); background-repeat: no-repeat; background-size: 16px auto; background-color: var(--framer-input-icon-color); width: 16px; height: 16px; mask-position: 50% center; mask-size: 16px auto; mask-repeat: no-repeat; mask-image: var(--framer-input-icon-mask-image); background-position: 50% center; background-image: var(--framer-input-icon-image); flex-shrink: 0; margin-right: 8px; display: block; }
+.framer-83xqy.framer-1tfh0uf, .framer-83xqy .framer-1tfh0uf { display: block; }
 .framer-83xqy.framer-j4z1zy { height: 794px; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); flex-flow: row; place-content: center; align-items: center; gap: 15px; width: 1135px; padding: 0px; display: flex; position: relative; }
 .framer-83xqy .framer-rbevx0 { height: 100%; overflow: var(--overflow-clip-fallback,clip); flex-flow: row; flex: 1 0 0px; place-content: center; align-items: center; gap: 15px; width: 1px; padding: 0px; display: flex; position: relative; }
 .framer-83xqy .framer-1q48sik { cursor: default; overflow: var(--overflow-clip-fallback,clip); pointer-events: none; z-index: 1; flex: 0 0 auto; position: absolute; inset: 0px; }
 .framer-83xqy .framer-ios0bt { image-rendering: auto; height: 100%; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); flex: 1 0 0px; gap: 15px; width: 1px; position: relative; }
+.framer-83xqy .framer-xsb1yl-container { flex: 1 0 0px; width: 1px; height: 100%; position: relative; }
 .framer-St8Ub.framer-ghew07, .framer-St8Ub .framer-ghew07 { display: block; }
 .framer-St8Ub.framer-q8hg74 { cursor: pointer; height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: row; place-content: center; align-items: center; gap: 9px; width: min-content; padding: 0px; text-decoration: none; display: flex; position: relative; }
 .framer-St8Ub .framer-1dzfdpz { flex-flow: row; flex: 0 0 auto; place-content: center; align-items: center; gap: 15px; width: min-content; height: min-content; padding: 0px; display: flex; position: relative; overflow: visible; }

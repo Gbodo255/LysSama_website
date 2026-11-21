@@ -20,7 +20,7 @@ before(async () => {
 
 // Liens internes (href relatifs « ./… » « ../… ») : multiensemble trié, comptes compris.
 const relHrefs = (src) => [...src.matchAll(/<a\b[^>]*?\shref="(\.[^"]*)"/g)].map((m) => m[1]).sort();
-const title = (src) => /<title>([^<]*)<\/title>/.exec(src)?.[1].replace(/&amp;/g, '&') ?? null;
+const title = (src) => /<title>([^<]*)<\/title>/.exec(src)?.[1].replace(/&#x27;|&#39;/g, "'").replace(/&quot;/g, '"').replace(/&amp;/g, '&') ?? null;
 const robots = (src) => /<meta name="robots" content="([^"]*)"/.exec(src)?.[1] ?? null;
 
 for (const r of ROUTES) {

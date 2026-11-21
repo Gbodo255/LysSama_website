@@ -81,10 +81,12 @@ strong.framer-text { font-family: var(--framer-blockquote-font-family-bold,var(-
 @media (max-width: 809.98px) { .framer-Ur11b .framer-14z3fot { top: unset; grid-column: span 1; position: relative; } }
 @media (max-width: 809.98px) { .framer-Ur11b .framer-maixoy { gap: 40px; } }
 @media (max-width: 809.98px) { .framer-Ur11b .framer-1qjbmof { grid-template-columns: repeat(3, minmax(50px, 1fr)); } }
+.framer-83xqy.framer-1tfh0uf, .framer-83xqy .framer-1tfh0uf { display: block; }
 .framer-83xqy.framer-j4z1zy { height: 794px; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); flex-flow: row; place-content: center; align-items: center; gap: 15px; width: 1135px; padding: 0px; display: flex; position: relative; }
 .framer-83xqy .framer-rbevx0 { height: 100%; overflow: var(--overflow-clip-fallback,clip); flex-flow: row; flex: 1 0 0px; place-content: center; align-items: center; gap: 15px; width: 1px; padding: 0px; display: flex; position: relative; }
 .framer-83xqy .framer-1q48sik { cursor: default; overflow: var(--overflow-clip-fallback,clip); pointer-events: none; z-index: 1; flex: 0 0 auto; position: absolute; inset: 0px; }
 .framer-83xqy .framer-ios0bt { image-rendering: auto; height: 100%; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); flex: 1 0 0px; gap: 15px; width: 1px; position: relative; }
+.framer-83xqy .framer-xsb1yl-container { flex: 1 0 0px; width: 1px; height: 100%; position: relative; }
 .framer-46ASr.framer-rs3cho, .framer-46ASr .framer-rs3cho { display: block; }
 .framer-46ASr.framer-1748x4p { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: flex-start center; align-items: flex-start; gap: 10px; width: 200px; padding: 0px; display: flex; position: relative; }
 .framer-46ASr .framer-1kf02ph { --framer-text-wrap-override: balance; flex: 0 0 auto; width: 100%; height: auto; position: relative; }
@@ -226,6 +228,7 @@ strong.framer-text { font-family: var(--framer-blockquote-font-family-bold,var(-
 .framer-3Alku.framer-v-qcl1vt.framer-cnoxjv { width: 390px; }
 .framer-3Alku.framer-v-qcl1vt .framer-k2sxsh { grid-template-columns: repeat(2, minmax(50px, 1fr)); }
 .framer-3Alku.framer-v-qcl1vt .framer-1oo4cmj { grid-column: span 2; }
+.framer-azsrl.framer-4rbsgt, .framer-azsrl .framer-4rbsgt { display: block; }
 .framer-azsrl.framer-1m7l3gw { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: center; align-items: center; gap: 0px; width: 1200px; padding: 120px 0px; display: flex; position: relative; }
 .framer-azsrl .framer-1fq9aj0 { max-width: 1920px; height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 80px; width: 100%; padding: 0px 33px; display: flex; position: relative; }
 .framer-azsrl .framer-t0gxtr { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex: 0 0 auto; grid-template-rows: repeat(1, minmax(0px, 1fr)); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-auto-rows: minmax(0px, 1fr); justify-content: center; gap: 40px 20px; width: 100%; padding: 0px; display: grid; position: relative; }

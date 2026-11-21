@@ -48,23 +48,23 @@ export function Body() {
                 <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-9cugxo" data-framer-name="Inside Container" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
                   <header className="framer-5km0ir" data-framer-name="Top">
                     <Appear as="div" spec={AP["19jj9t8"]} bps={BPS} className="framer-19jj9t8-container" data-framer-appear-id="19jj9t8" style={{ "opacity": "0.001", "transform": "none" }}>
-                      <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
+                      <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="RVD7A0_PA" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
                         <div className="framer-1dzfdpz" data-framer-name="Text">
-                          <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
+                          <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                               {T[1]}
                             </p>
-                          </div>
-                          <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
+                          </VEl>
+                          <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                               {T[2]}
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                        <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                           <svg className="framer-4rnSx framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3938257237\"></use>" }} />
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </Appear>
                     <HideOn on={["phone"]}>
                     <Appear as="div" spec={AP["1gjlcjd"]} bps={BPS} className="framer-1gjlcjd-container hidden-1nc0ivo" data-framer-appear-id="1gjlcjd" style={{ "opacity": "0.001", "transform": "none" }}>
@@ -171,23 +171,23 @@ export function Body() {
                 <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-9cugxo" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
                   <header className="framer-5km0ir" data-framer-name="Top">
                     <Appear as="div" spec={AP["19jj9t8"]} bps={BPS} className="framer-19jj9t8-container" data-framer-appear-id="19jj9t8" style={{ "opacity": "0.001", "transform": "none" }}>
-                      <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
+                      <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="RVD7A0_PA" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
                         <div className="framer-1dzfdpz" data-framer-name="Text">
-                          <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
+                          <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                               {T[16]}
                             </p>
-                          </div>
-                          <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
+                          </VEl>
+                          <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                               {T[17]}
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                        <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                           <svg className="framer-4rnSx framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3938257237\"></use>" }} />
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </Appear>
                     <HideOn on={["phone"]}>
                     <Appear as="div" spec={AP["1gjlcjd"]} bps={BPS} className="framer-1gjlcjd-container hidden-1nc0ivo" data-framer-appear-id="1gjlcjd" style={{ "opacity": "0.001", "transform": "none" }}>
@@ -294,23 +294,23 @@ export function Body() {
                 <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-9cugxo" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
                   <header className="framer-5km0ir" data-framer-name="Top">
                     <Appear as="div" spec={AP["19jj9t8"]} bps={BPS} className="framer-19jj9t8-container" data-framer-appear-id="19jj9t8" style={{ "opacity": "0.001", "transform": "none" }}>
-                      <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
+                      <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="RVD7A0_PA" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
                         <div className="framer-1dzfdpz" data-framer-name="Text">
-                          <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
+                          <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "1", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                               {T[31]}
                             </p>
-                          </div>
-                          <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
+                          </VEl>
+                          <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "opacity": "0", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                               {T[32]}
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                        <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                           <svg className="framer-4rnSx framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#3938257237\"></use>" }} />
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </Appear>
                     <HideOn on={["phone"]}>
                     <Appear as="div" spec={AP["1gjlcjd"]} bps={BPS} className="framer-1gjlcjd-container hidden-1nc0ivo" data-framer-appear-id="1gjlcjd" style={{ "opacity": "0.001", "transform": "none" }}>
@@ -429,44 +429,44 @@ export function Body() {
                     </div>
                     <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
                       <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"delay":0.3,"duration":1,"ease":[0.4,0,0.2,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-1dh416h-container" data-framer-name="Live Link" {...{ name: "Live Link" }} style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
-                        <a {...{ name: "Live Link" }} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07" data-framer-name="Desktop - Right" href="https://launchnow.design?utm_source=miratemplate" target="_blank">
+                        <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="jinEk1yag" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} {...{ name: "Live Link" }} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07" data-framer-name="Desktop - Right" href="https://launchnow.design?utm_source=miratemplate" target="_blank">
                           <div className="framer-1dzfdpz" data-framer-name="Text">
-                            <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                 {T[49]}
                               </p>
-                            </div>
-                            <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                 {T[50]}
                               </p>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                          <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                             <svg className="framer-ab47M framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#2903821725\"></use>" }} />
-                          </div>
-                        </a>
+                          </VEl>
+                        </VRoot>
                       </InView>
                     </SV>
                     <SV c="ssr-variant hidden-1o0hdey" show={["tablet","phone"]}>
                       <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"delay":0.3,"duration":1,"ease":[0.4,0,0.2,1],"type":"tween"},"once":true,"threshold":0.5,"target":1}} className="framer-1dh416h-container" data-framer-name="Live Link" {...{ name: "Live Link" }} style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
-                        <a {...{ name: "Live Link" }} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ls2zup framer-ghew07" data-framer-name="Phone Right" href="https://launchnow.design?utm_source=miratemplate" target="_blank">
+                        <VRoot as="a" map={{"jinEk1yag":{"cls":"framer-v-q8hg74","name":"Desktop - Right"},"oFaK7E_Aw":{"cls":"framer-v-8wbf3d","name":"Phone Left"},"RVD7A0_PA":{"cls":"framer-v-ra0to2","name":"Desktop - Left"},"UFuPupHWY":{"cls":"framer-v-ls2zup","name":"Phone Right"}}} initial="UFuPupHWY" transition={{"delay":0,"duration":0.36,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["jinEk1yag","RVD7A0_PA"]} hoverNames={{"jinEk1yag-hover":"Desktop Right Arrow","RVD7A0_PA-hover":"Desktop Left Arrow"}} {...{ name: "Live Link" }} className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ls2zup framer-ghew07" data-framer-name="Phone Right" href="https://launchnow.design?utm_source=miratemplate" target="_blank">
                           <div className="framer-1dzfdpz" data-framer-name="Text">
-                            <div className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"jinEk1yag-hover":{"opacity":0},"RVD7A0_PA-hover":{"opacity":0}}} className="framer-zixbhw" data-framer-name="Top Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "1", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                 {T[51]}
                               </p>
-                            </div>
-                            <div className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"jinEk1yag-hover":{"opacity":1},"RVD7A0_PA-hover":{"opacity":1}}} className="framer-1396mtp" data-framer-name="Bottom Text" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-A0yGAsltz-v7Wd3N72W": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0", "transform": "none" }}>
                               <p className="framer-text framer-styles-preset-k5mxv3" data-styles-preset="JFK15baIL" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-A0yGAsltz-v7Wd3N72W))" }}>
                                 {T[52]}
                               </p>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
+                          <VEl as="div" base={{"borderBottomLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":1}} variants={{"jinEk1yag-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95},"RVD7A0_PA-hover":{"borderBottomLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderBottomRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopLeftRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","borderTopRightRadius":"calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))","scale":0.95}}} className="framer-73np5u" data-framer-name="Chevron" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "none" }}>
                             <svg className="framer-ab47M framer-19pf2gr" role="presentation" viewBox="0 0 24 24" style={{ "--1m973uw": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "--js9iwy": "3" }} dangerouslySetInnerHTML={{ __html: "<use href=\"#2903821725\"></use>" }} />
-                          </div>
-                        </a>
+                          </VEl>
+                        </VRoot>
                       </InView>
                     </SV>
                   </div>
@@ -794,29 +794,29 @@ export function Body() {
                 <div className="framer-vf3z5h">
                   <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.2,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./gucci" style={{ "width": "100%" }} to="/projects/gucci">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="KePuGGRdl" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./gucci" style={{ "width": "100%" }} to="/projects/gucci">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[89]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[90]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-07-08T00:00:00.000Z">
                                 {T[91]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
                           <div className="framer-5lad91" data-framer-name="Filler" />
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-9pqtfb-container" data-framer-name="Uploaded Video" {...{ name: "Uploaded Video" }}>
@@ -825,69 +825,69 @@ export function Body() {
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
                             <div className="framer-yyqxO framer-pcgtig" style={{ "--1mg0zwm": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "translate(-50%, -50%)" }} />
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1o0hdey" show={["tablet","phone"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.3,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./gucci" style={{ "width": "100%" }} to="/projects/gucci">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="I4d4B4zbs" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./gucci" style={{ "width": "100%" }} to="/projects/gucci">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[92]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[93]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2026-07-08T00:00:00.000Z">
                                 {T[94]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-9pqtfb-container" data-framer-name="Uploaded Video" {...{ name: "Uploaded Video" }}>
                               <video src="/assets/videos/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4" loop preload="none" poster="/assets/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg" muted playsInline style={{ "cursor": "auto", "width": "100%", "height": "100%", "borderRadius": "0px", "display": "block", "objectFit": "cover", "backgroundColor": "rgba(0, 0, 0, 0)", "objectPosition": "50% 50%" }} />
                             </div>
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.4,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./chanel" style={{ "width": "100%" }} to="/projects/chanel">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="KePuGGRdl" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./chanel" style={{ "width": "100%" }} to="/projects/chanel">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[95]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[96]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2024-07-10T00:00:00.000Z">
                                 {T[97]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
                           <div className="framer-5lad91" data-framer-name="Filler" />
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7770034843205575", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -898,35 +898,35 @@ export function Body() {
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
                             <div className="framer-s4DmF framer-pcgtig" style={{ "--1mg0zwm": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "translate(-50%, -50%)" }} />
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1o0hdey" show={["tablet","phone"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.5,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./chanel" style={{ "width": "100%" }} to="/projects/chanel">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="I4d4B4zbs" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./chanel" style={{ "width": "100%" }} to="/projects/chanel">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[99]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[100]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2024-07-10T00:00:00.000Z">
                                 {T[101]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
@@ -934,35 +934,35 @@ export function Body() {
                               </div>
                             </div>
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.6,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./puma" style={{ "width": "100%" }} to="/projects/puma">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="KePuGGRdl" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./puma" style={{ "width": "100%" }} to="/projects/puma">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[103]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[104]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-05-05T00:00:00.000Z">
                                 {T[105]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
                           <div className="framer-5lad91" data-framer-name="Filler" />
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-9pqtfb-container" data-framer-name="Uploaded Video" {...{ name: "Uploaded Video" }}>
@@ -971,69 +971,69 @@ export function Body() {
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
                             <div className="framer-eO2kt framer-pcgtig" style={{ "--1mg0zwm": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "translate(-50%, -50%)" }} />
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1o0hdey" show={["tablet","phone"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.7,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./puma" style={{ "width": "100%" }} to="/projects/puma">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="I4d4B4zbs" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./puma" style={{ "width": "100%" }} to="/projects/puma">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[106]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[107]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-05-05T00:00:00.000Z">
                                 {T[108]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-9pqtfb-container" data-framer-name="Uploaded Video" {...{ name: "Uploaded Video" }}>
                               <video src="/assets/videos/LYIGz8CY670o999qJep8WeHqgzM.mp4" loop preload="none" poster="/assets/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg" muted playsInline style={{ "cursor": "auto", "width": "100%", "height": "100%", "borderRadius": "0px", "display": "block", "objectFit": "cover", "backgroundColor": "rgba(0, 0, 0, 0)", "objectPosition": "50% 50%" }} />
                             </div>
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.8,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./adidas" style={{ "width": "100%" }} to="/projects/adidas">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="KePuGGRdl" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./adidas" style={{ "width": "100%" }} to="/projects/adidas">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[109]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[110]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-04-15T00:00:00.000Z">
                                 {T[111]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
                           <div className="framer-5lad91" data-framer-name="Filler" />
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7777777777777777", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -1044,35 +1044,35 @@ export function Body() {
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
                             <div className="framer-CxFEq framer-pcgtig" style={{ "--1mg0zwm": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "translate(-50%, -50%)" }} />
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1o0hdey" show={["tablet","phone"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":0.9,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./adidas" style={{ "width": "100%" }} to="/projects/adidas">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="I4d4B4zbs" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./adidas" style={{ "width": "100%" }} to="/projects/adidas">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[113]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[114]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-04-15T00:00:00.000Z">
                                 {T[115]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
@@ -1080,35 +1080,35 @@ export function Body() {
                               </div>
                             </div>
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":1,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./nike" style={{ "width": "100%" }} to="/projects/nike">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="KePuGGRdl" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-oubejw framer-m0zkdh" data-framer-name="Desktop" href="./nike" style={{ "width": "100%" }} to="/projects/nike">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[117]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[118]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-01-01T00:00:00.000Z">
                                 {T[119]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "0" }}>
                           <div className="framer-5lad91" data-framer-name="Filler" />
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "auto", "aspectRatio": "1.7770034843205575", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -1119,35 +1119,35 @@ export function Body() {
                             <div className="framer-r4h57g" data-framer-name="Dark overlay" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "opacity": "0.45" }} />
                             <div className="framer-gaSjD framer-pcgtig" style={{ "--1mg0zwm": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "translate(-50%, -50%)" }} />
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant hidden-1o0hdey" show={["tablet","phone"]}>
                     <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":20},"transition":{"delay":1.1,"duration":0.85,"ease":[0.215,0.61,0.355,1],"type":"tween"},"once":true,"threshold":0,"target":1}} className="framer-366ugj-container" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(20px)" }}>
-                      <Lk className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./nike" style={{ "width": "100%" }} to="/projects/nike">
+                      <VRoot as="a" map={{"I4d4B4zbs":{"cls":"framer-v-1pcouco","name":"Phone"},"KePuGGRdl":{"cls":"framer-v-oubejw","name":"Desktop"}}} initial="I4d4B4zbs" transition={{"delay":0,"duration":0.46,"ease":[0.87,0,0.13,1],"type":"tween"}} hover={["KePuGGRdl"]} className="framer-8TEAn framer-2Ps8M framer-Me6vv framer-oubejw framer-v-1pcouco framer-m0zkdh" data-framer-name="Phone" href="./nike" style={{ "width": "100%" }} to="/projects/nike">
                         <div className="framer-11z2nkk" data-framer-name="Nav Item">
                           <div className="framer-1nl3ckl" data-framer-name="Text">
-                            <div className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
+                            <VEl as="div" base={{"opacity":1}} variants={{"KePuGGRdl-hover":{"opacity":0}}} className="framer-a32j11" data-framer-name="Top" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)", "opacity": "1", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8))" }}>
                                 {T[121]}
                               </h2>
-                            </div>
-                            <div className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
+                            </VEl>
+                            <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1}}} className="framer-1o2749o" data-framer-name="Bottom" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))", "opacity": "0", "transform": "none" }}>
                               <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)))" }}>
                                 {T[122]}
                               </h2>
-                            </div>
+                            </VEl>
                           </div>
-                          <div className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
+                          <VEl as="div" base={{"--extracted-r6o4lv":"var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"}} variants={{"KePuGGRdl-hover":{"--extracted-r6o4lv":"var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"}}} className="framer-1u3jrt9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                             <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
                               <time dateTime="2025-01-01T00:00:00.000Z">
                                 {T[123]}
                               </time>
                             </p>
-                          </div>
+                          </VEl>
                         </div>
-                        <div className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
+                        <VEl as="div" base={{"opacity":0}} variants={{"KePuGGRdl-hover":{"opacity":1},"I4d4B4zbs":{"opacity":1}}} className="framer-16o5iqg" data-framer-name="Image / Video Preview" style={{ "opacity": "1" }}>
                           <div className="framer-1omuosn" data-framer-name="Image / Video" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                             <div className="framer-cyk90i" id="undefined-cyk90i" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
                               <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
@@ -1155,8 +1155,8 @@ export function Body() {
                               </div>
                             </div>
                           </div>
-                        </div>
-                      </Lk>
+                        </VEl>
+                      </VRoot>
                     </InView>
                   </SV>
                   <SV c="ssr-variant" show={["desktop","tablet","phone"]}>

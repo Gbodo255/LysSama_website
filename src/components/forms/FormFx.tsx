@@ -23,7 +23,9 @@ export function FormFx({ kind, vel, base, variants, children, ...rest }: { kind:
     const ok = await submitForm(kind, new FormData(e.currentTarget));
     setState(ok ? 'success' : 'error'); emit(ok ? 'success' : 'error');
   };
-  const p = { ...rest, ref, onSubmit, onInput: refresh, onChange: refresh };
+  // classe framer-form-input-empty retirée dès que le champ a une valeur (comme l'original, C-CONTACT-012)
+  const onField = (e: { target: EventTarget }) => { const t = e.target as HTMLInputElement; if (t?.classList?.contains('framer-form-input')) t.classList.toggle('framer-form-input-empty', !t.value); refresh(); };
+  const p = { ...rest, ref, onSubmit, onInput: onField, onChange: onField };
   return <FCtx.Provider value={state}>{vel && base && variants ? <VEl as="form" base={base} variants={variants} {...p}>{children}</VEl> : <form {...p}>{children}</form>}</FCtx.Provider>;
 }
 

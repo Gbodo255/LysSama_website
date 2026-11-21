@@ -13,8 +13,8 @@
     "compare": "node scripts/compare.mjs",
     "curves": "node scripts/compare-curves.mjs",
     "webgl:compare": "node scripts/compare-webgl.mjs",
-    "test:e2e": "node --test tests/functional/",
-    "test:diff": "node --test tests/scenarios/",
+    "test:e2e": "node --test tests/functional/*.test.mjs",
+    "test:diff": "node --test tests/scenarios/*.test.mjs",
     "check:launch": "node scripts/check-launch.mjs",
     "harness:selftest": "node scripts/harness-selftest.mjs"
   },
