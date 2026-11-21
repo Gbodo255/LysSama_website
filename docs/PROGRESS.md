@@ -47,6 +47,9 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 - [~] 404 — 1440 : 0 écart (COMPARAISON OK) ; 3 autres largeurs à valider
 
 ## Phase 4 — Interactions (lignes du registre)
+- [x] Lightbox des pages projet et de /studio — relevé original/clone image par image (D-039)
+- [~] Fenêtres vidéo YouTube (Play Reel, Play Film) — construites, mesure de l'original à faire
+- [x] FAQ, formulaires (contact, newsletter), calculateur Pricing, compteurs, boucles — construits (D-035, D-038)
 ## Phase 5 — Animations (`compare/animations.md`)
 ## Phase 6 — WebGL (`compare/webgl.md`)
 ## Phase 7 — Responsive (listes A, B, C)
@@ -67,8 +70,7 @@ texte 3D 404, Video Mirror, Revelo (GSAP 3.13.0), compteurs ; Lenis ; moteur gé
 **Cycle de travail rapide** : `bash scripts/agents/main/cycle.sh "<routes>" <largeurs>` (régénère, construit, mesure, compare).
 
 **Reste à faire, dans l'ordre** :
-1. Lightbox (`framer-8k5osh` des projets, `framer-1frrzdj`/`1jz2epk` de /studio : fond rgba(23,22,22,.75), maxWidth 1920,
-   padding 30, z 10, transition 0,6 s [.87,0,.13,1]) — relevé de l'original : `scripts/agents/main/lightbox-probe.mjs`.
+1. ~~Lightbox~~ fait (D-039). Les 6 pages projet sont à 0 écart à 1440.
 2. Accueil : pixels de la section Process (accordéon piloté par le défilement), puis 1200/810/390.
 3. `/projects` : capturer la référence (`extract.mjs --target=ref --only=/projects`, l'onglet a planté une fois), comparer.
 4. Revalider toutes les routes aux 4 largeurs (changements globaux : Lenis, effets, CSS d'origine des raccourcis).

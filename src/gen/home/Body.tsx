@@ -21,6 +21,8 @@ import { ScrollFx, Parallax } from '@/components/fx/Scroll';
 import { SmoothScroll } from '@/components/SmoothScroll';
 import { TextFx } from '@/components/fx/TextFx';
 import { VRoot, VEl } from '@/components/fx/Variant';
+import { VideoTrigger } from '@/components/shared/VideoModal';
+import { reel } from '@/data/homeb';
 
 
 export function Body() {
@@ -3970,7 +3972,9 @@ export function Body() {
                 </div>
               </div>
             </div>
-            <div className="framer-1llc9gt" data-framer-name="Play becomes active here" id="video-trigger" tabIndex={0} />
+            <VideoTrigger as="div" video={{ url: reel.youtube.url, radius: 12, overlayCls: 'framer-m801fr', overlayName: 'Project Reel Overlay', videoCls: 'framer-1vvrwxf-container', videoName: 'Project Reel Video' }} className="framer-1llc9gt" data-framer-name="Play becomes active here" id="video-trigger" tabIndex={0}>
+
+</VideoTrigger>
             <HideOn on={["phone"]}>
             <div className="framer-btgbkf hidden-1aemvzd" data-framer-name="Briefly locks into place here." id="2" />
             </HideOn>

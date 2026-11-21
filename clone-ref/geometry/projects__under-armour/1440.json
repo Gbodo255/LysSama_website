@@ -8901,12 +8901,12 @@
    }
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 1198,
+    "y": 1193,
     "width": 53.45,
     "height": 21
    },
@@ -8956,12 +8956,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(2)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 815.39,
-    "y": 1198,
+    "y": 1193,
     "width": 46.22,
     "height": 21
    },
@@ -9011,12 +9011,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(3)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 864.05,
-    "y": 1198,
+    "y": 1193,
     "width": 53.7,
     "height": 21
    },
@@ -9066,12 +9066,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 920.19,
-    "y": 1198,
+    "y": 1193,
     "width": 70.17,
     "height": 21
    },
@@ -9121,12 +9121,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(5)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 992.8,
-    "y": 1198,
+    "y": 1193,
     "width": 24.95,
     "height": 21
    },
@@ -9176,12 +9176,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(6)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1020.19,
-    "y": 1198,
+    "y": 1193,
     "width": 44.53,
     "height": 21
    },
@@ -9231,12 +9231,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 1219,
+    "y": 1214,
     "width": 38.61,
     "height": 21
    },
@@ -9286,12 +9286,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(8)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 800.55,
-    "y": 1219,
+    "y": 1214,
     "width": 28.05,
     "height": 21
    },
@@ -9341,12 +9341,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(9)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 831.03,
-    "y": 1219,
+    "y": 1214,
     "width": 63.16,
     "height": 21
    },
@@ -9396,12 +9396,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(28)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 896.63,
-    "y": 1219,
+    "y": 1214,
     "width": 61.23,
     "height": 21
    },
@@ -9451,12 +9451,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(31)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(11)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 960.3,
-    "y": 1219,
+    "y": 1214,
     "width": 24.86,
     "height": 21
    },
@@ -9506,12 +9506,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(34)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(12)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 987.59,
-    "y": 1219,
+    "y": 1214,
     "width": 36.02,
     "height": 21
    },
@@ -9561,12 +9561,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(37)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1026.05,
-    "y": 1219,
+    "y": 1214,
     "width": 30.38,
     "height": 21
    },
@@ -9616,12 +9616,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(40)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(14)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1058.86,
-    "y": 1219,
+    "y": 1214,
     "width": 25.69,
     "height": 21
    },
@@ -9671,12 +9671,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(43)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(15)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 1240,
+    "y": 1235,
     "width": 73.66,
     "height": 21
    },
@@ -9726,12 +9726,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(46)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 835.59,
-    "y": 1240,
+    "y": 1235,
     "width": 24.38,
     "height": 21
    },
@@ -9781,12 +9781,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(49)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(17)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 862.41,
-    "y": 1240,
+    "y": 1235,
     "width": 21.14,
     "height": 21
    },
@@ -9836,12 +9836,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(52)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(18)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 885.98,
-    "y": 1240,
+    "y": 1235,
     "width": 56.86,
     "height": 21
    },
@@ -9891,12 +9891,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(55)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 945.28,
-    "y": 1240,
+    "y": 1235,
     "width": 25.55,
     "height": 21
    },
@@ -9946,12 +9946,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(58)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(20)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 973.27,
-    "y": 1240,
+    "y": 1235,
     "width": 44.28,
     "height": 21
    },
@@ -10001,12 +10001,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(61)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(21)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1019.98,
-    "y": 1240,
+    "y": 1235,
     "width": 24.95,
     "height": 21
    },
@@ -10056,12 +10056,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(64)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1047.38,
-    "y": 1240,
+    "y": 1235,
     "width": 12.81,
     "height": 21
    },
@@ -10111,12 +10111,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(67)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(23)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 1261,
+    "y": 1256,
     "width": 41.77,
     "height": 21
    },
@@ -10166,12 +10166,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(70)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(24)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 803.7,
-    "y": 1261,
+    "y": 1256,
     "width": 25.69,
     "height": 21
    },
@@ -10221,12 +10221,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(73)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Client / Brief\"]:nth-of-type(1)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Brief / Live Link\"]:nth-of-type(2)>div[data-framer-name=\"Approach Split\"]:nth-of-type(1)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 831.83,
-    "y": 1261,
+    "y": 1256,
     "width": 58.64,
     "height": 21
    },
@@ -13434,12 +13434,12 @@
    }
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 25.55,
     "height": 21
    },
@@ -13489,12 +13489,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(2)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 787.48,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 33.28,
     "height": 21
    },
@@ -13544,12 +13544,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(3)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 823.2,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 35.64,
     "height": 21
    },
@@ -13599,12 +13599,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 861.28,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 28.45,
     "height": 21
    },
@@ -13654,12 +13654,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(5)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 892.17,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 44.77,
     "height": 21
    },
@@ -13709,12 +13709,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(6)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 939.38,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 86.55,
     "height": 21
    },
@@ -13764,12 +13764,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1028.36,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 21.14,
     "height": 21
    },
@@ -13819,12 +13819,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(8)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1051.94,
-    "y": 3673.81,
+    "y": 3671.81,
     "width": 28.45,
     "height": 21
    },
@@ -13874,12 +13874,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(9)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 46.98,
     "height": 21
    },
@@ -13929,12 +13929,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(28)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 808.92,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 46.61,
     "height": 21
    },
@@ -13984,12 +13984,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(31)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(11)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 857.97,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 43.88,
     "height": 21
    },
@@ -14039,12 +14039,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(34)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(12)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 904.28,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 16.59,
     "height": 21
    },
@@ -14094,12 +14094,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(37)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 923.31,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 21.14,
     "height": 21
    },
@@ -14149,12 +14149,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(40)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(14)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 946.89,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 59.63,
     "height": 21
    },
@@ -14204,12 +14204,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(43)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(15)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1008.95,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 43.09,
     "height": 21
    },
@@ -14259,12 +14259,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(46)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1054.48,
-    "y": 3694.81,
+    "y": 3692.81,
     "width": 33.92,
     "height": 21
    },
@@ -14314,12 +14314,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(49)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(17)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 11.56,
     "height": 21
    },
@@ -14369,12 +14369,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(52)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(18)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 773.5,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 21.14,
     "height": 21
    },
@@ -14424,12 +14424,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(55)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 797.08,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 43.14,
     "height": 21
    },
@@ -14479,12 +14479,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(58)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(20)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 842.66,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 21.14,
     "height": 21
    },
@@ -14534,12 +14534,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(61)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(21)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 866.23,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 23.58,
     "height": 21
    },
@@ -14589,12 +14589,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(64)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 892.25,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 21.97,
     "height": 21
    },
@@ -14644,12 +14644,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(67)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(23)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 916.66,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 12.36,
     "height": 21
    },
@@ -14699,12 +14699,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(70)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(24)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 931.45,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 8.27,
     "height": 21
    },
@@ -14754,12 +14754,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(73)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 942.16,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 30.28,
     "height": 21
    },
@@ -14809,12 +14809,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(76)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(26)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 974.88,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 23.58,
     "height": 21
    },
@@ -14864,12 +14864,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(79)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(27)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1000.89,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 25.55,
     "height": 21
    },
@@ -14919,12 +14919,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(82)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(28)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1028.88,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 30.38,
     "height": 21
    },
@@ -14974,12 +14974,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(85)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(29)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1061.69,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 10.77,
     "height": 21
    },
@@ -15029,12 +15029,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(88)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(30)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1074.89,
-    "y": 3715.81,
+    "y": 3713.81,
     "width": 21.14,
     "height": 21
    },
@@ -15084,12 +15084,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(91)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(31)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 3736.81,
+    "y": 3734.81,
     "width": 46.31,
     "height": 21
    },
@@ -15139,12 +15139,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(94)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(32)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 808.25,
-    "y": 3736.81,
+    "y": 3734.81,
     "width": 25.55,
     "height": 21
    },
@@ -15194,12 +15194,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(97)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(33)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 836.23,
-    "y": 3736.81,
+    "y": 3734.81,
     "width": 53.88,
     "height": 21
    },
@@ -15249,12 +15249,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(100)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(34)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 892.55,
-    "y": 3736.81,
+    "y": 3734.81,
     "width": 10.77,
     "height": 21
    },
@@ -15304,12 +15304,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(103)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(35)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 905.75,
-    "y": 3736.81,
+    "y": 3734.81,
     "width": 21.14,
     "height": 21
    },
@@ -15359,12 +15359,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(106)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Approach\"]:nth-of-type(3)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(36)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 929.33,
-    "y": 3736.81,
+    "y": 3734.81,
     "width": 35.97,
     "height": 21
    },
@@ -18626,12 +18626,12 @@
    }
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 56.13,
     "height": 21
    },
@@ -18681,12 +18681,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(2)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 818.06,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 61.75,
     "height": 21
    },
@@ -18736,12 +18736,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(3)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 882.25,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 49.61,
     "height": 21
    },
@@ -18791,12 +18791,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 934.3,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 11.56,
     "height": 21
    },
@@ -18846,12 +18846,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(5)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 948.3,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 23.28,
     "height": 21
    },
@@ -18901,12 +18901,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(6)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 974.02,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 34.73,
     "height": 21
    },
@@ -18956,12 +18956,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1011.19,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 25.55,
     "height": 21
    },
@@ -19011,12 +19011,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(8)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1039.17,
-    "y": 5369.16,
+    "y": 5367.16,
     "width": 46.86,
     "height": 21
    },
@@ -19066,12 +19066,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(9)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 17.83,
     "height": 21
    },
@@ -19121,12 +19121,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(28)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 779.77,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 21.14,
     "height": 21
    },
@@ -19176,12 +19176,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(31)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(11)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 803.34,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 48.66,
     "height": 21
    },
@@ -19231,12 +19231,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(34)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(12)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 854.44,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 22.05,
     "height": 21
    },
@@ -19286,12 +19286,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(37)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 878.92,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 34.22,
     "height": 21
    },
@@ -19341,12 +19341,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(40)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(14)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 915.58,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 15.89,
     "height": 21
    },
@@ -19396,12 +19396,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(43)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(15)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 933.91,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 36,
     "height": 21
    },
@@ -19451,12 +19451,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(46)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 972.34,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 11.56,
     "height": 21
    },
@@ -19506,12 +19506,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(49)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(17)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 986.34,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 21.14,
     "height": 21
    },
@@ -19561,12 +19561,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(52)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(18)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1009.92,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 24.86,
     "height": 21
    },
@@ -19616,12 +19616,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(55)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1037.22,
-    "y": 5390.16,
+    "y": 5388.16,
     "width": 45.41,
     "height": 21
    },
@@ -19671,12 +19671,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(58)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(20)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 5411.16,
+    "y": 5409.16,
     "width": 39.14,
     "height": 21
    },
@@ -19726,12 +19726,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(61)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(21)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 801.08,
-    "y": 5411.16,
+    "y": 5409.16,
     "width": 40.16,
     "height": 21
    },
@@ -19781,12 +19781,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(64)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 843.67,
-    "y": 5411.16,
+    "y": 5409.16,
     "width": 43.58,
     "height": 21
    },
@@ -19836,12 +19836,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(67)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(23)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 889.69,
-    "y": 5411.16,
+    "y": 5409.16,
     "width": 49.86,
     "height": 21
    },
@@ -19891,12 +19891,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(70)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(24)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 941.98,
-    "y": 5411.16,
+    "y": 5409.16,
     "width": 93.38,
     "height": 21
    },
@@ -19946,12 +19946,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(73)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1037.8,
-    "y": 5411.16,
+    "y": 5409.16,
     "width": 37.67,
     "height": 21
    },
@@ -20001,12 +20001,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(76)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(26)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 5432.16,
+    "y": 5430.16,
     "width": 54.92,
     "height": 21
    },
@@ -20056,12 +20056,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(79)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(27)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 816.86,
-    "y": 5432.16,
+    "y": 5430.16,
     "width": 21.14,
     "height": 21
    },
@@ -20111,12 +20111,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(82)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Hero / Project\"]:nth-of-type(1)>div[data-framer-name=\"Project \"]>section[data-framer-name=\"Outcomes\"]:nth-of-type(5)>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Big Text / Small Text\"]:nth-of-type(2)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(28)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 840.44,
-    "y": 5432.16,
+    "y": 5430.16,
     "width": 26.03,
     "height": 21
    },
@@ -26973,12 +26973,12 @@
    }
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(1)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 37.67,
     "height": 21
    },
@@ -27028,12 +27028,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(2)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 799.61,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 32.38,
     "height": 21
    },
@@ -27083,12 +27083,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(3)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 834.42,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 20.58,
     "height": 21
    },
@@ -27138,12 +27138,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(4)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 857.44,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 38.55,
     "height": 21
    },
@@ -27193,12 +27193,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(5)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 898.42,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 44.7,
     "height": 21
    },
@@ -27248,12 +27248,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(6)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 945.56,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 16.59,
     "height": 21
    },
@@ -27303,12 +27303,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(7)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 964.59,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 80.19,
     "height": 21
    },
@@ -27358,12 +27358,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(8)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1047.22,
-    "y": 6382.16,
+    "y": 6380.16,
     "width": 64.31,
     "height": 21
    },
@@ -27413,12 +27413,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(9)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 761.94,
-    "y": 6403.16,
+    "x": 759.5,
+    "y": 6401.16,
     "width": 19.41,
     "height": 21
    },
@@ -27468,12 +27468,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(28)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(10)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 783.78,
-    "y": 6403.16,
+    "x": 781.34,
+    "y": 6401.16,
     "width": 28.09,
     "height": 21
    },
@@ -27523,12 +27523,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(31)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(11)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 814.31,
-    "y": 6403.16,
+    "x": 811.88,
+    "y": 6401.16,
     "width": 21.14,
     "height": 21
    },
@@ -27578,12 +27578,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(34)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(12)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 837.89,
-    "y": 6403.16,
+    "x": 835.45,
+    "y": 6401.16,
     "width": 27.7,
     "height": 21
    },
@@ -27633,12 +27633,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(37)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(13)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 868.03,
-    "y": 6403.16,
+    "x": 865.59,
+    "y": 6401.16,
     "width": 24.86,
     "height": 21
    },
@@ -27688,12 +27688,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(40)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(14)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 895.33,
-    "y": 6403.16,
+    "x": 892.89,
+    "y": 6401.16,
     "width": 28.94,
     "height": 21
    },
@@ -27743,12 +27743,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(43)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(15)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 926.7,
-    "y": 6403.16,
+    "x": 924.27,
+    "y": 6401.16,
     "width": 39.92,
     "height": 21
    },
@@ -27798,12 +27798,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(46)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(16)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 969.06,
-    "y": 6403.16,
+    "x": 966.63,
+    "y": 6401.16,
     "width": 37.67,
     "height": 21
    },
@@ -27853,12 +27853,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(49)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(17)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 1009.17,
-    "y": 6403.16,
+    "x": 1006.73,
+    "y": 6401.16,
     "width": 35.34,
     "height": 21
    },
@@ -27908,12 +27908,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(52)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(18)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 1046.95,
-    "y": 6403.16,
+    "x": 1044.52,
+    "y": 6401.16,
     "width": 25.55,
     "height": 21
    },
@@ -27963,12 +27963,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(55)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(19)",
    "tag": "span",
    "name": null,
    "rect": {
-    "x": 1074.94,
-    "y": 6403.16,
+    "x": 1072.5,
+    "y": 6401.16,
     "width": 33.28,
     "height": 21
    },
@@ -28018,12 +28018,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(58)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(20)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 759.5,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 31.38,
     "height": 21
    },
@@ -28073,12 +28073,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(61)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(21)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 793.31,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 21.98,
     "height": 21
    },
@@ -28128,12 +28128,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(64)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(22)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 817.73,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 8.27,
     "height": 21
    },
@@ -28183,12 +28183,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(67)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(23)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 828.44,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 73.98,
     "height": 21
    },
@@ -28238,12 +28238,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(70)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(24)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 904.86,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 43.09,
     "height": 21
    },
@@ -28293,12 +28293,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(73)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(25)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 950.39,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 11.56,
     "height": 21
    },
@@ -28348,12 +28348,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(76)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(26)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 964.39,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 21.14,
     "height": 21
    },
@@ -28403,12 +28403,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(79)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(27)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 987.97,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 44.16,
     "height": 21
    },
@@ -28458,12 +28458,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(82)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(28)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1034.56,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 12.36,
     "height": 21
    },
@@ -28513,12 +28513,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(85)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(29)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1049.36,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 8.27,
     "height": 21
    },
@@ -28568,12 +28568,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(88)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(30)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1060.06,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 30.28,
     "height": 21
    },
@@ -28623,12 +28623,12 @@
    ]
   },
   {
-   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(91)>span",
+   "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>section[data-framer-name=\"Results / Testimonial\"]:nth-of-type(1)>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]>div[data-framer-name=\"Quote\"]:nth-of-type(2)>div[data-framer-name=\"Quote\"]:nth-of-type(3)>div[data-framer-name=\"Small Text\"]:nth-of-type(2)>p>span:nth-of-type(31)",
    "tag": "span",
    "name": null,
    "rect": {
     "x": 1092.78,
-    "y": 6424.16,
+    "y": 6422.16,
     "width": 26.3,
     "height": 21
    },

@@ -13,6 +13,17 @@ const byName = (n, nm) => { if (attr(n, 'data-framer-name') === nm) return n; fo
 let addonSeq = 0;
 const NL = String.fromCharCode(10);
 export const OVERRIDES = [
+  // Fenêtres vidéo YouTube (D-024) : accueil « Play becomes active here » ; pages projet « Video Overlay » (Play Film).
+  {
+    match: (n, { slug, cls }) => slug === 'home' && cls.includes('framer-1llc9gt') && !n.done,
+    imports: [`import { VideoTrigger } from '@/components/shared/VideoModal';`, `import { reel } from '@/data/homeb';`],
+    render: (n, h) => `<VideoTrigger as="${n.tag}" video={{ url: reel.youtube.url, radius: 12, overlayCls: 'framer-m801fr', overlayName: 'Project Reel Overlay', videoCls: 'framer-1vvrwxf-container', videoName: 'Project Reel Video' }}${h.attrs(n)}>${NL}${n.kids.map((k) => h.jsx(k, h.d + 1)).filter(Boolean).join(NL)}${NL}</VideoTrigger>`,
+  },
+  {
+    match: (n, { slug, cls }) => slug.startsWith('projects__') && cls.includes('framer-1kc26e3-container') && !n.done,
+    imports: [`import { VideoTrigger } from '@/components/shared/VideoModal';`, `import { projects } from '@/data/projects';`],
+    render: (n, h) => `<VideoTrigger as="${n.tag}" video={{ url: projects.find((p) => p.slug === ${JSON.stringify(h.slug.slice(10))})!.youtubeUrl, radius: 12, overlayCls: 'framer-1j1vw8z', videoCls: 'framer-15gpuh9-container', nested: true }}${h.attrs(n)}>${NL}${n.kids.map((k) => h.jsx(k, h.d + 1)).filter(Boolean).join(NL)}${NL}</VideoTrigger>`,
+  },
   // Pages projet : « Video Mirror » (composant de l'auteur porté) ; affiche = image du SSR (prop poster de l'instance).
   {
     match: (n, { cls }) => cls.includes('framer-1efyi3-container'),

@@ -1,0 +1,1815 @@
+{
+ "route": "/projects/chanel",
+ "width": 1440,
+ "frames": [
+  {
+   "t": 0,
+   "html": "<div class=\"\" style=\"\">\n",
+   "rects": []
+  },
+  {
+   "t": 50,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 3.15388% / 5.60478%; transform: translate3d(-469.65px, -6.72119px, 0px) scale(0.229763, 0.229367); transform-origin: 50% 50% 0px; opacity: 0.111427;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.00133658",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      91.8,
+      354.1,
+      317.1,
+      178.4
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      91.8,
+      354.1,
+      317.1,
+      178.4
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      91.8,
+      354.1,
+      317.1,
+      178.4
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 100,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 3.04263% / 5.40664%; transform: translate3d(-464.528px, -6.64789px, 0px) scale(0.238165, 0.237773); transform-origin: 50% 50% 0px; opacity: 0.234873;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.00984513",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      91.1,
+      350.9,
+      328.7,
+      185
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      91.1,
+      350.9,
+      328.7,
+      185
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      91.1,
+      350.9,
+      328.7,
+      185
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 150,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 2.83814% / 5.04255%; transform: translate3d(-454.065px, -6.49815px, 0px) scale(0.255324, 0.254941); transform-origin: 50% 50% 0px; opacity: 0.373554;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.0292857",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      89.8,
+      344.3,
+      352.3,
+      198.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      89.8,
+      344.3,
+      352.3,
+      198.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      89.8,
+      344.3,
+      352.3,
+      198.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 200,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 2.52676% / 4.48831%; transform: translate3d(-434.879px, -6.22358px, 0px) scale(0.286789, 0.286422); transform-origin: 50% 50% 0px; opacity: 0.532928;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.0663009",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      87.2,
+      332.4,
+      395.8,
+      222.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      87.2,
+      332.4,
+      395.8,
+      222.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      87.2,
+      332.4,
+      395.8,
+      222.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 250,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 2.08791% / 3.70763%; transform: translate3d(-398.124px, -5.69758px, 0px) scale(0.347068, 0.346732); transform-origin: 50% 50% 0px; opacity: 0.723688;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.137595",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      82.4,
+      309.4,
+      478.9,
+      269.7
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      82.4,
+      309.4,
+      478.9,
+      269.7
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      82.4,
+      309.4,
+      478.9,
+      269.7
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 300,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 1.42066% / 2.52155%; transform: translate3d(-298.729px, -4.27513px, 0px) scale(0.510078, 0.509826); transform-origin: 50% 50% 0px; opacity: 0.963371;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.319127",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      69.3,
+      247.4,
+      703.9,
+      396.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      69.3,
+      247.4,
+      703.9,
+      396.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      69.3,
+      247.4,
+      703.9,
+      396.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 350,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.878521% / 1.5587%; transform: translate3d(-106.799px, -1.5284px, 0px) scale(0.824848, 0.824758); transform-origin: 50% 50% 0px; opacity: 1;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.756927",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      44.1,
+      127.7,
+      1138.3,
+      641.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      44.1,
+      127.7,
+      1138.3,
+      641.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      44.1,
+      127.7,
+      1138.3,
+      641.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 400,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.791303% / 1.40387%; transform: translate3d(-51.3632px, -0.735063px, 0px) scale(0.915763, 0.91572); transform-origin: 50% 50% 0px; opacity: 1;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.887776",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      36.8,
+      93.1,
+      1263.7,
+      712.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      36.8,
+      93.1,
+      1263.7,
+      712.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      36.8,
+      93.1,
+      1263.7,
+      712.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 450,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.748598% / 1.32807%; transform: translate3d(-19.5098px, -0.279206px, 0px) scale(0.968004, 0.967987); transform-origin: 50% 50% 0px; opacity: 1;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.946472",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      32.6,
+      73.2,
+      1335.8,
+      753
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      32.6,
+      73.2,
+      1335.8,
+      753
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      32.6,
+      73.2,
+      1335.8,
+      753
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 500,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.734159% / 1.30244%; transform: translate3d(-7.90065px, -0.113067px, 0px) scale(0.987043, 0.987036); transform-origin: 50% 50% 0px; opacity: 1;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.97755",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      31,
+      66,
+      1362.1,
+      767.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      31,
+      66,
+      1362.1,
+      767.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      31,
+      66,
+      1362.1,
+      767.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 550,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.72707% / 1.28986%; transform: translate3d(-2.033px, -0.0290943px, 0px) scale(0.996666, 0.996664); transform-origin: 50% 50% 0px; opacity: 1;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.993457",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30.3,
+      62.3,
+      1375.4,
+      775.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30.3,
+      62.3,
+      1375.4,
+      775.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30.3,
+      62.3,
+      1375.4,
+      775.3
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 600,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 0; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.72469% / 1.28563%; transform: translate3d(-0.0374672px, 0px, 0px); transform-origin: 50% 50% 0px; opacity: 1;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.999589",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 650,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 10px; transform: none; transform-origin: 50% 50% 0px;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "1",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 700,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 10px; transform: none; transform-origin: 50% 50% 0px;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "1",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 750,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 10px; transform: none; transform-origin: 50% 50% 0px;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "1",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": 800,
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 10px; transform: none; transform-origin: 50% 50% 0px;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "1",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+0",
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 10px; transform: none; transform-origin: 50% 50% 0px; opacity: 1; pointer-events: none;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "1",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+100",
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.732563% / 1.29961%; transform: translate3d(-6.58948px, -0.0943024px, 0px) scale(0.989193, 0.989188); transform-origin: 50% 50% 0px; opacity: 1; pointer-events: none;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.989617",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      30.9,
+      65.2,
+      1365.1,
+      769.5
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30.9,
+      65.2,
+      1365.1,
+      769.5
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      30.9,
+      65.2,
+      1365.1,
+      769.5
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+200",
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 0.770434% / 1.36683%; transform: translate3d(-36.2381px, -0.518606px, 0px) scale(0.940569, 0.940538); transform-origin: 50% 50% 0px; opacity: 1; pointer-events: none;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.931683",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      34.8,
+      83.7,
+      1298,
+      731.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      34.8,
+      83.7,
+      1298,
+      731.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      34.8,
+      83.7,
+      1298,
+      731.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+300",
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 1.01027% / 1.79263%; transform: translate3d(-172.388px, -2.46706px, 0px) scale(0.71728, 0.717134); transform-origin: 50% 50% 0px; opacity: 1; pointer-events: none;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.66655",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      52.7,
+      168.6,
+      989.8,
+      557.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      52.7,
+      168.6,
+      989.8,
+      557.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      52.7,
+      168.6,
+      989.8,
+      557.8
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+400",
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 2.46336% / 4.3755%; transform: translate3d(-430.378px, -6.15917px, 0px) scale(0.29417, 0.293807); transform-origin: 50% 50% 0px; opacity: 0.0810506; pointer-events: none;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.109024",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      86.6,
+      329.6,
+      406,
+      228.5
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      86.6,
+      329.6,
+      406,
+      228.5
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      86.6,
+      329.6,
+      406,
+      228.5
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+500",
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 3.0154% / 5.35816%; transform: translate3d(-463.217px, -6.62912px, 0px) scale(0.240315, 0.239924); transform-origin: 50% 50% 0px; opacity: 0; pointer-events: none;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.0215719",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      91,
+      350,
+      331.6,
+      186.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      91,
+      350,
+      331.6,
+      186.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      91,
+      350,
+      331.6,
+      186.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+600",
+   "html": "<div class=\"\" style=\"\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"position: fixed; inset: 0px; z-index: 10; background-color: rgba(23, 22, 22, 0.75); opacity: 1; will-change: transform;\">\n  <div class=\"framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2Ps8M framer-laVYw framer-lt6Rw\" style=\"align-items: center; display: flex; inset: 30px; justify-content: center; pointer-events: none; position: fixed; z-index: 10;\">\n    <div class=\"\" style=\"align-items: center; aspect-ratio: 1.77401 / 1; display: flex; justify-content: center; max-height: 100%; position: relative; width: 100%; max-width: 1920px;\">\n      <div class=\"framer-lightbox-container\" style=\"aspect-ratio: 1.77401 / 1; bottom: 0px; position: absolute; top: 0px; user-select: none; image-rendering: auto; filter: none; border-radius: 3.18639% / 5.66268%; transform: translate3d(-471.08px, -6.74165px, 0px) scale(0.227419, 0.227022); transform-origin: 50% 50% 0px; opacity: 0; pointer-events: none;\">\n        <div class=\"\" style=\"position: absolute; border-radius: inherit; corner-shape: inherit; inset: 0px;\">\n          <img class=\"\" style=\"display: block; width: 100%; height: 100%; border-radius: inherit; corner-shape: inherit; object-position: center center; object-fit: cover;\">\n",
+   "rects": [
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      0,
+      0,
+      1440,
+      900
+     ],
+     "op": "0.000323251",
+     "bg": "rgba(23, 22, 22, 0.75)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-hglyy framer-GC3F4 framer-Me6vv framer-QoPvp framer-2",
+     "rect": [
+      30,
+      30,
+      1380,
+      840
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      30,
+      61,
+      1380,
+      777.9
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "framer-lightbox-container",
+     "rect": [
+      92,
+      354.9,
+      313.8,
+      176.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "DIV",
+     "cls": "",
+     "rect": [
+      92,
+      354.9,
+      313.8,
+      176.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "tag": "IMG",
+     "cls": "",
+     "rect": [
+      92,
+      354.9,
+      313.8,
+      176.6
+     ],
+     "op": "1",
+     "bg": "rgba(0, 0, 0, 0)"
+    }
+   ]
+  },
+  {
+   "t": "close+700",
+   "html": "<div class=\"\" style=\"\">\n",
+   "rects": []
+  },
+  {
+   "t": "close+800",
+   "html": "<div class=\"\" style=\"\">\n",
+   "rects": []
+  }
+ ]
+}

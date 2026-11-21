@@ -2,13 +2,13 @@
 // styles au fil du temps virtuel (ouverture), puis fermeture (Échap) — même banc pour l'original et le clone.
 // Usage : node lightbox-probe.mjs <ref|clone> [route=/projects/chanel] [largeur=1440] → reference/agents/main/lightbox-<cible>.json
 import fs from 'node:fs';
-import { launch, openPage, gotoStable, advance, closeAll, ROOT } from '../../lib/harness.mjs';
+import { launch, openPage, advance, closeAll, urlFor, ROOT } from '../../lib/harness.mjs';
 const [target = 'ref', route = '/projects/chanel', w = '1440'] = process.argv.slice(2);
 const b = await launch({ webgl: false });
 const h = await openPage(b, target, { width: +w });
 const out = { route, width: +w, frames: [] };
 try {
-  await gotoStable(h, route, { scrollThrough: false });
+  await h.page.goto(urlFor(target, route), { waitUntil: 'load' }); await advance(h.page, 6000); // chargement léger (gotoStable faisait planter l'onglet)
   const p = h.page;
   await p.evaluate(() => document.querySelector('.framer-8k5osh')?.scrollIntoView({ block: 'center' }));
   await advance(p, 500);

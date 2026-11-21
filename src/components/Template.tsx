@@ -2,6 +2,7 @@ import type { ReactNode } from 'react';
 import { SharedNavigation } from '@/components/nav/SharedNavigation';
 import { Footer } from '@/components/footer/Footer';
 import { Cursor } from '@/components/cursor/Cursor';
+import { LightboxHost } from '@/components/lightbox/Lightbox';
 import './Template.css';
 
 /** Gabarit « Nav & Footer » (framer-eYdsD, toplevel-deps TD:25138–26064) : contenu de page, #overlay, navigation fixe, footer.
@@ -18,6 +19,7 @@ export function Template({ children, footer = true }: { children: ReactNode; foo
       </div>
       <div id="template-overlay" />
       <Cursor />
+      <LightboxHost />
     </>
   );
 }
