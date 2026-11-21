@@ -16,6 +16,7 @@ const FX = /^(effect|__framer__\w+|__perspectiveFX|__targetOpacity|__smartCompon
 const out = {};
 const variants = {};
 const styles = {};
+const follows = {};
 let total = 0;
 for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.test(f))) {
   const src = fs.readFileSync(path.join(DIR, f), 'utf8');
@@ -85,6 +86,19 @@ for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.te
       }
     }
     if (Object.keys(byVariant).length) props.$byVariant = byVariant;
+    // instance imbriquée : `variant` de base + surcharges par variante du parent (...fn({ idParent: { variant } })) → suivi
+    {
+      const vstr = (x) => { if (!x) return null; const v = val(x); if (typeof v === 'string') return v; if (x.type === 'CallExpression' && x.arguments.length === 1) { const a = val(x.arguments[0]); if (typeof a === 'string') return a; } return null; };
+      let base = null; const by = {};
+      for (const p of n.properties) { if (p.type === 'Property' && (p.key.name || p.key.value) === 'variant') base = vstr(p.value); }
+      for (const p of n.properties) {
+        if (p.type !== 'SpreadElement' || p.argument.type !== 'CallExpression') continue;
+        const a0 = p.argument.arguments[0]; if (!a0 || a0.type !== 'ObjectExpression') continue;
+        for (const vp of a0.properties) { if (vp.type !== 'Property' || vp.value.type !== 'ObjectExpression') continue; for (const q of vp.value.properties) if (q.type === 'Property' && (q.key.name || q.key.value) === 'variant') { const v = vstr(q.value); if (v) by[vp.key.name || vp.key.value] = v; } }
+      }
+      const top = stack[stack.length - 1];
+      if (base && Object.keys(by).length && top) for (const c of top.split(/\s+/).filter((c) => /-container$/.test(c))) follows[c] = { module: f, base, byParent: by };
+    }
     let inherited = false;
     if (has && !cls && props.__framer__variantAppearEffectEnabled) { cls = stack[stack.length - 1]; inherited = true; }
     if (!has || !cls) return;
@@ -146,6 +160,8 @@ for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.te
 fs.writeFileSync(path.resolve('reference/framer/fx.json'), JSON.stringify(out, null, 1));
 fs.writeFileSync(path.resolve('reference/framer/variants.json'), JSON.stringify(variants, null, 1));
 fs.writeFileSync(path.resolve('reference/framer/variant-styles.json'), JSON.stringify(styles, null, 1));
+fs.writeFileSync(path.resolve('reference/framer/follows.json'), JSON.stringify(follows, null, 1));
+console.log(Object.keys(follows).length, 'instances imbriquées suivant leur parent → reference/framer/follows.json');
 console.log(Object.keys(styles).length, 'classes avec styles par variante → reference/framer/variant-styles.json');
 console.log(Object.keys(variants).length, 'variantes → reference/framer/variants.json');
 console.log(Object.keys(out).length, 'classes,', total, 'déclarations → reference/framer/fx.json');

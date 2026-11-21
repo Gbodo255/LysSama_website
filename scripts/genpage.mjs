@@ -15,6 +15,7 @@ import { COMPONENTS } from './gen-components.mjs';
 const MQ = { '(min-width: 1200px)': 'desktop', '(min-width: 810px) and (max-width: 1199.98px)': 'tablet', '(max-width: 809.98px)': 'phone' };
 const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'public/assets/manifest.json'), 'utf8'));
 const COMPS = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/components.json'), 'utf8'));
+const FOLLOWS = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/follows.json'), 'utf8'));
 const VSTY = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/variant-styles.json'), 'utf8'));
 const VARS = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/variants.json'), 'utf8'));
 const FXJ = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/fx.json'), 'utf8'));
@@ -260,10 +261,18 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       open = `InView as="${n.tag}" fx={${JSON.stringify(fx)}}`; close = 'InView';
     }
     // moteur de variantes : racine d'instance (classe de portée configurée + classe framer-v-*) et ses éléments stylés
-    const scope = cls(n).find((c) => COMPONENTS[c] && COMPS[c]);
+    // instance imbriquée dont la variante suit celle du parent (reference/framer/follows.json) : marque sa racine
+    const fol = vstack.length && cls(n).map((c) => FOLLOWS[c]).find(Boolean);
+    if (fol) {
+      const P = vstack[vstack.length - 1];
+      const map = Object.fromEntries(Object.keys(P.variants).map((id) => [id, fol.byParent[id] ?? fol.base]));
+      const mark = (k) => { if (!k.tag) return false; if (cls(k).some((c) => COMPS[c] && Object.values(map).some((v) => COMPS[c].variants[v]))) { k.followMap = map; return true; } return (k.kids || []).some(mark); };
+      n.kids.some(mark);
+    }
+    const scope = cls(n).find((c) => COMPS[c] && (COMPONENTS[c] || (n.followMap && Object.values(n.followMap).some((v) => COMPS[c].variants[v]))));
     let pushed = pushedV;
     if (scope && !aid && open === n.tag && !pushedV) {
-      const C = COMPS[scope], cfg = COMPONENTS[scope];
+      const C = COMPS[scope], cfg = { ...(n.followMap ? { follow: n.followMap } : {}), ...(COMPONENTS[scope] || {}) };
       const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
       if (initial) {
         imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);

@@ -1,0 +1,350 @@
+{
+ "framer-zsxvaw-container": {
+  "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+  "base": "Q9UIdlaan",
+  "byParent": {
+   "b_CpEBBVa": "kTxvluWFa",
+   "H7ehOVhk3": "kTxvluWFa"
+  }
+ },
+ "framer-4atvja-container": {
+  "module": "NIqbhJ1MS.BBeNmibM.mjs",
+  "base": "k601oOa0D",
+  "byParent": {
+   "tw5CtHDal": "dwfiz8xsn"
+  }
+ },
+ "framer-1vtfl6s-container": {
+  "module": "NIqbhJ1MS.BBeNmibM.mjs",
+  "base": "jinEk1yag",
+  "byParent": {
+   "cJwrpVP4o": "UFuPupHWY",
+   "z2kibtJCb": "UFuPupHWY"
+  }
+ },
+ "framer-1qqkmal-container": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "base": "WwhML3SLe",
+  "byParent": {
+   "cWXZ5FX1D": "kUs4SNemM",
+   "l8OkI1qRh": "kUs4SNemM",
+   "ndCCBOQTo": "kUs4SNemM",
+   "tKXbHhQed": "kUs4SNemM",
+   "WNWn5ECqh": "kUs4SNemM"
+  }
+ },
+ "framer-1n486yj-container": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "base": "WwhML3SLe",
+  "byParent": {
+   "cWXZ5FX1D": "kUs4SNemM",
+   "l8OkI1qRh": "kUs4SNemM",
+   "ndCCBOQTo": "kUs4SNemM",
+   "WNWn5ECqh": "kUs4SNemM"
+  }
+ },
+ "framer-1c1ff8w-container": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "base": "WwhML3SLe",
+  "byParent": {
+   "cWXZ5FX1D": "kUs4SNemM",
+   "l8OkI1qRh": "kUs4SNemM",
+   "ndCCBOQTo": "kUs4SNemM"
+  }
+ },
+ "framer-104eq85-container": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "base": "WwhML3SLe",
+  "byParent": {
+   "cWXZ5FX1D": "kUs4SNemM",
+   "l8OkI1qRh": "kUs4SNemM"
+  }
+ },
+ "framer-qeeinq-container": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "base": "WwhML3SLe",
+  "byParent": {
+   "cWXZ5FX1D": "kUs4SNemM"
+  }
+ },
+ "framer-ggx1b3-container": {
+  "module": "pgtQfyOCv.DMDfGpCr.mjs",
+  "base": "qkJaMXuuZ",
+  "byParent": {
+   "nPNyXOlRD": "L_gdk_7Fe",
+   "RBcJngtnI": "L_gdk_7Fe"
+  }
+ },
+ "framer-14g45mj-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "LAzaFDLEP",
+  "byParent": {
+   "ytrBCV0k8": "LVxmklpu4",
+   "ZBuRmAZ5Y": "LVxmklpu4"
+  }
+ },
+ "framer-d818a2-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "LVxmklpu4",
+  "byParent": {
+   "ytrBCV0k8": "LAzaFDLEP",
+   "ZBuRmAZ5Y": "LAzaFDLEP"
+  }
+ },
+ "framer-14l2v1m-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "ytrBCV0k8",
+  "byParent": {
+   "AQI0EawVi-hover": "ZBuRmAZ5Y",
+   "tLK6qT9cB-hover": "ZBuRmAZ5Y",
+   "UpWlNuY8v-hover": "bAHFpmm1J",
+   "fE11MWlj9": "aTBCrc4Jk",
+   "UpWlNuY8v": "aTBCrc4Jk"
+  }
+ },
+ "framer-16bvec1-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "CPvameZ0r",
+  "byParent": {
+   "aiImWsjMY": "yf1VjVBO4"
+  }
+ },
+ "framer-sfnmd1-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "CPvameZ0r",
+  "byParent": {
+   "l1s5h3kT2": "yf1VjVBO4"
+  }
+ },
+ "framer-1po93nh-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "CPvameZ0r",
+  "byParent": {
+   "dcg9DRvtv": "yf1VjVBO4",
+   "lGouSBjMy": "yf1VjVBO4"
+  }
+ },
+ "framer-1k8m4e2-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "CPvameZ0r",
+  "byParent": {
+   "Q7W8dMPp3": "yf1VjVBO4",
+   "UZTvrQn_5": "yf1VjVBO4"
+  }
+ },
+ "framer-1wn974a-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "CPvameZ0r",
+  "byParent": {
+   "NkpXPuof5": "yf1VjVBO4",
+   "rmG7iPCcs": "yf1VjVBO4"
+  }
+ },
+ "framer-1ij64p4-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "yf1VjVBO4",
+  "byParent": {
+   "aiImWsjMY": "CPvameZ0r",
+   "dcg9DRvtv": "CPvameZ0r",
+   "l1s5h3kT2": "CPvameZ0r",
+   "lGouSBjMy": "CPvameZ0r",
+   "NkpXPuof5": "CPvameZ0r",
+   "Q7W8dMPp3": "CPvameZ0r",
+   "rmG7iPCcs": "CPvameZ0r",
+   "UZTvrQn_5": "CPvameZ0r"
+  }
+ },
+ "framer-1p16sqf-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "hA95yhsf9",
+  "byParent": {
+   "dk0Avt7ZN-hover": "emNd45eer"
+  }
+ },
+ "framer-1op21wi-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "NwpYyDCUg",
+  "byParent": {
+   "lyMvfkk8j": "F9MvIiIIS"
+  }
+ },
+ "framer-11r03s7-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "aTBCrc4Jk",
+  "byParent": {
+   "QvZffFKGr-hover": "bAHFpmm1J"
+  }
+ },
+ "framer-1fi22sh-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "QvZffFKGr",
+  "byParent": {
+   "CzntNeKHI": "vMQYEtOtY",
+   "tcgNZvcDT": "vMQYEtOtY"
+  }
+ },
+ "framer-ade1jf-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "Fyih9sCDk",
+  "byParent": {
+   "zylddWCaP": "IQ5VKT_cu"
+  }
+ },
+ "framer-f4luyz-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "Fyih9sCDk",
+  "byParent": {
+   "M83fGIck2": "LEwHm1Xmc",
+   "PtvC8qv5y": "MouuNRtt_",
+   "zylddWCaP": "IQ5VKT_cu"
+  }
+ },
+ "framer-1kxedq2-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "Fyih9sCDk",
+  "byParent": {
+   "M83fGIck2": "LEwHm1Xmc",
+   "PtvC8qv5y": "MouuNRtt_",
+   "zylddWCaP": "IQ5VKT_cu"
+  }
+ },
+ "framer-9r7k9d-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "Fyih9sCDk",
+  "byParent": {
+   "M83fGIck2": "LEwHm1Xmc",
+   "PtvC8qv5y": "MouuNRtt_",
+   "zylddWCaP": "IQ5VKT_cu"
+  }
+ },
+ "framer-17kf78c-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "ZdQbvFLzW",
+  "byParent": {
+   "IvviAYf_X": "rve8tPCSJ"
+  }
+ },
+ "framer-1smje0b-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "ZdQbvFLzW",
+  "byParent": {
+   "IvviAYf_X": "rve8tPCSJ"
+  }
+ },
+ "framer-t1kefs-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "ZdQbvFLzW",
+  "byParent": {
+   "IvviAYf_X": "rve8tPCSJ"
+  }
+ },
+ "framer-1cdugcb-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "ZdQbvFLzW",
+  "byParent": {
+   "IvviAYf_X": "rve8tPCSJ"
+  }
+ },
+ "framer-gupk0y-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "PxOSLYnOW",
+  "byParent": {
+   "ohscBxtqQ": "wQ68zCUv0",
+   "qqgfFW9hu": "wQ68zCUv0",
+   "sixur_H_8": "wQ68zCUv0"
+  }
+ },
+ "framer-hxeh5m-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "XYPo0X9G2",
+  "byParent": {
+   "DtWmu2Lal": "zylddWCaP",
+   "lbGoIWDKI": "zylddWCaP",
+   "qqgfFW9hu": "zylddWCaP",
+   "sixur_H_8": "zylddWCaP"
+  }
+ },
+ "framer-18pfxug-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "F8QhxJmqp",
+  "byParent": {
+   "DtWmu2Lal": "VgyOKiub4",
+   "lbGoIWDKI": "VgyOKiub4",
+   "qqgfFW9hu": "VgyOKiub4",
+   "sixur_H_8": "VgyOKiub4"
+  }
+ },
+ "framer-18x49sy-container": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "base": "jg6zUAEJU",
+  "byParent": {
+   "DtWmu2Lal": "IvviAYf_X",
+   "lbGoIWDKI": "IvviAYf_X",
+   "qqgfFW9hu": "IvviAYf_X",
+   "sixur_H_8": "IvviAYf_X"
+  }
+ },
+ "framer-1nmpriv-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "dwfiz8xsn",
+  "byParent": {
+   "LUln1HeAw": "k601oOa0D"
+  }
+ },
+ "framer-vuuz9-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "DlVS4BEWz",
+  "byParent": {
+   "xkvFjRWsw-hover": "XN1X2rc4T"
+  }
+ },
+ "framer-q1wiq0-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "k601oOa0D",
+  "byParent": {
+   "d59ZXs8LQ": "dwfiz8xsn",
+   "EwnHLUTYk": "dwfiz8xsn"
+  }
+ },
+ "framer-13yh56p-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "jinEk1yag",
+  "byParent": {
+   "J93YZ5sxi": "UFuPupHWY"
+  }
+ },
+ "framer-1os8yxm-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "sgGQEcV9Z",
+  "byParent": {
+   "Cth7STIQR": "Sh_ahvups",
+   "dPWqybCNx": "Sh_ahvups",
+   "kw8StE0kn": "XmV4tQ_ou",
+   "NMtXp8_Fx": "Sh_ahvups"
+  }
+ },
+ "framer-1xtqx7u-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "Sh_ahvups",
+  "byParent": {
+   "dPWqybCNx": "sgGQEcV9Z",
+   "kw8StE0kn": "XmV4tQ_ou"
+  }
+ },
+ "framer-p855ad-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "Sh_ahvups",
+  "byParent": {
+   "Cth7STIQR": "sgGQEcV9Z",
+   "kw8StE0kn": "XmV4tQ_ou"
+  }
+ },
+ "framer-byb60i-container": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "base": "Sh_ahvups",
+  "byParent": {
+   "kw8StE0kn": "XmV4tQ_ou",
+   "NMtXp8_Fx": "sgGQEcV9Z"
+  }
+ }
+}
