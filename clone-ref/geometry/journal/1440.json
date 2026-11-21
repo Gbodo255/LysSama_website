@@ -6,7 +6,7 @@
  ],
  "scrollHeight": 2640,
  "scrollWidth": 1440,
- "title": "Mira Studio",
+ "title": "Mira - Agency & Portfolio Framer Template",
  "items": [
   {
    "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]",
@@ -9966,10 +9966,10 @@
    "tag": "div",
    "name": "Variant 1",
    "rect": {
-    "x": -17.3,
-    "y": 801,
-    "width": 96.59,
-    "height": 32
+    "x": 15,
+    "y": 768.7,
+    "width": 32,
+    "height": 96.59
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -10017,10 +10017,10 @@
    "tag": "div",
    "name": "Globe",
    "rect": {
-    "x": -17.3,
-    "y": 801,
-    "width": 31,
-    "height": 32
+    "x": 15,
+    "y": 834.3,
+    "width": 32,
+    "height": 31
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -10068,10 +10068,10 @@
    "tag": "svg",
    "name": null,
    "rect": {
-    "x": -10.3,
-    "y": 810.5,
-    "width": 17,
-    "height": 13
+    "x": 24.5,
+    "y": 841.3,
+    "width": 13,
+    "height": 17
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -10119,10 +10119,10 @@
    "tag": "div",
    "name": "Text",
    "rect": {
-    "x": 13.7,
-    "y": 801,
-    "width": 65.59,
-    "height": 32
+    "x": 15,
+    "y": 768.7,
+    "width": 32,
+    "height": 65.59
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -10170,10 +10170,10 @@
    "tag": "p",
    "name": null,
    "rect": {
-    "x": 20.7,
-    "y": 808,
-    "width": 51.59,
-    "height": 18
+    "x": 22,
+    "y": 775.7,
+    "width": 18,
+    "height": 51.59
    },
    "style": {
     "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
