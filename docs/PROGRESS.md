@@ -10,7 +10,7 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 - [x] 0.4 Entrées du propriétaire vérifiées : MCP Framer absent, `framer-code/` absent — D-002
 - [x] 0.5 Fichiers de pilotage créés
 - [~] 0.6 Scripts npm (déclarés dans package.json ; implémentés au fil des phases)
-- [~] 0.7 Banc de mesure `scripts/lib/harness.mjs` + contrôle de déterminisme sur l'accueil de l'original — `reference/screenshots/_selftest/ref/result.json`
+- [x] 0.7 Banc de mesure + contrôle de déterminisme sur l'accueil de l'original : 2 passes, 26 images, pire écart 0 % — `reference/selftest-ref.json`
 
 ## Phase 1 — Capture et gel de la référence
 - [~] Étape 0 — Projet Framer / code source : indisponibles (D-002) ; modules compilés téléchargés `reference/framer/js/` (57)
@@ -18,22 +18,22 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 - [ ] Étape A — rejeu hors ligne complet, 0 requête manquante
 - [ ] Étape B — textes `reference/text.json` (produit par l'extraction liste A/B)
 - [ ] Étape C — tokens, @media, @font-face, licences de polices, styles de texte
-- [ ] Étape D — DOM rendu, géométrie, retours à la ligne, captures (listes A et B)
+- [~] Étape D — DOM rendu, géométrie, retours à la ligne, captures : liste A en cours (`reference/extract-A.log`), liste B à faire
 - [~] Étape E — registre fusionné : 197 lignes (`node scripts/merge-registers.mjs`, sources `docs/audit/*.comportements.md`) ; manquent les géométries 810 de l'accueil et les survols non mesurés (voir `docs/requests/`)
 - [~] Étape F — 150 animations relevées dans le code (`docs/ANIMATIONS.md`) ; courbes à mesurer avec le banc corrigé (D-021)
 - [~] Étape G — fiches et shaders faits (`docs/WEBGL.md`, `reference/webgl/*/shaders/`) ; images de référence déterministes à produire
 - [ ] Étape H — assets + `public/assets/manifest.json`
 - [~] Étape I — `src/data/{homea,homeb,projects,studio,journal,contact,global}.ts`, `content/{projects,journal,legal}/*.md` ; à regrouper en pricing/faq/team/testimonials/awards/content/site.config
-- [ ] Étape J — synthèse `docs/AUDIT.md`
+- [x] Étape J — synthèse `docs/AUDIT.md`
 
 ## Phase 2 — Fondations
-- [ ] tokens.css / globals.css / polices
-- [ ] breakpoints partagés CSS/TS
+- [x] tokens.css / globals.css / polices / presets par breakpoint (D-031)
+- [x] breakpoints partagés : `src/lib/breakpoints.ts`, `Variants`/`HideOn` (D-030)
 - [ ] site.config.ts
 - [ ] banc branché sur le clone + déterminisme
 - [ ] Préchargeur — 1440 / 1200 / 810 / 390
-- [ ] Header — 1440 / 1200 / 810 / 390
-- [ ] Footer + Newsletter — 1440 / 1200 / 810 / 390
+- [~] Header (navigation latérale) — état fermé validé 1440/1200/810/390 : 0 manquant, 0 géométrie, 0 style, 0 texte (`compare/privacy-policy/<w>-Shared_Navigation.json`) ; ouverture/survols : courbes à mesurer (Phase 4-5)
+- [~] Footer + Newsletter — statique validé 1440/1200/810/390 : 0 écart (`compare/privacy-policy/<w>-Footer.json`) ; états du formulaire et survols : Phase 4-5
 
 ## Phase 3 — Pages (sections listées après l'audit ; chaque section × 1440/1200/810/390)
 - [ ] `/` accueil
@@ -55,8 +55,8 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 10 — Revue indépendante
 ## Phase 11 — Qualité, `check:launch`, RAPPORT.md
 
-## Point de reprise (2026-11-21)
-- Audits terminés et commités : préchargeur, slider, vitrine, 404, global, homea, homeb, projects, studio, journal, contact (+ légales). Registres fusionnés. Décisions D-019 à D-028.
-- Banc corrigé : D-020 (vidéos), D-021 (WAAPI/CSS en temps virtuel, contrôle `scripts/checks/waapi-opacity.mjs` OK).
-- En cours : selftest de l'original (D-021) puis extraction liste A en série (`reference/extract-A.log`).
-- Ensuite : Étape J (`docs/AUDIT.md`), Phase 2 (fondations), courbes (Étape F) et images WebGL (Étape G).
+## Point de reprise (2026-11-21, session 2)
+- Selftest de l'original OK (0 %). Extraction de référence liste A en cours en arrière-plan (`reference/extract-A.log`, `--net=record`).
+- Fondations faites et mesurées : gabarit, navigation, footer, presets, Variants/HideOn, outils spec/transpose/compare (D-029..D-032).
+- Vague de construction en agents parallèles (D-032) : homea, homeb, projects, studio, journal, fx — rapports dans `docs/build/<id>.md`, demandes dans `docs/requests/<id>.md`.
+- Ensuite : fusion + `next build` + comparaison complète par page, liste B, Phases 4-11.

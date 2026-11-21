@@ -16,7 +16,7 @@ Plusieurs agents travaillent **en même temps dans le même dossier**. Ces règl
 - **Aucune commande git qui écrit** : pas de `add`, `commit`, `checkout`, `switch`, `reset`, `restore`, `stash`, `rebase`, `merge`, `clean`, `branch`, `tag`. Lecture seule autorisée (`status`, `log`, `diff`, `show`). Seule la session principale commite.
 - **Aucun** `npm install/uninstall/update`, aucun nouveau paquet. `npx --yes js-beautify@1.15.4` est la seule exception.
 - **Ne tue jamais un processus que tu n'as pas lancé** : pas de `pkill`, `killall`, `taskkill` sur `node`/`chrome`. D'autres agents ont des navigateurs ouverts.
-- Pas de `next dev` ni de `next build` pendant la vague d'audit (réservés à la session principale ; les agents de construction recevront un port et un dossier dédiés).
+- **Jamais** `next build` (session principale seulement). Vague de construction : `next dev` autorisé **uniquement** avec ton dossier et ton port : `NEXT_DIST_DIR=.next-<ton-id> npx next dev -p <ton port>` ; note son PID et arrête-le à la fin (seul `taskkill` permis : sur ce PID).
 
 ## 3. Navigateur et banc
 - **Un seul navigateur Playwright à la fois** par agent, toujours via `scripts/lib/harness.mjs`, fermé à la fin (`closeAll` + `browser.close()`), et chaque exécution ≤ 10 min.

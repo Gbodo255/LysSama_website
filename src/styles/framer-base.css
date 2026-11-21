@@ -1,5 +1,6 @@
 /* Transposé du CSS d'origine (règles génériques) — scripts/gen-styles.mjs */
 html,body,#main{box-sizing:border-box;margin:0;padding:0}
+:root{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 *{box-sizing:border-box;-webkit-font-smoothing:inherit}
 h1,h2,h3,h4,h5,h6,p,figure{margin:0}
 body,input,textarea,select,button{font-family:sans-serif;font-size:12px}
@@ -115,3 +116,7 @@ html.lenis body {
   transition-duration: 1ms;
   transition-behavior: allow-discrete;
 }
+@media (max-width: 809.98px) { .hidden-1pvmz1y { display: none !important; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .hidden-1wjgfnr { display: none !important; } }
+@media (min-width: 1200px) { .hidden-1e6htkk { display: none !important; } }
+.ssr-variant { display: contents; }

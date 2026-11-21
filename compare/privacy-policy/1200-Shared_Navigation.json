@@ -1,0 +1,24 @@
+{
+ "route": "/privacy-policy",
+ "width": 1200,
+ "scope": "Shared Navigation",
+ "height": {
+  "ref": 4631,
+  "clone": 945,
+  "deltaPct": 79.594
+ },
+ "counts": {
+  "ref": 66,
+  "clone": 66,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": []
+}

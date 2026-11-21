@@ -67,7 +67,8 @@ const outAbs = path.join(ROOT, outBase);
 fs.mkdirSync(path.dirname(outAbs), { recursive: true });
 // --sel=<regex> : ne garder que les règles dont le texte correspond (ex. règles propres au gabarit).
 const selRe = (process.argv.find((a) => a.startsWith('--sel=')) || '').slice(6);
-const uniq = [...new Set(res.rules)].filter((r) => !already.has(r.trim()) && (!selRe || new RegExp(selRe).test(r)));
+// Presets de texte et @supports globaux : uniquement dans src/styles/presets.css (scripts/gen-presets.mjs), sinon la cascade s'inverse.
+const uniq = [...new Set(res.rules)].filter((r) => !already.has(r.trim()) && !/framer-styles-preset-/.test(r) && !r.startsWith('@supports') && (!selRe || new RegExp(selRe).test(r)));
 const localize = (s) => s.replace(/https:\/\/framerusercontent\.com\/[^"')\s,]+/g, (u) => manifest[u.split('?')[0]]?.local || u);
 fs.writeFileSync(outAbs + '.css', `/* Transposé de reference/html/${page}.html — "${name}" [${idx}] (scripts/transpose.mjs, D-029). Valeurs d'origine inchangées. */\n${uniq.map(localize).join('\n')}\n`);
 if (cssOnly) { console.log(path.relative(ROOT, outAbs) + '.css', uniq.length, 'règles'); process.exit(0); }

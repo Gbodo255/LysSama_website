@@ -1,0 +1,24 @@
+{
+ "route": "/privacy-policy",
+ "width": 810,
+ "scope": "Footer",
+ "height": {
+  "ref": 4299,
+  "clone": 900,
+  "deltaPct": 79.065
+ },
+ "counts": {
+  "ref": 98,
+  "clone": 98,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": []
+}

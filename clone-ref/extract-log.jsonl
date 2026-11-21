@@ -1,0 +1,23 @@
+{"r":"C:/Program Files/Git/privacy-policy","w":1440,"ok":false,"err":"Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:4173C:/Program Files/Git/privacy-policy\", waiting until \"load\"\u001b[22m\n","at":"2026-11-20T23:46:00.571Z"}
+{"r":"C:/Program Files/Git/privacy-policy","w":390,"ok":false,"err":"Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:4173C:/Program Files/Git/privacy-policy\", waiting until \"load\"\u001b[22m\n","at":"2026-11-20T23:46:00.579Z"}
+{"r":"C:/Program Files/Git/privacy-policy","w":810,"ok":false,"err":"Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:4173C:/Program Files/Git/privacy-policy\", waiting until \"load\"\u001b[22m\n","at":"2026-11-20T23:46:00.579Z"}
+{"r":"/privacy-policy","w":810,"ok":true,"ms":12575,"height":900,"items":164,"missing":0,"errors":0,"at":"2026-11-20T23:46:46.599Z"}
+{"r":"/privacy-policy","w":390,"ok":true,"ms":13453,"height":935,"items":158,"missing":0,"errors":0,"at":"2026-11-20T23:46:46.600Z"}
+{"r":"/privacy-policy","w":1440,"ok":true,"ms":13586,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-20T23:46:46.600Z"}
+{"r":"/privacy-policy","w":810,"ok":true,"ms":6838,"height":900,"items":164,"missing":0,"errors":0,"at":"2026-11-20T23:52:27.587Z"}
+{"r":"/privacy-policy","w":390,"ok":true,"ms":7317,"height":935,"items":158,"missing":0,"errors":0,"at":"2026-11-20T23:52:27.592Z"}
+{"r":"/privacy-policy","w":1440,"ok":true,"ms":7481,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-20T23:52:27.592Z"}
+{"r":"/privacy-policy","w":810,"ok":true,"ms":15936,"height":900,"items":164,"missing":0,"errors":0,"at":"2026-11-20T23:56:14.249Z"}
+{"r":"/privacy-policy","w":390,"ok":true,"ms":16892,"height":935,"items":158,"missing":0,"errors":0,"at":"2026-11-20T23:56:14.270Z"}
+{"r":"/privacy-policy","w":1440,"ok":true,"ms":17283,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-20T23:56:14.270Z"}
+{"r":"/privacy-policy","w":810,"ok":true,"ms":21405,"height":900,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:02:15.260Z"}
+{"r":"/privacy-policy","w":390,"ok":true,"ms":23781,"height":935,"items":158,"missing":0,"errors":0,"at":"2026-11-21T00:02:15.278Z"}
+{"r":"/privacy-policy","w":1440,"ok":true,"ms":24312,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:02:15.278Z"}
+{"r":"/privacy-policy","w":810,"ok":true,"ms":23144,"height":900,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:05:14.364Z"}
+{"r":"/privacy-policy","w":390,"ok":true,"ms":23697,"height":900,"items":158,"missing":0,"errors":0,"at":"2026-11-21T00:05:14.389Z"}
+{"r":"/privacy-policy","w":1200,"ok":true,"ms":25402,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:05:14.389Z"}
+{"r":"/privacy-policy","w":1440,"ok":true,"ms":25407,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:05:14.389Z"}
+{"r":"/privacy-policy","w":810,"ok":true,"ms":15788,"height":900,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:08:31.646Z"}
+{"r":"/privacy-policy","w":390,"ok":true,"ms":16326,"height":900,"items":158,"missing":0,"errors":0,"at":"2026-11-21T00:08:31.665Z"}
+{"r":"/privacy-policy","w":1200,"ok":true,"ms":17248,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:08:31.665Z"}
+{"r":"/privacy-policy","w":1440,"ok":true,"ms":17430,"height":945,"items":164,"missing":0,"errors":0,"at":"2026-11-21T00:08:31.665Z"}

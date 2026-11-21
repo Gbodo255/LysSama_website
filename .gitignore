@@ -19,3 +19,10 @@ public/assets/videos/
 
 # Images de comparaison (les rapports .md restent versionnés)
 compare/**/*.png
+.next-*/
+
+# Squelettes et fiches régénérables (scripts/transpose.mjs, scripts/spec.mjs)
+*.gen.tsx
+reference/specs/
+clone-ref/screenshots/
+clone-ref/dom/

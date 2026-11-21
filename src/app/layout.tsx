@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from 'next';
+import { SvgSprite } from '@/components/SvgSprite';
 import '@/styles/globals.css';
 
 export const metadata: Metadata = { title: 'Mira Studio' };
@@ -9,6 +10,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" dir="ltr">
       <body>
         <div id="main">{children}</div>
+        <SvgSprite />
       </body>
     </html>
   );
