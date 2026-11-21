@@ -1,3 +1,5 @@
+import { metaFor } from '@/lib/meta';
+export const metadata = metaFor('/projects/puma');
 import { PageStyle } from '@/components/PageStyle';
 import { Template } from '@/components/Template';
 import { FlatPage } from '@/components/Variants';

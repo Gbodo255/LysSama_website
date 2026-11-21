@@ -1,3 +1,5 @@
+import { metaFor } from '@/lib/meta';
+export const metadata = metaFor('/studio');
 import { PageStyle } from '@/components/PageStyle';
 import { Template } from '@/components/Template';
 import { Body } from '@/gen/studio/Body';

@@ -1,3 +1,5 @@
+import { metaFor } from '@/lib/meta';
+export const metadata = metaFor('/journal/the-best-type-is-invisible');
 import { PageStyle } from '@/components/PageStyle';
 import { Template } from '@/components/Template';
 import { Body } from '@/gen/journal__the-best-type-is-invisible/Body';
