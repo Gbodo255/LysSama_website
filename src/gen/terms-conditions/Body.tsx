@@ -27,7 +27,7 @@ export function Body() {
             <HideOn on={["phone"]}>
             <header className="framer-1b00xfu hidden-71q57o" data-framer-name="Top">
               <Appear as="div" spec={AP["1w1rh85"]} bps={BPS} className="framer-1w1rh85-container" data-framer-appear-id="1w1rh85" style={{ "opacity": "0.001", "transform": "none" }}>
-                <Lk aria-label={T[0]} className="framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1" data-framer-name="Link Container" style={{ "--159cm0u": "0px 0px 0px 0px" }} to="/">
+                <Lk aria-label={T[0]} className="framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1" data-framer-name="Link Container" href="./" style={{ "--159cm0u": "0px 0px 0px 0px" }} to="/">
                   <div data-framer-name="Logo" className="framer-SHtMX framer-7h3po8" />
                 </Lk>
               </Appear>
@@ -64,10 +64,10 @@ export function Body() {
                     </h1>
                   </Appear>
                   <SV c="ssr-variant hidden-71q57o hidden-o63hkf" show={["desktop"]}>
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":1.1,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, text: T[4] }]} className="framer-4itqln" data-framer-name="Intro" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":1.1,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[4]] }]} className="framer-4itqln" data-framer-name="Intro" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </SV>
                   <SV c="ssr-variant hidden-1xlf4m4" show={["tablet","phone"]}>
-                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":1.1,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, text: T[5] }]} className="framer-4itqln" data-framer-name="Intro" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                    <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":1.1,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[5]] }]} className="framer-4itqln" data-framer-name="Intro" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </SV>
                 </div>
                 <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":40},"transition":{"damping":25,"delay":1.3,"mass":0.3,"stiffness":120,"type":"spring"},"once":true,"threshold":0,"target":1}} className="framer-104pdxd" data-framer-name="Content" data-framer-component-type="RichTextContainer" style={{ "willChange": "transform", "opacity": "0", "transform": "translateY(40px)" }}>

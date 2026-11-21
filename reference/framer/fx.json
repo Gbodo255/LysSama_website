@@ -1,9 +1,24 @@
 {
+ "framer-12vlvse-container": [
+  {
+   "module": "JKo4PdE_2.CATvKgFy.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "b5cbcgrAD",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "iLlY2rby8"
+   }
+  }
+ ],
  "framer-13ru9tt": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 870,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -38,12 +53,18 @@
  ],
  "framer-1vyr7a1-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 980,
+   "line": 1,
    "props": {
     "__framer__animate": {
-     "transition": "<?CallExpression>"
+     "transition": {
+      "bounce": 0.1,
+      "delay": 0.5,
+      "duration": 1.2,
+      "type": "spring",
+      "$staggerStep": 0.1
+     }
     },
     "__framer__animateOnce": true,
     "__framer__enter": {
@@ -67,9 +88,9 @@
  ],
  "framer-1wxdbf5": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 1046,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -104,9 +125,9 @@
  ],
  "framer-93quvr": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 1069,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -138,9 +159,9 @@
  ],
  "framer-1gw2wss": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": "Open Positions",
-   "line": 1104,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -172,9 +193,9 @@
  ],
  "framer-1k6hmdl-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 1191,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -206,9 +227,9 @@
  ],
  "framer-1yvrc4p": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": "Team photo",
-   "line": 1226,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -240,9 +261,9 @@
  ],
  "framer-zsjmne-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": "1",
-   "line": 1950,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -275,9 +296,9 @@
  ],
  "framer-1ywp80p-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": "2",
-   "line": 1991,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -310,9 +331,9 @@
  ],
  "framer-r3qz5f-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": "3",
-   "line": 2032,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -345,9 +366,9 @@
  ],
  "framer-ac7ito": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": "4",
-   "line": 2069,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -380,9 +401,9 @@
  ],
  "framer-1e2gkk0-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 2635,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -414,9 +435,9 @@
  ],
  "framer-w5jgsw-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 2683,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -448,9 +469,9 @@
  ],
  "framer-1b3ee75-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 2731,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -482,9 +503,9 @@
  ],
  "framer-1cx52vy-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 2779,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -516,9 +537,9 @@
  ],
  "framer-1sk08w1-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 2820,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -550,9 +571,9 @@
  ],
  "framer-1rlkmsm-container": [
   {
-   "module": "jvKQE_ghl.D8L5bMF5.mjs.js",
+   "module": "jvKQE_ghl.D8L5bMF5.mjs",
    "name": null,
-   "line": 2868,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -584,9 +605,9 @@
  ],
  "framer-du4s0o": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Top",
-   "line": 10963,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -629,9 +650,9 @@
  ],
  "framer-9v4fjv": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Included",
-   "line": 11397,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -674,9 +695,9 @@
  ],
  "framer-dh1w8s": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Add-ons",
-   "line": 11614,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -719,9 +740,9 @@
  ],
  "framer-gdnth6": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Hero",
-   "line": 12724,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -762,9 +783,9 @@
  ],
  "framer-1d50dfc": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Inside Container",
-   "line": 13013,
+   "line": 1292,
    "props": {
     "__framer__adjustPosition": false,
     "__framer__offset": 0,
@@ -777,9 +798,9 @@
  ],
  "framer-5s3f7s": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Positioning Headline",
-   "line": 13442,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -814,9 +835,9 @@
  ],
  "framer-12okula-container": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Founder Profile Card",
-   "line": 13482,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -843,13 +864,26 @@
     "__perspectiveFX": false,
     "__targetOpacity": 1
    }
+  },
+  {
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+   "name": null,
+   "line": 1292,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "Q7SnnxNQf",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "cqy9B66RZ"
+   }
   }
  ],
  "framer-1wg7p81": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Signature",
-   "line": 13543,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -880,9 +914,9 @@
  ],
  "framer-ql5j4v": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Philosophy Eyebrow",
-   "line": 13559,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -913,9 +947,9 @@
  ],
  "framer-1vyjfpw": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Quote",
-   "line": 13593,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -950,9 +984,9 @@
  ],
  "framer-vur5wz": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Small Text",
-   "line": 13613,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -987,9 +1021,9 @@
  ],
  "framer-l6m7oy-container": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Philosophy Link",
-   "line": 13660,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -1020,9 +1054,9 @@
  ],
  "framer-12rs6gn": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Logo",
-   "line": 13723,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -1064,9 +1098,9 @@
  ],
  "framer-1mqkqdf": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Projects Collection",
-   "line": 13848,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -1108,9 +1142,9 @@
  ],
  "framer-1jgewsq": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Media",
-   "line": 13951,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1151,9 +1185,9 @@
  ],
  "framer-ul47s4": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Dark Overlay",
-   "line": 13985,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1194,9 +1228,9 @@
  ],
  "framer-4mh2mt": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Impact Headline",
-   "line": 14404,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1231,9 +1265,9 @@
  ],
  "framer-fan4ht": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Impact Supporting Copy",
-   "line": 14431,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1268,9 +1302,9 @@
  ],
  "framer-o6avto": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Impact Footnote",
-   "line": 14455,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -1299,11 +1333,26 @@
    }
   }
  ],
+ "framer-8jwvf3-container": [
+  {
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+   "name": null,
+   "line": 1292,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "q09oREoWS",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "bu2EzEpdX"
+   }
+  }
+ ],
  "framer-5fp2uh": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Services Heading",
-   "line": 14916,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1338,9 +1387,9 @@
  ],
  "framer-1as0e7n": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Services Description",
-   "line": 14935,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1375,9 +1424,9 @@
  ],
  "framer-4arhdd": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Process Headline",
-   "line": 15115,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1412,9 +1461,9 @@
  ],
  "framer-p5b75q": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Big Text",
-   "line": 15170,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1449,9 +1498,9 @@
  ],
  "framer-1asx0vr": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Small Text",
-   "line": 15201,
+   "line": 1292,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -1482,9 +1531,9 @@
  ],
  "framer-16i0mj7": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Process",
-   "line": 15238,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1523,11 +1572,47 @@
    }
   }
  ],
+ "framer-smi9hy-container": [
+  {
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+   "name": null,
+   "line": 1292,
+   "inherited": true,
+   "props": {
+    "__framer__variantAppearEffectEnabled": "<?UnaryExpression>"
+   }
+  },
+  {
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+   "name": null,
+   "line": 1292,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": false,
+    "__framer__targets": [
+     {
+      "ref": "<?se>",
+      "target": "dPWqybCNx"
+     },
+     {
+      "ref": "<?ce>",
+      "target": "Cth7STIQR"
+     },
+     {
+      "ref": "<?le>",
+      "target": "NMtXp8_Fx"
+     }
+    ],
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true
+   }
+  }
+ ],
  "framer-1p1tvr6-container": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Video / Image Thumbnail",
-   "line": 15403,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1568,9 +1653,9 @@
  ],
  "framer-1nikuxu": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Reel Duration",
-   "line": 15475,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1611,9 +1696,9 @@
  ],
  "framer-c7nifx": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Play Reel",
-   "line": 15526,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1654,9 +1739,9 @@
  ],
  "framer-1pwqs1k": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Reel Play Label",
-   "line": 15563,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1697,9 +1782,9 @@
  ],
  "framer-fsssoq": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Reel Label",
-   "line": 15630,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1740,9 +1825,9 @@
  ],
  "framer-16ddp1o-container": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Studio Years Timeline",
-   "line": 15689,
+   "line": 1292,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1783,9 +1868,9 @@
  ],
  "framer-q4jadz": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Testimonials Heading",
-   "line": 15863,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1820,9 +1905,9 @@
  ],
  "framer-1hucu8a": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Testimonials Description",
-   "line": 15883,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1857,9 +1942,9 @@
  ],
  "framer-171fxfb": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Pricing Headline",
-   "line": 16043,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1894,9 +1979,9 @@
  ],
  "framer-1xw8v5t": [
   {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs.js",
+   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": "Pricing Description",
-   "line": 16068,
+   "line": 1292,
    "props": {
     "effect": {
      "effect": {
@@ -1929,11 +2014,492 @@
    }
   }
  ],
+ "framer-126jzuy-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "delay": 0.3,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 20
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-g64ihk-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "delay": 0.4,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 20
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-1g1zt2c-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "delay": 0.5,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 20
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-8f1u33-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "delay": 0.6,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 20
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-1iqftmo-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "delay": 0.7,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 20
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-p6vj3b-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "delay": 0.8,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 20
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-1yriwtq": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "effect": {
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 10
+     },
+     "repeat": false,
+     "startDelay": 0.2,
+     "threshold": 0,
+     "tokenization": "line",
+     "transition": {
+      "delay": 0.2,
+      "duration": 1.1,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     },
+     "trigger": "onInView",
+     "type": "appear"
+    }
+   }
+  }
+ ],
+ "framer-1g3rpwd": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "effect": {
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 10
+     },
+     "repeat": false,
+     "startDelay": 1,
+     "threshold": 0,
+     "tokenization": "line",
+     "transition": {
+      "delay": 0.2,
+      "duration": 1.1,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     },
+     "trigger": "onInView",
+     "type": "appear"
+    }
+   }
+  }
+ ],
+ "framer-16v0v5e": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "bounce": 0.1,
+      "delay": 1,
+      "duration": 1.2,
+      "type": "spring"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 0
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-nn6ref-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "damping": 32,
+      "delay": 1,
+      "mass": 1,
+      "stiffness": 165,
+      "type": "spring"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 15,
+     "y": 0
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0.5,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-o7gwtl-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "damping": 32,
+      "delay": 1.1,
+      "mass": 1,
+      "stiffness": 165,
+      "type": "spring"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 15,
+     "y": 0
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0.5,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-16czye0-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "damping": 32,
+      "delay": 1.2,
+      "mass": 1,
+      "stiffness": 165,
+      "type": "spring"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 15,
+     "y": 0
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0.5,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
+ "framer-1vtfl6s-container": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__animate": {
+     "transition": {
+      "bounce": 0.1,
+      "delay": 1.3,
+      "duration": 1.2,
+      "type": "spring"
+     }
+    },
+    "__framer__animateOnce": true,
+    "__framer__enter": {
+     "opacity": 0,
+     "rotate": 0,
+     "rotateX": 0,
+     "rotateY": 0,
+     "scale": 1,
+     "skewX": 0,
+     "skewY": 0,
+     "x": 0,
+     "y": 0
+    },
+    "__framer__styleAppearEffectEnabled": true,
+    "__framer__threshold": 0,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
  "framer-1x0mefb": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": "Hero",
-   "line": 503,
+   "line": 1,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -1972,11 +2538,26 @@
    }
   }
  ],
+ "framer-16v677h-container": [
+  {
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "DV6oTfLLg",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "Uh95rRMl7"
+   }
+  }
+ ],
  "framer-hb5ox2": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": "Inside Container",
-   "line": 590,
+   "line": 1,
    "props": {
     "__framer__adjustPosition": false,
     "__framer__offset": 0,
@@ -1989,9 +2570,9 @@
  ],
  "framer-alv9ty": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": null,
-   "line": 740,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2026,9 +2607,9 @@
  ],
  "framer-1frrzdj": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": "1",
-   "line": 991,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2064,9 +2645,9 @@
  ],
  "framer-1jz2epk": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": "2",
-   "line": 1052,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2102,9 +2683,9 @@
  ],
  "framer-1qpqs3n": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": null,
-   "line": 1086,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2139,9 +2720,9 @@
  ],
  "framer-14z3fot": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": null,
-   "line": 1318,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2176,9 +2757,9 @@
  ],
  "framer-1rg17ve": [
   {
-   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs.js",
+   "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
    "name": null,
-   "line": 1568,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2213,9 +2794,9 @@
  ],
  "framer-1pn8hwk": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": "Line",
-   "line": 679,
+   "line": 1,
    "props": {
     "__framer__loop": {
      "opacity": 0.5,
@@ -2251,9 +2832,9 @@
  ],
  "framer-nfv3sk": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": null,
-   "line": 781,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2288,9 +2869,9 @@
  ],
  "framer-w3tiya": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": "Slot",
-   "line": 1927,
+   "line": 1,
    "props": {
     "__framer__loop": {
      "opacity": 0.5,
@@ -2324,11 +2905,26 @@
    }
   }
  ],
+ "framer-1blfm22-container": [
+  {
+   "module": "n_03H18N2.ClVbANJn.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "XN1X2rc4T",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "DlVS4BEWz"
+   }
+  }
+ ],
  "framer-1xbm67e": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": null,
-   "line": 3396,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2363,9 +2959,9 @@
  ],
  "framer-1ppt5ho": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": null,
-   "line": 3427,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2400,9 +2996,9 @@
  ],
  "framer-13sow98-container": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": null,
-   "line": 3477,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2434,9 +3030,9 @@
  ],
  "framer-xxp7hb": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": "Contact / Logo",
-   "line": 3512,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2468,9 +3064,9 @@
  ],
  "framer-1xxi6mr-container": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": null,
-   "line": 3645,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2507,9 +3103,9 @@
  ],
  "framer-1ldqm2m-container": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": null,
-   "line": 3689,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2546,9 +3142,9 @@
  ],
  "framer-18kvjba-container": [
   {
-   "module": "n_03H18N2.ClVbANJn.mjs.js",
+   "module": "n_03H18N2.ClVbANJn.mjs",
    "name": null,
-   "line": 3740,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2585,9 +3181,9 @@
  ],
  "framer-4itqln": [
   {
-   "module": "oYmZ9UfwdY8OVEX6_MW8CdalbLUYIz93UtFXr9umtmk.CiriyOTv.mjs.js",
+   "module": "oYmZ9UfwdY8OVEX6_MW8CdalbLUYIz93UtFXr9umtmk.CiriyOTv.mjs",
    "name": "Intro",
-   "line": 575,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2622,9 +3218,9 @@
  ],
  "framer-104pdxd": [
   {
-   "module": "oYmZ9UfwdY8OVEX6_MW8CdalbLUYIz93UtFXr9umtmk.CiriyOTv.mjs.js",
+   "module": "oYmZ9UfwdY8OVEX6_MW8CdalbLUYIz93UtFXr9umtmk.CiriyOTv.mjs",
    "name": "Content",
-   "line": 601,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2656,9 +3252,9 @@
  ],
  "framer-3j1snh": [
   {
-   "module": "pgtQfyOCv.DMDfGpCr.mjs.js",
+   "module": "pgtQfyOCv.DMDfGpCr.mjs",
    "name": null,
-   "line": 1528,
+   "line": 7,
    "props": {
     "effect": {
      "effect": {
@@ -2693,9 +3289,9 @@
  ],
  "framer-151hr3l-container": [
   {
-   "module": "pgtQfyOCv.DMDfGpCr.mjs.js",
+   "module": "pgtQfyOCv.DMDfGpCr.mjs",
    "name": null,
-   "line": 1578,
+   "line": 7,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2727,12 +3323,23 @@
  ],
  "framer-ggx1b3-container": [
   {
-   "module": "pgtQfyOCv.DMDfGpCr.mjs.js",
+   "module": "pgtQfyOCv.DMDfGpCr.mjs",
    "name": null,
-   "line": 1679,
+   "line": 7,
    "props": {
     "__framer__animate": {
-     "transition": "<?CallExpression>"
+     "transition": {
+      "delay": 0.3,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween",
+      "$staggerStep": 0.1
+     }
     },
     "__framer__animateOnce": true,
     "__framer__enter": {
@@ -2754,11 +3361,89 @@
    }
   }
  ],
+ "framer-puc6sm-container": [
+  {
+   "module": "rWbx8J1Z4.DtLmKswU.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "b5cbcgrAD",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "iLlY2rby8"
+   }
+  }
+ ],
+ "framer-g4q8rv-container": [
+  {
+   "module": "rWbx8J1Z4.DtLmKswU.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__targets": [
+     {
+      "ref": "<?C>",
+      "target": "iLlY2rby8"
+     }
+    ],
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true
+   }
+  }
+ ],
+ "framer-c5hpba": [
+  {
+   "module": "rWbx8J1Z4.DtLmKswU.mjs",
+   "name": null,
+   "line": 1,
+   "props": {
+    "__framer__styleTransformEffectEnabled": true,
+    "__framer__transformTargets": [
+     {
+      "target": {
+       "opacity": 1,
+       "rotate": 0,
+       "rotateX": 0,
+       "rotateY": 0,
+       "scale": 1,
+       "skewX": 0,
+       "skewY": 0,
+       "x": 0,
+       "y": -100
+      }
+     },
+     {
+      "ref": "<?C>",
+      "target": {
+       "opacity": 1,
+       "rotate": 0,
+       "rotateX": 0,
+       "rotateY": 0,
+       "scale": 1,
+       "skewX": 0,
+       "skewY": 0,
+       "x": 0,
+       "y": 0
+      }
+     }
+    ],
+    "__framer__transformTrigger": "onScrollTarget",
+    "__framer__transformViewportThreshold": 0.5,
+    "__perspectiveFX": false,
+    "__smartComponentFX": true,
+    "__targetOpacity": 1
+   }
+  }
+ ],
  "framer-8yi7pu": [
   {
-   "module": "ststDNBz5mjPiBlGlwdZxdeUrs4d6wqFXwZKgmLkBb4.rZ5UQZyV.mjs.js",
+   "module": "ststDNBz5mjPiBlGlwdZxdeUrs4d6wqFXwZKgmLkBb4.rZ5UQZyV.mjs",
    "name": null,
-   "line": 669,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -2791,11 +3476,26 @@
    }
   }
  ],
+ "framer-5f1z3o-container": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "name": null,
+   "line": 13,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": false,
+    "__framer__obscuredVariantId": "V2KoG_60U",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "CDrScK76Q"
+   }
+  }
+ ],
  "framer-1f5zjl5": [
   {
-   "module": "toplevel-deps.BY2s547D.mjs.js",
+   "module": "toplevel-deps.BY2s547D.mjs",
    "name": null,
-   "line": 9069,
+   "line": 13,
    "props": {
     "effect": {
      "effect": {
@@ -2826,9 +3526,9 @@
  ],
  "framer-1bx1f5o": [
   {
-   "module": "toplevel-deps.BY2s547D.mjs.js",
+   "module": "toplevel-deps.BY2s547D.mjs",
    "name": "Template",
-   "line": 11937,
+   "line": 13,
    "props": {
     "effect": {
      "effect": {
@@ -2865,9 +3565,9 @@
  ],
  "framer-toxla0": [
   {
-   "module": "toplevel-deps.BY2s547D.mjs.js",
+   "module": "toplevel-deps.BY2s547D.mjs",
    "name": "Plus",
-   "line": 11964,
+   "line": 13,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -2904,9 +3604,9 @@
  ],
  "framer-d3vg1h": [
   {
-   "module": "toplevel-deps.BY2s547D.mjs.js",
+   "module": "toplevel-deps.BY2s547D.mjs",
    "name": null,
-   "line": 11996,
+   "line": 13,
    "props": {
     "effect": {
      "effect": {
@@ -2943,9 +3643,9 @@
  ],
  "framer-1v6vp5v": [
   {
-   "module": "toplevel-deps.BY2s547D.mjs.js",
+   "module": "toplevel-deps.BY2s547D.mjs",
    "name": null,
-   "line": 12021,
+   "line": 13,
    "props": {
     "effect": {
      "effect": {
@@ -2980,11 +3680,41 @@
    }
   }
  ],
+ "framer-1p16sqf-container": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "name": null,
+   "line": 13,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": false,
+    "__framer__obscuredVariantId": "hA95yhsf9",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "emNd45eer"
+   }
+  }
+ ],
+ "framer-y25ypk-container": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "LJ9aJ2_VI",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "GabQ6RP7V"
+   }
+  }
+ ],
  "framer-1toknrk": [
   {
-   "module": "vL1rEwvHQ.BRqKSIP-.mjs.js",
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
    "name": null,
-   "line": 2983,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3019,9 +3749,9 @@
  ],
  "framer-1qapydd": [
   {
-   "module": "vL1rEwvHQ.BRqKSIP-.mjs.js",
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
    "name": "Role / Company",
-   "line": 3007,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3056,9 +3786,9 @@
  ],
  "framer-1oadq5b": [
   {
-   "module": "vL1rEwvHQ.BRqKSIP-.mjs.js",
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
    "name": "Big Text 1",
-   "line": 3050,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3093,9 +3823,9 @@
  ],
  "framer-hl9p95": [
   {
-   "module": "vL1rEwvHQ.BRqKSIP-.mjs.js",
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
    "name": "Small Text 1",
-   "line": 3078,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3128,11 +3858,26 @@
    }
   }
  ],
+ "framer-gb3bgf-container": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "b5cbcgrAD",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "iLlY2rby8"
+   }
+  }
+ ],
  "framer-1wlx10r": [
   {
-   "module": "vL1rEwvHQ.BRqKSIP-.mjs.js",
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
    "name": "1",
-   "line": 3207,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -3164,9 +3909,9 @@
  ],
  "framer-63ztgz": [
   {
-   "module": "vL1rEwvHQ.BRqKSIP-.mjs.js",
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
    "name": "2",
-   "line": 3275,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -3198,9 +3943,9 @@
  ],
  "framer-12cy8up": [
   {
-   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs.js",
+   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
    "name": "Category",
-   "line": 1396,
+   "line": 3,
    "props": {
     "effect": {
      "effect": {
@@ -3235,9 +3980,9 @@
  ],
  "framer-1sun04h": [
   {
-   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs.js",
+   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
    "name": "Description",
-   "line": 1467,
+   "line": 3,
    "props": {
     "effect": {
      "effect": {
@@ -3272,9 +4017,9 @@
  ],
  "framer-2y3bst": [
   {
-   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs.js",
+   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
    "name": "Intro Header",
-   "line": 1553,
+   "line": 3,
    "props": {
     "effect": {
      "effect": {
@@ -3309,9 +4054,9 @@
  ],
  "framer-1tn62t5": [
   {
-   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs.js",
+   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
    "name": "Content",
-   "line": 1581,
+   "line": 3,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -3343,9 +4088,9 @@
  ],
  "framer-142f1kq": [
   {
-   "module": "W8Mju5LdxFrIwLSI6bVG_utu9VHQi20w7gSVBP5gn9o.BnIUv_Sm.mjs.js",
+   "module": "W8Mju5LdxFrIwLSI6bVG_utu9VHQi20w7gSVBP5gn9o.BnIUv_Sm.mjs",
    "name": null,
-   "line": 456,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3380,9 +4125,9 @@
  ],
  "framer-1yubnzo-container": [
   {
-   "module": "W8Mju5LdxFrIwLSI6bVG_utu9VHQi20w7gSVBP5gn9o.BnIUv_Sm.mjs.js",
+   "module": "W8Mju5LdxFrIwLSI6bVG_utu9VHQi20w7gSVBP5gn9o.BnIUv_Sm.mjs",
    "name": null,
-   "line": 624,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -3418,9 +4163,9 @@
  ],
  "framer-3ye8xs": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Hero",
-   "line": 965,
+   "line": 1,
    "props": {
     "__framer__styleTransformEffectEnabled": true,
     "__framer__transformTargets": [
@@ -3459,11 +4204,26 @@
    }
   }
  ],
+ "framer-1vzwwht-container": [
+  {
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "DV6oTfLLg",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "Uh95rRMl7"
+   }
+  }
+ ],
  "framer-9cugxo": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Inside Container",
-   "line": 1051,
+   "line": 1,
    "props": {
     "__framer__adjustPosition": false,
     "__framer__offset": 0,
@@ -3474,14 +4234,37 @@
    }
   }
  ],
+ "framer-11q1tjf-container": [
+  {
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "b5cbcgrAD",
+    "__framer__threshold": 0.5,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "iLlY2rby8"
+   }
+  }
+ ],
  "framer-18lk34a": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Description",
-   "line": 1401,
+   "line": 1,
    "props": {
     "effect": {
-     "effect": "<?Y>",
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 15
+     },
      "repeat": false,
      "startDelay": 1.25,
      "threshold": 0,
@@ -3505,9 +4288,9 @@
  ],
  "framer-105cjq5-container": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": null,
-   "line": 1605,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -3543,12 +4326,20 @@
  ],
  "framer-onrclc": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Big Text",
-   "line": 1636,
+   "line": 1,
    "props": {
     "effect": {
-     "effect": "<?Y>",
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 15
+     },
      "repeat": false,
      "startDelay": 0.2,
      "threshold": 0.5,
@@ -3572,17 +4363,35 @@
  ],
  "framer-4e5inr": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Small Text",
-   "line": 1657,
+   "line": 1,
    "props": {
     "effect": {
-     "effect": "<?Tn>",
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 5
+     },
      "repeat": false,
      "startDelay": 0.2,
      "threshold": 0,
      "tokenization": "word",
-     "transition": "<?Z>",
+     "transition": {
+      "delay": 0.02,
+      "duration": 0.6,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     },
      "trigger": "onInView",
      "type": "appear"
     }
@@ -3591,9 +4400,9 @@
  ],
  "framer-1dh416h-container": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Live Link",
-   "line": 1702,
+   "line": 1,
    "props": {
     "__framer__animate": {
      "transition": {
@@ -3627,14 +4436,67 @@
    }
   }
  ],
+ "framer-pgnxge-container": [
+  {
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "SEOMcnqgJ",
+    "__framer__threshold": 0,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "bst1eaA3L"
+   }
+  }
+ ],
+ "framer-nhp5bo-container": [
+  {
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "SEOMcnqgJ",
+    "__framer__threshold": 0,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "bst1eaA3L"
+   }
+  }
+ ],
+ "framer-12ft01b-container": [
+  {
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "SEOMcnqgJ",
+    "__framer__threshold": 0,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "bst1eaA3L"
+   }
+  }
+ ],
  "framer-rxaauc": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Big Text",
-   "line": 1922,
+   "line": 1,
    "props": {
     "effect": {
-     "effect": "<?Y>",
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 15
+     },
      "repeat": false,
      "startDelay": 0.2,
      "threshold": 0.5,
@@ -3658,9 +4520,9 @@
  ],
  "framer-1vesi0q": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Small Text",
-   "line": 1942,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3676,21 +4538,54 @@
      "startDelay": 0.2,
      "threshold": 0,
      "tokenization": "word",
-     "transition": "<?Z>",
+     "transition": {
+      "delay": 0.02,
+      "duration": 0.6,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     },
      "trigger": "onInView",
      "type": "appear"
     }
    }
   }
  ],
+ "framer-1lrcd5x-container": [
+  {
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+   "name": null,
+   "line": 1,
+   "inherited": true,
+   "props": {
+    "__framer__animateOnce": true,
+    "__framer__obscuredVariantId": "SEOMcnqgJ",
+    "__framer__threshold": 0,
+    "__framer__variantAppearEffectEnabled": true,
+    "__framer__visibleVariantId": "bst1eaA3L"
+   }
+  }
+ ],
  "framer-1pjpizp": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Big Text",
-   "line": 2060,
+   "line": 1,
    "props": {
     "effect": {
-     "effect": "<?Y>",
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 15
+     },
      "repeat": false,
      "startDelay": 0.2,
      "threshold": 0.5,
@@ -3714,9 +4609,9 @@
  ],
  "framer-1761imj": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Small Text",
-   "line": 2080,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3732,7 +4627,17 @@
      "startDelay": 0.2,
      "threshold": 0,
      "tokenization": "word",
-     "transition": "<?Z>",
+     "transition": {
+      "delay": 0.02,
+      "duration": 0.6,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     },
      "trigger": "onInView",
      "type": "appear"
     }
@@ -3741,12 +4646,20 @@
  ],
  "framer-i1tksj": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Quote",
-   "line": 2303,
+   "line": 1,
    "props": {
     "effect": {
-     "effect": "<?Y>",
+     "effect": {
+      "opacity": 0.001,
+      "rotate": 0,
+      "scale": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "x": 0,
+      "y": 15
+     },
      "repeat": false,
      "startDelay": 0.2,
      "threshold": 0.5,
@@ -3770,9 +4683,9 @@
  ],
  "framer-wo1sty": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": "Small Text",
-   "line": 2324,
+   "line": 1,
    "props": {
     "effect": {
      "effect": {
@@ -3788,7 +4701,17 @@
      "startDelay": 0.2,
      "threshold": 0,
      "tokenization": "word",
-     "transition": "<?Z>",
+     "transition": {
+      "delay": 0.02,
+      "duration": 0.6,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween"
+     },
      "trigger": "onInView",
      "type": "appear"
     }
@@ -3797,12 +4720,23 @@
  ],
  "framer-366ugj-container": [
   {
-   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs.js",
+   "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
    "name": null,
-   "line": 2442,
+   "line": 1,
    "props": {
     "__framer__animate": {
-     "transition": "<?CallExpression>"
+     "transition": {
+      "delay": 0.2,
+      "duration": 0.85,
+      "ease": [
+       0.215,
+       0.61,
+       0.355,
+       1
+      ],
+      "type": "tween",
+      "$staggerStep": 0.1
+     }
     },
     "__framer__animateOnce": true,
     "__framer__enter": {

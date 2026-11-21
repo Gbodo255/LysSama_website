@@ -1,10 +1,14 @@
 import { PageStyle } from '@/components/PageStyle';
+import { Template } from '@/components/Template';
+import { Body } from '@/gen/journal/Body';
 
-// Page /journal — sections ajoutées par l'agent de construction propriétaire (src/sections/journal/).
 export default function Page() {
   return (
     <>
       <PageStyle slug="journal" />
+      <Template>
+        <Body />
+      </Template>
     </>
   );
 }

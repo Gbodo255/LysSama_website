@@ -1,0 +1,905 @@
+{
+ "EzoihsePv": {
+  "cls": "framer-v-10j6zqb",
+  "name": "Phone"
+ },
+ "NK_sE0n5p": {
+  "cls": "framer-v-p4ork5",
+  "name": "Tablet"
+ },
+ "PhN81MndZ": {
+  "cls": "framer-v-wmpc5b",
+  "name": "Desktop"
+ },
+ "Ee9udlaM6": {
+  "cls": "framer-v-qjh4g1",
+  "name": "Tablet"
+ },
+ "P1apG5SV8": {
+  "cls": "framer-v-cc9jin",
+  "name": "Desktop"
+ },
+ "zq22AOHOY": {
+  "cls": "framer-v-1w9sh1i",
+  "name": "Phone"
+ },
+ "smBzUPBee": {
+  "cls": "framer-v-o0jp9q",
+  "name": "Tablet"
+ },
+ "WtMGunC0m": {
+  "cls": "framer-v-a7wa0g",
+  "name": "Phone"
+ },
+ "xsJP6rSYH": {
+  "cls": "framer-v-10hbnng",
+  "name": "Desktop"
+ },
+ "L_gdk_7Fe": {
+  "cls": "framer-v-fcep5",
+  "name": "Phone"
+ },
+ "qkJaMXuuZ": {
+  "cls": "framer-v-n8zo7t",
+  "name": "Desktop"
+ },
+ "DV6oTfLLg": {
+  "cls": "framer-v-1shcg12",
+  "name": "Hidden Mask"
+ },
+ "Uh95rRMl7": {
+  "cls": "framer-v-j4z1zy",
+  "name": "Revealed"
+ },
+ "fgYOS40ez": {
+  "cls": "framer-v-162pug6",
+  "name": "Big"
+ },
+ "Q0LMHMY9j": {
+  "cls": "framer-v-19gulb1",
+  "name": "Small"
+ },
+ "b5cbcgrAD": {
+  "cls": "framer-v-14rrenl",
+  "name": "Hidden Horizontal"
+ },
+ "hdHzsrpyF": {
+  "cls": "framer-v-t5kp41",
+  "name": "Hidden Vertical"
+ },
+ "iLlY2rby8": {
+  "cls": "framer-v-dtr87q",
+  "name": "Show Horizontal"
+ },
+ "OMSvRHidC": {
+  "cls": "framer-v-skgkib",
+  "name": "Show Vertical"
+ },
+ "gNhLAbVYC": {
+  "cls": "framer-v-mdjzd1",
+  "name": "Light"
+ },
+ "x2M8W3cwR": {
+  "cls": "framer-v-1l3encs",
+  "name": "Dark"
+ },
+ "cqy9B66RZ": {
+  "cls": "framer-v-1hwt7ic"
+ },
+ "nyB2hDezr": {
+  "cls": "framer-v-s41k98",
+  "name": "Desktop"
+ },
+ "UU2nT8yjn": {
+  "cls": "framer-v-1j52xp1",
+  "name": "Phone"
+ },
+ "vmZ77DTLy": {
+  "cls": "framer-v-1enjxj0",
+  "name": "Tablet"
+ },
+ "VxhSjfuyP": {
+  "cls": "framer-v-1evdr1t"
+ },
+ "o2KBgA18o": {
+  "cls": "framer-v-1apgf77"
+ },
+ "FsjNXJSJN": {
+  "cls": "framer-v-1npuuv8",
+  "name": "Desktop"
+ },
+ "kDO0BDS0T": {
+  "cls": "framer-v-a12wje",
+  "name": "Tablet"
+ },
+ "uUtPUWNo6": {
+  "cls": "framer-v-kvuuzz",
+  "name": "Phone"
+ },
+ "DU17htErF": {
+  "cls": "framer-v-1bspbb3"
+ },
+ "b_CpEBBVa": {
+  "cls": "framer-v-15mb0ql",
+  "name": "Desktop Toggled"
+ },
+ "cup93khkL": {
+  "cls": "framer-v-10qci3b",
+  "name": "Desktop"
+ },
+ "H7ehOVhk3": {
+  "cls": "framer-v-amnb9i",
+  "name": "Phone Toggled"
+ },
+ "ppP1s1b10": {
+  "cls": "framer-v-1mnt6a4",
+  "name": "Phone"
+ },
+ "C3xj8tOVY": {
+  "cls": "framer-v-coh9ff",
+  "name": "Desktop"
+ },
+ "kUxiuAHJw": {
+  "cls": "framer-v-gw4wpc",
+  "name": "Tablet"
+ },
+ "qjDyvUsLb": {
+  "cls": "framer-v-1aemvzd",
+  "name": "Phone"
+ },
+ "QnheowYVb": {
+  "cls": "framer-v-1akmct7",
+  "name": "Video Overlay"
+ },
+ "xXPCs_WsS": {
+  "cls": "framer-v-b166ph",
+  "name": "No Video Overlay"
+ },
+ "I4d4B4zbs": {
+  "cls": "framer-v-1pcouco",
+  "name": "Phone"
+ },
+ "KePuGGRdl": {
+  "cls": "framer-v-oubejw",
+  "name": "Desktop"
+ },
+ "bst1eaA3L": {
+  "cls": "framer-v-14neqw2",
+  "name": "Revealed"
+ },
+ "SEOMcnqgJ": {
+  "cls": "framer-v-1fvw07s",
+  "name": "Hidden"
+ },
+ "dwfiz8xsn": {
+  "cls": "framer-v-1q1cc5y",
+  "name": "Closed"
+ },
+ "k601oOa0D": {
+  "cls": "framer-v-5x09si",
+  "name": "Open"
+ },
+ "tw5CtHDal": {
+  "cls": "framer-v-c1bwse",
+  "name": "Closed"
+ },
+ "z490WtIIP": {
+  "cls": "framer-v-10s7ezb",
+  "name": "Open"
+ },
+ "Yr73kS9p7": {
+  "cls": "framer-v-12rngdm"
+ },
+ "cJwrpVP4o": {
+  "cls": "framer-v-1tpt9v",
+  "name": "Phone"
+ },
+ "eSJMKCwc7": {
+  "cls": "framer-v-uph3tr",
+  "name": "Desktop"
+ },
+ "z2kibtJCb": {
+  "cls": "framer-v-rhs3s9",
+  "name": "Tablet"
+ },
+ "aAE3bWPzx": {
+  "cls": "framer-v-n4shxz",
+  "name": "Phone"
+ },
+ "vlHT1huGw": {
+  "cls": "framer-v-o8ajoo",
+  "name": "Tablet"
+ },
+ "WMiKYG4KO": {
+  "cls": "framer-v-ynarf2",
+  "name": "Desktop"
+ },
+ "FALdX2obA": {
+  "cls": "framer-v-ua2koz"
+ },
+ "ecW7wXnOV": {
+  "cls": "framer-v-hothbd",
+  "name": "Error"
+ },
+ "Esh2uhvll": {
+  "cls": "framer-v-5vpfx1",
+  "name": "Success"
+ },
+ "NgDnrA0wF": {
+  "cls": "framer-v-11230cp",
+  "name": "Default"
+ },
+ "SHEQP1pE0": {
+  "cls": "framer-v-99qclq",
+  "name": "Loading"
+ },
+ "kUs4SNemM": {
+  "cls": "framer-v-7l2lys",
+  "name": "Active"
+ },
+ "WwhML3SLe": {
+  "cls": "framer-v-n4w2md",
+  "name": "Inactive"
+ },
+ "cWXZ5FX1D": {
+  "cls": "framer-v-1lqu24y",
+  "name": "5"
+ },
+ "l8OkI1qRh": {
+  "cls": "framer-v-bp45yh",
+  "name": "4"
+ },
+ "ndCCBOQTo": {
+  "cls": "framer-v-1lym95n",
+  "name": "3"
+ },
+ "sV1bJ6toZ": {
+  "cls": "framer-v-c37j5z",
+  "name": "0"
+ },
+ "tKXbHhQed": {
+  "cls": "framer-v-g5974v",
+  "name": "1"
+ },
+ "WNWn5ECqh": {
+  "cls": "framer-v-1ki7lk6",
+  "name": "2"
+ },
+ "DlVS4BEWz": {
+  "cls": "framer-v-1gumnrm",
+  "name": "End"
+ },
+ "XN1X2rc4T": {
+  "cls": "framer-v-ygyp3d",
+  "name": "Start"
+ },
+ "CvfjAItuO": {
+  "cls": "framer-v-9kx42m"
+ },
+ "fA3TTozUq": {
+  "cls": "framer-v-1g58qed",
+  "name": "Tablet"
+ },
+ "k2n70lu6B": {
+  "cls": "framer-v-14rm87n",
+  "name": "Desktop"
+ },
+ "szTNrZI4n": {
+  "cls": "framer-v-b7iwrm",
+  "name": "Phone"
+ },
+ "JbWAj6WZ3": {
+  "cls": "framer-v-71q57o",
+  "name": "Phone"
+ },
+ "JXnc50ruY": {
+  "cls": "framer-v-o63hkf",
+  "name": "Tablet"
+ },
+ "ubhAJxDVd": {
+  "cls": "framer-v-1xlf4m4",
+  "name": "Desktop"
+ },
+ "nPNyXOlRD": {
+  "cls": "framer-v-so4lz9",
+  "name": "Phone"
+ },
+ "RBcJngtnI": {
+  "cls": "framer-v-ld2pkr",
+  "name": "Tablet"
+ },
+ "w3iaWhFRY": {
+  "cls": "framer-v-1m7l3gw",
+  "name": "Desktop"
+ },
+ "B2PJETExP": {
+  "cls": "framer-v-cnoxjv",
+  "name": "Desktop"
+ },
+ "xmq0bPBT6": {
+  "cls": "framer-v-qcl1vt",
+  "name": "Phone"
+ },
+ "ise_7cfnP": {
+  "cls": "framer-v-1748x4p"
+ },
+ "ey4nLFyrm": {
+  "cls": "framer-v-qptq4g",
+  "name": "Desktop"
+ },
+ "Gu3KnzVMl": {
+  "cls": "framer-v-1h11oj7",
+  "name": "Phone"
+ },
+ "I5doICn7d": {
+  "cls": "framer-v-15bxuw3",
+  "name": "Phone"
+ },
+ "iR6veGLgb": {
+  "cls": "framer-v-1f0wwcx",
+  "name": "Tablet"
+ },
+ "nsMOYxXv2": {
+  "cls": "framer-v-1idsw5c",
+  "name": "Desktop"
+ },
+ "P6IcI3S6T": {
+  "cls": "framer-v-mi0u4"
+ },
+ "yWpJYPW2H": {
+  "cls": "framer-v-1kijlsy"
+ },
+ "EQGgg9tEA": {
+  "cls": "framer-v-1aspe9k",
+  "name": "Default"
+ },
+ "w4Ff2Fqxa": {
+  "cls": "framer-v-1n4txro",
+  "name": "White"
+ },
+ "YC7IoAp2w": {
+  "cls": "framer-v-1v98ts4",
+  "name": "Hover"
+ },
+ "LAzaFDLEP": {
+  "cls": "framer-v-1ye5gzy",
+  "name": "Default"
+ },
+ "LVxmklpu4": {
+  "cls": "framer-v-mkwthb",
+  "name": "White"
+ },
+ "aTBCrc4Jk": {
+  "cls": "framer-v-10c2ln6",
+  "name": "Variant 1"
+ },
+ "bAHFpmm1J": {
+  "cls": "framer-v-h406hg",
+  "name": "Variant 2"
+ },
+ "ytrBCV0k8": {
+  "cls": "framer-v-905gpi",
+  "name": "Variant 3"
+ },
+ "ZBuRmAZ5Y": {
+  "cls": "framer-v-rjossz",
+  "name": "Variant 4"
+ },
+ "AQI0EawVi": {
+  "cls": "framer-v-utwgf5",
+  "name": "Orange"
+ },
+ "fE11MWlj9": {
+  "cls": "framer-v-12xy6d",
+  "name": "Dark Mobile"
+ },
+ "HhFPHQaeV": {
+  "cls": "framer-v-bcbu0o",
+  "name": "Orange Mobile"
+ },
+ "tLK6qT9cB": {
+  "cls": "framer-v-aekh7q",
+  "name": "OW"
+ },
+ "UpWlNuY8v": {
+  "cls": "framer-v-10acr8n",
+  "name": "Dark"
+ },
+ "KnGRMuFfI": {
+  "cls": "framer-v-1botirt",
+  "name": "Light Mobile"
+ },
+ "OYJfUyovN": {
+  "cls": "framer-v-1u5g8pz",
+  "name": "Dark Mobile"
+ },
+ "vtaGLVCx0": {
+  "cls": "framer-v-glp6l7",
+  "name": "Dark"
+ },
+ "ZCREUG_iX": {
+  "cls": "framer-v-1rxxbiz",
+  "name": "Light"
+ },
+ "bUB5_5EcW": {
+  "cls": "framer-v-1tzv71v",
+  "name": "Number"
+ },
+ "gqpacmcru": {
+  "cls": "framer-v-12j31jp",
+  "name": "Color"
+ },
+ "L1QAG_IjR": {
+  "cls": "framer-v-9oq166",
+  "name": "Collection"
+ },
+ "T9cBoiNas": {
+  "cls": "framer-v-198tbn1",
+  "name": "String"
+ },
+ "YR4HjhIUD": {
+  "cls": "framer-v-bxwtiu",
+  "name": "Transform"
+ },
+ "axgK7DtMQ": {
+  "cls": "framer-v-fpwox8",
+  "name": "Transform"
+ },
+ "TG4NdWENM": {
+  "cls": "framer-v-14fclet",
+  "name": "Value"
+ },
+ "CPvameZ0r": {
+  "cls": "framer-v-1skxnjo",
+  "name": "Inactive"
+ },
+ "yf1VjVBO4": {
+  "cls": "framer-v-hkh6pg",
+  "name": "Active"
+ },
+ "aiImWsjMY": {
+  "cls": "framer-v-fvg7ub",
+  "name": "1"
+ },
+ "CDrScK76Q": {
+  "cls": "framer-v-13hihkq",
+  "name": "Default"
+ },
+ "dcg9DRvtv": {
+  "cls": "framer-v-agcrz0",
+  "name": "3"
+ },
+ "l1s5h3kT2": {
+  "cls": "framer-v-or1xwo",
+  "name": "2"
+ },
+ "lGouSBjMy": {
+  "cls": "framer-v-1nhz6d0",
+  "name": "Mobile 3"
+ },
+ "lxA3QTq01": {
+  "cls": "framer-v-c6h312",
+  "name": "Mobile"
+ },
+ "NkpXPuof5": {
+  "cls": "framer-v-135xmo",
+  "name": "Mobile 1"
+ },
+ "Q7W8dMPp3": {
+  "cls": "framer-v-dumthw",
+  "name": "Mobile 2"
+ },
+ "rmG7iPCcs": {
+  "cls": "framer-v-18gly35",
+  "name": "5"
+ },
+ "UZTvrQn_5": {
+  "cls": "framer-v-71kr7e",
+  "name": "4"
+ },
+ "V2KoG_60U": {
+  "cls": "framer-v-6aduw7",
+  "name": "Paused"
+ },
+ "VQqmddh9d": {
+  "cls": "framer-v-1y1gk9f",
+  "name": "Mobile Paused"
+ },
+ "LTyU8DoqR": {
+  "cls": "framer-v-1dekqf4"
+ },
+ "CI5inaEaP": {
+  "cls": "framer-v-1f4dfq2",
+  "name": "3"
+ },
+ "CYiAg38Ue": {
+  "cls": "framer-v-5s9v7o",
+  "name": "2"
+ },
+ "emNd45eer": {
+  "cls": "framer-v-11iyxzv",
+  "name": "Start"
+ },
+ "hA95yhsf9": {
+  "cls": "framer-v-3h8pfe",
+  "name": "Paused"
+ },
+ "OO_gvqvE7": {
+  "cls": "framer-v-s8v417",
+  "name": "4"
+ },
+ "U1MTskX7o": {
+  "cls": "framer-v-j3sinf",
+  "name": "5"
+ },
+ "aqu2UZnhU": {
+  "cls": "framer-v-1c3t847",
+  "name": "Phone"
+ },
+ "dk0Avt7ZN": {
+  "cls": "framer-v-19heqkm",
+  "name": "Default"
+ },
+ "F9MvIiIIS": {
+  "cls": "framer-v-wc85mb",
+  "name": "Light"
+ },
+ "NwpYyDCUg": {
+  "cls": "framer-v-rit2hr",
+  "name": "Default"
+ },
+ "e7sBptjHs": {
+  "cls": "framer-v-1uzc3ba",
+  "name": "Default"
+ },
+ "lyMvfkk8j": {
+  "cls": "framer-v-6w1pf3",
+  "name": "All access open"
+ },
+ "QvZffFKGr": {
+  "cls": "framer-v-1v7hx6y",
+  "name": "Dark"
+ },
+ "rTFgYo5_a": {
+  "cls": "framer-v-pbvj8r",
+  "name": "More"
+ },
+ "vMQYEtOtY": {
+  "cls": "framer-v-1cr4oj7",
+  "name": "Phone"
+ },
+ "CzntNeKHI": {
+  "cls": "framer-v-194da0f",
+  "name": "Free"
+ },
+ "Ew3tuZPDE": {
+  "cls": "framer-v-ydlgfe",
+  "name": "Buy Button"
+ },
+ "tcgNZvcDT": {
+  "cls": "framer-v-op1meb",
+  "name": "Phone"
+ },
+ "Fyih9sCDk": {
+  "cls": "framer-v-h4zf60",
+  "name": "Large"
+ },
+ "IQ5VKT_cu": {
+  "cls": "framer-v-oklurg",
+  "name": "Large Phone"
+ },
+ "LEwHm1Xmc": {
+  "cls": "framer-v-1xhybmy",
+  "name": "Small"
+ },
+ "MouuNRtt_": {
+  "cls": "framer-v-ymw4vn",
+  "name": "Small Phone"
+ },
+ "M83fGIck2": {
+  "cls": "framer-v-1fd22pg",
+  "name": "Desktop - Top"
+ },
+ "PtvC8qv5y": {
+  "cls": "framer-v-1c01me7",
+  "name": "Tablet - Top"
+ },
+ "XYPo0X9G2": {
+  "cls": "framer-v-fvp1dl",
+  "name": "Desktop"
+ },
+ "zylddWCaP": {
+  "cls": "framer-v-1mkgfd6",
+  "name": "Phone"
+ },
+ "CRUQ0kHEV": {
+  "cls": "framer-v-gesna7"
+ },
+ "qLwQM42bQ": {
+  "cls": "framer-v-gmtdri"
+ },
+ "gq6hjYdVi": {
+  "cls": "framer-v-xkbv01",
+  "name": "Read Article"
+ },
+ "IeznnrIPT": {
+  "cls": "framer-v-ez28hj",
+  "name": "Default"
+ },
+ "JYlp8aboM": {
+  "cls": "framer-v-m35kh1",
+  "name": "View Project"
+ },
+ "nSACZy5aP": {
+  "cls": "framer-v-18ule0",
+  "name": "Next"
+ },
+ "PxOSLYnOW": {
+  "cls": "framer-v-1m79t3m",
+  "name": "Open"
+ },
+ "wQ68zCUv0": {
+  "cls": "framer-v-1hlzttn",
+  "name": "Closed"
+ },
+ "zydm0la0X": {
+  "cls": "framer-v-1875b8x"
+ },
+ "rve8tPCSJ": {
+  "cls": "framer-v-1qy02dt",
+  "name": "Phone"
+ },
+ "ZdQbvFLzW": {
+  "cls": "framer-v-oxml7j",
+  "name": "Desktop"
+ },
+ "IvviAYf_X": {
+  "cls": "framer-v-5pv308",
+  "name": "Phone"
+ },
+ "jg6zUAEJU": {
+  "cls": "framer-v-4tnhfa",
+  "name": "Desktop"
+ },
+ "F8QhxJmqp": {
+  "cls": "framer-v-1973bho",
+  "name": "Desktop"
+ },
+ "VgyOKiub4": {
+  "cls": "framer-v-u2y57g",
+  "name": "Phone"
+ },
+ "cZipLVXZw": {
+  "cls": "framer-v-cnvg8h",
+  "name": "Desktop - Open"
+ },
+ "DtWmu2Lal": {
+  "cls": "framer-v-rjgpgd",
+  "name": "Phone - Open"
+ },
+ "lbGoIWDKI": {
+  "cls": "framer-v-da3fvt",
+  "name": "Tablet - Open"
+ },
+ "ohscBxtqQ": {
+  "cls": "framer-v-l44v03",
+  "name": "Desktop - Closed"
+ },
+ "qqgfFW9hu": {
+  "cls": "framer-v-164awg0",
+  "name": "Tablet - Closed"
+ },
+ "sixur_H_8": {
+  "cls": "framer-v-1s6eirn",
+  "name": "Phone Closed"
+ },
+ "dxXU_I0jN": {
+  "cls": "framer-v-7sj87n",
+  "name": "Spinner"
+ },
+ "Jq5yVz0gZ": {
+  "cls": "framer-v-1b3wek9",
+  "name": "Hidden"
+ },
+ "bRLDllExn": {
+  "cls": "framer-v-1g0cbeo",
+  "name": "Error"
+ },
+ "hiHajVa57": {
+  "cls": "framer-v-qk64ix",
+  "name": "Loading"
+ },
+ "lZufaWhqU": {
+  "cls": "framer-v-ff7x1i",
+  "name": "Success"
+ },
+ "Rqy7FUIBo": {
+  "cls": "framer-v-xkbypw",
+  "name": "Default"
+ },
+ "wBnCNx14X": {
+  "cls": "framer-v-a28jhw",
+  "name": "Incomplete"
+ },
+ "b3vZAuF4v": {
+  "cls": "framer-v-1e6htkk",
+  "name": "Desktop"
+ },
+ "ITzzHeBqK": {
+  "cls": "framer-v-1pvmz1y",
+  "name": "Phone"
+ },
+ "p8hMayzHV": {
+  "cls": "framer-v-1wjgfnr",
+  "name": "Tablet"
+ },
+ "jinEk1yag": {
+  "cls": "framer-v-q8hg74",
+  "name": "Desktop - Right"
+ },
+ "oFaK7E_Aw": {
+  "cls": "framer-v-8wbf3d",
+  "name": "Phone Left"
+ },
+ "RVD7A0_PA": {
+  "cls": "framer-v-ra0to2",
+  "name": "Desktop - Left"
+ },
+ "UFuPupHWY": {
+  "cls": "framer-v-ls2zup",
+  "name": "Phone Right"
+ },
+ "kTxvluWFa": {
+  "cls": "framer-v-m9h68i",
+  "name": "Item 2 Active"
+ },
+ "Q9UIdlaan": {
+  "cls": "framer-v-7fzx66",
+  "name": "Item 1 Active"
+ },
+ "LUln1HeAw": {
+  "cls": "framer-v-1trk730",
+  "name": "Checked"
+ },
+ "ng7Xm9wfI": {
+  "cls": "framer-v-1128hhv",
+  "name": "Unchecked"
+ },
+ "nSOt8njT3": {
+  "cls": "framer-v-w8gkbz"
+ },
+ "h5WTCeFuC": {
+  "cls": "framer-v-1uq3zem",
+  "name": "Phone"
+ },
+ "xOitXcA3M": {
+  "cls": "framer-v-1pwzy88",
+  "name": "Default"
+ },
+ "bu2EzEpdX": {
+  "cls": "framer-v-14e620u",
+  "name": "End"
+ },
+ "q09oREoWS": {
+  "cls": "framer-v-1aedll2",
+  "name": "Start"
+ },
+ "GabQ6RP7V": {
+  "cls": "framer-v-1ww3hxg",
+  "name": "Revealed"
+ },
+ "LJ9aJ2_VI": {
+  "cls": "framer-v-1cb27gq",
+  "name": "Hidden"
+ },
+ "BqBP6fe9B": {
+  "cls": "framer-v-18bn8gj",
+  "name": "Phone"
+ },
+ "Tg7HakBk4": {
+  "cls": "framer-v-9essyp",
+  "name": "Desktop"
+ },
+ "I40ArjRqJ": {
+  "cls": "framer-v-xfn154",
+  "name": "Testimonial 3"
+ },
+ "kkynBgPwS": {
+  "cls": "framer-v-1ur35ji",
+  "name": "Testimonial 1"
+ },
+ "UhG7O0F_P": {
+  "cls": "framer-v-ubwidj",
+  "name": "Testimonial 2"
+ },
+ "xkvFjRWsw": {
+  "cls": "framer-v-icn1dx"
+ },
+ "d59ZXs8LQ": {
+  "cls": "framer-v-mp3lk",
+  "name": "Phone Closed"
+ },
+ "EwnHLUTYk": {
+  "cls": "framer-v-1g2bcf",
+  "name": "Closed"
+ },
+ "J93YZ5sxi": {
+  "cls": "framer-v-kquzu7",
+  "name": "Phone Open"
+ },
+ "sITTYngnU": {
+  "cls": "framer-v-40gaj4",
+  "name": "Open"
+ },
+ "sgGQEcV9Z": {
+  "cls": "framer-v-1jv6b9g",
+  "name": "Active"
+ },
+ "Sh_ahvups": {
+  "cls": "framer-v-nf1zc3",
+  "name": "Inactive"
+ },
+ "XmV4tQ_ou": {
+  "cls": "framer-v-u5wair",
+  "name": "Phone"
+ },
+ "Cth7STIQR": {
+  "cls": "framer-v-18rjlel",
+  "name": "Process Step 3"
+ },
+ "dPWqybCNx": {
+  "cls": "framer-v-ss4gxa",
+  "name": "Process Step 2"
+ },
+ "kw8StE0kn": {
+  "cls": "framer-v-312wk3",
+  "name": "Phone"
+ },
+ "NMtXp8_Fx": {
+  "cls": "framer-v-1wkn9vt",
+  "name": "Process Step 4"
+ },
+ "Wv6mVM6uN": {
+  "cls": "framer-v-9qs5q4",
+  "name": "Process Step 1"
+ },
+ "j11qKK0L3": {
+  "cls": "framer-v-1dpavhp",
+  "name": "Phone"
+ },
+ "wkcy4Et_p": {
+  "cls": "framer-v-163lh2b",
+  "name": "Desktop"
+ },
+ "zCedCevuQ": {
+  "cls": "framer-v-1atwfmo",
+  "name": "Tablet"
+ },
+ "IMbb3qNEh": {
+  "cls": "framer-v-1h5o7sz",
+  "name": "Phone"
+ },
+ "r1pYBYYSK": {
+  "cls": "framer-v-1o9zkmb",
+  "name": "Desktop"
+ },
+ "TAfGNYfdM": {
+  "cls": "framer-v-47y8pw",
+  "name": "Tablet"
+ },
+ "DK7V8I1_d": {
+  "cls": "framer-v-134908u"
+ },
+ "gjvbOr6sK": {
+  "cls": "framer-v-1nc0ivo",
+  "name": "Phone"
+ },
+ "kvrgoOqAT": {
+  "cls": "framer-v-g87bww",
+  "name": "Tablet"
+ },
+ "QnwWFo3ky": {
+  "cls": "framer-v-1o0hdey",
+  "name": "Desktop"
+ }
+}

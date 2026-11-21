@@ -1,0 +1,29 @@
+{
+ "route": "/journal/awards-dont-build-brands",
+ "width": 810,
+ "scope": null,
+ "height": {
+  "ref": 4611,
+  "clone": 4611,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 679,
+  "clone": 679,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0.112,
+  "over2": [],
+  "n": 18
+ }
+}

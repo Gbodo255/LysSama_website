@@ -1,0 +1,33 @@
+{
+ "route": "/journal/the-best-type-is-invisible",
+ "width": 390,
+ "scope": null,
+ "height": {
+  "ref": 4254,
+  "clone": 4254,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 589,
+  "clone": 589,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 2.376,
+  "over2": [
+   "seq-005.webp",
+   "seq-006.webp",
+   "seq-007.webp"
+  ],
+  "n": 16
+ }
+}

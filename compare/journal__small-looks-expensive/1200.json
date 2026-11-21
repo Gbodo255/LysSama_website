@@ -1,0 +1,29 @@
+{
+ "route": "/journal/small-looks-expensive",
+ "width": 1200,
+ "scope": null,
+ "height": {
+  "ref": 4012,
+  "clone": 4012,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 587,
+  "clone": 587,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0.173,
+  "over2": [],
+  "n": 15
+ }
+}

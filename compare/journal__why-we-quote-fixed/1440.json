@@ -1,0 +1,29 @@
+{
+ "route": "/journal/why-we-quote-fixed",
+ "width": 1440,
+ "scope": null,
+ "height": {
+  "ref": 4029,
+  "clone": 4029,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 602,
+  "clone": 602,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 1.043,
+  "over2": [],
+  "n": 15
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "route": "/journal/the-brief-before-the-brief",
+ "width": 810,
+ "scope": null,
+ "height": {
+  "ref": 4860,
+  "clone": 4860,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 619,
+  "clone": 619,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 1.29,
+  "over2": [],
+  "n": 19
+ }
+}

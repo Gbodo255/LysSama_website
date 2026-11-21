@@ -4,7 +4,7 @@
 // de départ, même minutage : délai = startDelay + rang du jeton (ligne, mot ou caractère) × transition.delay.
 // Déclencheur onInView (IntersectionObserver, seuil `threshold`) ou au montage ; `repeat` rejoue à chaque entrée.
 import { animate } from 'motion';
-import { createElement, useEffect, useRef, type CSSProperties } from 'react';
+import { createElement, Fragment as Frag, useEffect, useRef, type CSSProperties } from 'react';
 
 type From = { opacity?: number; x?: number; y?: number; scale?: number; rotate?: number; skewX?: number; skewY?: number };
 export type TextEffect = {
@@ -12,7 +12,8 @@ export type TextEffect = {
   tokenization: 'line' | 'word' | 'character' | 'element';
   transition: { delay?: number; duration?: number; ease?: number[]; type?: string; stiffness?: number; damping?: number; mass?: number; bounce?: number };
 };
-export type FxPara = { tag: string; attrs: Record<string, unknown>; text: string };
+export type FxSeg = string | { tag: string; attrs: Record<string, unknown>; text: string };
+export type FxPara = { tag: string; attrs: Record<string, unknown>; segs: FxSeg[] };
 
 const tf = (f: From) => `translateX(${f.x ?? 0}px) translateY(${f.y ?? 0}px) scale(${f.scale ?? 1}) rotate(${f.rotate ?? 0}deg) skewX(${f.skewX ?? 0}deg) skewY(${f.skewY ?? 0}deg)`;
 
@@ -52,6 +53,9 @@ export function TextFx({ as, fx, paras, ...rest }: { as: string; fx: TextEffect;
     return () => { io.disconnect(); controls.forEach((c) => c.stop()); };
   }, [fx]);
   const init: CSSProperties = { display: 'inline-block', opacity: fx.effect.opacity ?? 1, transform: tf(fx.effect) };
+  // mot de 13 caractères ou plus : white-space unset (mesuré sur tous les DOM de référence : 24 cas, 0 exception)
+  // chaque segment (texte brut ou <span class="framer-text"> stylé) est découpé séparément, comme l'original
+  const split = (text: string) => text.split(' ').flatMap((w, j) => [j ? ' ' : null, <span key={j} style={{ whiteSpace: [...w].length > 12 ? 'unset' : 'nowrap' }}>{[...w].map((c, k) => <span key={k} data-fx-char="" style={init}>{c}</span>)}</span>]);
   return createElement(as, { ...rest, ref }, paras.map((p, i) => createElement(p.tag, { key: i, ...p.attrs },
-    p.text.split(' ').flatMap((w, j) => [j ? ' ' : null, <span key={j} style={{ whiteSpace: 'nowrap' }}>{[...w].map((c, k) => <span key={k} data-fx-char="" style={init}>{c}</span>)}</span>]))));
+    p.segs.map((g, j) => (typeof g === 'string' ? <Frag key={j}>{split(g)}</Frag> : createElement(g.tag, { key: j, ...g.attrs }, split(g.text)))))));
 }

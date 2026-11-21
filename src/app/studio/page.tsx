@@ -1,10 +1,14 @@
 import { PageStyle } from '@/components/PageStyle';
+import { Template } from '@/components/Template';
+import { Body } from '@/gen/studio/Body';
 
-// Page /studio — sections ajoutées par l'agent de construction propriétaire (src/sections/studio/).
 export default function Page() {
   return (
     <>
       <PageStyle slug="studio" />
+      <Template>
+        <Body />
+      </Template>
     </>
   );
 }

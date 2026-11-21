@@ -1,0 +1,34 @@
+{
+ "route": "/journal/the-founder-is-the-brand",
+ "width": 390,
+ "scope": null,
+ "height": {
+  "ref": 4364,
+  "clone": 4364,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 606,
+  "clone": 606,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 3.646,
+  "over2": [
+   "seq-005.webp",
+   "seq-006.webp",
+   "seq-007.webp",
+   "seq-008.webp"
+  ],
+  "n": 17
+ }
+}

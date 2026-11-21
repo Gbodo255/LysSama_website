@@ -1,0 +1,2046 @@
+{
+ "framer-S4eqZ": {
+  "module": "2G6NJGLYB-I5i3aMi0aINtG2rPvQ1Qcmmh-2sDZsQtc.C3Ea9Zs_.mjs",
+  "variants": {
+   "EzoihsePv": {
+    "cls": "framer-v-10j6zqb",
+    "name": "Phone"
+   },
+   "NK_sE0n5p": {
+    "cls": "framer-v-p4ork5",
+    "name": "Tablet"
+   },
+   "PhN81MndZ": {
+    "cls": "framer-v-wmpc5b",
+    "name": "Desktop"
+   }
+  },
+  "transition": null
+ },
+ "framer-iALah": {
+  "module": "9xECuvpI2qC9STMV732ZTdbpWAAMCvZ4mUL81W2ya8c.BZsGbTjb.mjs",
+  "variants": {
+   "Ee9udlaM6": {
+    "cls": "framer-v-qjh4g1",
+    "name": "Tablet"
+   },
+   "P1apG5SV8": {
+    "cls": "framer-v-cc9jin",
+    "name": "Desktop"
+   },
+   "zq22AOHOY": {
+    "cls": "framer-v-1w9sh1i",
+    "name": "Phone"
+   }
+  },
+  "transition": null
+ },
+ "framer-nRW2Q": {
+  "module": "AMcQRZfITfjQMtwTc9L6feHZ3p0EKUbo_RHe9QFmX_Y.DexPvT_c.mjs",
+  "variants": {
+   "smBzUPBee": {
+    "cls": "framer-v-o0jp9q",
+    "name": "Tablet"
+   },
+   "WtMGunC0m": {
+    "cls": "framer-v-a7wa0g",
+    "name": "Phone"
+   },
+   "xsJP6rSYH": {
+    "cls": "framer-v-10hbnng",
+    "name": "Desktop"
+   }
+  },
+  "transition": null
+ },
+ "framer-qXCbS": {
+  "module": "caaAwhF9X.BYTWrlvA.mjs",
+  "variants": {
+   "L_gdk_7Fe": {
+    "cls": "framer-v-fcep5",
+    "name": "Phone"
+   },
+   "qkJaMXuuZ": {
+    "cls": "framer-v-n8zo7t",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.56,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-83xqy": {
+  "module": "cM8Lf1CeK.DR507ZJR.mjs",
+  "variants": {
+   "DV6oTfLLg": {
+    "cls": "framer-v-1shcg12",
+    "name": "Hidden Mask"
+   },
+   "Uh95rRMl7": {
+    "cls": "framer-v-j4z1zy",
+    "name": "Revealed"
+   }
+  },
+  "transition": {
+   "damping": 25,
+   "delay": 0.8,
+   "mass": 0.3,
+   "stiffness": 120,
+   "type": "spring"
+  }
+ },
+ "framer-w6BnQ": {
+  "module": "D21Ecyglh.BCJ4Hs8W.mjs",
+  "variants": {
+   "fgYOS40ez": {
+    "cls": "framer-v-162pug6",
+    "name": "Big"
+   },
+   "Q0LMHMY9j": {
+    "cls": "framer-v-19gulb1",
+    "name": "Small"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-sz7Kf": {
+  "module": "Eu60T7thi.P98_SUm8.mjs",
+  "variants": {
+   "b5cbcgrAD": {
+    "cls": "framer-v-14rrenl",
+    "name": "Hidden Horizontal"
+   },
+   "hdHzsrpyF": {
+    "cls": "framer-v-t5kp41",
+    "name": "Hidden Vertical"
+   },
+   "iLlY2rby8": {
+    "cls": "framer-v-dtr87q",
+    "name": "Show Horizontal"
+   },
+   "OMSvRHidC": {
+    "cls": "framer-v-skgkib",
+    "name": "Show Vertical"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 1,
+   "ease": [
+    0.56,
+    0.22,
+    0.05,
+    0.99
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-M6TOJ": {
+  "module": "JKo4PdE_2.CATvKgFy.mjs",
+  "variants": {
+   "gNhLAbVYC": {
+    "cls": "framer-v-mdjzd1",
+    "name": "Light"
+   },
+   "x2M8W3cwR": {
+    "cls": "framer-v-1l3encs",
+    "name": "Dark"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-ZmXTs": {
+  "module": "jvKQE_ghl.D8L5bMF5.mjs",
+  "variants": {
+   "cqy9B66RZ": {
+    "cls": "framer-v-1hwt7ic"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-EGaJK": {
+  "module": "jvKQE_ghl.D8L5bMF5.mjs",
+  "variants": {
+   "nyB2hDezr": {
+    "cls": "framer-v-s41k98",
+    "name": "Desktop"
+   },
+   "UU2nT8yjn": {
+    "cls": "framer-v-1j52xp1",
+    "name": "Phone"
+   },
+   "vmZ77DTLy": {
+    "cls": "framer-v-1enjxj0",
+    "name": "Tablet"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-rE6x2": {
+  "module": "jvKQE_ghl.D8L5bMF5.mjs",
+  "variants": {
+   "VxhSjfuyP": {
+    "cls": "framer-v-1evdr1t"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.56,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-Vl2Hy": {
+  "module": "jvKQE_ghl.D8L5bMF5.mjs",
+  "variants": {
+   "o2KBgA18o": {
+    "cls": "framer-v-1apgf77"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-HIOH4": {
+  "module": "jvKQE_ghl.D8L5bMF5.mjs",
+  "variants": {
+   "FsjNXJSJN": {
+    "cls": "framer-v-1npuuv8",
+    "name": "Desktop"
+   },
+   "kDO0BDS0T": {
+    "cls": "framer-v-a12wje",
+    "name": "Tablet"
+   },
+   "uUtPUWNo6": {
+    "cls": "framer-v-kvuuzz",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-KQ945": {
+  "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+  "variants": {
+   "DU17htErF": {
+    "cls": "framer-v-1bspbb3"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-VhWls": {
+  "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+  "variants": {
+   "b_CpEBBVa": {
+    "cls": "framer-v-15mb0ql",
+    "name": "Desktop Toggled"
+   },
+   "cup93khkL": {
+    "cls": "framer-v-10qci3b",
+    "name": "Desktop"
+   },
+   "H7ehOVhk3": {
+    "cls": "framer-v-amnb9i",
+    "name": "Phone Toggled"
+   },
+   "ppP1s1b10": {
+    "cls": "framer-v-1mnt6a4",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-a2JZY": {
+  "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
+  "variants": {
+   "C3xj8tOVY": {
+    "cls": "framer-v-coh9ff",
+    "name": "Desktop"
+   },
+   "kUxiuAHJw": {
+    "cls": "framer-v-gw4wpc",
+    "name": "Tablet"
+   },
+   "qjDyvUsLb": {
+    "cls": "framer-v-1aemvzd",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-OpQuF": {
+  "module": "koAJndPrk.X0Y8SY4j.mjs",
+  "variants": {
+   "QnheowYVb": {
+    "cls": "framer-v-1akmct7",
+    "name": "Video Overlay"
+   },
+   "xXPCs_WsS": {
+    "cls": "framer-v-b166ph",
+    "name": "No Video Overlay"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-8TEAn": {
+  "module": "koAJndPrk.X0Y8SY4j.mjs",
+  "variants": {
+   "I4d4B4zbs": {
+    "cls": "framer-v-1pcouco",
+    "name": "Phone"
+   },
+   "KePuGGRdl": {
+    "cls": "framer-v-oubejw",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-pVIbn": {
+  "module": "koAJndPrk.X0Y8SY4j.mjs",
+  "variants": {
+   "bst1eaA3L": {
+    "cls": "framer-v-14neqw2",
+    "name": "Revealed"
+   },
+   "SEOMcnqgJ": {
+    "cls": "framer-v-1fvw07s",
+    "name": "Hidden"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 1.2,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-LQ8sa": {
+  "module": "NIqbhJ1MS.BBeNmibM.mjs",
+  "variants": {
+   "dwfiz8xsn": {
+    "cls": "framer-v-1q1cc5y",
+    "name": "Closed"
+   },
+   "k601oOa0D": {
+    "cls": "framer-v-5x09si",
+    "name": "Open"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.26,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-pOYKh": {
+  "module": "NIqbhJ1MS.BBeNmibM.mjs",
+  "variants": {
+   "tw5CtHDal": {
+    "cls": "framer-v-c1bwse",
+    "name": "Closed"
+   },
+   "z490WtIIP": {
+    "cls": "framer-v-10s7ezb",
+    "name": "Open"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-BcSXX": {
+  "module": "NIqbhJ1MS.BBeNmibM.mjs",
+  "variants": {
+   "Yr73kS9p7": {
+    "cls": "framer-v-12rngdm"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-Ia9oP": {
+  "module": "NIqbhJ1MS.BBeNmibM.mjs",
+  "variants": {
+   "cJwrpVP4o": {
+    "cls": "framer-v-1tpt9v",
+    "name": "Phone"
+   },
+   "eSJMKCwc7": {
+    "cls": "framer-v-uph3tr",
+    "name": "Desktop"
+   },
+   "z2kibtJCb": {
+    "cls": "framer-v-rhs3s9",
+    "name": "Tablet"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-Ur11b": {
+  "module": "NwlKyBRSD4PgYbVYS65tYXF3w0VwGKzFWJp4IqxaGL0.B1gHvVgw.mjs",
+  "variants": {
+   "aAE3bWPzx": {
+    "cls": "framer-v-n4shxz",
+    "name": "Phone"
+   },
+   "vlHT1huGw": {
+    "cls": "framer-v-o8ajoo",
+    "name": "Tablet"
+   },
+   "WMiKYG4KO": {
+    "cls": "framer-v-ynarf2",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "bounce": 0.1,
+   "delay": 1.25,
+   "duration": 1.2,
+   "type": "spring"
+  }
+ },
+ "framer-GQYz3": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "variants": {
+   "FALdX2obA": {
+    "cls": "framer-v-ua2koz"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.6,
+   "ease": [
+    0.56,
+    0.22,
+    0.05,
+    0.99
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-KEC63": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "variants": {
+   "ecW7wXnOV": {
+    "cls": "framer-v-hothbd",
+    "name": "Error"
+   },
+   "Esh2uhvll": {
+    "cls": "framer-v-5vpfx1",
+    "name": "Success"
+   },
+   "NgDnrA0wF": {
+    "cls": "framer-v-11230cp",
+    "name": "Default"
+   },
+   "SHEQP1pE0": {
+    "cls": "framer-v-99qclq",
+    "name": "Loading"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.6,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-E3D9I": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "variants": {
+   "kUs4SNemM": {
+    "cls": "framer-v-7l2lys",
+    "name": "Active"
+   },
+   "WwhML3SLe": {
+    "cls": "framer-v-n4w2md",
+    "name": "Inactive"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 1,
+   "type": "spring"
+  }
+ },
+ "framer-fqvLJ": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "variants": {
+   "cWXZ5FX1D": {
+    "cls": "framer-v-1lqu24y",
+    "name": "5"
+   },
+   "l8OkI1qRh": {
+    "cls": "framer-v-bp45yh",
+    "name": "4"
+   },
+   "ndCCBOQTo": {
+    "cls": "framer-v-1lym95n",
+    "name": "3"
+   },
+   "sV1bJ6toZ": {
+    "cls": "framer-v-c37j5z",
+    "name": "0"
+   },
+   "tKXbHhQed": {
+    "cls": "framer-v-g5974v",
+    "name": "1"
+   },
+   "WNWn5ECqh": {
+    "cls": "framer-v-1ki7lk6",
+    "name": "2"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-GJxp5": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "variants": {
+   "DlVS4BEWz": {
+    "cls": "framer-v-1gumnrm",
+    "name": "End"
+   },
+   "XN1X2rc4T": {
+    "cls": "framer-v-ygyp3d",
+    "name": "Start"
+   }
+  },
+  "transition": {
+   "damping": 25,
+   "delay": 0,
+   "mass": 0.3,
+   "stiffness": 120,
+   "type": "spring"
+  }
+ },
+ "framer-4Ch77": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "variants": {
+   "CvfjAItuO": {
+    "cls": "framer-v-9kx42m"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-qIn7C": {
+  "module": "n_03H18N2.ClVbANJn.mjs",
+  "variants": {
+   "fA3TTozUq": {
+    "cls": "framer-v-1g58qed",
+    "name": "Tablet"
+   },
+   "k2n70lu6B": {
+    "cls": "framer-v-14rm87n",
+    "name": "Desktop"
+   },
+   "szTNrZI4n": {
+    "cls": "framer-v-b7iwrm",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-H8D2e": {
+  "module": "oYmZ9UfwdY8OVEX6_MW8CdalbLUYIz93UtFXr9umtmk.CiriyOTv.mjs",
+  "variants": {
+   "JbWAj6WZ3": {
+    "cls": "framer-v-71q57o",
+    "name": "Phone"
+   },
+   "JXnc50ruY": {
+    "cls": "framer-v-o63hkf",
+    "name": "Tablet"
+   },
+   "ubhAJxDVd": {
+    "cls": "framer-v-1xlf4m4",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "bounce": 0.1,
+   "delay": 1.3,
+   "duration": 1.2,
+   "type": "spring"
+  }
+ },
+ "framer-azsrl": {
+  "module": "pgtQfyOCv.DMDfGpCr.mjs",
+  "variants": {
+   "nPNyXOlRD": {
+    "cls": "framer-v-so4lz9",
+    "name": "Phone"
+   },
+   "RBcJngtnI": {
+    "cls": "framer-v-ld2pkr",
+    "name": "Tablet"
+   },
+   "w3iaWhFRY": {
+    "cls": "framer-v-1m7l3gw",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-3Alku": {
+  "module": "rWbx8J1Z4.DtLmKswU.mjs",
+  "variants": {
+   "B2PJETExP": {
+    "cls": "framer-v-cnoxjv",
+    "name": "Desktop"
+   },
+   "xmq0bPBT6": {
+    "cls": "framer-v-qcl1vt",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-46ASr": {
+  "module": "rWbx8J1Z4.DtLmKswU.mjs",
+  "variants": {
+   "ise_7cfnP": {
+    "cls": "framer-v-1748x4p"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-chPbW": {
+  "module": "rWbx8J1Z4.DtLmKswU.mjs",
+  "variants": {
+   "ey4nLFyrm": {
+    "cls": "framer-v-qptq4g",
+    "name": "Desktop"
+   },
+   "Gu3KnzVMl": {
+    "cls": "framer-v-1h11oj7",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-4vxtl": {
+  "module": "ststDNBz5mjPiBlGlwdZxdeUrs4d6wqFXwZKgmLkBb4.rZ5UQZyV.mjs",
+  "variants": {
+   "I5doICn7d": {
+    "cls": "framer-v-15bxuw3",
+    "name": "Phone"
+   },
+   "iR6veGLgb": {
+    "cls": "framer-v-1f0wwcx",
+    "name": "Tablet"
+   },
+   "nsMOYxXv2": {
+    "cls": "framer-v-1idsw5c",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "bounce": 0.1,
+   "delay": 1.2,
+   "duration": 1.2,
+   "type": "spring"
+  }
+ },
+ "framer-Cuyir": {
+  "module": "TJ9zZTo1g.BDr4QkyX.mjs",
+  "variants": {
+   "P6IcI3S6T": {
+    "cls": "framer-v-mi0u4"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-QRwP7": {
+  "module": "TJ9zZTo1g.BDr4QkyX.mjs",
+  "variants": {
+   "yWpJYPW2H": {
+    "cls": "framer-v-1kijlsy"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-eavsK": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "EQGgg9tEA": {
+    "cls": "framer-v-1aspe9k",
+    "name": "Default"
+   },
+   "w4Ff2Fqxa": {
+    "cls": "framer-v-1n4txro",
+    "name": "White"
+   },
+   "YC7IoAp2w": {
+    "cls": "framer-v-1v98ts4",
+    "name": "Hover"
+   }
+  },
+  "transition": {
+   "bounce": 0,
+   "delay": 0,
+   "duration": 0.3,
+   "type": "spring"
+  }
+ },
+ "framer-OtBkq": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "LAzaFDLEP": {
+    "cls": "framer-v-1ye5gzy",
+    "name": "Default"
+   },
+   "LVxmklpu4": {
+    "cls": "framer-v-mkwthb",
+    "name": "White"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-1Fjxh": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "aTBCrc4Jk": {
+    "cls": "framer-v-10c2ln6",
+    "name": "Variant 1"
+   },
+   "bAHFpmm1J": {
+    "cls": "framer-v-h406hg",
+    "name": "Variant 2"
+   },
+   "ytrBCV0k8": {
+    "cls": "framer-v-905gpi",
+    "name": "Variant 3"
+   },
+   "ZBuRmAZ5Y": {
+    "cls": "framer-v-rjossz",
+    "name": "Variant 4"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-LKtbf": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "AQI0EawVi": {
+    "cls": "framer-v-utwgf5",
+    "name": "Orange"
+   },
+   "fE11MWlj9": {
+    "cls": "framer-v-12xy6d",
+    "name": "Dark Mobile"
+   },
+   "HhFPHQaeV": {
+    "cls": "framer-v-bcbu0o",
+    "name": "Orange Mobile"
+   },
+   "tLK6qT9cB": {
+    "cls": "framer-v-aekh7q",
+    "name": "OW"
+   },
+   "UpWlNuY8v": {
+    "cls": "framer-v-10acr8n",
+    "name": "Dark"
+   }
+  },
+  "transition": {
+   "bounce": 0,
+   "delay": 0,
+   "duration": 0.3,
+   "type": "spring"
+  }
+ },
+ "framer-WDjIE": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "KnGRMuFfI": {
+    "cls": "framer-v-1botirt",
+    "name": "Light Mobile"
+   },
+   "OYJfUyovN": {
+    "cls": "framer-v-1u5g8pz",
+    "name": "Dark Mobile"
+   },
+   "vtaGLVCx0": {
+    "cls": "framer-v-glp6l7",
+    "name": "Dark"
+   },
+   "ZCREUG_iX": {
+    "cls": "framer-v-1rxxbiz",
+    "name": "Light"
+   }
+  },
+  "transition": {
+   "bounce": 0,
+   "delay": 0,
+   "duration": 0.3,
+   "type": "spring"
+  }
+ },
+ "framer-lxgec": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "bUB5_5EcW": {
+    "cls": "framer-v-1tzv71v",
+    "name": "Number"
+   },
+   "gqpacmcru": {
+    "cls": "framer-v-12j31jp",
+    "name": "Color"
+   },
+   "L1QAG_IjR": {
+    "cls": "framer-v-9oq166",
+    "name": "Collection"
+   },
+   "T9cBoiNas": {
+    "cls": "framer-v-198tbn1",
+    "name": "String"
+   },
+   "YR4HjhIUD": {
+    "cls": "framer-v-bxwtiu",
+    "name": "Transform"
+   }
+  },
+  "transition": {
+   "damping": 60,
+   "delay": 0,
+   "mass": 1,
+   "stiffness": 500,
+   "type": "spring"
+  }
+ },
+ "framer-pyKyI": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "axgK7DtMQ": {
+    "cls": "framer-v-fpwox8",
+    "name": "Transform"
+   },
+   "TG4NdWENM": {
+    "cls": "framer-v-14fclet",
+    "name": "Value"
+   }
+  },
+  "transition": {
+   "damping": 60,
+   "delay": 0,
+   "mass": 1,
+   "stiffness": 500,
+   "type": "spring"
+  }
+ },
+ "framer-0LOPp": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "axgK7DtMQ": {
+    "cls": "framer-v-fpwox8",
+    "name": "Transform"
+   },
+   "TG4NdWENM": {
+    "cls": "framer-v-14fclet",
+    "name": "Value"
+   }
+  },
+  "transition": {
+   "damping": 60,
+   "delay": 0,
+   "mass": 1,
+   "stiffness": 500,
+   "type": "spring"
+  }
+ },
+ "framer-hcnGU": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "CPvameZ0r": {
+    "cls": "framer-v-1skxnjo",
+    "name": "Inactive"
+   },
+   "yf1VjVBO4": {
+    "cls": "framer-v-hkh6pg",
+    "name": "Active"
+   }
+  },
+  "transition": {
+   "damping": 60,
+   "delay": 0,
+   "mass": 1,
+   "stiffness": 500,
+   "type": "spring"
+  }
+ },
+ "framer-D8OKa": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "aiImWsjMY": {
+    "cls": "framer-v-fvg7ub",
+    "name": "1"
+   },
+   "CDrScK76Q": {
+    "cls": "framer-v-13hihkq",
+    "name": "Default"
+   },
+   "dcg9DRvtv": {
+    "cls": "framer-v-agcrz0",
+    "name": "3"
+   },
+   "l1s5h3kT2": {
+    "cls": "framer-v-or1xwo",
+    "name": "2"
+   },
+   "lGouSBjMy": {
+    "cls": "framer-v-1nhz6d0",
+    "name": "Mobile 3"
+   },
+   "lxA3QTq01": {
+    "cls": "framer-v-c6h312",
+    "name": "Mobile"
+   },
+   "NkpXPuof5": {
+    "cls": "framer-v-135xmo",
+    "name": "Mobile 1"
+   },
+   "Q7W8dMPp3": {
+    "cls": "framer-v-dumthw",
+    "name": "Mobile 2"
+   },
+   "rmG7iPCcs": {
+    "cls": "framer-v-18gly35",
+    "name": "5"
+   },
+   "UZTvrQn_5": {
+    "cls": "framer-v-71kr7e",
+    "name": "4"
+   },
+   "V2KoG_60U": {
+    "cls": "framer-v-6aduw7",
+    "name": "Paused"
+   },
+   "VQqmddh9d": {
+    "cls": "framer-v-1y1gk9f",
+    "name": "Mobile Paused"
+   }
+  },
+  "transition": {
+   "damping": 60,
+   "delay": 0,
+   "mass": 1,
+   "stiffness": 500,
+   "type": "spring"
+  }
+ },
+ "framer-xBnZN": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "LTyU8DoqR": {
+    "cls": "framer-v-1dekqf4"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-jslJH": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "CI5inaEaP": {
+    "cls": "framer-v-1f4dfq2",
+    "name": "3"
+   },
+   "CYiAg38Ue": {
+    "cls": "framer-v-5s9v7o",
+    "name": "2"
+   },
+   "emNd45eer": {
+    "cls": "framer-v-11iyxzv",
+    "name": "Start"
+   },
+   "hA95yhsf9": {
+    "cls": "framer-v-3h8pfe",
+    "name": "Paused"
+   },
+   "OO_gvqvE7": {
+    "cls": "framer-v-s8v417",
+    "name": "4"
+   },
+   "U1MTskX7o": {
+    "cls": "framer-v-j3sinf",
+    "name": "5"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-JHBGB": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "aqu2UZnhU": {
+    "cls": "framer-v-1c3t847",
+    "name": "Phone"
+   },
+   "dk0Avt7ZN": {
+    "cls": "framer-v-19heqkm",
+    "name": "Default"
+   }
+  },
+  "transition": {
+   "delay": 0.3,
+   "duration": 0.6,
+   "ease": [
+    0.4,
+    0,
+    0.2,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-KsJvq": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "F9MvIiIIS": {
+    "cls": "framer-v-wc85mb",
+    "name": "Light"
+   },
+   "NwpYyDCUg": {
+    "cls": "framer-v-rit2hr",
+    "name": "Default"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-4kXTZ": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "e7sBptjHs": {
+    "cls": "framer-v-1uzc3ba",
+    "name": "Default"
+   },
+   "lyMvfkk8j": {
+    "cls": "framer-v-6w1pf3",
+    "name": "All access open"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.4,
+   "ease": [
+    0.4,
+    0,
+    0.2,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-XzoKs": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "QvZffFKGr": {
+    "cls": "framer-v-1v7hx6y",
+    "name": "Dark"
+   },
+   "rTFgYo5_a": {
+    "cls": "framer-v-pbvj8r",
+    "name": "More"
+   },
+   "vMQYEtOtY": {
+    "cls": "framer-v-1cr4oj7",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "bounce": 0,
+   "delay": 0,
+   "duration": 0.3,
+   "type": "spring"
+  }
+ },
+ "framer-h9lrK": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "CzntNeKHI": {
+    "cls": "framer-v-194da0f",
+    "name": "Free"
+   },
+   "Ew3tuZPDE": {
+    "cls": "framer-v-ydlgfe",
+    "name": "Buy Button"
+   },
+   "tcgNZvcDT": {
+    "cls": "framer-v-op1meb",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "delay": 1.8,
+   "duration": 0.5,
+   "ease": [
+    0.4,
+    0,
+    0.2,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-2YuhP": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "Fyih9sCDk": {
+    "cls": "framer-v-h4zf60",
+    "name": "Large"
+   },
+   "IQ5VKT_cu": {
+    "cls": "framer-v-oklurg",
+    "name": "Large Phone"
+   },
+   "LEwHm1Xmc": {
+    "cls": "framer-v-1xhybmy",
+    "name": "Small"
+   },
+   "MouuNRtt_": {
+    "cls": "framer-v-ymw4vn",
+    "name": "Small Phone"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.36,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-Z2aNj": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "M83fGIck2": {
+    "cls": "framer-v-1fd22pg",
+    "name": "Desktop - Top"
+   },
+   "PtvC8qv5y": {
+    "cls": "framer-v-1c01me7",
+    "name": "Tablet - Top"
+   },
+   "XYPo0X9G2": {
+    "cls": "framer-v-fvp1dl",
+    "name": "Desktop"
+   },
+   "zylddWCaP": {
+    "cls": "framer-v-1mkgfd6",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-fjOy7": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "CRUQ0kHEV": {
+    "cls": "framer-v-gesna7"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-yXQrW": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "qLwQM42bQ": {
+    "cls": "framer-v-gmtdri"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-MszgN": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "gq6hjYdVi": {
+    "cls": "framer-v-xkbv01",
+    "name": "Read Article"
+   },
+   "IeznnrIPT": {
+    "cls": "framer-v-ez28hj",
+    "name": "Default"
+   },
+   "JYlp8aboM": {
+    "cls": "framer-v-m35kh1",
+    "name": "View Project"
+   },
+   "nSACZy5aP": {
+    "cls": "framer-v-18ule0",
+    "name": "Next"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.56,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-bQHEq": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "PxOSLYnOW": {
+    "cls": "framer-v-1m79t3m",
+    "name": "Open"
+   },
+   "wQ68zCUv0": {
+    "cls": "framer-v-1hlzttn",
+    "name": "Closed"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.5,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-D1HnP": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "zydm0la0X": {
+    "cls": "framer-v-1875b8x"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-BF4Of": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "rve8tPCSJ": {
+    "cls": "framer-v-1qy02dt",
+    "name": "Phone"
+   },
+   "ZdQbvFLzW": {
+    "cls": "framer-v-oxml7j",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.3,
+   "ease": [
+    0.4,
+    0,
+    0.2,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-shGv8": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "IvviAYf_X": {
+    "cls": "framer-v-5pv308",
+    "name": "Phone"
+   },
+   "jg6zUAEJU": {
+    "cls": "framer-v-4tnhfa",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-U9l7N": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "F8QhxJmqp": {
+    "cls": "framer-v-1973bho",
+    "name": "Desktop"
+   },
+   "VgyOKiub4": {
+    "cls": "framer-v-u2y57g",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.56,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-tVn1f": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "cZipLVXZw": {
+    "cls": "framer-v-cnvg8h",
+    "name": "Desktop - Open"
+   },
+   "DtWmu2Lal": {
+    "cls": "framer-v-rjgpgd",
+    "name": "Phone - Open"
+   },
+   "lbGoIWDKI": {
+    "cls": "framer-v-da3fvt",
+    "name": "Tablet - Open"
+   },
+   "ohscBxtqQ": {
+    "cls": "framer-v-l44v03",
+    "name": "Desktop - Closed"
+   },
+   "qqgfFW9hu": {
+    "cls": "framer-v-164awg0",
+    "name": "Tablet - Closed"
+   },
+   "sixur_H_8": {
+    "cls": "framer-v-1s6eirn",
+    "name": "Phone Closed"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.4,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-pEZXs": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "dxXU_I0jN": {
+    "cls": "framer-v-7sj87n",
+    "name": "Spinner"
+   },
+   "Jq5yVz0gZ": {
+    "cls": "framer-v-1b3wek9",
+    "name": "Hidden"
+   }
+  },
+  "transition": {
+   "duration": 0,
+   "type": "tween"
+  }
+ },
+ "framer-8H41b": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "bRLDllExn": {
+    "cls": "framer-v-1g0cbeo",
+    "name": "Error"
+   },
+   "hiHajVa57": {
+    "cls": "framer-v-qk64ix",
+    "name": "Loading"
+   },
+   "lZufaWhqU": {
+    "cls": "framer-v-ff7x1i",
+    "name": "Success"
+   },
+   "Rqy7FUIBo": {
+    "cls": "framer-v-xkbypw",
+    "name": "Default"
+   },
+   "wBnCNx14X": {
+    "cls": "framer-v-a28jhw",
+    "name": "Incomplete"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.56,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-eYdsD": {
+  "module": "toplevel-deps.BY2s547D.mjs",
+  "variants": {
+   "b3vZAuF4v": {
+    "cls": "framer-v-1e6htkk",
+    "name": "Desktop"
+   },
+   "ITzzHeBqK": {
+    "cls": "framer-v-1pvmz1y",
+    "name": "Phone"
+   },
+   "p8hMayzHV": {
+    "cls": "framer-v-1wjgfnr",
+    "name": "Tablet"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.4,
+   "ease": [
+    0.4,
+    0,
+    0.2,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-St8Ub": {
+  "module": "v7Wd3N72W.Dzl5_5IZ.mjs",
+  "variants": {
+   "jinEk1yag": {
+    "cls": "framer-v-q8hg74",
+    "name": "Desktop - Right"
+   },
+   "oFaK7E_Aw": {
+    "cls": "framer-v-8wbf3d",
+    "name": "Phone Left"
+   },
+   "RVD7A0_PA": {
+    "cls": "framer-v-ra0to2",
+    "name": "Desktop - Left"
+   },
+   "UFuPupHWY": {
+    "cls": "framer-v-ls2zup",
+    "name": "Phone Right"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.36,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-Oiz8K": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "kTxvluWFa": {
+    "cls": "framer-v-m9h68i",
+    "name": "Item 2 Active"
+   },
+   "Q9UIdlaan": {
+    "cls": "framer-v-7fzx66",
+    "name": "Item 1 Active"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-IGk3i": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "LUln1HeAw": {
+    "cls": "framer-v-1trk730",
+    "name": "Checked"
+   },
+   "ng7Xm9wfI": {
+    "cls": "framer-v-1128hhv",
+    "name": "Unchecked"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-kXvVU": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "nSOt8njT3": {
+    "cls": "framer-v-w8gkbz"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-asHOM": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "h5WTCeFuC": {
+    "cls": "framer-v-1uq3zem",
+    "name": "Phone"
+   },
+   "xOitXcA3M": {
+    "cls": "framer-v-1pwzy88",
+    "name": "Default"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-0lSwF": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "bu2EzEpdX": {
+    "cls": "framer-v-14e620u",
+    "name": "End"
+   },
+   "q09oREoWS": {
+    "cls": "framer-v-1aedll2",
+    "name": "Start"
+   }
+  },
+  "transition": {
+   "delay": 0.4,
+   "duration": 0.76,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-rfsSU": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "GabQ6RP7V": {
+    "cls": "framer-v-1ww3hxg",
+    "name": "Revealed"
+   },
+   "LJ9aJ2_VI": {
+    "cls": "framer-v-1cb27gq",
+    "name": "Hidden"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 1.2,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-xBkin": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "BqBP6fe9B": {
+    "cls": "framer-v-18bn8gj",
+    "name": "Phone"
+   },
+   "Tg7HakBk4": {
+    "cls": "framer-v-9essyp",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.6,
+   "ease": [
+    0.4,
+    0,
+    0.2,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-Zcoj2": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "I40ArjRqJ": {
+    "cls": "framer-v-xfn154",
+    "name": "Testimonial 3"
+   },
+   "kkynBgPwS": {
+    "cls": "framer-v-1ur35ji",
+    "name": "Testimonial 1"
+   },
+   "UhG7O0F_P": {
+    "cls": "framer-v-ubwidj",
+    "name": "Testimonial 2"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.6,
+   "ease": [
+    0.4,
+    0,
+    0.2,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-k45qK": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "xkvFjRWsw": {
+    "cls": "framer-v-icn1dx"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-if8OZ": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "d59ZXs8LQ": {
+    "cls": "framer-v-mp3lk",
+    "name": "Phone Closed"
+   },
+   "EwnHLUTYk": {
+    "cls": "framer-v-1g2bcf",
+    "name": "Closed"
+   },
+   "J93YZ5sxi": {
+    "cls": "framer-v-kquzu7",
+    "name": "Phone Open"
+   },
+   "sITTYngnU": {
+    "cls": "framer-v-40gaj4",
+    "name": "Open"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-gkSx9": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "sgGQEcV9Z": {
+    "cls": "framer-v-1jv6b9g",
+    "name": "Active"
+   },
+   "Sh_ahvups": {
+    "cls": "framer-v-nf1zc3",
+    "name": "Inactive"
+   },
+   "XmV4tQ_ou": {
+    "cls": "framer-v-u5wair",
+    "name": "Phone"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-nhusq": {
+  "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+  "variants": {
+   "Cth7STIQR": {
+    "cls": "framer-v-18rjlel",
+    "name": "Process Step 3"
+   },
+   "dPWqybCNx": {
+    "cls": "framer-v-ss4gxa",
+    "name": "Process Step 2"
+   },
+   "kw8StE0kn": {
+    "cls": "framer-v-312wk3",
+    "name": "Phone"
+   },
+   "NMtXp8_Fx": {
+    "cls": "framer-v-1wkn9vt",
+    "name": "Process Step 4"
+   },
+   "Wv6mVM6uN": {
+    "cls": "framer-v-9qs5q4",
+    "name": "Process Step 1"
+   }
+  },
+  "transition": {
+   "delay": 0,
+   "duration": 0.46,
+   "ease": [
+    0.87,
+    0,
+    0.13,
+    1
+   ],
+   "type": "tween"
+  }
+ },
+ "framer-eegra": {
+  "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
+  "variants": {
+   "j11qKK0L3": {
+    "cls": "framer-v-1dpavhp",
+    "name": "Phone"
+   },
+   "wkcy4Et_p": {
+    "cls": "framer-v-163lh2b",
+    "name": "Desktop"
+   },
+   "zCedCevuQ": {
+    "cls": "framer-v-1atwfmo",
+    "name": "Tablet"
+   }
+  },
+  "transition": {
+   "damping": 25,
+   "delay": 0.9,
+   "mass": 0.3,
+   "stiffness": 120,
+   "type": "spring"
+  }
+ },
+ "framer-C69ZD": {
+  "module": "W8Mju5LdxFrIwLSI6bVG_utu9VHQi20w7gSVBP5gn9o.BnIUv_Sm.mjs",
+  "variants": {
+   "IMbb3qNEh": {
+    "cls": "framer-v-1h5o7sz",
+    "name": "Phone"
+   },
+   "r1pYBYYSK": {
+    "cls": "framer-v-1o9zkmb",
+    "name": "Desktop"
+   },
+   "TAfGNYfdM": {
+    "cls": "framer-v-47y8pw",
+    "name": "Tablet"
+   }
+  },
+  "transition": {
+   "bounce": 0.1,
+   "delay": 1.2,
+   "duration": 1.2,
+   "type": "spring"
+  }
+ },
+ "framer-oe2kI": {
+  "module": "xDlnrOgAN.CxBxYKw0.mjs",
+  "variants": {
+   "DK7V8I1_d": {
+    "cls": "framer-v-134908u"
+   }
+  },
+  "transition": {
+   "bounce": 0.2,
+   "delay": 0,
+   "duration": 0.4,
+   "type": "spring"
+  }
+ },
+ "framer-hglyy": {
+  "module": "_5OYj0-t6e_K3CpdFnk4M936UgoGpoJLX_t90bynXto.BAP1r93m.mjs",
+  "variants": {
+   "gjvbOr6sK": {
+    "cls": "framer-v-1nc0ivo",
+    "name": "Phone"
+   },
+   "kvrgoOqAT": {
+    "cls": "framer-v-g87bww",
+    "name": "Tablet"
+   },
+   "QnwWFo3ky": {
+    "cls": "framer-v-1o0hdey",
+    "name": "Desktop"
+   }
+  },
+  "transition": {
+   "bounce": 0.1,
+   "delay": 1.55,
+   "duration": 1.2,
+   "type": "spring"
+  }
+ }
+}

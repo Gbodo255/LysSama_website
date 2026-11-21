@@ -1,0 +1,57 @@
+/* Généré par scripts/genpage.mjs depuis reference/html/journal.html (D-033). Valeurs d'origine inchangées. */
+@media (min-width: 1200px) { .hidden-1idsw5c { display: none !important; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .hidden-1f0wwcx { display: none !important; } }
+@media (max-width: 809.98px) { .hidden-15bxuw3 { display: none !important; } }
+.framer-4vxtl.framer-1idsw5c { background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94,#fff); height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: center flex-start; align-items: center; gap: 0px; width: 1200px; padding: 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-48vjmc-container { z-index: 1; flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-4vxtl .framer-vk992d { background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94,#fff); height: min-content; overflow: var(--overflow-clip-fallback,clip); z-index: 1; flex-flow: row; flex: 0 0 auto; place-content: flex-start center; align-items: flex-start; gap: 0px; width: 100%; padding: 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-1papd5a-container, .framer-4vxtl .framer-1wi6erx-container { flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-4vxtl .framer-w36nlq { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 1 0 0px; place-content: flex-start center; align-items: flex-start; gap: 0px; width: 1px; padding: 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-hsv7p6 { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 15px; width: 100%; padding: 33px 0px 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-1w6hea { max-width: 1920px; height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 120px; width: 100%; padding: 0px 33px 120px; display: flex; position: relative; }
+.framer-4vxtl .framer-1tto8yq { pointer-events: auto; z-index: 1; flex: 0 0 auto; grid-template-rows: repeat(1, minmax(0px, 1fr)); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-auto-rows: minmax(0px, 1fr); justify-content: center; gap: 40px 20px; width: 100%; max-width: 1920px; height: min-content; padding: 0px; display: grid; position: relative; overflow: visible; }
+.framer-4vxtl .framer-479px2-container { will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; place-self: center start; width: fit-content; height: auto; position: relative; }
+.framer-4vxtl .framer-t46hau { height: min-content; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-effect-override,transform); flex-flow: row; flex: 0 0 auto; grid-column: span 2; place-content: flex-start; place-self: center start; align-items: flex-start; gap: 3px; width: 100%; padding: 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-mr1if5, .framer-4vxtl .framer-dykrxz { white-space: pre; flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-4vxtl .framer-14j50wt { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: row; place-content: center; align-items: center; gap: 15px; width: min-content; padding: 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-yejo9x { --framer-link-text-color: #09f; --framer-link-text-decoration: underline; white-space: pre; flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-4vxtl .framer-1jg9bh7-container { will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; place-self: center end; width: 100%; height: auto; position: relative; }
+.framer-4vxtl .framer-ljl91v { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex: 0 0 auto; grid-template-rows: repeat(1, minmax(0px, 1fr)); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-auto-rows: minmax(0px, 1fr); justify-content: center; gap: 40px 20px; width: 100%; padding: 0px; display: grid; position: relative; }
+.framer-4vxtl .framer-sg8fmg { height: 1px; overflow: var(--overflow-clip-fallback,clip); flex: 0 0 auto; place-self: start; width: 100%; position: relative; }
+.framer-4vxtl .framer-1tp47vp { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; grid-column: span 3; place-content: flex-start center; place-self: start; align-items: flex-start; gap: 30px; width: 100%; padding: 0px; display: flex; position: relative; }
+.framer-4vxtl .framer-l7fzdx { --framer-text-wrap-override: balance; will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; width: 100%; height: auto; position: relative; }
+.framer-4vxtl .framer-8yi7pu { white-space: pre-wrap; word-break: break-word; overflow-wrap: break-word; flex: 0 0 auto; width: 100%; max-width: 400px; height: auto; position: relative; }
+.framer-4vxtl .framer-ciy0ua { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 15px; width: 100%; padding: 0px 0px 120px; display: flex; position: relative; }
+.framer-4vxtl .framer-15hfomq { max-width: 1920px; height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 80px; width: 100%; padding: 0px 33px; display: flex; position: relative; }
+.framer-4vxtl .framer-1i49lb8 { flex: 0 0 auto; gap: 40px 20px; width: 100%; height: min-content; padding: 0px; display: grid; position: relative; }
+.framer-4vxtl .framer-1goa1hn-container { will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; place-self: start; width: 100%; height: auto; position: relative; }
+.framer-4vxtl .framer-ddrj6j-container { flex: 0 0 auto; width: auto; height: auto; position: absolute; bottom: 0px; left: 50%; transform: translate(-50%); }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-4vxtl.framer-1idsw5c { width: 810px; height: 1000px; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-4vxtl .framer-1papd5a-container { order: 0; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-4vxtl .framer-w36nlq { order: 1; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-4vxtl .framer-1w6hea { gap: 90px; padding: 0px 33px 90px; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-4vxtl .framer-1jg9bh7-container { width: fit-content; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-4vxtl .framer-ciy0ua { padding: 0px 0px 90px; } }
+@media (max-width: 809.98px) { .framer-4vxtl.framer-1idsw5c { width: 390px; height: 1000px; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-hsv7p6 { padding: 81px 0px 0px; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-1w6hea { gap: 60px; padding: 0px 23px 60px; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-t46hau { grid-column: span 3; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-1jg9bh7-container { width: fit-content; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-ljl91v { flex-flow: column; align-content: flex-start; align-items: flex-start; gap: 15px; display: flex; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-1tp47vp { align-self: unset; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-ciy0ua { padding: 0px 0px 60px; } }
+@media (max-width: 809.98px) { .framer-4vxtl .framer-15hfomq { padding: 0px 23px; } }
+.framer-w6BnQ.framer-qhvvyj, .framer-w6BnQ .framer-qhvvyj { display: block; }
+.framer-w6BnQ.framer-162pug6 { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: row; place-content: center flex-start; align-items: center; gap: 30px; width: min-content; padding: 0px; display: flex; position: relative; }
+.framer-w6BnQ .framer-14g1br8 { white-space: pre; flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-qXCbS.framer-1e4az23, .framer-qXCbS .framer-1e4az23 { display: block; }
+.framer-qXCbS.framer-n8zo7t { cursor: pointer; height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: center; align-items: center; gap: 15px; width: 350px; padding: 0px; text-decoration: none; display: flex; position: relative; }
+.framer-qXCbS .framer-1mffi2y { flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 10px; width: 100%; height: min-content; padding: 0px; display: flex; position: relative; overflow: visible; }
+.framer-qXCbS .framer-kdqgfg, .framer-qXCbS .framer-1kgjso1 { white-space: pre-wrap; word-break: break-word; overflow-wrap: break-word; flex: 0 0 auto; width: 100%; height: auto; position: relative; }
+.framer-qXCbS .framer-v9hp8k { user-select: none; height: min-content; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); flex-flow: row; flex: 0 0 auto; place-content: center; align-items: center; gap: 15px; width: 100%; padding: 0px; display: flex; position: relative; }
+.framer-qXCbS .framer-yme2qk { image-rendering: auto; height: auto; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-filter-override,filter); flex: 1 0 0px; width: 1px; position: relative; }
+.framer-qXCbS .framer-oqgboy { image-rendering: auto; height: auto; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); z-index: 1; flex: 0 0 auto; width: 100%; position: absolute; top: 50%; left: 50%; }
+.framer-qXCbS .framer-3pqa2g { flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 5px; width: 100%; height: min-content; padding: 0px; display: flex; position: relative; overflow: visible; }
+.framer-qXCbS .framer-1fg44cf { --framer-text-wrap-override: balance; flex: 0 0 auto; width: 100%; height: auto; position: relative; }
+.framer-qXCbS.framer-v-fcep5.framer-n8zo7t { cursor: unset; }
+.framer-qXCbS.framer-v-n8zo7t.hover .framer-oqgboy { width: 75%; }

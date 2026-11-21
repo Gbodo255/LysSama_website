@@ -1,0 +1,29 @@
+{
+ "route": "/journal",
+ "width": 1200,
+ "scope": null,
+ "height": {
+  "ref": 2471,
+  "clone": 2471,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 338,
+  "clone": 338,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0.003,
+  "over2": [],
+  "n": 8
+ }
+}

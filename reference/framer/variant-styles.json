@@ -1,0 +1,1531 @@
+{
+ "framer-yme2qk": [
+  {
+   "module": "caaAwhF9X.BYTWrlvA.mjs",
+   "base": {
+    "filter": "none",
+    "scale": 1,
+    "WebkitFilter": "none"
+   },
+   "variants": {
+    "qkJaMXuuZ-hover": {
+     "filter": "blur(5px)",
+     "scale": 1.2,
+     "WebkitFilter": "blur(5px)"
+    }
+   }
+  }
+ ],
+ "framer-oqgboy": [
+  {
+   "module": "caaAwhF9X.BYTWrlvA.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)"
+   },
+   "variants": {
+    "qkJaMXuuZ-hover": {
+     "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))"
+    }
+   }
+  }
+ ],
+ "framer-rbevx0": [
+  {
+   "module": "cM8Lf1CeK.DR507ZJR.mjs",
+   "base": {
+    "mask": "linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add",
+    "rotate": 0,
+    "scale": 1,
+    "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"
+   },
+   "variants": {
+    "DV6oTfLLg": {
+     "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add",
+     "rotate": 4,
+     "scale": 1.5,
+     "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"
+    }
+   }
+  }
+ ],
+ "framer-5nyabp": [
+  {
+   "module": "Eu60T7thi.P98_SUm8.mjs",
+   "base": {
+    "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"
+   },
+   "variants": {
+    "iLlY2rby8": {
+     "backgroundColor": "var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"
+    },
+    "OMSvRHidC": {
+     "backgroundColor": "var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"
+    }
+   }
+  }
+ ],
+ "framer-1rvpfig": [
+  {
+   "module": "JKo4PdE_2.CATvKgFy.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"
+   },
+   "variants": {
+    "gNhLAbVYC": {
+     "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"
+    }
+   }
+  }
+ ],
+ "framer-c1dua2": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "backgroundColor": "rgba(13, 13, 13, 0.75)",
+    "borderBottomLeftRadius": 100,
+    "borderBottomRightRadius": 100,
+    "borderTopLeftRadius": 100,
+    "borderTopRightRadius": 100,
+    "scale": 1
+   },
+   "variants": {
+    "QnheowYVb-hover": {
+     "scale": 1.05
+    }
+   }
+  }
+ ],
+ "framer-tbdlzo": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "borderBottomLeftRadius": 42.5,
+    "borderBottomRightRadius": 42.5,
+    "borderTopLeftRadius": 42.5,
+    "borderTopRightRadius": 42.5,
+    "rotate": 0
+   },
+   "variants": {
+    "QnheowYVb-hover": {
+     "rotate": 360
+    }
+   }
+  }
+ ],
+ "framer-1o629ul": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 1
+   },
+   "variants": {
+    "QnheowYVb-hover": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-a32j11": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "--extracted-1of0zx5": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8)",
+    "opacity": 1
+   },
+   "variants": {
+    "KePuGGRdl-hover": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-1o2749o": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))",
+    "opacity": 0
+   },
+   "variants": {
+    "KePuGGRdl-hover": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-1u3jrt9": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))"
+   },
+   "variants": {
+    "KePuGGRdl-hover": {
+     "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"
+    }
+   }
+  }
+ ],
+ "framer-16o5iqg": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "opacity": 0
+   },
+   "variants": {
+    "KePuGGRdl-hover": {
+     "opacity": 1
+    },
+    "I4d4B4zbs": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-cbal85": [
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)",
+    "mask": "linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add",
+    "scale": 1,
+    "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"
+   },
+   "variants": {
+    "SEOMcnqgJ": {
+     "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add",
+     "scale": 1.3,
+     "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"
+    }
+   }
+  }
+ ],
+ "framer-1uijhxj": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "base": {
+    "rotate": 0
+   },
+   "variants": {
+    "k601oOa0D": {
+     "rotate": 360
+    }
+   }
+  }
+ ],
+ "framer-jfr4il": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))",
+    "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)"
+   },
+   "variants": {
+    "tw5CtHDal": {
+     "backgroundColor": "var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))"
+    }
+   }
+  }
+ ],
+ "framer-1pe7kbn": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline"
+   },
+   "variants": {
+    "tw5CtHDal": {
+     "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))"
+    }
+   }
+  }
+ ],
+ "framer-oupqxc": [
+  {
+   "module": "NIqbhJ1MS.BBeNmibM.mjs",
+   "base": {
+    "opacity": 1
+   },
+   "variants": {
+    "tw5CtHDal": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-3onib8": [
+  {
+   "module": "n_03H18N2.ClVbANJn.mjs",
+   "base": {
+    "filter": "none",
+    "opacity": 1,
+    "scale": 1,
+    "WebkitFilter": "none"
+   },
+   "variants": {
+    "ecW7wXnOV": {
+     "filter": "none",
+     "opacity": 1,
+     "scale": 1,
+     "WebkitFilter": "none"
+    },
+    "Esh2uhvll": {
+     "filter": "blur(5px)",
+     "opacity": 0.35,
+     "scale": 0.95,
+     "WebkitFilter": "blur(5px)"
+    },
+    "SHEQP1pE0": {
+     "filter": "blur(5px)",
+     "scale": 0.95,
+     "WebkitFilter": "blur(5px)"
+    }
+   }
+  }
+ ],
+ "framer-17d941x": [
+  {
+   "module": "n_03H18N2.ClVbANJn.mjs",
+   "base": {
+    "opacity": 1
+   },
+   "variants": {
+    "ecW7wXnOV": {
+     "opacity": 0.5
+    }
+   }
+  }
+ ],
+ "framer-fbyx7b": [
+  {
+   "module": "n_03H18N2.ClVbANJn.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "borderBottomLeftRadius": "<?TemplateLiteral>",
+    "borderBottomRightRadius": "<?TemplateLiteral>",
+    "borderTopLeftRadius": "<?TemplateLiteral>",
+    "borderTopRightRadius": "<?TemplateLiteral>",
+    "cornerShape": "superellipse(1.5)",
+    "filter": "grayscale(1)",
+    "WebkitFilter": "grayscale(1)"
+   },
+   "variants": {
+    "DlVS4BEWz": {
+     "filter": "grayscale(0)",
+     "WebkitFilter": "grayscale(0)"
+    }
+   }
+  }
+ ],
+ "framer-1rd84u6": [
+  {
+   "module": "n_03H18N2.ClVbANJn.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "borderBottomLeftRadius": "<?TemplateLiteral>",
+    "borderBottomRightRadius": "<?TemplateLiteral>",
+    "borderTopLeftRadius": "<?TemplateLiteral>",
+    "borderTopRightRadius": "<?TemplateLiteral>",
+    "cornerShape": "superellipse(1.5)",
+    "rotate": 2,
+    "scale": 1.3
+   },
+   "variants": {
+    "DlVS4BEWz": {
+     "rotate": 0,
+     "scale": 1
+    }
+   }
+  }
+ ],
+ "framer-179jsj7": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(255, 255, 255)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 1
+   },
+   "variants": {
+    "AQI0EawVi-hover": {
+     "opacity": 0
+    },
+    "tLK6qT9cB-hover": {
+     "opacity": 0
+    },
+    "UpWlNuY8v-hover": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-me6jbz": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(255, 255, 255)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 0
+   },
+   "variants": {
+    "AQI0EawVi-hover": {
+     "opacity": 1
+    },
+    "tLK6qT9cB-hover": {
+     "opacity": 1
+    },
+    "UpWlNuY8v-hover": {
+     "opacity": 1
+    },
+    "HhFPHQaeV": {
+     "--extracted-r6o4lv": "var(--token-2759885a-0605-4b0d-ae5f-9a938c3766f2, rgb(0, 0, 0))"
+    },
+    "tLK6qT9cB": {
+     "--extracted-r6o4lv": "rgb(0, 0, 0)"
+    }
+   }
+  }
+ ],
+ "framer-mlc0qm": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(0, 0, 0)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 1
+   },
+   "variants": {
+    "vtaGLVCx0-hover": {
+     "opacity": 0
+    },
+    "ZCREUG_iX-hover": {
+     "opacity": 0
+    },
+    "OYJfUyovN": {
+     "--extracted-r6o4lv": "rgb(255, 255, 255)"
+    },
+    "vtaGLVCx0": {
+     "--extracted-r6o4lv": "rgb(255, 255, 255)"
+    }
+   }
+  }
+ ],
+ "framer-4joyqg": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(0, 0, 0)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 0
+   },
+   "variants": {
+    "vtaGLVCx0-hover": {
+     "opacity": 1
+    },
+    "ZCREUG_iX-hover": {
+     "opacity": 1
+    },
+    "vtaGLVCx0": {
+     "--extracted-r6o4lv": "rgb(255, 255, 255)"
+    }
+   }
+  }
+ ],
+ "framer-9ljc49": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--1m973uw": "<?y>",
+    "--js9iwy": "<?b>"
+   },
+   "variants": {
+    "ZCREUG_iX-hover": {
+     "--1m973uw": "rgb(255, 255, 255)"
+    },
+    "KnGRMuFfI": {
+     "--1m973uw": "rgb(0, 0, 0)"
+    }
+   }
+  }
+ ],
+ "framer-ygj5r0": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-7e378c57-2e87-407f-beec-cb702ad5880b, rgb(137, 87, 254))",
+    "borderBottomRightRadius": 4,
+    "borderTopLeftRadius": 4,
+    "rotate": -45
+   },
+   "variants": {
+    "TG4NdWENM": {
+     "backgroundColor": "var(--token-eb20f921-2956-40c0-87dc-9d6d28897a6f, rgb(0, 153, 255))"
+    }
+   }
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-7e378c57-2e87-407f-beec-cb702ad5880b, rgb(137, 87, 254))",
+    "borderBottomRightRadius": 4,
+    "borderTopLeftRadius": 4,
+    "rotate": -45
+   },
+   "variants": {
+    "TG4NdWENM": {
+     "backgroundColor": "var(--token-eb20f921-2956-40c0-87dc-9d6d28897a6f, rgb(0, 153, 255))"
+    }
+   }
+  }
+ ],
+ "framer-fflgc1": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "borderBottomLeftRadius": 3,
+    "borderBottomRightRadius": 3,
+    "borderTopLeftRadius": 3,
+    "borderTopRightRadius": 3,
+    "opacity": 0.75,
+    "rotateY": 45,
+    "skewY": -4.5,
+    "transformPerspective": 614
+   },
+   "variants": {
+    "yf1VjVBO4": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-1psv6oo": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 1
+   },
+   "variants": {
+    "CI5inaEaP": {
+     "opacity": 0.4
+    },
+    "CYiAg38Ue": {
+     "opacity": 0.2
+    },
+    "hA95yhsf9": {
+     "opacity": 1
+    },
+    "OO_gvqvE7": {
+     "opacity": 0.6
+    },
+    "U1MTskX7o": {
+     "opacity": 0.8
+    }
+   }
+  }
+ ],
+ "framer-9463t5": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 0.8
+   },
+   "variants": {
+    "CI5inaEaP": {
+     "opacity": 0.2
+    },
+    "CYiAg38Ue": {
+     "opacity": 1
+    },
+    "OO_gvqvE7": {
+     "opacity": 0.4
+    },
+    "U1MTskX7o": {
+     "opacity": 0.6
+    }
+   }
+  }
+ ],
+ "framer-wbsiq4": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 0.6
+   },
+   "variants": {
+    "CI5inaEaP": {
+     "opacity": 1
+    },
+    "CYiAg38Ue": {
+     "opacity": 0.8
+    },
+    "OO_gvqvE7": {
+     "opacity": 0.2
+    },
+    "U1MTskX7o": {
+     "opacity": 0.4
+    }
+   }
+  }
+ ],
+ "framer-1egp1jd": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 0.4
+   },
+   "variants": {
+    "CI5inaEaP": {
+     "opacity": 0.8
+    },
+    "CYiAg38Ue": {
+     "opacity": 0.6
+    },
+    "OO_gvqvE7": {
+     "opacity": 1
+    },
+    "U1MTskX7o": {
+     "opacity": 0.2
+    }
+   }
+  }
+ ],
+ "framer-1jafaq0": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 0.2
+   },
+   "variants": {
+    "CI5inaEaP": {
+     "opacity": 0.6
+    },
+    "CYiAg38Ue": {
+     "opacity": 0.4
+    },
+    "OO_gvqvE7": {
+     "opacity": 0.8
+    },
+    "U1MTskX7o": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-1vruqfd": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--border-bottom-width": "0.5px",
+    "--border-color": "rgba(173, 173, 173, 0.17)",
+    "--border-left-width": "0.5px",
+    "--border-right-width": "0.5px",
+    "--border-style": "solid",
+    "--border-top-width": "0.5px",
+    "backdropFilter": "blur(6px)",
+    "backgroundColor": "rgba(45, 46, 46, 0.73)",
+    "borderBottomLeftRadius": "100%",
+    "borderBottomRightRadius": "100%",
+    "borderTopLeftRadius": "100%",
+    "borderTopRightRadius": "100%",
+    "opacity": 1,
+    "WebkitBackdropFilter": "blur(6px)"
+   },
+   "variants": {
+    "hA95yhsf9": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-k4kqvl": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 1
+   },
+   "variants": {
+    "dk0Avt7ZN-hover": {
+     "opacity": 0.5
+    }
+   }
+  }
+ ],
+ "framer-1adqj42": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--pxuiy5": "rgb(117, 117, 117)",
+    "--q88lbe": 2.5
+   },
+   "variants": {
+    "F9MvIiIIS": {
+     "--pxuiy5": "rgb(168, 168, 168)"
+    }
+   }
+  }
+ ],
+ "framer-1ryxe5w": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(117, 117, 117)"
+   },
+   "variants": {
+    "F9MvIiIIS": {
+     "--extracted-r6o4lv": "rgb(168, 168, 168)"
+    }
+   }
+  }
+ ],
+ "framer-1wscdkm": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(97, 97, 97)"
+   },
+   "variants": {
+    "F9MvIiIIS": {
+     "--extracted-r6o4lv": "rgb(209, 213, 219)"
+    }
+   }
+  }
+ ],
+ "framer-ou3smq": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--border-bottom-width": "1px",
+    "--border-color": "rgba(173, 173, 173, 0.17)",
+    "--border-left-width": "1px",
+    "--border-right-width": "1px",
+    "--border-style": "solid",
+    "--border-top-width": "1px",
+    "backdropFilter": "blur(5px)",
+    "backgroundColor": "rgb(243, 244, 246)",
+    "borderBottomLeftRadius": 16,
+    "borderBottomRightRadius": 16,
+    "borderTopLeftRadius": 16,
+    "borderTopRightRadius": 16,
+    "WebkitBackdropFilter": "blur(5px)"
+   },
+   "variants": {
+    "lyMvfkk8j": {
+     "backgroundColor": "rgb(10, 10, 10)"
+    }
+   }
+  }
+ ],
+ "framer-n4kchh": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 12,
+    "borderBottomRightRadius": 12,
+    "borderTopLeftRadius": 12,
+    "borderTopRightRadius": 12,
+    "opacity": 1
+   },
+   "variants": {
+    "lyMvfkk8j": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-uw17kp": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 12,
+    "borderBottomRightRadius": 12,
+    "borderTopLeftRadius": 12,
+    "borderTopRightRadius": 12,
+    "opacity": 1
+   },
+   "variants": {
+    "lyMvfkk8j": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-pm8azj": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(255, 255, 255)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 1
+   },
+   "variants": {
+    "QvZffFKGr-hover": {
+     "opacity": 0
+    },
+    "rTFgYo5_a": {
+     "--extracted-r6o4lv": "rgb(20, 20, 20)"
+    }
+   }
+  }
+ ],
+ "framer-41at20": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "rgb(255, 255, 255)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 0
+   },
+   "variants": {
+    "QvZffFKGr-hover": {
+     "opacity": 1
+    },
+    "vMQYEtOtY": {
+     "--extracted-r6o4lv": "var(--token-2759885a-0605-4b0d-ae5f-9a938c3766f2, rgb(0, 0, 0))"
+    }
+   }
+  }
+ ],
+ "framer-kdnc6p": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-E_W5ZRHAy-PcHoncs7C)",
+    "--variable-reference-E_W5ZRHAy-PcHoncs7C": "<?_>",
+    "opacity": 1
+   },
+   "variants": {
+    "Fyih9sCDk-hover": {
+     "opacity": 0
+    },
+    "LEwHm1Xmc-hover": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-105crdb": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-E_W5ZRHAy-PcHoncs7C)",
+    "--variable-reference-E_W5ZRHAy-PcHoncs7C": "<?_>",
+    "opacity": 0
+   },
+   "variants": {
+    "Fyih9sCDk-hover": {
+     "opacity": 1
+    },
+    "LEwHm1Xmc-hover": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-1os1ca7": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "borderBottomLeftRadius": 100,
+    "borderBottomRightRadius": 100,
+    "borderTopLeftRadius": 100,
+    "borderTopRightRadius": 100,
+    "scale": 0
+   },
+   "variants": {
+    "gq6hjYdVi": {
+     "scale": 1
+    },
+    "JYlp8aboM": {
+     "scale": 1
+    },
+    "nSACZy5aP": {
+     "scale": 1
+    }
+   }
+  }
+ ],
+ "framer-t6cidc": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "rotate": 0
+   },
+   "variants": {
+    "PxOSLYnOW": {
+     "rotate": 180
+    }
+   }
+  }
+ ],
+ "framer-19kq29j": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "rotate": 0
+   },
+   "variants": {
+    "PxOSLYnOW": {
+     "rotate": -45
+    }
+   }
+  }
+ ],
+ "framer-17en59d": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "rotate": 0
+   },
+   "variants": {
+    "PxOSLYnOW": {
+     "rotate": 45
+    }
+   }
+  }
+ ],
+ "framer-dczzwc": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 87, 3))",
+    "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)",
+    "scale": 1
+   },
+   "variants": {
+    "F8QhxJmqp-hover": {
+     "borderBottomLeftRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "scale": 0.95
+    }
+   }
+  }
+ ],
+ "framer-154bepi": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)"
+   },
+   "variants": {
+    "F8QhxJmqp-hover": {
+     "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))"
+    }
+   }
+  }
+ ],
+ "framer-1f8xv28": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-6e62038c-0066-4a2a-9fbd-3ca05d5d5284, rgb(31, 31, 31))",
+    "filter": "grayscale(1)",
+    "opacity": 0.85,
+    "WebkitFilter": "grayscale(1)"
+   },
+   "variants": {
+    "ohscBxtqQ": {
+     "filter": "none",
+     "opacity": 0,
+     "WebkitFilter": "none"
+    },
+    "qqgfFW9hu": {
+     "filter": "none",
+     "opacity": 0,
+     "WebkitFilter": "none"
+    },
+    "sixur_H_8": {
+     "filter": "none",
+     "opacity": 0,
+     "WebkitFilter": "none"
+    }
+   }
+  }
+ ],
+ "framer-3der5": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))",
+    "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)"
+   },
+   "variants": {
+    "sixur_H_8": {
+     "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))"
+    }
+   }
+  }
+ ],
+ "framer-17skh7b": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "backgroundColor": "<?_>",
+    "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)",
+    "scale": 1
+   },
+   "variants": {
+    "Rqy7FUIBo-hover": {
+     "borderBottomLeftRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "scale": 0.95
+    }
+   }
+  }
+ ],
+ "framer-1gm2ya6": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-oYhWrTjTX)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "--variable-reference-odJoTSF6e-oYhWrTjTX": "<?g>",
+    "opacity": 1,
+    "scale": 1
+   },
+   "variants": {
+    "Rqy7FUIBo-hover": {
+     "opacity": 0,
+     "scale": 0.9
+    },
+    "bRLDllExn": {
+     "opacity": 1
+    },
+    "hiHajVa57": {
+     "opacity": 0
+    },
+    "lZufaWhqU": {
+     "opacity": 0
+    },
+    "wBnCNx14X": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-l29hgm": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-oYhWrTjTX)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "--variable-reference-odJoTSF6e-oYhWrTjTX": "<?g>",
+    "opacity": 0,
+    "scale": 1
+   },
+   "variants": {
+    "Rqy7FUIBo-hover": {
+     "opacity": 1,
+     "scale": 0.9
+    }
+   }
+  }
+ ],
+ "framer-1xmnpcd": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--1m973uw": "<?b>",
+    "--js9iwy": 2,
+    "opacity": 0,
+    "scale": 0.9
+   },
+   "variants": {
+    "lZufaWhqU": {
+     "opacity": 1,
+     "scale": 1
+    }
+   }
+  }
+ ],
+ "framer-zixbhw": [
+  {
+   "module": "v7Wd3N72W.Dzl5_5IZ.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "--variable-reference-A0yGAsltz-v7Wd3N72W": "<?y>",
+    "opacity": 1
+   },
+   "variants": {
+    "jinEk1yag-hover": {
+     "opacity": 0
+    },
+    "RVD7A0_PA-hover": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-1396mtp": [
+  {
+   "module": "v7Wd3N72W.Dzl5_5IZ.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-A0yGAsltz-v7Wd3N72W)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "--variable-reference-A0yGAsltz-v7Wd3N72W": "<?y>",
+    "opacity": 0
+   },
+   "variants": {
+    "jinEk1yag-hover": {
+     "opacity": 1
+    },
+    "RVD7A0_PA-hover": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-73np5u": [
+  {
+   "module": "v7Wd3N72W.Dzl5_5IZ.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "backgroundColor": "<?T>",
+    "borderBottomLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)",
+    "scale": 1
+   },
+   "variants": {
+    "jinEk1yag-hover": {
+     "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "scale": 0.95
+    },
+    "RVD7A0_PA-hover": {
+     "borderBottomLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "scale": 0.95
+    }
+   }
+  }
+ ],
+ "framer-1ou6ttg": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"
+   },
+   "variants": {
+    "kTxvluWFa": {
+     "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"
+    }
+   }
+  }
+ ],
+ "framer-1v5q4sn": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"
+   },
+   "variants": {
+    "kTxvluWFa": {
+     "--extracted-r6o4lv": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))"
+    }
+   }
+  }
+ ],
+ "framer-udrury": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"
+   },
+   "variants": {
+    "LUln1HeAw": {
+     "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"
+    }
+   }
+  }
+ ],
+ "framer-xmj7e9": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))"
+   },
+   "variants": {
+    "LUln1HeAw": {
+     "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))"
+    }
+   }
+  }
+ ],
+ "framer-1dag8of": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "backgroundColor": "<?b>",
+    "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)",
+    "scale": 1
+   },
+   "variants": {
+    "xOitXcA3M-hover": {
+     "borderBottomLeftRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderBottomRightRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopLeftRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "borderTopRightRadius": "calc(16px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+     "scale": 0.98
+    }
+   }
+  }
+ ],
+ "framer-1ucuywo": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "--variable-reference-odJoTSF6e-xZJNPlpYe": "<?v>",
+    "opacity": 1,
+    "scale": 1
+   },
+   "variants": {
+    "xOitXcA3M-hover": {
+     "opacity": 0,
+     "scale": 0.9
+    }
+   }
+  }
+ ],
+ "framer-76c8x0": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--variable-reference-odJoTSF6e-xZJNPlpYe)",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "--variable-reference-odJoTSF6e-xZJNPlpYe": "<?v>",
+    "opacity": 0,
+    "scale": 1
+   },
+   "variants": {
+    "xOitXcA3M-hover": {
+     "opacity": 1,
+     "scale": 0.9
+    }
+   }
+  }
+ ],
+ "framer-mtrsdy": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 1
+   },
+   "variants": {
+    "q09oREoWS": {
+     "opacity": 0
+    }
+   }
+  }
+ ],
+ "framer-1ygptoc": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--corner-shape-fallback": 0.752,
+    "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))",
+    "cornerShape": "superellipse(1.5)",
+    "mask": "linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add",
+    "scale": 1,
+    "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"
+   },
+   "variants": {
+    "LJ9aJ2_VI": {
+     "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add",
+     "scale": 1.3,
+     "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"
+    }
+   }
+  }
+ ],
+ "framer-1c31hon": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))",
+    "opacity": 0.85
+   },
+   "variants": {
+    "EwnHLUTYk-hover": {
+     "opacity": 0.65
+    },
+    "d59ZXs8LQ": {
+     "opacity": 1
+    },
+    "EwnHLUTYk": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-4xbqmr": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline",
+    "opacity": 0
+   },
+   "variants": {
+    "d59ZXs8LQ": {
+     "opacity": 1
+    },
+    "EwnHLUTYk": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-pbfvxz": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "opacity": 1
+   },
+   "variants": {
+    "d59ZXs8LQ": {
+     "opacity": 1
+    },
+    "EwnHLUTYk": {
+     "opacity": 0
+    },
+    "J93YZ5sxi": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-1fqcxrj": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))",
+    "opacity": 0.55
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "opacity": 0.75
+    }
+   }
+  }
+ ],
+ "framer-1uw11nq": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "opacity": 1
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "opacity": 0
+    },
+    "XmV4tQ_ou": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-1pqteqh": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "backgroundColor": "<?B>",
+    "borderBottomLeftRadius": "100%",
+    "borderBottomRightRadius": "100%",
+    "borderTopLeftRadius": "100%",
+    "borderTopRightRadius": "100%"
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "backgroundColor": "<?re>"
+    }
+   }
+  }
+ ],
+ "framer-1d2l4gx": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "backgroundColor": "<?ie>",
+    "borderBottomLeftRadius": "100%",
+    "borderBottomRightRadius": "100%",
+    "borderTopLeftRadius": "100%",
+    "borderTopRightRadius": "100%"
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "backgroundColor": "<?ae>"
+    }
+   }
+  }
+ ],
+ "framer-8azjok": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "backgroundColor": "<?H>",
+    "borderBottomLeftRadius": "100%",
+    "borderBottomRightRadius": "100%",
+    "borderTopLeftRadius": "100%",
+    "borderTopRightRadius": "100%"
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "backgroundColor": "<?oe>"
+    }
+   }
+  }
+ ],
+ "framer-1yudvuz": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "backgroundColor": "<?se>",
+    "borderBottomLeftRadius": "100%",
+    "borderBottomRightRadius": "100%",
+    "borderTopLeftRadius": "100%",
+    "borderTopRightRadius": "100%"
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "backgroundColor": "<?U>"
+    }
+   }
+  }
+ ],
+ "framer-cgr5yd": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "opacity": 1
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "opacity": 0
+    },
+    "XmV4tQ_ou": {
+     "opacity": 1
+    }
+   }
+  }
+ ],
+ "framer-idq6mi": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-a0htzi": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline"
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "--extracted-a0htzi": "var(--token-22b7685d-0c3d-4f96-b7f6-2bda36cebe66, rgb(36, 36, 36))"
+    }
+   }
+  }
+ ],
+ "framer-1oxwm5t": [
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "base": {
+    "--extracted-r6o4lv": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))",
+    "--framer-link-text-color": "rgb(0, 153, 255)",
+    "--framer-link-text-decoration": "underline"
+   },
+   "variants": {
+    "Sh_ahvups": {
+     "--extracted-r6o4lv": "var(--token-4d926bee-328f-497f-a3cd-ce0b138f5bc3, rgb(97, 97, 97))"
+    }
+   }
+  }
+ ]
+}

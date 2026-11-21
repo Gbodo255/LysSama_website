@@ -10,9 +10,13 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { launch, ROOT } from './lib/harness.mjs';
 import { OVERRIDES } from './gen-overrides.mjs';
+import { COMPONENTS } from './gen-components.mjs';
 
 const MQ = { '(min-width: 1200px)': 'desktop', '(min-width: 810px) and (max-width: 1199.98px)': 'tablet', '(max-width: 809.98px)': 'phone' };
 const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'public/assets/manifest.json'), 'utf8'));
+const COMPS = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/components.json'), 'utf8'));
+const VSTY = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/variant-styles.json'), 'utf8'));
+const VARS = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/variants.json'), 'utf8'));
 const FXJ = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/fx.json'), 'utf8'));
 const anims = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/framer/animations.json'), 'utf8'));
 const already = new Set();
@@ -74,10 +78,13 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
   const T = [];
   const tx = (s) => { T.push(s); return `T[${T.length - 1}]`; };
   const imports = new Set();
+  const vstack = [];
+  const svStack = [0]; let svSeq = 0; const idxCount = new Map();
   const appearUsed = {};
 
   const ATTR = { class: 'className', for: 'htmlFor', tabindex: 'tabIndex', srcset: 'srcSet', playsinline: 'playsInline', autoplay: 'autoPlay', fetchpriority: 'fetchPriority', readonly: 'readOnly', maxlength: 'maxLength', autocomplete: 'autoComplete', crossorigin: 'crossOrigin', 'xlink:href': 'xlinkHref', 'xml:space': 'xmlSpace', 'xmlns:xlink': 'xmlnsXlink', 'fill-rule': 'fillRule', 'clip-rule': 'clipRule', 'stroke-width': 'strokeWidth', 'stroke-linecap': 'strokeLinecap', 'stroke-linejoin': 'strokeLinejoin', 'stroke-miterlimit': 'strokeMiterlimit', 'enable-background': 'enableBackground', enctype: 'encType', novalidate: 'noValidate', allowfullscreen: 'allowFullScreen', frameborder: 'frameBorder', datetime: 'dateTime', colspan: 'colSpan', rowspan: 'rowSpan', 'accept-charset': 'acceptCharset', referrerpolicy: 'referrerPolicy', inputmode: 'inputMode', minlength: 'minLength', srcdoc: 'srcDoc' };
   const BOOL = new Set(['loop', 'muted', 'playsinline', 'autoplay', 'required', 'disabled', 'checked', 'readonly', 'hidden', 'novalidate', 'controls', 'allowfullscreen', 'selected', 'multiple']);
+  const KNOWN = new Set('id href src alt title role type name value placeholder target rel width height loading decoding poster preload action method dir lang min max step pattern accept download sandbox allow frameborder scrolling label wrap rows cols open'.split(' '));
   const TEXT_ATTR = new Set(['alt', 'placeholder', 'aria-label', 'title']);
   const camel = (k) => k.startsWith('--') ? k : k.replace(/^-(webkit|moz|ms)-/, (_, v) => v[0].toUpperCase() + v.slice(1) + '-').replace(/-([a-z])/g, (_, c) => c.toUpperCase());
   function styleObj(s) {
@@ -100,6 +107,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       if (k === 'value' && (n.tag === 'input' || n.tag === 'textarea')) { out.push(`defaultValue=${JSON.stringify(v)}`); continue; }
       if (TEXT_ATTR.has(k) && v) { out.push(`${k}={${tx(v)}}`); continue; }
       if (k === 'name' && n.tag !== 'input' && n.tag !== 'textarea' && n.tag !== 'select' && n.tag !== 'form' && n.tag !== 'iframe') { out.push(`{...{ name: ${JSON.stringify(v)} }}`); continue; }
+      if (n.tag !== 'svg' && !ATTR[k] && !KNOWN.has(k) && !/^(data|aria)-/.test(k)) { out.push(`{...{ ${JSON.stringify(k0)}: ${JSON.stringify(v)} }}`); continue; } // attribut non standard (Framer) conservé tel quel
       out.push(`${ATTR[k] || (n.tag === 'svg' ? k0 : k)}=${JSON.stringify(localize(v))}`);
     }
     return out.length ? ' ' + out.join(' ') : '';
@@ -119,9 +127,10 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
   function jsx(n, d) {
     const ind = '  '.repeat(d);
     if (n.t !== undefined) return n.t === '' ? '' : `${ind}{${tx(n.t)}}`;
+    if (n.expr !== undefined) return `${ind}{${n.expr}}`; // valeur calculée (surcharges)
     const name = attr(n, 'data-framer-name');
     const ov = OVERRIDES.find((o) => o.match(n, { slug, name, cls: cls(n) }));
-    if (ov) { for (const i of ov.imports || []) imports.add(i); return ind + ov.render(n, { jsx: (k, dd) => jsx(k, dd ?? d + 1), attrs, tx, d, slug, route, T }); }
+    if (ov) { for (const i of ov.imports || []) imports.add(i); if (ov.rewrite) return jsx(ov.rewrite(n), d); return ind + ov.render(n, { jsx: (k, dd) => jsx(k, dd ?? d + 1), attrs, tx, d, slug, route, T }); }
     const c = cls(n);
     // enveloppe ssr-variant
     if (c[0] === 'ssr-variant') {
@@ -148,27 +157,64 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     // effets Framer déclarés par classe (scripts/extract-fx.mjs)
     const fxs = cls(n).flatMap((c) => FXJ[c] || []).map((x) => x.props);
     const tfx = fxs.find((p) => p.effect && typeof p.effect === 'object');
+    // bascule de variante : marque la racine du composant (1er descendant portant la classe de la variante masquée)
+    const vfx = fxs.find((p) => p.__framer__variantAppearEffectEnabled === true && p.__framer__visibleVariantId && VARS[p.__framer__obscuredVariantId]?.cls && VARS[p.__framer__visibleVariantId]?.cls);
+    if (vfx) {
+      const fromC = VARS[vfx.__framer__obscuredVariantId].cls;
+      const mark = (k) => { if (!k.tag) return false; if (cls(k).includes(fromC)) { k.vapp = { from: VARS[vfx.__framer__obscuredVariantId], to: VARS[vfx.__framer__visibleVariantId], threshold: vfx.__framer__threshold ?? 0, once: !!vfx.__framer__animateOnce }; return true; } return (k.kids || []).some(mark); };
+      n.kids.some(mark);
+    }
+    if (n.vapp && !aid) {
+      imports.add(`import { VariantAppear } from '@/components/fx/VariantAppear';`);
+      open = `VariantAppear as="${n.tag}" fx={${JSON.stringify(n.vapp)}}`; close = 'VariantAppear';
+    }
     const afx = fxs.find((p) => p.__framer__styleAppearEffectEnabled && p.__framer__enter && typeof p.__framer__enter === 'object');
     if (tfx && !aid) {
       imports.add(`import { TextFx } from '@/components/fx/TextFx';`);
       const text = (k) => (k.t !== undefined ? k.t : (k.kids || []).map(text).join(''));
-      const paras = n.kids.filter((k) => k.tag).map((k) => `{ tag: ${JSON.stringify(k.tag)}, attrs: ${attrsObj(k)}, text: ${tx(text(k))} }`);
+      // segments : texte des mots (<span white-space:nowrap>) et espaces ; autre élément en ligne = segment stylé
+      const segs = (k) => { const out = []; let cur = '', has = false; for (const c of k.kids) { if (c.t !== undefined || /white-space:\s*(nowrap|unset)/.test(attr(c, 'style') || '')) { cur += text(c); has = true; } else { if (has) out.push(tx(cur)); cur = ''; has = false; out.push(`{ tag: ${JSON.stringify(c.tag)}, attrs: ${attrsObj(c)}, text: ${tx(text(c))} }`); } } if (has) out.push(tx(cur)); return out; };
+      const paras = n.kids.filter((k) => k.tag).map((k) => `{ tag: ${JSON.stringify(k.tag)}, attrs: ${attrsObj(k)}, segs: [${segs(k).join(', ')}] }`);
       return `${ind}<TextFx as="${n.tag}" fx={${JSON.stringify(tfx.effect)}} paras={[${paras.join(', ')}]}${attrs(n)} />`;
     }
     if (afx && !aid) {
       imports.add(`import { InView } from '@/components/fx/InView';`);
-      const fx = { enter: afx.__framer__enter, transition: afx.__framer__animate?.transition || {}, once: !!afx.__framer__animateOnce, threshold: afx.__framer__threshold ?? 0, target: afx.__targetOpacity ?? 1 };
+      const tr = { ...(afx.__framer__animate?.transition || {}) };
+      if (tr.$staggerStep != null) { // rang de l'élément dans sa liste de collection (même ordre que le SSR)
+        const key = svStack.join('.') + '|' + cls(n).join('.');
+        const i = idxCount.get(key) || 0; idxCount.set(key, i + 1);
+        tr.delay = +((tr.delay ?? 0) + i * tr.$staggerStep).toFixed(6); delete tr.$staggerStep;
+      }
+      const fx = { enter: afx.__framer__enter, transition: tr, once: !!afx.__framer__animateOnce, threshold: afx.__framer__threshold ?? 0, target: afx.__targetOpacity ?? 1 };
       open = `InView as="${n.tag}" fx={${JSON.stringify(fx)}}`; close = 'InView';
+    }
+    // moteur de variantes : racine d'instance (classe de portée configurée + classe framer-v-*) et ses éléments stylés
+    const scope = cls(n).find((c) => COMPONENTS[c] && COMPS[c]);
+    let pushed = false;
+    if (scope && !aid && open === n.tag) {
+      const C = COMPS[scope], cfg = COMPONENTS[scope];
+      const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
+      if (initial) {
+        imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);
+        open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}}${cfg.tap ? ` tap={${JSON.stringify(cfg.tap)}}` : ''}${cfg.follow ? ` follow={${JSON.stringify(cfg.follow)}}` : ''}`; close = 'VRoot';
+        vstack.push(C); pushed = true;
+      }
+    } else if (vstack.length && open === n.tag && !aid) {
+      const C = vstack[vstack.length - 1];
+      const ids = new Set(Object.keys(C.variants));
+      const st = cls(n).flatMap((c) => VSTY[c] || []).find((x) => x.module === C.module && Object.keys(x.variants).some((k) => ids.has(k)));
+      if (st) { imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`); open = `VEl as="${n.tag}" base={${JSON.stringify(st.base || {})}} variants={${JSON.stringify(st.variants)}}`; close = 'VEl'; }
     }
     const href = attr(n, 'href');
     let skip = new Set();
     if (n.tag === 'a' && href && /^\.\.?\//.test(href) && !aid) {
       imports.add(`import { Lk } from '@/components/Lk';`);
-      open = 'Lk'; close = 'Lk'; skip = new Set(['href']); extra = ` to=${JSON.stringify(resolve(href))}`;
+      open = 'Lk'; close = 'Lk'; extra = ` to=${JSON.stringify(resolve(href))}`;
     }
     const at = attrs(n, skip) + extra;
-    if (!n.kids.length || ['img', 'input', 'br', 'hr', 'source'].includes(n.tag)) return `${ind}<${open}${at} />`;
-    return `${ind}<${open}${at}>\n${kids()}\n${ind}</${close}>`;
+    const res = !n.kids.length || ['img', 'input', 'br', 'hr', 'source'].includes(n.tag) ? `${ind}<${open}${at} />` : `${ind}<${open}${at}>\n${kids()}\n${ind}</${close}>`;
+    if (pushed) vstack.pop();
+    return res;
   }
   const body = jsx(res.tree, 2);
 

@@ -4,7 +4,16 @@ const attr = (n, k) => n.attrs.find(([a]) => a === k)?.[1];
 const find = (n, re) => { const s = attr(n, 'style'); const m = s && s.match(re); if (m) return m[1]; for (const k of n.kids || []) { if (k.tag) { const r = find(k, re); if (r) return r; } } return null; };
 const styleOf = (n) => Object.fromEntries((attr(n, 'style') || '').split(';').filter((d) => d.includes(':')).map((d) => { const i = d.indexOf(':'); return [d.slice(0, i).trim(), d.slice(i + 1).trim()]; }));
 
+// copie du nœud dont le 1er nœud texte devient une expression ; `done` évite de réappliquer la surcharge
+const withText = (n, expr) => { let hit = false; const c = (x) => (x.t !== undefined ? (hit ? x : ((hit = true), { expr })) : x.kids ? { ...x, kids: x.kids.map(c) } : x); const r = c(n); r.done = true; return r; };
+
 export const OVERRIDES = [
+  // Compteur d'articles du journal (composant de code, SSR « 6 », rendu « (8) ») : nombre d'articles de src/data/journal.ts.
+  {
+    match: (n, { name }) => name === 'Article Count Font' && !n.done,
+    imports: [`import { articles } from '@/data/journal';`],
+    rewrite: (n) => withText(n, '`(${articles.length})`'),
+  },
   // « Shared Navigation Links » (jv) : composant partagé validé (src/components/nav/parts.tsx), compteur « (6) » calculé.
   {
     match: (n, { cls }) => cls.includes('framer-Z2aNj'),

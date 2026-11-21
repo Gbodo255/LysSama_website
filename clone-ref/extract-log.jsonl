@@ -52,3 +52,83 @@
 {"r":"/terms-conditions","w":810,"ok":true,"ms":31347,"height":4948,"items":480,"missing":0,"errors":0,"at":"2026-11-21T03:20:13.496Z"}
 {"r":"/privacy-policy","w":810,"ok":true,"ms":32719,"height":4299,"items":482,"missing":0,"errors":0,"at":"2026-11-21T03:20:13.506Z"}
 {"r":"/cookie-policy","w":810,"ok":true,"ms":12581,"height":3003,"items":405,"missing":0,"errors":0,"at":"2026-11-21T03:20:13.506Z"}
+{"r":"/contact","w":1200,"ok":true,"ms":33454,"height":3659,"items":481,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.496Z"}
+{"r":"/contact","w":1440,"ok":true,"ms":33501,"height":3659,"items":481,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/contact","w":390,"ok":true,"ms":24869,"height":3843,"items":456,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/contact","w":810,"ok":true,"ms":26205,"height":3303,"items":479,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/studio","w":1200,"ok":false,"err":"Error: page.screenshot: Protocol error (Page.captureScreenshot): Unable to capture screenshot\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n","at":"2026-11-21T03:33:11.514Z"}
+{"r":"/studio","w":1440,"ok":false,"err":"Error: page.screenshot: Protocol error (Page.captureScreenshot): Unable to capture screenshot\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n","at":"2026-11-21T03:33:11.514Z"}
+{"r":"/studio","w":390,"ok":true,"ms":71921,"height":9244,"items":1078,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/studio","w":810,"ok":true,"ms":76604,"height":8846,"items":1105,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/journal","w":1200,"ok":true,"ms":19120,"height":2471,"items":338,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/journal","w":1440,"ok":true,"ms":24513,"height":2640,"items":338,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/journal","w":390,"ok":true,"ms":17986,"height":2734,"items":328,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/journal","w":810,"ok":true,"ms":22995,"height":3545,"items":338,"missing":0,"errors":0,"at":"2026-11-21T03:33:11.514Z"}
+{"r":"/journal","w":1200,"ok":true,"ms":25316,"height":2471,"items":338,"missing":0,"errors":0,"at":"2026-11-21T03:40:11.002Z"}
+{"r":"/journal","w":1440,"ok":true,"ms":29539,"height":2640,"items":338,"missing":0,"errors":0,"at":"2026-11-21T03:40:11.027Z"}
+{"r":"/journal","w":390,"ok":true,"ms":14912,"height":2734,"items":328,"missing":0,"errors":0,"at":"2026-11-21T03:40:11.027Z"}
+{"r":"/journal","w":810,"ok":true,"ms":23406,"height":3545,"items":338,"missing":0,"errors":0,"at":"2026-11-21T03:40:11.027Z"}
+{"r":"/journal/awards-dont-build-brands","w":1200,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/awards-dont-build-brands\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/awards-dont-build-brands\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.088Z"}
+{"r":"/journal/awards-dont-build-brands","w":1440,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/awards-dont-build-brands\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/awards-dont-build-brands\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/awards-dont-build-brands","w":810,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/awards-dont-build-brands\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/awards-dont-build-brands\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/awards-dont-build-brands","w":390,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/awards-dont-build-brands\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/awards-dont-build-brands\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/fewer-projects-more-attention","w":1440,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/fewer-projects-more-attention\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/fewer-projects-more-attention\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/fewer-projects-more-attention","w":1200,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/fewer-projects-more-attention\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/fewer-projects-more-attention\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/fewer-projects-more-attention","w":810,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/fewer-projects-more-attention\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/fewer-projects-more-attention\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/fewer-projects-more-attention","w":390,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/fewer-projects-more-attention\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/fewer-projects-more-attention\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/small-looks-expensive","w":1440,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/small-looks-expensive\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/small-looks-expensive\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/small-looks-expensive","w":1200,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/small-looks-expensive\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/small-looks-expensive\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/small-looks-expensive","w":810,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/small-looks-expensive\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/small-looks-expensive\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/small-looks-expensive","w":390,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/small-looks-expensive\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/small-looks-expensive\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/the-best-type-is-invisible","w":1440,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/the-best-type-is-invisible\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/the-best-type-is-invisible\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/the-best-type-is-invisible","w":1200,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/journal/the-best-type-is-invisible\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/journal/the-best-type-is-invisible\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/the-best-type-is-invisible","w":390,"ok":true,"ms":56334,"height":4254,"items":589,"missing":0,"errors":0,"at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/the-best-type-is-invisible","w":810,"ok":true,"ms":65529,"height":4764,"items":599,"missing":0,"errors":0,"at":"2026-11-21T03:56:35.108Z"}
+{"r":"/journal/the-brief-before-the-brief","w":1200,"ok":true,"ms":70879,"height":4039,"items":619,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.730Z"}
+{"r":"/journal/the-brief-before-the-brief","w":1440,"ok":true,"ms":74523,"height":4097,"items":619,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/the-brief-before-the-brief","w":390,"ok":true,"ms":46012,"height":4304,"items":609,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/the-brief-before-the-brief","w":810,"ok":true,"ms":59563,"height":4860,"items":619,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/the-founder-is-the-brand","w":1440,"ok":true,"ms":78617,"height":4139,"items":616,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/the-founder-is-the-brand","w":1200,"ok":true,"ms":70387,"height":4059,"items":616,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/the-founder-is-the-brand","w":390,"ok":true,"ms":45759,"height":4364,"items":606,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/the-founder-is-the-brand","w":810,"ok":true,"ms":59795,"height":4945,"items":616,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/why-we-quote-fixed","w":1440,"ok":true,"ms":72774,"height":4029,"items":602,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/why-we-quote-fixed","w":1200,"ok":true,"ms":62219,"height":3949,"items":602,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/why-we-quote-fixed","w":390,"ok":true,"ms":47826,"height":4161,"items":592,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/why-we-quote-fixed","w":810,"ok":true,"ms":58883,"height":4754,"items":602,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/on-saying-no","w":1200,"ok":true,"ms":51695,"height":4017,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/on-saying-no","w":1440,"ok":true,"ms":64703,"height":4075,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/on-saying-no","w":390,"ok":true,"ms":44731,"height":4202,"items":586,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/on-saying-no","w":810,"ok":true,"ms":51153,"height":4817,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:04:42.750Z"}
+{"r":"/journal/awards-dont-build-brands","w":1200,"ok":true,"ms":95602,"height":4045,"items":679,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.539Z"}
+{"r":"/journal/awards-dont-build-brands","w":1440,"ok":true,"ms":95680,"height":4103,"items":679,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/awards-dont-build-brands","w":390,"ok":true,"ms":47162,"height":4164,"items":669,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/awards-dont-build-brands","w":810,"ok":true,"ms":61931,"height":4611,"items":679,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/fewer-projects-more-attention","w":1440,"ok":true,"ms":69300,"height":4027,"items":594,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/fewer-projects-more-attention","w":1200,"ok":true,"ms":60014,"height":3969,"items":594,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/fewer-projects-more-attention","w":390,"ok":true,"ms":42689,"height":4221,"items":584,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/fewer-projects-more-attention","w":810,"ok":true,"ms":56964,"height":4749,"items":594,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/small-looks-expensive","w":1440,"ok":true,"ms":77016,"height":4092,"items":587,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/small-looks-expensive","w":1200,"ok":true,"ms":69312,"height":4012,"items":587,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/small-looks-expensive","w":390,"ok":true,"ms":48744,"height":4262,"items":577,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/small-looks-expensive","w":810,"ok":true,"ms":79300,"height":4887,"items":587,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/the-best-type-is-invisible","w":1440,"ok":true,"ms":72893,"height":4124,"items":599,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/the-best-type-is-invisible","w":1200,"ok":true,"ms":54611,"height":4066,"items":599,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/the-best-type-is-invisible","w":390,"ok":true,"ms":42308,"height":4254,"items":589,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/the-best-type-is-invisible","w":810,"ok":true,"ms":55692,"height":4764,"items":599,"missing":0,"errors":0,"at":"2026-11-21T04:18:34.557Z"}
+{"r":"/journal/the-brief-before-the-brief","w":1200,"ok":true,"ms":68540,"height":4039,"items":619,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.682Z"}
+{"r":"/journal/the-brief-before-the-brief","w":1440,"ok":true,"ms":73202,"height":4097,"items":619,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/the-brief-before-the-brief","w":390,"ok":true,"ms":46470,"height":4304,"items":609,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/the-brief-before-the-brief","w":810,"ok":true,"ms":73972,"height":4860,"items":619,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/the-founder-is-the-brand","w":1440,"ok":true,"ms":92876,"height":4139,"items":616,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/the-founder-is-the-brand","w":1200,"ok":true,"ms":77746,"height":4059,"items":616,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/the-founder-is-the-brand","w":390,"ok":true,"ms":68326,"height":4364,"items":606,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/the-founder-is-the-brand","w":810,"ok":true,"ms":123604,"height":4945,"items":616,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/why-we-quote-fixed","w":1440,"ok":true,"ms":77974,"height":4029,"items":602,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/why-we-quote-fixed","w":1200,"ok":true,"ms":73729,"height":3949,"items":602,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/why-we-quote-fixed","w":810,"ok":true,"ms":59457,"height":4754,"items":602,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/why-we-quote-fixed","w":390,"ok":true,"ms":66380,"height":4161,"items":592,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/on-saying-no","w":1440,"ok":true,"ms":74701,"height":4075,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/on-saying-no","w":1200,"ok":true,"ms":55696,"height":4017,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/on-saying-no","w":810,"ok":true,"ms":53387,"height":4817,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/journal/on-saying-no","w":390,"ok":true,"ms":30630,"height":4202,"items":586,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}

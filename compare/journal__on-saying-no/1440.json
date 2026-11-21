@@ -1,0 +1,29 @@
+{
+ "route": "/journal/on-saying-no",
+ "width": 1440,
+ "scope": null,
+ "height": {
+  "ref": 4075,
+  "clone": 4075,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 596,
+  "clone": 596,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0.963,
+  "over2": [],
+  "n": 16
+ }
+}
