@@ -14,7 +14,7 @@ const cache = new Map<string, ElementType>();
 const comp = (tag: string) => { let c = cache.get(tag); if (!c) { c = motion.create(tag as 'div'); cache.set(tag, c); } return c; };
 
 /** `spec` : variantes de l'animation (clé = hachage de breakpoint | default) ; `bps` : hachages de breakpoint → breakpoint. */
-export function Appear({ as, spec, bps, ...rest }: { as: string; spec: AppearSpec; bps: Record<string, Breakpoint> } & ComponentProps<'div'>) {
+export function Appear({ as, spec, bps, ...rest }: { as: string; spec: AppearSpec; bps: Record<string, Breakpoint> } & ComponentProps<'div'> & Record<string, unknown>) {
   const bp = useBreakpoint();
   const [go, setGo] = useState(false);
   useEffect(() => setGo(true), []);

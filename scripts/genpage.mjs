@@ -171,7 +171,12 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     return el;
   }
   function elem(n, d, ind) {
-    if (n.svgInner !== undefined) return `${ind}<${n.tag}${attrs(n)}${n.svgInner ? ` dangerouslySetInnerHTML={{ __html: ${JSON.stringify(localize(n.svgInner))} }}` : ''} />`;
+    if (n.svgInner !== undefined) {
+      const said = attr(n, 'data-framer-appear-id');
+      let tag = n.tag;
+      if (said && A.appear?.[said]) { imports.add(`import { Appear } from '@/components/Appear';`); appearUsed[said] = A.appear[said]; tag = `Appear as="${n.tag}" spec={AP[${JSON.stringify(said)}]} bps={BPS}`; }
+      return `${ind}<${tag}${attrs(n)}${n.svgInner ? ` dangerouslySetInnerHTML={{ __html: ${JSON.stringify(localize(n.svgInner))} }}` : ''} />`;
+    }
     const kids = () => n.kids.map((k) => jsx(k, d + 1)).filter(Boolean).join('\n');
     const aid = attr(n, 'data-framer-appear-id');
     let open = n.tag, close = n.tag, extra = '';
@@ -196,6 +201,13 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       const mark = (k) => { if (!k.tag) return false; if (cls(k).includes(fromC)) { k.vapp = { from: VARS[vfx.__framer__obscuredVariantId], to: VARS[vfx.__framer__visibleVariantId], toId: vfx.__framer__visibleVariantId, threshold: vfx.__framer__threshold ?? 0, once: !!vfx.__framer__animateOnce }; return true; } return (k.kids || []).some(mark); };
       n.kids.some(mark);
     }
+    // forme `__framer__targets: [{ ref, target }]` : la cible est la variante visible ; départ = variante SSR de l'instance
+    const gfx = !vfx && fxs.find((p) => p.__framer__variantAppearEffectEnabled === true && typeof p.__framer__targets?.[0]?.target === 'string' && VARS[p.__framer__targets[0].target]);
+    if (gfx) {
+      const toId = gfx.__framer__targets[0].target;
+      const mark = (k) => { if (!k.tag) return false; const sc = cls(k).find((c) => COMPS[c]?.variants[toId]); if (sc) { k.vapp = { to: VARS[toId], toId, threshold: gfx.__framer__threshold ?? 0, once: !!gfx.__framer__animateOnce }; return true; } return (k.kids || []).some(mark); };
+      n.kids.some(mark);
+    }
     const vscope = n.vapp && cls(n).find((c) => COMPS[c] && COMPS[c].variants[n.vapp.toId]);
     if (n.vapp && !aid && vscope) {
       const C = COMPS[vscope];
@@ -215,6 +227,19 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       const segs = (k) => { const out = []; let cur = '', has = false; for (const c of k.kids) { if (c.t !== undefined || /white-space:\s*(nowrap|unset)/.test(attr(c, 'style') || '')) { cur += text(c); has = true; } else { if (has) out.push(tx(cur)); cur = ''; has = false; out.push(`{ tag: ${JSON.stringify(c.tag)}, attrs: ${attrsObj(c)}, text: ${tx(text(c))} }`); } } if (has) out.push(tx(cur)); return out; };
       const paras = n.kids.filter((k) => k.tag).map((k) => `{ tag: ${JSON.stringify(k.tag)}, attrs: ${attrsObj(k)}, segs: [${segs(k).join(', ')}] }`);
       return `${ind}<TextFx as="${n.tag}" fx={${JSON.stringify(tfx.effect)}} paras={[${paras.join(', ')}]}${attrs(n)} />`;
+    }
+    // effets liés au défilement (transformation vers une cible, parallaxe)
+    const sfx = fxs.find((p) => p.__framer__styleTransformEffectEnabled === true && p.__framer__transformTrigger === 'onScrollTarget' && Array.isArray(p.__framer__transformTargets));
+    const pfx = fxs.find((p) => p.__framer__parallaxTransformEnabled === true && typeof p.__framer__speed === 'number');
+    // breakpoints où l'effet est coupé par PropertyOverrides de la page ($byPageVariant : id de variante de page → { clé: null })
+    const offFor = (p, key) => Object.entries(p.$byPageVariant || {}).filter(([, o]) => o && o[key] === null).map(([id]) => bpOfHash[(VARS[id]?.cls || '').slice(9)]).filter(Boolean);
+    if (sfx && !aid && open === n.tag) {
+      imports.add(`import { ScrollFx, Parallax } from '@/components/fx/Scroll';`);
+      const targets = sfx.__framer__transformTargets.map((t) => ({ ...t, ref: t.ref && typeof t.ref === 'object' ? t.ref : t.ref ? 'self' : undefined }));
+      open = `ScrollFx as="${n.tag}" targets={${JSON.stringify(targets)}} threshold={${sfx.__framer__transformViewportThreshold ?? 0}} off={${JSON.stringify(offFor(sfx, '__framer__styleTransformEffectEnabled'))}}`; close = 'ScrollFx';
+    } else if (pfx && !aid && open === n.tag) {
+      imports.add(`import { ScrollFx, Parallax } from '@/components/fx/Scroll';`);
+      open = `Parallax as="${n.tag}" speed={${pfx.__framer__speed}} off={${JSON.stringify(offFor(pfx, '__framer__parallaxTransformEnabled'))}}`; close = 'Parallax';
     }
     const lfx = fxs.find((p) => p.__framer__loopEffectEnabled === true && p.__framer__loop && typeof p.__framer__loop === 'object');
     if (lfx && !aid && !afx) {

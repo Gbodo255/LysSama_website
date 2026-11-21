@@ -820,7 +820,9 @@
       }
      },
      {
-      "ref": "<?P>",
+      "ref": {
+       "cls": "framer-ycmhje"
+      },
       "target": {
        "opacity": 0.6,
        "rotate": 0,
@@ -837,7 +839,15 @@
     "__framer__transformTrigger": "onScrollTarget",
     "__framer__transformViewportThreshold": 1,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "kUxiuAHJw": {
+      "__framer__styleTransformEffectEnabled": null
+     },
+     "qjDyvUsLb": {
+      "__framer__styleTransformEffectEnabled": null
+     }
+    }
    }
   }
  ],
@@ -852,7 +862,15 @@
     "__framer__parallaxTransformEnabled": true,
     "__framer__speed": 130,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "kUxiuAHJw": {
+      "__framer__parallaxTransformEnabled": null
+     },
+     "qjDyvUsLb": {
+      "__framer__parallaxTransformEnabled": null
+     }
+    }
    }
   }
  ],
@@ -968,7 +986,12 @@
     "__framer__styleAppearEffectEnabled": true,
     "__framer__threshold": 0,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "qjDyvUsLb": {
+      "transformTemplate": "<?Vh>"
+     }
+    }
    }
   }
  ],
@@ -1146,7 +1169,9 @@
     "__framer__styleAppearEffectEnabled": true,
     "__framer__targets": [
      {
-      "ref": "<?L>",
+      "ref": {
+       "cls": "framer-wxgd4u"
+      },
       "target": "animate"
      }
     ],
@@ -1190,7 +1215,9 @@
     "__framer__styleAppearEffectEnabled": true,
     "__framer__targets": [
      {
-      "ref": "<?L>",
+      "ref": {
+       "cls": "framer-wxgd4u"
+      },
       "target": "animate"
      }
     ],
@@ -1222,7 +1249,9 @@
       }
      },
      {
-      "ref": "<?R>",
+      "ref": {
+       "cls": "framer-4ctmxs"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1265,7 +1294,9 @@
       }
      },
      {
-      "ref": "<?R>",
+      "ref": {
+       "cls": "framer-4ctmxs"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1552,6 +1583,11 @@
      },
      "trigger": "onInView",
      "type": "appear"
+    },
+    "$byPageVariant": {
+     "qjDyvUsLb": {
+      "children": "<?CallExpression>"
+     }
     }
    }
   }
@@ -1611,7 +1647,9 @@
       }
      },
      {
-      "ref": "<?ae>",
+      "ref": {
+       "cls": "framer-m79k4k"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1628,7 +1666,12 @@
     "__framer__transformTrigger": "onScrollTarget",
     "__framer__transformViewportThreshold": 1,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "qjDyvUsLb": {
+      "__framer__styleTransformEffectEnabled": null
+     }
+    }
    }
   }
  ],
@@ -1642,15 +1685,21 @@
     "__framer__animateOnce": false,
     "__framer__targets": [
      {
-      "ref": "<?se>",
+      "ref": {
+       "cls": "framer-lxir8x"
+      },
       "target": "dPWqybCNx"
      },
      {
-      "ref": "<?ce>",
+      "ref": {
+       "cls": "framer-1o2peh6"
+      },
       "target": "Cth7STIQR"
      },
      {
-      "ref": "<?le>",
+      "ref": {
+       "cls": "framer-i4jw4l"
+      },
       "target": "NMtXp8_Fx"
      }
     ],
@@ -1681,7 +1730,9 @@
       }
      },
      {
-      "ref": "<?me>",
+      "ref": {
+       "cls": "framer-1llc9gt"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1724,7 +1775,9 @@
       }
      },
      {
-      "ref": "<?me>",
+      "ref": {
+       "cls": "framer-1llc9gt"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1767,7 +1820,9 @@
       }
      },
      {
-      "ref": "<?me>",
+      "ref": {
+       "cls": "framer-1llc9gt"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1810,7 +1865,9 @@
       }
      },
      {
-      "ref": "<?me>",
+      "ref": {
+       "cls": "framer-1llc9gt"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1853,7 +1910,9 @@
       }
      },
      {
-      "ref": "<?me>",
+      "ref": {
+       "cls": "framer-1llc9gt"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -1896,7 +1955,9 @@
       }
      },
      {
-      "ref": "<?me>",
+      "ref": {
+       "cls": "framer-1llc9gt"
+      },
       "target": {
        "opacity": 1,
        "rotate": 0,
@@ -2568,7 +2629,9 @@
       }
      },
      {
-      "ref": "<?C>",
+      "ref": {
+       "cls": "framer-1nyqe0x"
+      },
       "target": {
        "opacity": 0.6,
        "rotate": 0,
@@ -2585,7 +2648,15 @@
     "__framer__transformTrigger": "onScrollTarget",
     "__framer__transformViewportThreshold": 1,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "aAE3bWPzx": {
+      "__framer__styleTransformEffectEnabled": null
+     },
+     "vlHT1huGw": {
+      "__framer__styleTransformEffectEnabled": null
+     }
+    }
    }
   }
  ],
@@ -2615,7 +2686,15 @@
     "__framer__parallaxTransformEnabled": true,
     "__framer__speed": 130,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "aAE3bWPzx": {
+      "__framer__parallaxTransformEnabled": null
+     },
+     "vlHT1huGw": {
+      "__framer__parallaxTransformEnabled": null
+     }
+    }
    }
   }
  ],
@@ -2690,7 +2769,34 @@
     "__framer__styleAppearEffectEnabled": true,
     "__framer__threshold": 0,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "aAE3bWPzx": {
+      "background": {
+       "alt": "Black and white photo of the studio team posing together",
+       "fit": "fill",
+       "intrinsicHeight": 2560,
+       "intrinsicWidth": 1920,
+       "pixelHeight": 2560,
+       "pixelWidth": 1920,
+       "sizes": "<?TemplateLiteral>",
+       "src": "https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+       "srcSet": "https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=1024&width=1920&height=2560 768w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=2048&width=1920&height=2560 1536w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560 1920w"
+      }
+     },
+     "vlHT1huGw": {
+      "background": {
+       "alt": "Black and white photo of the studio team posing together",
+       "fit": "fill",
+       "intrinsicHeight": 1428,
+       "intrinsicWidth": 2040,
+       "pixelHeight": 2560,
+       "pixelWidth": 1920,
+       "src": "https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+       "srcSet": "https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=1024&width=1920&height=2560 768w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=2048&width=1920&height=2560 1536w,https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560 1920w"
+      }
+     }
+    }
    }
   }
  ],
@@ -2728,7 +2834,34 @@
     "__framer__styleAppearEffectEnabled": true,
     "__framer__threshold": 0,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "aAE3bWPzx": {
+      "background": {
+       "alt": "Black and white photo of the team playing table football",
+       "fit": "fill",
+       "intrinsicHeight": 1280,
+       "intrinsicWidth": 1920,
+       "pixelHeight": 1280,
+       "pixelWidth": 1920,
+       "sizes": "<?TemplateLiteral>",
+       "src": "https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+       "srcSet": "https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=512&width=1920&height=1280 512w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=1024&width=1920&height=1280 1024w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280 1920w"
+      }
+     },
+     "vlHT1huGw": {
+      "background": {
+       "alt": "Black and white photo of the team playing table football",
+       "fit": "fill",
+       "intrinsicHeight": 1428,
+       "intrinsicWidth": 2040,
+       "pixelHeight": 1280,
+       "pixelWidth": 1920,
+       "src": "https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+       "srcSet": "https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=512&width=1920&height=1280 512w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=1024&width=1920&height=1280 1024w,https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280 1920w"
+      }
+     }
+    }
    }
   }
  ],
@@ -3314,6 +3447,14 @@
      },
      "trigger": "onInView",
      "type": "appear"
+    },
+    "$byPageVariant": {
+     "JbWAj6WZ3": {
+      "children": "<?CallExpression>"
+     },
+     "JXnc50ruY": {
+      "children": "<?CallExpression>"
+     }
     }
    }
   }
@@ -4076,6 +4217,38 @@
      },
      "trigger": "onInView",
      "type": "appear"
+    },
+    "$byPageVariant": {
+     "j11qKK0L3": {
+      "effect": {
+       "effect": {
+        "opacity": 0.001,
+        "rotate": 0,
+        "scale": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "x": 0,
+        "y": 15
+       },
+       "repeat": false,
+       "startDelay": 0.2,
+       "threshold": 0,
+       "tokenization": "line",
+       "transition": {
+        "delay": 0.1,
+        "duration": 0.6,
+        "ease": [
+         0.215,
+         0.61,
+         0.355,
+         1
+        ],
+        "type": "tween"
+       },
+       "trigger": "onInView",
+       "type": "appear"
+      }
+     }
     }
    }
   }
@@ -4113,6 +4286,38 @@
      },
      "trigger": "onInView",
      "type": "appear"
+    },
+    "$byPageVariant": {
+     "j11qKK0L3": {
+      "effect": {
+       "effect": {
+        "opacity": 0.001,
+        "rotate": 0,
+        "scale": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "x": 0,
+        "y": 15
+       },
+       "repeat": false,
+       "startDelay": 0.1,
+       "threshold": 0,
+       "tokenization": "line",
+       "transition": {
+        "delay": 0.1,
+        "duration": 0.6,
+        "ease": [
+         0.215,
+         0.61,
+         0.355,
+         1
+        ],
+        "type": "tween"
+       },
+       "trigger": "onInView",
+       "type": "appear"
+      }
+     }
     }
    }
   }
@@ -4285,7 +4490,9 @@
       }
      },
      {
-      "ref": "<?R>",
+      "ref": {
+       "cls": "framer-102xlp0"
+      },
       "target": {
        "opacity": 0.6,
        "rotate": 0,
@@ -4302,7 +4509,15 @@
     "__framer__transformTrigger": "onScrollTarget",
     "__framer__transformViewportThreshold": 1,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "gjvbOr6sK": {
+      "__framer__styleTransformEffectEnabled": null
+     },
+     "kvrgoOqAT": {
+      "__framer__styleTransformEffectEnabled": null
+     }
+    }
    }
   }
  ],
@@ -4332,7 +4547,15 @@
     "__framer__parallaxTransformEnabled": true,
     "__framer__speed": 130,
     "__perspectiveFX": false,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byPageVariant": {
+     "gjvbOr6sK": {
+      "__framer__parallaxTransformEnabled": null
+     },
+     "kvrgoOqAT": {
+      "__framer__parallaxTransformEnabled": null
+     }
+    }
    }
   }
  ],

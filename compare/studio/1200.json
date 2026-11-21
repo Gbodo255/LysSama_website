@@ -1,0 +1,58 @@
+{
+ "route": "/studio",
+ "width": 1200,
+ "scope": null,
+ "height": {
+  "ref": 9110,
+  "clone": 9110,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 1115,
+  "clone": 1115,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 100,
+  "over2": [
+   "seq-010.webp",
+   "seq-011.webp",
+   "seq-012.webp",
+   "seq-013.webp",
+   "seq-014.webp",
+   "seq-015.webp",
+   "seq-016.webp",
+   "seq-017.webp",
+   "seq-018.webp",
+   "seq-019.webp",
+   "seq-020.webp",
+   "seq-021.webp",
+   "seq-022.webp",
+   "seq-023.webp",
+   "seq-024.webp",
+   "seq-025.webp",
+   "seq-026.webp",
+   "seq-027.webp",
+   "seq-028.webp",
+   "seq-029.webp",
+   "seq-030.webp",
+   "seq-031.webp",
+   "seq-032.webp",
+   "seq-033.webp",
+   "seq-034.webp",
+   "seq-035.webp",
+   "seq-036.webp",
+   "seq-037.webp"
+  ],
+  "n": 38
+ }
+}

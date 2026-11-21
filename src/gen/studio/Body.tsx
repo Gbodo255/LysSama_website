@@ -2,6 +2,7 @@
 import './Body.css';
 import { T } from '@/data/text/studio';
 import { Appear } from '@/components/Appear';
+import { Counter } from '@/components/fx/Counter';
 import { FormButtonFx } from '@/components/forms/FormFx';
 import { FormFx } from '@/components/forms/FormFx';
 import { HideOn } from '@/components/Variants';
@@ -10,11 +11,13 @@ import { Lk } from '@/components/Lk';
 import { Loop } from '@/components/fx/Loop';
 import { NavLinks } from '@/components/nav/parts';
 import { SV } from '@/components/Variants';
+import { ScrollFx, Parallax } from '@/components/fx/Scroll';
 import { TextFx } from '@/components/fx/TextFx';
 import { VRoot, VEl } from '@/components/fx/Variant';
+import { studioNumbers } from '@/data/studio';
 
 const BPS = {"ynarf2":"desktop","o8ajoo":"tablet","n4shxz":"phone","1pvmz1y":"phone","1wjgfnr":"tablet","1e6htkk":"desktop"} as const;
-const AP = {"8330z8":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.25,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.25,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.25,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"7hchzy":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.35,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.35,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.35,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"3ji1qe":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.45,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.45,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.45,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"lx5sm7":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.55,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.55,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.55,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"f6zjzb":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.65,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.65,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.65,"duration":1.2,"type":"spring"},"x":0,"y":0}}}};
+const AP = {"8330z8":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.25,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.25,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.25,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"7hchzy":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.35,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.35,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.35,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"1wbcwny":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":40},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":25,"delay":1.15,"mass":0.3,"stiffness":120,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":40},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":25,"delay":1.15,"mass":0.3,"stiffness":120,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":40},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":25,"delay":1.15,"mass":0.3,"stiffness":120,"type":"spring"},"x":0,"y":0}}},"3ji1qe":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.45,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.45,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.45,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"lx5sm7":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.55,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.55,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.55,"duration":1.2,"type":"spring"},"x":0,"y":0}}},"f6zjzb":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.65,"duration":1.2,"type":"spring"},"x":0,"y":0}},"n4shxz":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.65,"duration":1.2,"type":"spring"},"x":0,"y":0}},"o8ajoo":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"bounce":0.1,"delay":1.65,"duration":1.2,"type":"spring"},"x":0,"y":0}}}};
 
 export function Body() {
   return (
@@ -28,7 +31,7 @@ export function Body() {
         </HideOn>
         <div className="framer-1n70wml" data-framer-name="Content">
           <SV c="ssr-variant hidden-n4shxz hidden-o8ajoo" show={["desktop"]}>
-            <section className="framer-1x0mefb" data-framer-name="Hero" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
+            <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-1nyqe0x"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["phone","tablet"]} className="framer-1x0mefb" data-framer-name="Hero" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
               <div className="framer-oqp9pp" data-framer-name="BG Outer Container">
                 <div className="framer-16v677h-container">
                   <VRoot as="div" map={{"DV6oTfLLg":{"cls":"framer-v-1shcg12","name":"Hidden Mask"},"Uh95rRMl7":{"cls":"framer-v-j4z1zy","name":"Revealed"}}} initial="DV6oTfLLg" transition={{"damping":25,"delay":0.8,"mass":0.3,"stiffness":120,"type":"spring"}} appear={{"to":"Uh95rRMl7","threshold":0.5,"once":true}} className="framer-83xqy framer-j4z1zy framer-v-1shcg12" data-framer-name="Hidden Mask" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -43,7 +46,7 @@ export function Body() {
                   </VRoot>
                 </div>
               </div>
-              <div className="framer-hb5ox2" data-framer-name="Inside Container" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
+              <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-hb5ox2" data-framer-name="Inside Container" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
                 <header className="framer-1k134jf" data-framer-name="Top">
                   <HideOn on={["phone"]}>
                   <Appear as="div" spec={AP["8330z8"]} bps={BPS} className="framer-8330z8-container hidden-n4shxz" data-framer-appear-id="8330z8" style={{ "opacity": "0.001", "transform": "none" }}>
@@ -63,7 +66,7 @@ export function Body() {
                   <div className="framer-dx75ug hidden-n4shxz" data-framer-name="Filler" />
                   </HideOn>
                   <div className="framer-by1tpf" data-framer-name="Heading / Description">
-                    <svg className="framer-1wbcwny" data-framer-appear-id="1wbcwny" data-framer-component-type="RichTextContainer" viewBox="0 0 527.5 126" style={{ "opacity": "0.001", "transform": "translateY(40px)" }} dangerouslySetInnerHTML={{ __html: "<foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\"><h1 dir=\"auto\" style=\"--font-selector:R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3;--framer-font-family:&quot;Mona Sans Variable&quot;, &quot;Mona Sans Variable Placeholder&quot;, sans-serif;--framer-font-open-type-features:'ss07' on;--framer-font-size:139.75742161231543px;--framer-font-variation-axes:&quot;wdth&quot; 75, &quot;wght&quot; 700;--framer-letter-spacing:-0.02em;--framer-line-height:90%;--framer-text-alignment:left;--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255));--framer-text-transform:uppercase\" class=\"framer-text\">the studio.</h1></foreignObject>" }} />
+                    <Appear as="svg" spec={AP["1wbcwny"]} bps={BPS} className="framer-1wbcwny" data-framer-appear-id="1wbcwny" data-framer-component-type="RichTextContainer" viewBox="0 0 527.5 126" style={{ "opacity": "0.001", "transform": "translateY(40px)" }} dangerouslySetInnerHTML={{ __html: "<foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\"><h1 dir=\"auto\" style=\"--font-selector:R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3;--framer-font-family:&quot;Mona Sans Variable&quot;, &quot;Mona Sans Variable Placeholder&quot;, sans-serif;--framer-font-open-type-features:'ss07' on;--framer-font-size:139.75742161231543px;--framer-font-variation-axes:&quot;wdth&quot; 75, &quot;wght&quot; 700;--framer-letter-spacing:-0.02em;--framer-line-height:90%;--framer-text-alignment:left;--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255));--framer-text-transform:uppercase\" class=\"framer-text\">the studio.</h1></foreignObject>" }} />
                     <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":1.25,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" } }, segs: [T[1]] }]} className="framer-alv9ty" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </div>
                 </div>
@@ -149,11 +152,11 @@ export function Body() {
                     </div>
                   </Appear>
                 </div>
-              </div>
-            </section>
+              </Parallax>
+            </ScrollFx>
           </SV>
           <SV c="ssr-variant hidden-o8ajoo hidden-ynarf2" show={["phone"]}>
-            <section className="framer-1x0mefb" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
+            <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-1nyqe0x"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["phone","tablet"]} className="framer-1x0mefb" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
               <div className="framer-oqp9pp" data-framer-name="BG Outer Container">
                 <div className="framer-16v677h-container">
                   <VRoot as="div" map={{"DV6oTfLLg":{"cls":"framer-v-1shcg12","name":"Hidden Mask"},"Uh95rRMl7":{"cls":"framer-v-j4z1zy","name":"Revealed"}}} initial="DV6oTfLLg" transition={{"damping":25,"delay":0.8,"mass":0.3,"stiffness":120,"type":"spring"}} appear={{"to":"Uh95rRMl7","threshold":0.5,"once":true}} className="framer-83xqy framer-j4z1zy framer-v-1shcg12" data-framer-name="Hidden Mask" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -168,7 +171,7 @@ export function Body() {
                   </VRoot>
                 </div>
               </div>
-              <div className="framer-hb5ox2" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
+              <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-hb5ox2" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
                 <header className="framer-1k134jf" data-framer-name="Top">
                   <HideOn on={["phone"]}>
                   <Appear as="div" spec={AP["8330z8"]} bps={BPS} className="framer-8330z8-container hidden-n4shxz" data-framer-appear-id="8330z8" style={{ "opacity": "0.001", "transform": "none" }}>
@@ -188,7 +191,7 @@ export function Body() {
                   <div className="framer-dx75ug hidden-n4shxz" data-framer-name="Filler" />
                   </HideOn>
                   <div className="framer-by1tpf" data-framer-name="Heading / Description">
-                    <svg className="framer-1wbcwny" data-framer-appear-id="1wbcwny" data-framer-component-type="RichTextContainer" viewBox="0 0 344 82" style={{ "opacity": "0.001", "transform": "translateY(40px)" }} dangerouslySetInnerHTML={{ __html: "<foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\"><h1 dir=\"auto\" style=\"--font-selector:R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3;--framer-font-family:&quot;Mona Sans Variable&quot;, &quot;Mona Sans Variable Placeholder&quot;, sans-serif;--framer-font-open-type-features:'ss07' on;--framer-font-size:91.10057276590504px;--framer-font-variation-axes:&quot;wdth&quot; 75, &quot;wght&quot; 700;--framer-letter-spacing:-0.02em;--framer-line-height:90%;--framer-text-alignment:left;--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255));--framer-text-transform:uppercase\" class=\"framer-text\">the studio.</h1></foreignObject>" }} />
+                    <Appear as="svg" spec={AP["1wbcwny"]} bps={BPS} className="framer-1wbcwny" data-framer-appear-id="1wbcwny" data-framer-component-type="RichTextContainer" viewBox="0 0 344 82" style={{ "opacity": "0.001", "transform": "translateY(40px)" }} dangerouslySetInnerHTML={{ __html: "<foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\"><h1 dir=\"auto\" style=\"--font-selector:R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3;--framer-font-family:&quot;Mona Sans Variable&quot;, &quot;Mona Sans Variable Placeholder&quot;, sans-serif;--framer-font-open-type-features:'ss07' on;--framer-font-size:91.10057276590504px;--framer-font-variation-axes:&quot;wdth&quot; 75, &quot;wght&quot; 700;--framer-letter-spacing:-0.02em;--framer-line-height:90%;--framer-text-alignment:left;--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255));--framer-text-transform:uppercase\" class=\"framer-text\">the studio.</h1></foreignObject>" }} />
                     <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":1.25,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" } }, segs: [T[15]] }]} className="framer-alv9ty" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </div>
                 </div>
@@ -274,11 +277,11 @@ export function Body() {
                     </div>
                   </Appear>
                 </div>
-              </div>
-            </section>
+              </Parallax>
+            </ScrollFx>
           </SV>
           <SV c="ssr-variant hidden-n4shxz hidden-ynarf2" show={["tablet"]}>
-            <section className="framer-1x0mefb" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
+            <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-1nyqe0x"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["phone","tablet"]} className="framer-1x0mefb" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
               <div className="framer-oqp9pp" data-framer-name="BG Outer Container">
                 <div className="framer-16v677h-container">
                   <VRoot as="div" map={{"DV6oTfLLg":{"cls":"framer-v-1shcg12","name":"Hidden Mask"},"Uh95rRMl7":{"cls":"framer-v-j4z1zy","name":"Revealed"}}} initial="DV6oTfLLg" transition={{"damping":25,"delay":0.8,"mass":0.3,"stiffness":120,"type":"spring"}} appear={{"to":"Uh95rRMl7","threshold":0.5,"once":true}} className="framer-83xqy framer-j4z1zy framer-v-1shcg12" data-framer-name="Hidden Mask" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -293,7 +296,7 @@ export function Body() {
                   </VRoot>
                 </div>
               </div>
-              <div className="framer-hb5ox2" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
+              <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-hb5ox2" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
                 <header className="framer-1k134jf" data-framer-name="Top">
                   <HideOn on={["phone"]}>
                   <Appear as="div" spec={AP["8330z8"]} bps={BPS} className="framer-8330z8-container hidden-n4shxz" data-framer-appear-id="8330z8" style={{ "opacity": "0.001", "transform": "none" }}>
@@ -313,7 +316,7 @@ export function Body() {
                   <div className="framer-dx75ug hidden-n4shxz" data-framer-name="Filler" />
                   </HideOn>
                   <div className="framer-by1tpf" data-framer-name="Heading / Description">
-                    <svg className="framer-1wbcwny" data-framer-appear-id="1wbcwny" data-framer-component-type="RichTextContainer" viewBox="0 0 508.5 121" style={{ "opacity": "0.001", "transform": "translateY(40px)" }} dangerouslySetInnerHTML={{ __html: "<foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\"><h1 dir=\"auto\" style=\"--font-selector:R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3;--framer-font-family:&quot;Mona Sans Variable&quot;, &quot;Mona Sans Variable Placeholder&quot;, sans-serif;--framer-font-open-type-features:'ss07' on;--framer-font-size:134.66974025191345px;--framer-font-variation-axes:&quot;wdth&quot; 75, &quot;wght&quot; 700;--framer-letter-spacing:-0.02em;--framer-line-height:90%;--framer-text-alignment:left;--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255));--framer-text-transform:uppercase\" class=\"framer-text\">the studio.</h1></foreignObject>" }} />
+                    <Appear as="svg" spec={AP["1wbcwny"]} bps={BPS} className="framer-1wbcwny" data-framer-appear-id="1wbcwny" data-framer-component-type="RichTextContainer" viewBox="0 0 508.5 121" style={{ "opacity": "0.001", "transform": "translateY(40px)" }} dangerouslySetInnerHTML={{ __html: "<foreignObject width=\"100%\" height=\"100%\" class=\"framer-fit-text\" transform=\"scale(1)\" style=\"overflow:visible;transform-origin:center center\"><h1 dir=\"auto\" style=\"--font-selector:R0Y7TW9uYSBTYW5zLXZhcmlhYmxlLXJlZ3VsYXJWRj1JbmRrZEdnaUlEYzFMQ0FpZDJkb2RDSWdOekF3;--framer-font-family:&quot;Mona Sans Variable&quot;, &quot;Mona Sans Variable Placeholder&quot;, sans-serif;--framer-font-open-type-features:'ss07' on;--framer-font-size:134.66974025191345px;--framer-font-variation-axes:&quot;wdth&quot; 75, &quot;wght&quot; 700;--framer-letter-spacing:-0.02em;--framer-line-height:90%;--framer-text-alignment:left;--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255));--framer-text-transform:uppercase\" class=\"framer-text\">the studio.</h1></foreignObject>" }} />
                     <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":1.25,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" } }, segs: [T[29]] }]} className="framer-alv9ty" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
                   </div>
                 </div>
@@ -399,8 +402,8 @@ export function Body() {
                     </div>
                   </Appear>
                 </div>
-              </div>
-            </section>
+              </Parallax>
+            </ScrollFx>
           </SV>
           <div className="framer-c2l0bx" data-framer-name="Studio">
             <section className="framer-1nyqe0x" data-framer-name="Culture" id="culture">
@@ -460,7 +463,7 @@ export function Body() {
                               {T[51]}
                             </p>
                           </div>
-                          <div className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
+                          <Counter as="div" m={studioNumbers.metrics[0]} className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
                             <div aria-live="polite" style={{ "width": "max-content", "userSelect": "none" }}>
                               <div className="framer-t2fsrl" data-framer-name="Counter Font">
                                 <div className="framer-x5292j" data-framer-name="Big metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -470,7 +473,7 @@ export function Body() {
                                 </div>
                               </div>
                             </div>
-                          </div>
+                          </Counter>
                         </div>
                       </div>
                     </SV>
@@ -482,7 +485,7 @@ export function Body() {
                               {T[53]}
                             </p>
                           </div>
-                          <div className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
+                          <Counter as="div" m={studioNumbers.metrics[1]} className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
                             <div aria-live="polite" style={{ "width": "max-content", "userSelect": "none" }}>
                               <div className="framer-t2fsrl" data-framer-name="Counter Font">
                                 <div className="framer-x5292j" data-framer-name="Big metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -492,7 +495,7 @@ export function Body() {
                                 </div>
                               </div>
                             </div>
-                          </div>
+                          </Counter>
                         </div>
                       </div>
                     </SV>
@@ -504,7 +507,7 @@ export function Body() {
                               {T[55]}
                             </p>
                           </div>
-                          <div className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
+                          <Counter as="div" m={studioNumbers.metrics[2]} className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
                             <div aria-live="polite" style={{ "width": "max-content", "userSelect": "none" }}>
                               <div className="framer-t2fsrl" data-framer-name="Counter Font">
                                 <div className="framer-x5292j" data-framer-name="Big metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -514,7 +517,7 @@ export function Body() {
                                 </div>
                               </div>
                             </div>
-                          </div>
+                          </Counter>
                         </div>
                       </div>
                     </SV>
@@ -526,7 +529,7 @@ export function Body() {
                               {T[57]}
                             </p>
                           </div>
-                          <div className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
+                          <Counter as="div" m={studioNumbers.metrics[3]} className="framer-69b1z8-container" data-framer-name="Big Counter" {...{ name: "Big Counter" }}>
                             <div aria-live="polite" style={{ "width": "max-content", "userSelect": "none" }}>
                               <div className="framer-t2fsrl" data-framer-name="Counter Font">
                                 <div className="framer-x5292j" data-framer-name="Big metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
@@ -536,7 +539,7 @@ export function Body() {
                                 </div>
                               </div>
                             </div>
-                          </div>
+                          </Counter>
                         </div>
                       </div>
                     </SV>
@@ -1168,16 +1171,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-o8ajoo" show={["desktop","phone"]}>
                         <div {...{ name: "1" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-qptq4g" data-framer-name="Desktop" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[141]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1196,16 +1199,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-ynarf2" show={["tablet","phone"]}>
                         <div {...{ name: "1" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[144]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1227,16 +1230,16 @@ export function Body() {
                     <div className="framer-vze3ri-container" data-framer-name="1" id="1" {...{ name: "1" }}>
                       <div {...{ name: "1" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                         <div className="framer-g4q8rv-container">
-                          <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                            <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                          </div>
+                          <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                            <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                          </VRoot>
                         </div>
                         <div className="framer-1dvm87i">
-                          <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                          <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                             <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                               {T[147]}
                             </h2>
-                          </div>
+                          </ScrollFx>
                           <div className="framer-r3u1mx" data-framer-name="Text">
                             <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                               <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1258,16 +1261,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-o8ajoo" show={["desktop","phone"]}>
                         <div {...{ name: "2" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-qptq4g" data-framer-name="Desktop" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[150]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1286,16 +1289,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-ynarf2" show={["tablet","phone"]}>
                         <div {...{ name: "2" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[153]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1317,16 +1320,16 @@ export function Body() {
                     <div className="framer-l3pwqf-container" data-framer-name="2" id="2" {...{ name: "2" }}>
                       <div {...{ name: "2" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                         <div className="framer-g4q8rv-container">
-                          <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                            <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                          </div>
+                          <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                            <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                          </VRoot>
                         </div>
                         <div className="framer-1dvm87i">
-                          <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                          <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                             <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                               {T[156]}
                             </h2>
-                          </div>
+                          </ScrollFx>
                           <div className="framer-r3u1mx" data-framer-name="Text">
                             <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                               <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1348,16 +1351,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-o8ajoo" show={["desktop","phone"]}>
                         <div {...{ name: "3" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-qptq4g" data-framer-name="Desktop" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[159]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1376,16 +1379,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-ynarf2" show={["tablet","phone"]}>
                         <div {...{ name: "3" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[162]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1407,16 +1410,16 @@ export function Body() {
                     <div className="framer-k1zcwk-container" data-framer-name="3" id="3" {...{ name: "3" }}>
                       <div {...{ name: "3" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                         <div className="framer-g4q8rv-container">
-                          <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                            <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                          </div>
+                          <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                            <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                          </VRoot>
                         </div>
                         <div className="framer-1dvm87i">
-                          <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                          <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                             <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                               {T[165]}
                             </h2>
-                          </div>
+                          </ScrollFx>
                           <div className="framer-r3u1mx" data-framer-name="Text">
                             <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                               <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1438,16 +1441,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-o8ajoo" show={["desktop","phone"]}>
                         <div {...{ name: "4" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-qptq4g" data-framer-name="Desktop" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[168]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1466,16 +1469,16 @@ export function Body() {
                       <SV c="ssr-variant hidden-ynarf2" show={["tablet","phone"]}>
                         <div {...{ name: "4" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                           <div className="framer-g4q8rv-container">
-                            <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                              <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                            </div>
+                            <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                              <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                            </VRoot>
                           </div>
                           <div className="framer-1dvm87i">
-                            <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                            <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                               <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                                 {T[171]}
                               </h2>
-                            </div>
+                            </ScrollFx>
                             <div className="framer-r3u1mx" data-framer-name="Text">
                               <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                                 <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">
@@ -1497,16 +1500,16 @@ export function Body() {
                     <div className="framer-1wd0xq0-container" data-framer-name="4" id="4" {...{ name: "4" }}>
                       <div {...{ name: "4" }} className="framer-chPbW framer-LubW4 framer-uqMg0 framer-khCxy framer-qptq4g framer-v-1h11oj7" data-framer-name="Phone" style={{ "width": "100%" }}>
                         <div className="framer-g4q8rv-container">
-                          <div className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
-                            <div className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
-                          </div>
+                          <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                            <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                          </VRoot>
                         </div>
                         <div className="framer-1dvm87i">
-                          <div className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
+                          <ScrollFx as="div" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-100}},{"ref":"self","target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={0.5} off={[]} className="framer-c5hpba" data-framer-component-type="RichTextContainer" style={{ "--extracted-1of0zx5": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15))", "willChange": "transform", "opacity": "1", "transform": "translateY(-100px)" }}>
                             <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto" style={{ "--framer-text-color": "var(--extracted-1of0zx5, var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(245, 45, 15)))" }}>
                               {T[174]}
                             </h2>
-                          </div>
+                          </ScrollFx>
                           <div className="framer-r3u1mx" data-framer-name="Text">
                             <div className="framer-h0ky2k" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                               <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto">

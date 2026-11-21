@@ -1,0 +1,29 @@
+{
+ "route": "/studio",
+ "width": 390,
+ "scope": null,
+ "height": {
+  "ref": 9244,
+  "clone": 9244,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 1086,
+  "clone": 1086,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0.532,
+  "over2": [],
+  "n": 39
+ }
+}

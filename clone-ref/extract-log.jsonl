@@ -149,3 +149,40 @@
 {"r":"/contact","w":1200,"ok":true,"ms":27227,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:59:21.942Z"}
 {"r":"/contact","w":810,"ok":true,"ms":21305,"height":3303,"items":543,"missing":0,"errors":0,"at":"2026-11-21T04:59:21.969Z"}
 {"r":"/contact","w":390,"ok":true,"ms":24382,"height":3843,"items":520,"missing":0,"errors":0,"at":"2026-11-21T04:59:21.969Z"}
+{"r":"/studio","w":1440,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/studio\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/studio\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T05:00:24.905Z"}
+{"r":"/studio","w":810,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/studio\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/studio\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T05:00:24.909Z"}
+{"r":"/studio","w":1440,"ok":true,"ms":124636,"height":9190,"items":1111,"missing":0,"errors":0,"at":"2026-11-21T06:11:54.810Z"}
+{"r":"/studio","w":1440,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/studio\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/studio\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T06:16:08.857Z"}
+{"r":"/studio","w":1440,"ok":true,"ms":104405,"height":9190,"items":1115,"missing":0,"errors":0,"at":"2026-11-21T06:19:14.296Z"}
+{"r":"/studio","w":1440,"ok":true,"ms":90104,"height":9190,"items":1115,"missing":0,"errors":0,"at":"2026-11-21T06:25:43.383Z"}
+{"r":"/studio","w":1200,"ok":true,"ms":52579,"height":9110,"items":1115,"missing":0,"errors":0,"at":"2026-11-21T06:25:43.398Z"}
+{"r":"/studio","w":810,"ok":true,"ms":37843,"height":8846,"items":1113,"missing":0,"errors":0,"at":"2026-11-21T06:25:43.398Z"}
+{"r":"/studio","w":390,"ok":true,"ms":27315,"height":9244,"items":1086,"missing":0,"errors":0,"at":"2026-11-21T06:25:43.398Z"}
+{"r":"/studio","w":1200,"ok":false,"err":"Error: page.screenshot: Protocol error (Page.captureScreenshot): Unable to capture screenshot\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n","at":"2026-11-21T06:33:46.128Z"}
+{"r":"/studio","w":1440,"ok":true,"ms":226783,"height":9190,"items":1115,"missing":0,"errors":0,"at":"2026-11-21T06:33:46.146Z"}
+{"r":"/studio","w":810,"ok":true,"ms":108362,"height":8846,"items":1113,"missing":0,"errors":0,"at":"2026-11-21T06:33:46.146Z"}
+{"r":"/studio","w":390,"ok":true,"ms":54211,"height":9244,"items":1086,"missing":0,"errors":0,"at":"2026-11-21T06:33:46.146Z"}
+{"r":"/projects/gucci","w":1200,"ok":true,"ms":114696,"height":8002,"items":1350,"missing":0,"errors":0,"at":"2026-11-21T06:37:10.384Z"}
+{"r":"/projects/gucci","w":1440,"ok":true,"ms":131578,"height":8313,"items":1350,"missing":0,"errors":0,"at":"2026-11-21T06:37:10.403Z"}
+{"r":"/projects/gucci","w":810,"ok":true,"ms":86555,"height":6461,"items":1364,"missing":0,"errors":0,"at":"2026-11-21T06:37:10.403Z"}
+{"r":"/projects/gucci","w":390,"ok":true,"ms":70871,"height":7238,"items":1355,"missing":0,"errors":0,"at":"2026-11-21T06:37:10.403Z"}
+{"r":"/projects/chanel","w":1440,"ok":true,"ms":132902,"height":8063,"items":1320,"missing":0,"errors":0,"at":"2026-11-21T06:40:43.178Z"}
+{"r":"/projects/chanel","w":1200,"ok":true,"ms":136386,"height":7826,"items":1320,"missing":0,"errors":0,"at":"2026-11-21T06:40:43.198Z"}
+{"r":"/projects/chanel","w":390,"ok":true,"ms":67394,"height":6967,"items":1326,"missing":0,"errors":0,"at":"2026-11-21T06:40:43.198Z"}
+{"r":"/projects/chanel","w":810,"ok":true,"ms":78048,"height":6417,"items":1335,"missing":0,"errors":0,"at":"2026-11-21T06:40:43.198Z"}
+{"r":"/projects/puma","w":1200,"ok":true,"ms":107905,"height":7601,"items":1317,"missing":0,"errors":0,"at":"2026-11-21T06:43:55.707Z"}
+{"r":"/projects/puma","w":1440,"ok":true,"ms":118760,"height":7828,"items":1317,"missing":0,"errors":0,"at":"2026-11-21T06:43:55.723Z"}
+{"r":"/projects/puma","w":810,"ok":true,"ms":80291,"height":6178,"items":1331,"missing":0,"errors":0,"at":"2026-11-21T06:43:55.723Z"}
+{"r":"/projects/puma","w":390,"ok":true,"ms":72078,"height":6772,"items":1322,"missing":0,"errors":0,"at":"2026-11-21T06:43:55.723Z"}
+{"r":"/projects/adidas","w":1440,"ok":true,"ms":127598,"height":9033,"items":1355,"missing":0,"errors":0,"at":"2026-11-21T06:47:27.461Z"}
+{"r":"/projects/adidas","w":1200,"ok":true,"ms":128233,"height":8603,"items":1355,"missing":0,"errors":0,"at":"2026-11-21T06:47:27.479Z"}
+{"r":"/projects/adidas","w":390,"ok":true,"ms":79893,"height":7572,"items":1361,"missing":0,"errors":0,"at":"2026-11-21T06:47:27.479Z"}
+{"r":"/projects/adidas","w":810,"ok":true,"ms":82269,"height":6913,"items":1370,"missing":0,"errors":0,"at":"2026-11-21T06:47:27.479Z"}
+{"r":"/projects/nike","w":1200,"ok":true,"ms":139599,"height":9113,"items":1325,"missing":0,"errors":0,"at":"2026-11-21T06:51:20.758Z"}
+{"r":"/projects/nike","w":1440,"ok":true,"ms":149897,"height":9674,"items":1325,"missing":0,"errors":0,"at":"2026-11-21T06:51:20.785Z"}
+{"r":"/projects/nike","w":810,"ok":true,"ms":91757,"height":7186,"items":1340,"missing":0,"errors":0,"at":"2026-11-21T06:51:20.785Z"}
+{"r":"/projects/nike","w":390,"ok":true,"ms":81453,"height":7652,"items":1331,"missing":0,"errors":0,"at":"2026-11-21T06:51:20.785Z"}
+{"r":"/projects/under-armour","w":1200,"ok":true,"ms":130287,"height":9263,"items":1385,"missing":0,"errors":0,"at":"2026-11-21T06:55:07.398Z"}
+{"r":"/projects/under-armour","w":1440,"ok":true,"ms":150014,"height":9794,"items":1385,"missing":0,"errors":0,"at":"2026-11-21T06:55:07.412Z"}
+{"r":"/projects/under-armour","w":810,"ok":true,"ms":90867,"height":7321,"items":1400,"missing":0,"errors":0,"at":"2026-11-21T06:55:07.412Z"}
+{"r":"/projects/under-armour","w":390,"ok":true,"ms":74925,"height":7827,"items":1391,"missing":0,"errors":0,"at":"2026-11-21T06:55:07.412Z"}

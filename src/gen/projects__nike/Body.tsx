@@ -9,6 +9,7 @@ import { InView } from '@/components/fx/InView';
 import { Lk } from '@/components/Lk';
 import { Loop } from '@/components/fx/Loop';
 import { SV } from '@/components/Variants';
+import { ScrollFx, Parallax } from '@/components/fx/Scroll';
 import { TextFx } from '@/components/fx/TextFx';
 import { VRoot, VEl } from '@/components/fx/Variant';
 
@@ -28,7 +29,7 @@ export function Body() {
         <div className="framer-mtqnda" data-framer-name="Content">
           <div className="framer-4wzv44" data-framer-name="Hero / Project">
             <SV c="ssr-variant hidden-1nc0ivo hidden-g87bww" show={["desktop"]}>
-              <section className="framer-3ye8xs" data-framer-name="Hero" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-102xlp0"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["phone","tablet"]} className="framer-3ye8xs" data-framer-name="Hero" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
                 <div className="framer-by5zon" data-framer-name="BG Outer Container">
                   <div className="framer-1vzwwht-container">
                     <VRoot as="div" map={{"DV6oTfLLg":{"cls":"framer-v-1shcg12","name":"Hidden Mask"},"Uh95rRMl7":{"cls":"framer-v-j4z1zy","name":"Revealed"}}} initial="DV6oTfLLg" transition={{"damping":25,"delay":0.8,"mass":0.3,"stiffness":120,"type":"spring"}} appear={{"to":"Uh95rRMl7","threshold":0.5,"once":true}} className="framer-83xqy framer-j4z1zy framer-v-1shcg12" data-framer-name="Hidden Mask" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -43,7 +44,7 @@ export function Body() {
                     </VRoot>
                   </div>
                 </div>
-                <div className="framer-9cugxo" data-framer-name="Inside Container" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
+                <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-9cugxo" data-framer-name="Inside Container" style={{ "willChange": "transform", "opacity": "1", "transform": "none" }}>
                   <header className="framer-5km0ir" data-framer-name="Top">
                     <Appear as="div" spec={AP["19jj9t8"]} bps={BPS} className="framer-19jj9t8-container" data-framer-appear-id="19jj9t8" style={{ "opacity": "0.001", "transform": "none" }}>
                       <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
@@ -147,11 +148,11 @@ export function Body() {
                       </div>
                     </Appear>
                   </div>
-                </div>
-              </section>
+                </Parallax>
+              </ScrollFx>
             </SV>
             <SV c="ssr-variant hidden-g87bww hidden-1o0hdey" show={["phone"]}>
-              <section className="framer-3ye8xs" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-102xlp0"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["phone","tablet"]} className="framer-3ye8xs" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
                 <div className="framer-by5zon" data-framer-name="BG Outer Container">
                   <div className="framer-1vzwwht-container">
                     <VRoot as="div" map={{"DV6oTfLLg":{"cls":"framer-v-1shcg12","name":"Hidden Mask"},"Uh95rRMl7":{"cls":"framer-v-j4z1zy","name":"Revealed"}}} initial="DV6oTfLLg" transition={{"damping":25,"delay":0.8,"mass":0.3,"stiffness":120,"type":"spring"}} appear={{"to":"Uh95rRMl7","threshold":0.5,"once":true}} className="framer-83xqy framer-j4z1zy framer-v-1shcg12" data-framer-name="Hidden Mask" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -166,7 +167,7 @@ export function Body() {
                     </VRoot>
                   </div>
                 </div>
-                <div className="framer-9cugxo" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
+                <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-9cugxo" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
                   <header className="framer-5km0ir" data-framer-name="Top">
                     <Appear as="div" spec={AP["19jj9t8"]} bps={BPS} className="framer-19jj9t8-container" data-framer-appear-id="19jj9t8" style={{ "opacity": "0.001", "transform": "none" }}>
                       <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
@@ -270,11 +271,11 @@ export function Body() {
                       </div>
                     </Appear>
                   </div>
-                </div>
-              </section>
+                </Parallax>
+              </ScrollFx>
             </SV>
             <SV c="ssr-variant hidden-1nc0ivo hidden-1o0hdey" show={["tablet"]}>
-              <section className="framer-3ye8xs" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
+              <ScrollFx as="section" targets={[{"target":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0}},{"ref":{"cls":"framer-102xlp0"},"target":{"opacity":0.6,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.925,"skewX":0,"skewY":0,"x":0,"y":0}}]} threshold={1} off={["phone","tablet"]} className="framer-3ye8xs" data-framer-name="Hero" style={{ "opacity": "1", "transform": "none" }}>
                 <div className="framer-by5zon" data-framer-name="BG Outer Container">
                   <div className="framer-1vzwwht-container">
                     <VRoot as="div" map={{"DV6oTfLLg":{"cls":"framer-v-1shcg12","name":"Hidden Mask"},"Uh95rRMl7":{"cls":"framer-v-j4z1zy","name":"Revealed"}}} initial="DV6oTfLLg" transition={{"damping":25,"delay":0.8,"mass":0.3,"stiffness":120,"type":"spring"}} appear={{"to":"Uh95rRMl7","threshold":0.5,"once":true}} className="framer-83xqy framer-j4z1zy framer-v-1shcg12" data-framer-name="Hidden Mask" style={{ "--corner-shape-fallback": "0.752", "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
@@ -289,7 +290,7 @@ export function Body() {
                     </VRoot>
                   </div>
                 </div>
-                <div className="framer-9cugxo" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
+                <Parallax as="div" speed={130} off={["phone","tablet"]} className="framer-9cugxo" data-framer-name="Inside Container" style={{ "opacity": "1", "transform": "none" }}>
                   <header className="framer-5km0ir" data-framer-name="Top">
                     <Appear as="div" spec={AP["19jj9t8"]} bps={BPS} className="framer-19jj9t8-container" data-framer-appear-id="19jj9t8" style={{ "opacity": "0.001", "transform": "none" }}>
                       <Lk className="framer-St8Ub framer-khCxy framer-q8hg74 framer-v-ra0to2 framer-ghew07" data-framer-name="Desktop - Left" href="../projects" to="/projects">
@@ -393,8 +394,8 @@ export function Body() {
                       </div>
                     </Appear>
                   </div>
-                </div>
-              </section>
+                </Parallax>
+              </ScrollFx>
             </SV>
             <div className="framer-dm7c33" data-framer-name="Project ">
               <section className="framer-102xlp0" data-framer-name="Client / Brief" id="hero-trigger">

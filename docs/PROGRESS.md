@@ -38,8 +38,8 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 3 — Pages (sections listées après l'audit ; chaque section × 1440/1200/810/390)
 - [ ] `/` accueil
 - [ ] `/projects`
-- [ ] `/projects/gucci` · `chanel` · `puma` · `adidas` · `nike` · `under-armour`
-- [ ] `/studio`
+- [~] `/projects/gucci` · `chanel` · `puma` · `adidas` · `nike` · `under-armour` — hauteurs identiques, 0 géométrie/style/texte ; ~450 éléments en trop (variantes non retirées) à corriger ; pixels gucci/puma jusqu'à 27 %
+- [~] `/studio` — 0 manquant/en trop/géométrie/style/texte, hauteur 0 % aux 4 largeurs ; pixels ≤ 0,53 % à 1440/810/390 ; 1200 : capture d'écran impossible côté banc (« Unable to capture screenshot »), à refaire. Compteurs portés à l'identique (D-027), effets de défilement (hero, parallaxe) désactivés hors desktop comme l'original
 - [x] `/journal` — 0 écart structurel, hauteur 0 %, pixels ≤ 0,54 % aux 4 largeurs (`compare/journal/<w>.json`)
 - [~] `/journal/<8 articles>` — 0 manquant/en trop/géométrie/style/texte et hauteur 0 % aux 4 largeurs pour les 8 ; pixels ≤ 1,7 % à 1440/1200/810, 2,3–3,6 % sur 2–4 plans à 390 (apparition du corps encore en cours dans l'original à l'instant de capture : minutage, Phase 5)
 - [x] `/contact` — 0 écart structurel/style/texte, hauteur 0 %, pixels ≤ 0,54 % aux 4 largeurs (`compare/contact/<w>.json`) ; formulaire (FormFx, D-023), FAQ (VRoot clic), boucles des créneaux (mécanique du runtime) ; états Loading/Success non déclenchables sur l'original

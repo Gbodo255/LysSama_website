@@ -94,7 +94,31 @@ for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.te
       total++;
     }
   };
+  // refs : identifiant → classe de l'élément qui porte `ref: <identifiant>` (cible des effets au défilement)
+  const refCls = {};
+  walk(ast, (n) => {
+    if (n.type !== 'ObjectExpression') return;
+    let r = null, c = null;
+    for (const p of n.properties) { if (p.type !== 'Property') continue; const k = p.key.name || p.key.value; if (k === 'ref' && p.value.type === 'Identifier') r = p.value.name; if (k === 'className') { const v = val(p.value); if (typeof v === 'string') c = v; } }
+    if (r && c && !refCls[r]) refCls[r] = c.split(/\s+/).find((x) => /^framer-[a-z0-9]+$/.test(x));
+  });
+  // PropertyOverrides : o(m, { breakpoint, overrides: { idVarianteDePage: { props } }, children: o(X, { className, … }) })
+  const byBp = {};
+  walk(ast, (n) => {
+    if (n.type !== 'ObjectExpression') return;
+    const get = (k) => n.properties.find((p) => p.type === 'Property' && (p.key.name || p.key.value) === k);
+    const ov = get('overrides'), ch = get('children');
+    if (!get('breakpoint') || !ov || ov.value.type !== 'ObjectExpression' || !ch || ch.value.type !== 'CallExpression') return;
+    const a1 = ch.value.arguments[1]; if (!a1 || a1.type !== 'ObjectExpression') return;
+    const c = ownCls(a1); if (!c) return;
+    const o = val(ov.value); if (!o || typeof o !== 'object') return;
+    for (const cc of c.split(/\s+/).filter((x) => /^framer-[a-z0-9]+(-container)?$/.test(x))) byBp[cc] = o;
+  });
+  const before = total;
   walkC(ast, []);
+  for (const [c, o] of Object.entries(byBp)) for (const x of out[c] || []) if (x.module === f) x.props.$byPageVariant = o;
+  // remplace "<?X>" des refs par { cls }
+  for (const l of Object.values(out)) for (const x of l) if (x.module === f) for (const k of ['__framer__transformTargets', '__framer__targets']) for (const t of x.props[k] || []) if (typeof t.ref === 'string') { const id = t.ref.slice(2, -1); t.ref = refCls[id] ? { cls: refCls[id] } : t.ref; }
   // styles par variante déclarés sur les éléments : { className, style (base), variants: { id: {...} } }
   walk(ast, (n) => {
     if (n.type !== 'ObjectExpression') return;

@@ -7,7 +7,14 @@ const styleOf = (n) => Object.fromEntries((attr(n, 'style') || '').split(';').fi
 // copie du nœud dont le 1er nœud texte devient une expression ; `done` évite de réappliquer la surcharge
 const withText = (n, expr) => { let hit = false; const c = (x) => (x.t !== undefined ? (hit ? x : ((hit = true), { expr })) : x.kids ? { ...x, kids: x.kids.map(c) } : x); const r = c(n); r.done = true; return r; };
 
+let counterSeq = 0;
 export const OVERRIDES = [
+  // Compteurs de /studio (rWbx8J1Z4) : même ordre que studioNumbers.metrics, répété dans chaque variante de breakpoint.
+  {
+    match: (n, { slug, name }) => slug === 'studio' && name === 'Big Counter' && !n.done,
+    imports: [`import { Counter } from '@/components/fx/Counter';`, `import { studioNumbers } from '@/data/studio';`],
+    render: (n, h) => `<Counter as="${n.tag}" m={studioNumbers.metrics[${counterSeq++ % 4}]}${h.attrs(n)}>${String.fromCharCode(10)}${n.kids.map((k) => h.jsx(k)).filter(Boolean).join(String.fromCharCode(10))}${String.fromCharCode(10)}${'  '.repeat(h.d)}</Counter>`,
+  },
   // « Form Button » (ES, framer-8H41b) : composant validé du footer, état lu dans le formulaire.
   {
     match: (n, { cls }) => n.tag === 'button' && cls.includes('framer-8H41b'),
