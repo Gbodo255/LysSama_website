@@ -1,0 +1,49 @@
+{
+ "route": "/",
+ "width": 1200,
+ "scope": null,
+ "height": {
+  "ref": 22793,
+  "clone": 22793,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 2331,
+  "clone": 2331,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 53.854,
+  "over2": [
+   "seq-010.webp",
+   "seq-051.webp",
+   "seq-052.webp",
+   "seq-053.webp",
+   "seq-054.webp",
+   "seq-055.webp",
+   "seq-056.webp",
+   "seq-057.webp",
+   "seq-058.webp",
+   "seq-059.webp",
+   "seq-060.webp",
+   "seq-061.webp",
+   "seq-062.webp",
+   "seq-063.webp",
+   "seq-064.webp",
+   "seq-065.webp",
+   "seq-066.webp",
+   "seq-067.webp",
+   "seq-068.webp"
+  ],
+  "n": 99
+ }
+}

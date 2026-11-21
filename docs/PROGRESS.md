@@ -69,6 +69,11 @@ texte 3D 404, Video Mirror, Revelo (GSAP 3.13.0), compteurs ; Lenis ; moteur gé
 **Comment voir le rendu** : `npx next build` puis `node scripts/serve-out.mjs --port=4173` → http://127.0.0.1:4173.
 **Cycle de travail rapide** : `bash scripts/agents/main/cycle.sh "<routes>" <largeurs>` (régénère, construit, mesure, compare).
 
+**Validation complète du 2026-11-21 (21 routes × 4 largeurs, hors /projects)** : 76/84 sans écart structurel (0 manquant,
+en trop, géométrie, style, texte ; hauteur identique) ; pixels ≤ 2,5 % partout sauf l'accueil (captures corrompues par le
+manque de mémoire, à refaire seul). Écarts restants : 5 éléments de géométrie sur certains articles/journal à 810 ou 1440
+(barre latérale sous charge, déjà vu fluctuant), 2 styles de phase de boucle sur /contact 810/390, accueil 810 (39) et 390 (10).
+
 **Reste à faire, dans l'ordre** :
 1. ~~Lightbox~~ fait (D-039). Les 6 pages projet sont à 0 écart à 1440.
 2. Accueil : pixels de la section Process — corrigé dans le code (instances imbriquées qui suivent le parent, follows.json), à remesurer seul ; puis 1200/810/390.

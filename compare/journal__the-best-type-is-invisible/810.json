@@ -12,17 +12,98 @@
   "clone": 599,
   "missing": 0,
   "extra": 0,
-  "geo": 0,
+  "geo": 5,
   "styles": 0,
   "text": 0
  },
  "missing": [],
  "extra": [],
- "geo": [],
+ "geo": [
+  {
+   "sel": "div:nth-of-type(1)>div[data-framer-name=\"Shared Navigation\"]:nth-of-type(4)>div>div[data-framer-name=\"Tablet - Closed\"]>nav[data-framer-name=\"Side Nav\"]>div[data-framer-name=\"SideBar\"]:nth-of-type(1)>div:nth-of-type(2)>div[data-framer-name=\"Variant 1\"]",
+   "d": 64.59,
+   "ref": {
+    "x": 15,
+    "y": 768.7,
+    "width": 32,
+    "height": 96.59
+   },
+   "clone": {
+    "x": -17.3,
+    "y": 801,
+    "width": 96.59,
+    "height": 32
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div[data-framer-name=\"Shared Navigation\"]:nth-of-type(4)>div>div[data-framer-name=\"Tablet - Closed\"]>nav[data-framer-name=\"Side Nav\"]>div[data-framer-name=\"SideBar\"]:nth-of-type(1)>div:nth-of-type(2)>div[data-framer-name=\"Variant 1\"]>div[data-framer-name=\"Globe\"]:nth-of-type(1)>div>div>svg",
+   "d": 34.8,
+   "ref": {
+    "x": 24.5,
+    "y": 841.3,
+    "width": 13,
+    "height": 17
+   },
+   "clone": {
+    "x": -10.3,
+    "y": 810.5,
+    "width": 17,
+    "height": 13
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div[data-framer-name=\"Shared Navigation\"]:nth-of-type(4)>div>div[data-framer-name=\"Tablet - Closed\"]>nav[data-framer-name=\"Side Nav\"]>div[data-framer-name=\"SideBar\"]:nth-of-type(1)>div:nth-of-type(2)>div[data-framer-name=\"Variant 1\"]>div[data-framer-name=\"Text\"]:nth-of-type(2)",
+   "d": 33.59,
+   "ref": {
+    "x": 15,
+    "y": 768.7,
+    "width": 32,
+    "height": 65.59
+   },
+   "clone": {
+    "x": 13.7,
+    "y": 801,
+    "width": 65.59,
+    "height": 32
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div[data-framer-name=\"Shared Navigation\"]:nth-of-type(4)>div>div[data-framer-name=\"Tablet - Closed\"]>nav[data-framer-name=\"Side Nav\"]>div[data-framer-name=\"SideBar\"]:nth-of-type(1)>div:nth-of-type(2)>div[data-framer-name=\"Variant 1\"]>div[data-framer-name=\"Text\"]:nth-of-type(2)>div>p",
+   "d": 33.59,
+   "ref": {
+    "x": 22,
+    "y": 775.7,
+    "width": 18,
+    "height": 51.59
+   },
+   "clone": {
+    "x": 20.7,
+    "y": 808,
+    "width": 51.59,
+    "height": 18
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div[data-framer-name=\"Shared Navigation\"]:nth-of-type(4)>div>div[data-framer-name=\"Tablet - Closed\"]>nav[data-framer-name=\"Side Nav\"]>div[data-framer-name=\"SideBar\"]:nth-of-type(1)>div:nth-of-type(2)>div[data-framer-name=\"Variant 1\"]>div[data-framer-name=\"Globe\"]:nth-of-type(1)",
+   "d": 33.3,
+   "ref": {
+    "x": 15,
+    "y": 834.3,
+    "width": 32,
+    "height": 31
+   },
+   "clone": {
+    "x": -17.3,
+    "y": 801,
+    "width": 31,
+    "height": 32
+   }
+  }
+ ],
  "styles": [],
  "text": [],
  "pixels": {
-  "worst": 0.627,
+  "worst": 0.746,
   "over2": [],
   "n": 19
  }

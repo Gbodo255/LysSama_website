@@ -1,0 +1,29 @@
+{
+ "route": "/this-page-does-not-exist-404",
+ "width": 810,
+ "scope": null,
+ "height": {
+  "ref": 900,
+  "clone": 900,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 29,
+  "clone": 29,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0,
+  "over2": [],
+  "n": 1
+ }
+}

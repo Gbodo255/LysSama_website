@@ -517,7 +517,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg",
+   "src": "http://127.0.0.1:4173/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg",
    "alt": "Close-up of glossy red lips",
    "natural": [
     1501,
@@ -625,7 +625,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg",
+   "src": "http://127.0.0.1:4173/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg",
    "alt": "Close-up of glossy red lips",
    "natural": [
     1501,
@@ -6449,7 +6449,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/h0uF4ecVvj33A97za3PYY3KMg.jpg",
+   "src": "http://127.0.0.1:4173/assets/images/h0uF4ecVvj33A97za3PYY3KMg.jpg",
    "alt": "Portrait of David Torres",
    "natural": [
     528,
@@ -21205,7 +21205,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg",
+   "src": "http://127.0.0.1:4173/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg",
    "alt": "Black and white silhouette framed by outstretched hands",
    "natural": [
     904,
@@ -21262,7 +21262,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg",
+   "src": "http://127.0.0.1:4173/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg",
    "alt": "Black and white silhouette framed by outstretched hands",
    "natural": [
     904,
@@ -21844,7 +21844,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg",
+   "src": "http://127.0.0.1:4173/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg",
    "alt": "Black horse wearing a flower garland in a field",
    "natural": [
     2040,
@@ -21901,7 +21901,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg",
+   "src": "http://127.0.0.1:4173/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg",
    "alt": "Black horse wearing a flower garland in a field",
    "natural": [
     2040,
@@ -22483,7 +22483,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg",
+   "src": "http://127.0.0.1:4173/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg",
    "alt": "Chrome hand reaching out beside a rainbow light flare",
    "natural": [
     1537,
@@ -22540,7 +22540,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg",
+   "src": "http://127.0.0.1:4173/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg",
    "alt": "Chrome hand reaching out beside a rainbow light flare",
    "natural": [
     1537,
@@ -23122,7 +23122,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/k15t4NH13VUuxLJcDCP4aIums.jpg",
+   "src": "http://127.0.0.1:4173/assets/images/k15t4NH13VUuxLJcDCP4aIums.jpg",
    "alt": "Figure in a white hood sitting cross-legged with a red light across the eyes",
    "natural": [
     1278,
@@ -23179,7 +23179,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/k15t4NH13VUuxLJcDCP4aIums.jpg",
+   "src": "http://127.0.0.1:4173/assets/images/k15t4NH13VUuxLJcDCP4aIums.jpg",
    "alt": "Figure in a white hood sitting cross-legged with a red light across the eyes",
    "natural": [
     1278,
@@ -24015,10 +24015,10 @@
    "tag": "div",
    "name": "Variant 1",
    "rect": {
-    "x": 15,
-    "y": 768.7,
-    "width": 32,
-    "height": 96.59
+    "x": -17.3,
+    "y": 801,
+    "width": 96.59,
+    "height": 32
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -24066,10 +24066,10 @@
    "tag": "div",
    "name": "Globe",
    "rect": {
-    "x": 15,
-    "y": 834.3,
-    "width": 32,
-    "height": 31
+    "x": -17.3,
+    "y": 801,
+    "width": 31,
+    "height": 32
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -24117,10 +24117,10 @@
    "tag": "svg",
    "name": null,
    "rect": {
-    "x": 24.5,
-    "y": 841.3,
-    "width": 13,
-    "height": 17
+    "x": -10.3,
+    "y": 810.5,
+    "width": 17,
+    "height": 13
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -24168,10 +24168,10 @@
    "tag": "div",
    "name": "Text",
    "rect": {
-    "x": 15,
-    "y": 768.7,
-    "width": 32,
-    "height": 65.59
+    "x": 13.7,
+    "y": 801,
+    "width": 65.59,
+    "height": 32
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -24219,10 +24219,10 @@
    "tag": "p",
    "name": null,
    "rect": {
-    "x": 22,
-    "y": 775.7,
-    "width": 18,
-    "height": 51.59
+    "x": 20.7,
+    "y": 808,
+    "width": 51.59,
+    "height": 18
    },
    "style": {
     "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
@@ -25636,7 +25636,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg",
+   "src": "http://127.0.0.1:4173/assets/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg",
    "alt": "",
    "natural": [
     655,
@@ -31921,7 +31921,7 @@
     "whiteSpace": "normal",
     "webkitFontSmoothing": "antialiased"
    },
-   "src": "http://127.0.0.1:3100/assets/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg",
+   "src": "http://127.0.0.1:4173/assets/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg",
    "alt": "",
    "natural": [
     655,

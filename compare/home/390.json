@@ -1,0 +1,199 @@
+{
+ "route": "/",
+ "width": 390,
+ "scope": null,
+ "height": {
+  "ref": 18365,
+  "clone": 18365,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 2422,
+  "clone": 2422,
+  "missing": 0,
+  "extra": 0,
+  "geo": 10,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)",
+   "d": 18.95,
+   "ref": {
+    "x": 14.33,
+    "y": 11409.89,
+    "width": 351.77,
+    "height": 95.58
+   },
+   "clone": {
+    "x": 9.63,
+    "y": 11415.47,
+    "width": 370.72,
+    "height": 81
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]",
+   "d": 15.04,
+   "ref": {
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
+   },
+   "clone": {
+    "x": 79.8,
+    "y": 11322.77,
+    "width": 230.4,
+    "height": 266.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]",
+   "d": 15.04,
+   "ref": {
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
+   },
+   "clone": {
+    "x": 79.8,
+    "y": 11322.77,
+    "width": 230.4,
+    "height": 266.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 15.04,
+   "ref": {
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
+   },
+   "clone": {
+    "x": 79.8,
+    "y": 11322.77,
+    "width": 230.4,
+    "height": 266.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Dark overlay\"]:nth-of-type(1)",
+   "d": 15.04,
+   "ref": {
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
+   },
+   "clone": {
+    "x": 79.8,
+    "y": 11322.77,
+    "width": 230.4,
+    "height": 266.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)",
+   "d": 15.04,
+   "ref": {
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
+   },
+   "clone": {
+    "x": 79.8,
+    "y": 11322.77,
+    "width": 230.4,
+    "height": 266.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div:nth-of-type(1)>div[data-framer-name=\"Video / Image Thumbnail\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)>video",
+   "d": 15.04,
+   "ref": {
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
+   },
+   "clone": {
+    "x": 79.8,
+    "y": 11322.77,
+    "width": 230.4,
+    "height": 266.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)>div[data-framer-name=\"Play Button\"]:nth-of-type(2)",
+   "d": 6.21,
+   "ref": {
+    "x": 157.82,
+    "y": 11416.09,
+    "width": 86.21,
+    "height": 79.99
+   },
+   "clone": {
+    "x": 161.63,
+    "y": 11415.97,
+    "width": 80,
+    "height": 80
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)>div[data-framer-name=\"Play Button\"]:nth-of-type(2)>div[data-framer-name=\"Play Icon\"]",
+   "d": 3.11,
+   "ref": {
+    "x": 179.46,
+    "y": 11435.76,
+    "width": 43.11,
+    "height": 39.99
+   },
+   "clone": {
+    "x": 181.63,
+    "y": 11435.97,
+    "width": 40,
+    "height": 40
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]>div[data-framer-name=\"Play Reel\"]:nth-of-type(5)>div[data-framer-name=\"Reel\"]:nth-of-type(1)>div[data-framer-name=\"Play CTA\"]:nth-of-type(2)>div[data-framer-name=\"Play Reel\"]:nth-of-type(2)>div[data-framer-name=\"Play Button\"]:nth-of-type(2)>div[data-framer-name=\"Play Icon\"]>div>svg",
+   "d": 3.11,
+   "ref": {
+    "x": 179.46,
+    "y": 11435.76,
+    "width": 43.11,
+    "height": 39.99
+   },
+   "clone": {
+    "x": 181.63,
+    "y": 11435.97,
+    "width": 40,
+    "height": 40
+   }
+  }
+ ],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 4.154,
+  "over2": [
+   "seq-014.webp",
+   "seq-015.webp",
+   "seq-016.webp",
+   "seq-017.webp",
+   "seq-018.webp",
+   "seq-019.webp",
+   "seq-048.webp",
+   "seq-049.webp"
+  ],
+  "n": 79
+ }
+}

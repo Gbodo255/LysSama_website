@@ -13,13 +13,26 @@
   "missing": 0,
   "extra": 0,
   "geo": 0,
-  "styles": 0,
+  "styles": 2,
   "text": 0
  },
  "missing": [],
  "extra": [],
  "geo": [],
- "styles": [],
+ "styles": [
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div:nth-of-type(1)>div>section[data-framer-name=\"Tablet\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>div[data-framer-name=\"Top\"]:nth-of-type(1)>div[data-framer-name=\"Availability\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"2\"]>div:nth-of-type(1)>div[data-framer-name=\"Active\"]>div[data-framer-name=\"Slot\"]",
+   "k": "opacity",
+   "ref": "0.897469",
+   "clone": "0.869989"
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div:nth-of-type(1)>div>section[data-framer-name=\"Tablet\"]>div[data-framer-name=\"Outer Container\"]>div[data-framer-name=\"Inside Container\"]:nth-of-type(2)>div[data-framer-name=\"Top\"]:nth-of-type(1)>div[data-framer-name=\"Availability\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"2\"]>div:nth-of-type(2)>div[data-framer-name=\"Active\"]>div[data-framer-name=\"Slot\"]",
+   "k": "opacity",
+   "ref": "0.897469",
+   "clone": "0.869989"
+  }
+ ],
  "text": [],
  "pixels": {
   "worst": 0.54,

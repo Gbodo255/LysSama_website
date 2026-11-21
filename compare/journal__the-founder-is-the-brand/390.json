@@ -22,12 +22,11 @@
  "styles": [],
  "text": [],
  "pixels": {
-  "worst": 3.646,
+  "worst": 2.34,
   "over2": [
    "seq-005.webp",
    "seq-006.webp",
-   "seq-007.webp",
-   "seq-008.webp"
+   "seq-007.webp"
   ],
   "n": 17
  }

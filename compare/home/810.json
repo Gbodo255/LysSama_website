@@ -1,0 +1,679 @@
+{
+ "route": "/",
+ "width": 810,
+ "scope": null,
+ "height": {
+  "ref": 22348,
+  "clone": 22348,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 2328,
+  "clone": 2328,
+  "missing": 0,
+  "extra": 0,
+  "geo": 39,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)",
+   "d": 1877.4,
+   "ref": {
+    "x": 62,
+    "y": 1666.59,
+    "width": 745,
+    "height": 894
+   },
+   "clone": {
+    "x": -720.25,
+    "y": 727.89,
+    "width": 2309.5,
+    "height": 2771.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)",
+   "d": 1877.4,
+   "ref": {
+    "x": -127.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 894
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 2771.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)",
+   "d": 1877.4,
+   "ref": {
+    "x": 248.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 894
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 2771.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)",
+   "d": 1877.4,
+   "ref": {
+    "x": 623.75,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 894
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 2771.4
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)>video",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(2)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)>div>img",
+   "d": 1179.68,
+   "ref": {
+    "x": -127.25,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": -1306.93,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]",
+   "d": 938.7,
+   "ref": {
+    "x": 248.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]",
+   "d": 938.7,
+   "ref": {
+    "x": 248.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 938.7,
+   "ref": {
+    "x": 248.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)",
+   "d": 938.7,
+   "ref": {
+    "x": 248.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)>div>img",
+   "d": 938.7,
+   "ref": {
+    "x": 248.25,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]",
+   "d": 938.7,
+   "ref": {
+    "x": 623.75,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]",
+   "d": 938.7,
+   "ref": {
+    "x": 623.75,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 938.7,
+   "ref": {
+    "x": 623.75,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)",
+   "d": 938.7,
+   "ref": {
+    "x": 623.75,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(1)>div[data-framer-name=\"Top\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)>video",
+   "d": 938.7,
+   "ref": {
+    "x": 623.75,
+    "y": 1666.59,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 727.89,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]",
+   "d": 935.55,
+   "ref": {
+    "x": 623.75,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]",
+   "d": 935.55,
+   "ref": {
+    "x": 623.75,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 935.55,
+   "ref": {
+    "x": 623.75,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)",
+   "d": 935.55,
+   "ref": {
+    "x": 623.75,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Top Row\"]:nth-of-type(4)>div:nth-of-type(2)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)>div>img",
+   "d": 935.55,
+   "ref": {
+    "x": 623.75,
+    "y": 2115.09,
+    "width": 372.5,
+    "height": 445.5
+   },
+   "clone": {
+    "x": 1021.17,
+    "y": 2118.24,
+    "width": 1154.75,
+    "height": 1381.05
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(2)>div[data-framer-name=\"Middle\"]",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 1965.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 1654.79,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(2)>div[data-framer-name=\"Middle\"]>div[data-framer-name=\"End\"]",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 1965.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 1654.79,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(2)>div[data-framer-name=\"Middle\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 1965.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 1654.79,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(2)>div[data-framer-name=\"Middle\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 1965.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 1654.79,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(2)>div[data-framer-name=\"Middle\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"BG Image\"]:nth-of-type(2)>div>img",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 1965.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 1654.79,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(3)>div[data-framer-name=\"Bottom\"]",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 2264.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 2581.69,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(3)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 2264.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 2581.69,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(3)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 2264.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 2581.69,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(3)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 2264.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 2581.69,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  },
+  {
+   "sel": "div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]>div[data-framer-name=\"Content\"]:nth-of-type(2)>div[data-framer-name=\"Work Section\"]:nth-of-type(2)>div[data-framer-name=\"Work Reveal\"]:nth-of-type(1)>div[data-framer-name=\"Inner\"]>div[data-framer-name=\"Media\"]:nth-of-type(2)>div[data-framer-name=\"Middle Row\"]:nth-of-type(3)>div:nth-of-type(3)>div[data-framer-name=\"Bottom\"]>div[data-framer-name=\"End\"]>div[data-framer-name=\"BG\"]>div[data-framer-name=\"Uploaded Video\"]:nth-of-type(2)>video",
+   "d": 782.25,
+   "ref": {
+    "x": 248.25,
+    "y": 2264.59,
+    "width": 372.5,
+    "height": 296
+   },
+   "clone": {
+    "x": -142.88,
+    "y": 2581.69,
+    "width": 1154.75,
+    "height": 917.6
+   }
+  }
+ ],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 76.222,
+  "over2": [
+   "seq-004.webp",
+   "seq-005.webp",
+   "seq-006.webp",
+   "seq-007.webp",
+   "seq-014.webp",
+   "seq-016.webp",
+   "seq-017.webp",
+   "seq-049.webp",
+   "seq-050.webp",
+   "seq-051.webp",
+   "seq-052.webp",
+   "seq-053.webp",
+   "seq-054.webp",
+   "seq-055.webp",
+   "seq-056.webp",
+   "seq-057.webp",
+   "seq-058.webp",
+   "seq-059.webp",
+   "seq-060.webp",
+   "seq-061.webp",
+   "seq-062.webp",
+   "seq-063.webp",
+   "seq-064.webp",
+   "seq-065.webp"
+  ],
+  "n": 97
+ }
+}
