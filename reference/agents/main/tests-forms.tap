@@ -1,0 +1,34 @@
+TAP version 13
+# Subtest: /contact : envoi vide bloqué, messages natifs, focus Name, bouton Incomplete
+ok 1 - /contact : envoi vide bloqué, messages natifs, focus Name, bouton Incomplete
+  ---
+  duration_ms: 6823.9159
+  type: 'test'
+  ...
+# Subtest: /contact : email « abc » invalide, envoi bloqué
+ok 2 - /contact : email « abc » invalide, envoi bloqué
+  ---
+  duration_ms: 27981.503
+  type: 'test'
+  ...
+# Subtest: /contact : saisie retire framer-form-input-empty ; envoi valide simulé → Success, aucune requête
+ok 3 - /contact : saisie retire framer-form-input-empty ; envoi valide simulé → Success, aucune requête
+  ---
+  duration_ms: 32144.6329
+  type: 'test'
+  ...
+# Subtest: newsletter : vide, « abc », case non cochée, puis envoi simulé
+ok 4 - newsletter : vide, « abc », case non cochée, puis envoi simulé
+  ---
+  duration_ms: 18774.2174
+  type: 'test'
+  ...
+1..4
+# tests 4
+# suites 0
+# pass 4
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 87011.0474

@@ -1,0 +1,22 @@
+TAP version 13
+# Subtest: Pricing : totaux Monthly / Per Project et conservation des cases
+ok 1 - Pricing : totaux Monthly / Per Project et conservation des cases
+  ---
+  duration_ms: 42648.472
+  type: 'test'
+  ...
+# Subtest: Reel : clic ouvre le lecteur YouTube 6aioEoCdBJw dans \#template-overlay, Échap ferme
+ok 2 - Reel : clic ouvre le lecteur YouTube 6aioEoCdBJw dans \#template-overlay, Échap ferme
+  ---
+  duration_ms: 1990.7798
+  type: 'test'
+  ...
+1..2
+# tests 2
+# suites 0
+# pass 2
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 45688.9238

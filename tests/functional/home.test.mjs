@@ -7,12 +7,12 @@ import { useBrowser, load, settle, visible, scrollToSel, closeAll } from './lib/
 
 const s = useBrowser();
 let h;
-before(async () => { h = await load(s.browser, '/', 1440); });
+before(async () => { while (!s.browser) await new Promise((r) => setTimeout(r, 100)); h = await load(s.browser, '/', 1440); }); // attend le navigateur partagé (hooks non ordonnés)
 after(async () => { if (h) await closeAll(h).catch(() => {}); }); // le navigateur peut déjà être fermé
 
 const CARD = '.framer-189pfpj-container';
 const total = () => h.page.evaluate((c) => {
-  const e = [...document.querySelectorAll(`${c} .framer-1pl2uqb-container`)].find((x) => x.getBoundingClientRect().width > 0);
+  const e = [...document.querySelectorAll(`${c} .framer-1pl2uqb-container [data-framer-name="Calculator Text"]`)].find((x) => x.getBoundingClientRect().width > 0); // texte visible (hors span aria-live, présent aussi dans l’original)
   return e ? e.innerText.replace(/\s+/g, ' ').trim() : null;
 }, CARD);
 const ROWS = `${CARD} [data-framer-name="Unchecked"], ${CARD} [data-framer-name="Checked"]`;

@@ -55,6 +55,8 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 7 — Responsive (listes A, B, C)
 ## Phase 8 — Vérification visuelle (`compare/report.md`)
 ## Phase 9 — Tests fonctionnels et différentiels
+- [x] Tests fonctionnels `npm run test:e2e` : 87/87 (routes 71, formulaires 4, accueil 2 : Pricing et fenêtre vidéo, navigation, FAQ, lightbox, compteurs) — `reference/agents/main/tests-*.tap`
+- [ ] Scénarios différentiels original/clone (`tests/scenarios/README.md`, 14 décrits, non codés)
 ## Phase 10 — Revue indépendante
 ## Phase 11 — Qualité, `check:launch`, RAPPORT.md
 

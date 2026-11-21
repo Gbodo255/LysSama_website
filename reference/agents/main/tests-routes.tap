@@ -1,0 +1,436 @@
+TAP version 13
+# Subtest: statut HTTP /
+ok 1 - statut HTTP /
+  ---
+  duration_ms: 462.9789
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /
+ok 2 - liens internes identiques à l'original /
+  ---
+  duration_ms: 20.9902
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /
+ok 3 - titre et robots identiques à l'original /
+  ---
+  duration_ms: 17.1226
+  type: 'test'
+  ...
+# Subtest: statut HTTP /projects
+ok 4 - statut HTTP /projects
+  ---
+  duration_ms: 4.143
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /projects
+ok 5 - liens internes identiques à l'original /projects
+  ---
+  duration_ms: 6.4584
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /projects
+ok 6 - titre et robots identiques à l'original /projects
+  ---
+  duration_ms: 3.6013
+  type: 'test'
+  ...
+# Subtest: statut HTTP /studio
+ok 7 - statut HTTP /studio
+  ---
+  duration_ms: 3.4782
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /studio
+ok 8 - liens internes identiques à l'original /studio
+  ---
+  duration_ms: 11.5422
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /studio
+ok 9 - titre et robots identiques à l'original /studio
+  ---
+  duration_ms: 8.6377
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal
+ok 10 - statut HTTP /journal
+  ---
+  duration_ms: 4.0047
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal
+ok 11 - liens internes identiques à l'original /journal
+  ---
+  duration_ms: 7.562
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal
+ok 12 - titre et robots identiques à l'original /journal
+  ---
+  duration_ms: 4.3289
+  type: 'test'
+  ...
+# Subtest: statut HTTP /contact
+ok 13 - statut HTTP /contact
+  ---
+  duration_ms: 4.086
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /contact
+ok 14 - liens internes identiques à l'original /contact
+  ---
+  duration_ms: 10.9824
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /contact
+ok 15 - titre et robots identiques à l'original /contact
+  ---
+  duration_ms: 5.4495
+  type: 'test'
+  ...
+# Subtest: statut HTTP /projects/gucci
+ok 16 - statut HTTP /projects/gucci
+  ---
+  duration_ms: 4.532
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /projects/gucci
+ok 17 - liens internes identiques à l'original /projects/gucci
+  ---
+  duration_ms: 11.2303
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /projects/gucci
+ok 18 - titre et robots identiques à l'original /projects/gucci
+  ---
+  duration_ms: 11.3258
+  type: 'test'
+  ...
+# Subtest: statut HTTP /projects/chanel
+ok 19 - statut HTTP /projects/chanel
+  ---
+  duration_ms: 4.0718
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /projects/chanel
+ok 20 - liens internes identiques à l'original /projects/chanel
+  ---
+  duration_ms: 8.3594
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /projects/chanel
+ok 21 - titre et robots identiques à l'original /projects/chanel
+  ---
+  duration_ms: 8.247
+  type: 'test'
+  ...
+# Subtest: statut HTTP /projects/puma
+ok 22 - statut HTTP /projects/puma
+  ---
+  duration_ms: 4.3808
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /projects/puma
+ok 23 - liens internes identiques à l'original /projects/puma
+  ---
+  duration_ms: 8.0882
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /projects/puma
+ok 24 - titre et robots identiques à l'original /projects/puma
+  ---
+  duration_ms: 12.428
+  type: 'test'
+  ...
+# Subtest: statut HTTP /projects/adidas
+ok 25 - statut HTTP /projects/adidas
+  ---
+  duration_ms: 4.4563
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /projects/adidas
+ok 26 - liens internes identiques à l'original /projects/adidas
+  ---
+  duration_ms: 8.2955
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /projects/adidas
+ok 27 - titre et robots identiques à l'original /projects/adidas
+  ---
+  duration_ms: 7.2838
+  type: 'test'
+  ...
+# Subtest: statut HTTP /projects/nike
+ok 28 - statut HTTP /projects/nike
+  ---
+  duration_ms: 3.6089
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /projects/nike
+ok 29 - liens internes identiques à l'original /projects/nike
+  ---
+  duration_ms: 8.0271
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /projects/nike
+ok 30 - titre et robots identiques à l'original /projects/nike
+  ---
+  duration_ms: 8.1118
+  type: 'test'
+  ...
+# Subtest: statut HTTP /projects/under-armour
+ok 31 - statut HTTP /projects/under-armour
+  ---
+  duration_ms: 3.9439
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /projects/under-armour
+ok 32 - liens internes identiques à l'original /projects/under-armour
+  ---
+  duration_ms: 8.9786
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /projects/under-armour
+ok 33 - titre et robots identiques à l'original /projects/under-armour
+  ---
+  duration_ms: 8.6081
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/fewer-projects-more-attention
+ok 34 - statut HTTP /journal/fewer-projects-more-attention
+  ---
+  duration_ms: 4.0806
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/fewer-projects-more-attention
+ok 35 - liens internes identiques à l'original /journal/fewer-projects-more-attention
+  ---
+  duration_ms: 7.1626
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/fewer-projects-more-attention
+ok 36 - titre et robots identiques à l'original /journal/fewer-projects-more-attention
+  ---
+  duration_ms: 10.3436
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/awards-dont-build-brands
+ok 37 - statut HTTP /journal/awards-dont-build-brands
+  ---
+  duration_ms: 3.6532
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/awards-dont-build-brands
+ok 38 - liens internes identiques à l'original /journal/awards-dont-build-brands
+  ---
+  duration_ms: 6.4554
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/awards-dont-build-brands
+ok 39 - titre et robots identiques à l'original /journal/awards-dont-build-brands
+  ---
+  duration_ms: 4.4331
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/why-we-quote-fixed
+ok 40 - statut HTTP /journal/why-we-quote-fixed
+  ---
+  duration_ms: 3.8491
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/why-we-quote-fixed
+ok 41 - liens internes identiques à l'original /journal/why-we-quote-fixed
+  ---
+  duration_ms: 13.0531
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/why-we-quote-fixed
+ok 42 - titre et robots identiques à l'original /journal/why-we-quote-fixed
+  ---
+  duration_ms: 4.8703
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/the-best-type-is-invisible
+ok 43 - statut HTTP /journal/the-best-type-is-invisible
+  ---
+  duration_ms: 4.0424
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/the-best-type-is-invisible
+ok 44 - liens internes identiques à l'original /journal/the-best-type-is-invisible
+  ---
+  duration_ms: 5.9472
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/the-best-type-is-invisible
+ok 45 - titre et robots identiques à l'original /journal/the-best-type-is-invisible
+  ---
+  duration_ms: 8.3808
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/on-saying-no
+ok 46 - statut HTTP /journal/on-saying-no
+  ---
+  duration_ms: 4.2612
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/on-saying-no
+ok 47 - liens internes identiques à l'original /journal/on-saying-no
+  ---
+  duration_ms: 6.4577
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/on-saying-no
+ok 48 - titre et robots identiques à l'original /journal/on-saying-no
+  ---
+  duration_ms: 4.3217
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/the-brief-before-the-brief
+ok 49 - statut HTTP /journal/the-brief-before-the-brief
+  ---
+  duration_ms: 4.7287
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/the-brief-before-the-brief
+ok 50 - liens internes identiques à l'original /journal/the-brief-before-the-brief
+  ---
+  duration_ms: 8.2864
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/the-brief-before-the-brief
+ok 51 - titre et robots identiques à l'original /journal/the-brief-before-the-brief
+  ---
+  duration_ms: 4.4764
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/small-looks-expensive
+ok 52 - statut HTTP /journal/small-looks-expensive
+  ---
+  duration_ms: 3.7179
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/small-looks-expensive
+ok 53 - liens internes identiques à l'original /journal/small-looks-expensive
+  ---
+  duration_ms: 6.6629
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/small-looks-expensive
+ok 54 - titre et robots identiques à l'original /journal/small-looks-expensive
+  ---
+  duration_ms: 4.2056
+  type: 'test'
+  ...
+# Subtest: statut HTTP /journal/the-founder-is-the-brand
+ok 55 - statut HTTP /journal/the-founder-is-the-brand
+  ---
+  duration_ms: 3.8326
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /journal/the-founder-is-the-brand
+ok 56 - liens internes identiques à l'original /journal/the-founder-is-the-brand
+  ---
+  duration_ms: 7.3063
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /journal/the-founder-is-the-brand
+ok 57 - titre et robots identiques à l'original /journal/the-founder-is-the-brand
+  ---
+  duration_ms: 4.2796
+  type: 'test'
+  ...
+# Subtest: statut HTTP /privacy-policy
+ok 58 - statut HTTP /privacy-policy
+  ---
+  duration_ms: 4.1183
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /privacy-policy
+ok 59 - liens internes identiques à l'original /privacy-policy
+  ---
+  duration_ms: 6.8887
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /privacy-policy
+ok 60 - titre et robots identiques à l'original /privacy-policy
+  ---
+  duration_ms: 4.116
+  type: 'test'
+  ...
+# Subtest: statut HTTP /terms-conditions
+ok 61 - statut HTTP /terms-conditions
+  ---
+  duration_ms: 3.9718
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /terms-conditions
+ok 62 - liens internes identiques à l'original /terms-conditions
+  ---
+  duration_ms: 5.4721
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /terms-conditions
+ok 63 - titre et robots identiques à l'original /terms-conditions
+  ---
+  duration_ms: 3.9784
+  type: 'test'
+  ...
+# Subtest: statut HTTP /cookie-policy
+ok 64 - statut HTTP /cookie-policy
+  ---
+  duration_ms: 3.726
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /cookie-policy
+ok 65 - liens internes identiques à l'original /cookie-policy
+  ---
+  duration_ms: 5.2354
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /cookie-policy
+ok 66 - titre et robots identiques à l'original /cookie-policy
+  ---
+  duration_ms: 4.0258
+  type: 'test'
+  ...
+# Subtest: statut HTTP /this-page-does-not-exist-404
+ok 67 - statut HTTP /this-page-does-not-exist-404
+  ---
+  duration_ms: 3.4853
+  type: 'test'
+  ...
+# Subtest: liens internes identiques à l'original /this-page-does-not-exist-404
+ok 68 - liens internes identiques à l'original /this-page-does-not-exist-404
+  ---
+  duration_ms: 3.3581
+  type: 'test'
+  ...
+# Subtest: titre et robots identiques à l'original /this-page-does-not-exist-404
+ok 69 - titre et robots identiques à l'original /this-page-does-not-exist-404
+  ---
+  duration_ms: 2.8932
+  type: 'test'
+  ...
+# Subtest: slug inconnu → 404 /projects/slug-inconnu
+ok 70 - slug inconnu → 404 /projects/slug-inconnu
+  ---
+  duration_ms: 4.2576
+  type: 'test'
+  ...
+# Subtest: slug inconnu → 404 /journal/slug-inconnu
+ok 71 - slug inconnu → 404 /journal/slug-inconnu
+  ---
+  duration_ms: 3.4909
+  type: 'test'
+  ...
+1..71
+# tests 71
+# suites 0
+# pass 71
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 7583.2131
