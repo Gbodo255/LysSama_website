@@ -33,7 +33,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
   await ctx.route('**/*', (r) => r.abort());
   const p = await ctx.newPage();
   await p.setContent(html, { waitUntil: 'domcontentloaded' });
-  const res = await p.evaluate(() => {
+  const res = await p.evaluate((compKeys) => {
     const tpl = document.querySelector('#main > .framer-eYdsD, #main > div > .framer-eYdsD'); // gabarit « Nav & Footer »
     const pick = (e) => [...e.children].find((k) => k.tagName === "DIV"); const root = tpl ? pick(tpl) : document.querySelector("#main > div"); // sans gabarit (404) : racine de page entière
     const ser = (e) => {
@@ -45,7 +45,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       return n;
     };
     const els = [root, ...root.querySelectorAll('*')];
-    const scopes = new Set(); for (const e of els) for (const c of e.classList) if (/^framer-[A-Za-z0-9]{5}$/.test(c) && /[A-Z]/.test(c)) scopes.add(c);
+    const scopes = new Set(); for (const e of els) for (const c of e.classList) if ((/^framer-[A-Za-z0-9]{5}$/.test(c) && /[A-Z]/.test(c)) || compKeys.includes(c)) scopes.add(c); // classes de portée, y compris en minuscules (ex. framer-nhusq) connues de components.json
     const scopeRe = scopes.size ? new RegExp('\\.(' + [...scopes].join('|') + ')(?![\\w-])') : null;
     const strip = (s) => s.replace(/::?(hover|focus-visible|focus-within|focus|active|before|after|placeholder|-webkit-[a-z-]+|-moz-[a-z-]+|selection|visited|disabled|checked|invalid|valid|first-letter|first-line)(\([^)]*\))?/g, '');
 
@@ -85,7 +85,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     const scan = (list, cond) => { for (const r of list) { if (r.type === 4) scan(r.cssRules, r.media.mediaText); else if (r.type === 1 && cond) for (const m of r.selectorText.matchAll(/\.(hidden-[a-z0-9]+)/g)) if (/display:\s*none/.test(r.cssText)) hidden[m[1]] = cond; } };
     for (const sh of document.styleSheets) { try { scan(sh.cssRules, ''); } catch {} }
     return { tree: ser(root), rules, hidden };
-  });
+  }, Object.keys(COMPS));
   await ctx.close();
 
   const route = routeOf(slug);
