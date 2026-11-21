@@ -429,7 +429,19 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "uUtPUWNo6": {
+      "__framer__animate": {
+       "transition": {
+        "bounce": 0.1,
+        "delay": 0.1,
+        "duration": 1.2,
+        "type": "spring"
+       }
+      }
+     }
+    }
    }
   }
  ],
@@ -463,7 +475,19 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "uUtPUWNo6": {
+      "__framer__animate": {
+       "transition": {
+        "bounce": 0.1,
+        "delay": 0.2,
+        "duration": 1.2,
+        "type": "spring"
+       }
+      }
+     }
+    }
    }
   }
  ],
@@ -497,7 +521,19 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "uUtPUWNo6": {
+      "__framer__animate": {
+       "transition": {
+        "bounce": 0.1,
+        "delay": 0.3,
+        "duration": 1.2,
+        "type": "spring"
+       }
+      }
+     }
+    }
    }
   }
  ],
@@ -565,7 +601,19 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "uUtPUWNo6": {
+      "__framer__animate": {
+       "transition": {
+        "bounce": 0.1,
+        "delay": 0.5,
+        "duration": 1.2,
+        "type": "spring"
+       }
+      }
+     }
+    }
    }
   }
  ],
@@ -599,7 +647,19 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "uUtPUWNo6": {
+      "__framer__animate": {
+       "transition": {
+        "bounce": 0.1,
+        "delay": 0.6,
+        "duration": 1.2,
+        "type": "spring"
+       }
+      }
+     }
+    }
    }
   }
  ],
@@ -1573,15 +1633,6 @@
   }
  ],
  "framer-smi9hy-container": [
-  {
-   "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
-   "name": null,
-   "line": 1292,
-   "inherited": true,
-   "props": {
-    "__framer__variantAppearEffectEnabled": "<?UnaryExpression>"
-   }
-  },
   {
    "module": "J_la0crrNhwxVDm3QRQL50OHFMp-MUpGrN-W8FsMusA.D3aw61EU.mjs",
    "name": null,
@@ -2901,7 +2952,12 @@
     },
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "WwhML3SLe": {
+      "__framer__loopEffectEnabled": null
+     }
+    }
    }
   }
  ],
@@ -3058,7 +3114,19 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "szTNrZI4n": {
+      "__framer__animate": {
+       "transition": {
+        "bounce": 0.1,
+        "delay": 0,
+        "duration": 1.2,
+        "type": "spring"
+       }
+      }
+     }
+    }
    }
   }
  ],
@@ -3136,7 +3204,24 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "szTNrZI4n": {
+      "__framer__animate": {
+       "transition": {
+        "delay": 0.1,
+        "duration": 0.85,
+        "ease": [
+         0.215,
+         0.61,
+         0.355,
+         1
+        ],
+        "type": "tween"
+       }
+      }
+     }
+    }
    }
   }
  ],
@@ -3175,7 +3260,24 @@
     "__framer__threshold": 0,
     "__perspectiveFX": false,
     "__smartComponentFX": true,
-    "__targetOpacity": 1
+    "__targetOpacity": 1,
+    "$byVariant": {
+     "szTNrZI4n": {
+      "__framer__animate": {
+       "transition": {
+        "delay": 0.1,
+        "duration": 0.85,
+        "ease": [
+         0.215,
+         0.61,
+         0.355,
+         1
+        ],
+        "type": "tween"
+       }
+      }
+     }
+    }
    }
   }
  ],

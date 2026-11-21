@@ -1,0 +1,29 @@
+{
+ "route": "/contact",
+ "width": 810,
+ "scope": null,
+ "height": {
+  "ref": 3303,
+  "clone": 3303,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 543,
+  "clone": 543,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0.54,
+  "over2": [],
+  "n": 12
+ }
+}

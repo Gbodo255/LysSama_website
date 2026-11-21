@@ -132,3 +132,20 @@
 {"r":"/journal/on-saying-no","w":1200,"ok":true,"ms":55696,"height":4017,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
 {"r":"/journal/on-saying-no","w":810,"ok":true,"ms":53387,"height":4817,"items":596,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
 {"r":"/journal/on-saying-no","w":390,"ok":true,"ms":30630,"height":4202,"items":586,"missing":0,"errors":0,"at":"2026-11-21T04:28:00.699Z"}
+{"r":"/contact","w":1200,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/contact\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/contact\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T04:32:46.100Z"}
+{"r":"/contact","w":1440,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/contact\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/contact\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T04:32:46.103Z"}
+{"r":"/contact","w":810,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/contact\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/contact\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T04:32:46.103Z"}
+{"r":"/contact","w":390,"ok":false,"err":"Error: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3100/contact\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:3100/contact\", waiting until \"load\"\u001b[22m\n","at":"2026-11-21T04:32:46.103Z"}
+{"r":"/contact","w":1440,"ok":true,"ms":38676,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:34:46.857Z"}
+{"r":"/contact","w":1200,"ok":true,"ms":38842,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:34:46.877Z"}
+{"r":"/contact","w":810,"ok":true,"ms":27676,"height":3303,"items":543,"missing":0,"errors":0,"at":"2026-11-21T04:34:46.877Z"}
+{"r":"/contact","w":390,"ok":true,"ms":29593,"height":3843,"items":520,"missing":0,"errors":0,"at":"2026-11-21T04:34:46.877Z"}
+{"r":"/contact","w":1200,"ok":true,"ms":60592,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:43:27.751Z"}
+{"r":"/contact","w":1440,"ok":true,"ms":62962,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:43:27.771Z"}
+{"r":"/contact","w":810,"ok":true,"ms":33924,"height":3303,"items":543,"missing":0,"errors":0,"at":"2026-11-21T04:43:27.771Z"}
+{"r":"/contact","w":390,"ok":true,"ms":33053,"height":3843,"items":520,"missing":0,"errors":0,"at":"2026-11-21T04:43:27.771Z"}
+{"r":"/contact","w":1200,"ok":true,"ms":30117,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:56:31.451Z"}
+{"r":"/contact","w":1440,"ok":true,"ms":27969,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:57:57.963Z"}
+{"r":"/contact","w":1200,"ok":true,"ms":27227,"height":3659,"items":545,"missing":0,"errors":0,"at":"2026-11-21T04:59:21.942Z"}
+{"r":"/contact","w":810,"ok":true,"ms":21305,"height":3303,"items":543,"missing":0,"errors":0,"at":"2026-11-21T04:59:21.969Z"}
+{"r":"/contact","w":390,"ok":true,"ms":24382,"height":3843,"items":520,"missing":0,"errors":0,"at":"2026-11-21T04:59:21.969Z"}

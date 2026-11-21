@@ -36,7 +36,7 @@ for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.te
     switch (n.type) {
       case 'Literal': return n.value;
       case 'TemplateLiteral': return n.expressions.length ? UNK : n.quasis.map((q) => q.value.cooked).join('');
-      case 'UnaryExpression': { if (n.operator === '!' && n.argument.type === 'Literal') return !n.argument.value; const a = val(n.argument, depth + 1); return a === UNK ? UNK : n.operator === '-' ? -a : n.operator === '+' ? +a : UNK; }
+      case 'UnaryExpression': { if (n.operator === 'void') return null; if (n.operator === '!' && n.argument.type === 'Literal') return !n.argument.value; const a = val(n.argument, depth + 1); return a === UNK ? UNK : n.operator === '-' ? -a : n.operator === '+' ? +a : UNK; }
       case 'ArrayExpression': return n.elements.map((e) => { const v = val(e, depth + 1); return v === UNK ? '<?>' : v; });
       case 'ObjectExpression': { const o = {}; for (const p of n.properties) { if (p.type === 'SpreadElement') { const s = val(p.argument, depth + 1); if (s && typeof s === 'object') Object.assign(o, s); else o['...'] = '<?>'; continue; } const k = p.key.type === 'Identifier' ? p.key.name : p.key.value; const v = val(p.value, depth + 1); o[k] = v === UNK ? '<?' + (p.value.type === 'Identifier' ? p.value.name : p.value.type) + '>' : v; } return o; }
       // aide de décalage des listes de collection : _n = (e, t) => ({ ...e, delay: (e.delay ?? 0) + t }), appelée _n(gn, s * .1)
@@ -72,6 +72,19 @@ for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.te
       else if (k === 'data-framer-name') { const v = val(p.value); if (typeof v === 'string') name = v; }
       else if (FX.test(k)) { has = true; const v = val(p.value); props[k] = typeof v === 'symbol' ? '<?' + (p.value.type === 'Identifier' ? p.value.name : p.value.type) + '>' : v; }
     }
+    // surcharges par variante : ...fn({ idVariante: { __framer__…: … } }, …)
+    const byVariant = {};
+    for (const p of n.properties) {
+      if (p.type !== 'SpreadElement' || p.argument.type !== 'CallExpression') continue;
+      const a0 = p.argument.arguments[0]; if (!a0 || a0.type !== 'ObjectExpression') continue;
+      for (const vp of a0.properties) {
+        if (vp.type !== 'Property' || vp.value.type !== 'ObjectExpression') continue;
+        const id = vp.key.name || vp.key.value; const o = {};
+        for (const q of vp.value.properties) { if (q.type !== 'Property') continue; const k = q.key.name || q.key.value; if (FX.test(k)) { const v = val(q.value); o[k] = typeof v === 'symbol' ? '<?>' : v; } }
+        if (Object.keys(o).length) byVariant[id] = o;
+      }
+    }
+    if (Object.keys(byVariant).length) props.$byVariant = byVariant;
     let inherited = false;
     if (has && !cls && props.__framer__variantAppearEffectEnabled) { cls = stack[stack.length - 1]; inherited = true; }
     if (!has || !cls) return;

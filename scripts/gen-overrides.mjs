@@ -8,6 +8,18 @@ const styleOf = (n) => Object.fromEntries((attr(n, 'style') || '').split(';').fi
 const withText = (n, expr) => { let hit = false; const c = (x) => (x.t !== undefined ? (hit ? x : ((hit = true), { expr })) : x.kids ? { ...x, kids: x.kids.map(c) } : x); const r = c(n); r.done = true; return r; };
 
 export const OVERRIDES = [
+  // « Form Button » (ES, framer-8H41b) : composant validé du footer, état lu dans le formulaire.
+  {
+    match: (n, { cls }) => n.tag === 'button' && cls.includes('framer-8H41b'),
+    imports: [`import { FormButtonFx } from '@/components/forms/FormFx';`],
+    render: (n, h) => {
+      const txt = (x) => (x.t !== undefined ? x.t : (x.kids || []).map(txt).join(''));
+      const top = (function f(x) { if (attr(x, 'data-framer-name') === 'top') return x; for (const k of x.kids || []) { if (k.tag) { const r = f(k); if (r) return r; } } return null; })(n);
+      const bg = find(n, /background-color:\s*(var\([^;]*\)\)|[^;]+)/);
+      const fg = find(n, /--variable-reference-odJoTSF6e-oYhWrTjTX:\s*(var\([^;]*\)\)|[^;]+)/);
+      return `<FormButtonFx label={${h.tx(txt(top).trim())}} color={${JSON.stringify(bg)}} textColor={${JSON.stringify(fg)}} style={${JSON.stringify(Object.fromEntries(Object.entries(styleOf(n)).filter(([k]) => k !== 'opacity')))}}${attr(n, 'name') ? ` name={${JSON.stringify(attr(n, 'name'))}}` : ''} />`;
+    },
+  },
   // Compteur d'articles du journal (composant de code, SSR « 6 », rendu « (8) ») : nombre d'articles de src/data/journal.ts.
   {
     match: (n, { name }) => name === 'Article Count Font' && !n.done,

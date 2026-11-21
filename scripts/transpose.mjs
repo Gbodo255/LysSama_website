@@ -42,6 +42,22 @@ const res = await p.evaluate(({ name, idx }) => {
   const scopes = new Set(); for (const e of els) for (const c of e.classList) if (/^framer-[A-Za-z0-9]{5}$/.test(c) && /[A-Z]/.test(c)) scopes.add(c);
   const scopeRe = scopes.size ? new RegExp('\\.(' + [...scopes].join('|') + ')(?![\\w-])') : null;
   const strip = (s) => s.replace(/::?(hover|focus-visible|focus-within|focus|active|before|after|placeholder|-webkit-[a-z-]+|-moz-[a-z-]+|selection|visited|disabled|checked|invalid|valid|first-letter|first-line)(\([^)]*\))?/g, '');
+
+  // Chrome sérialise `padding: var(--x); padding-top: 0` en longhands vides (`padding-right: ;`) et perd le raccourci :
+  // ces règles sont reprises du texte brut des <style> (même sélecteur, mêmes propriétés), valeurs d'origine inchangées.
+  const RAW = [];
+  for (const sh of document.styleSheets) {
+    const t = sh.ownerNode && sh.ownerNode.textContent || '';
+    const re = /([^{}]+)\{([^{}]*)\}/g; let m;
+    while ((m = re.exec(t))) RAW.push({ sel: m[1].trim().replace(/^@[^{]*\{/, '').trim(), body: m[2].trim() });
+  }
+  const normSel = (s) => s.replace(/::?(before|after)/g, ':$1').replace(/\s+/g, '').replace(/"/g, "'");
+  const cssOf = (r) => {
+    if (!/:\s*;/.test(r.cssText)) return r.cssText;
+    const want = normSel(r.selectorText);
+    const hit = RAW.find((x) => normSel(x.sel.split(/[{}]/).pop()) === want);
+    return hit ? `${r.selectorText} { ${hit.body.replace(/;?$/, ';')} }` : r.cssText;
+  };
   const rules = [];
   const visit = (list, cond) => {
     for (const r of list) {
@@ -52,7 +68,7 @@ const res = await p.evaluate(({ name, idx }) => {
           if (!t || t === '*' || /^(html|body|:root|#main)\b/.test(t)) continue;
           try { if (els.some((e) => e.matches(t))) { hit = true; break; } } catch {}
         }
-        if (hit) rules.push(cond ? `@media ${cond} { ${r.cssText} }` : r.cssText);
+        if (hit) rules.push(cond ? `@media ${cond} { ${cssOf(r)} }` : cssOf(r));
       } else if (r.type === 4) visit(r.cssRules, (cond ? cond + ' and ' : '') + r.media.mediaText);
       else if (r.type === 12) visit(r.cssRules, cond);
     }

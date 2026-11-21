@@ -47,6 +47,22 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     const scopes = new Set(); for (const e of els) for (const c of e.classList) if (/^framer-[A-Za-z0-9]{5}$/.test(c) && /[A-Z]/.test(c)) scopes.add(c);
     const scopeRe = scopes.size ? new RegExp('\\.(' + [...scopes].join('|') + ')(?![\\w-])') : null;
     const strip = (s) => s.replace(/::?(hover|focus-visible|focus-within|focus|active|before|after|placeholder|-webkit-[a-z-]+|-moz-[a-z-]+|selection|visited|disabled|checked|invalid|valid|first-letter|first-line)(\([^)]*\))?/g, '');
+
+    // Chrome sérialise `padding: var(--x); padding-top: 0` en longhands vides (`padding-right: ;`) et perd le raccourci :
+    // ces règles sont reprises du texte brut des <style> (même sélecteur, mêmes propriétés), valeurs d'origine inchangées.
+    const RAW = [];
+    for (const sh of document.styleSheets) {
+      const t = sh.ownerNode && sh.ownerNode.textContent || '';
+      const re = /([^{}]+)\{([^{}]*)\}/g; let m;
+      while ((m = re.exec(t))) RAW.push({ sel: m[1].trim().replace(/^@[^{]*\{/, '').trim(), body: m[2].trim() });
+    }
+    const normSel = (s) => s.replace(/::?(before|after)/g, ':$1').replace(/\s+/g, '').replace(/"/g, "'");
+    const cssOf = (r) => {
+      if (!/:\s*;/.test(r.cssText)) return r.cssText;
+      const want = normSel(r.selectorText);
+      const hit = RAW.find((x) => normSel(x.sel.split(/[{}]/).pop()) === want);
+      return hit ? `${r.selectorText} { ${hit.body.replace(/;?$/, ';')} }` : r.cssText;
+    };
     const rules = [];
     const visit = (list, cond) => {
       for (const r of list) {
@@ -57,7 +73,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
             if (!t || t === '*' || /^(html|body|:root|#main)\b/.test(t)) continue;
             try { if (els.some((e) => e.matches(t))) { hit = true; break; } } catch {}
           }
-          if (hit) rules.push(cond ? `@media ${cond} { ${r.cssText} }` : r.cssText);
+          if (hit) rules.push(cond ? `@media ${cond} { ${cssOf(r)} }` : cssOf(r));
         } else if (r.type === 4) visit(r.cssRules, (cond ? cond + ' and ' : '') + r.media.mediaText);
         else if (r.type === 12) visit(r.cssRules, cond);
       }
@@ -78,7 +94,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
   const T = [];
   const tx = (s) => { T.push(s); return `T[${T.length - 1}]`; };
   const imports = new Set();
-  const vstack = [];
+  const vstack = [], vinit = [], ancV = [];
   const svStack = [0]; let svSeq = 0; const idxCount = new Map();
   const appearUsed = {};
 
@@ -132,10 +148,20 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     const ov = OVERRIDES.find((o) => o.match(n, { slug, name, cls: cls(n) }));
     if (ov) { for (const i of ov.imports || []) imports.add(i); if (ov.rewrite) return jsx(ov.rewrite(n), d); return ind + ov.render(n, { jsx: (k, dd) => jsx(k, dd ?? d + 1), attrs, tx, d, slug, route, T }); }
     const c = cls(n);
+    // variante d'origine de chaque instance de composant (classe de portée + framer-v-*) pour les surcharges par variante
+    const sc = c.find((x) => COMPS[x]);
+    const vid = sc && Object.keys(COMPS[sc].variants).find((id) => c.includes(COMPS[sc].variants[id].cls));
+    if (vid) { ancV.push(vid); try { return jsxInner(n, d, ind, c); } finally { ancV.pop(); } }
+    return jsxInner(n, d, ind, c);
+  }
+  function jsxInner(n, d, ind, c) {
     // enveloppe ssr-variant
     if (c[0] === 'ssr-variant') {
       imports.add(`import { SV } from '@/components/Variants';`);
       const hid = new Set(c.slice(1).map(hiddenBp));
+      // enveloppe dont l'unique enfant est masqué (hidden-*) sur certains breakpoints : retirée avec lui (mesuré /contact @390)
+      const only = n.kids.filter((k) => k.tag || (k.t || '').trim());
+      if (only.length === 1 && only[0].tag) for (const h of cls(only[0]).filter((x) => x.startsWith('hidden-')).map(hiddenBp)) if (h) hid.add(h);
       const show = ['desktop', 'tablet', 'phone'].filter((x) => !hid.has(x));
       return `${ind}<SV c=${JSON.stringify(c.join(' '))} show={${JSON.stringify(show)}}>\n${n.kids.map((k) => jsx(k, d + 1)).filter(Boolean).join('\n')}\n${ind}</SV>`;
     }
@@ -149,22 +175,35 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     const kids = () => n.kids.map((k) => jsx(k, d + 1)).filter(Boolean).join('\n');
     const aid = attr(n, 'data-framer-appear-id');
     let open = n.tag, close = n.tag, extra = '';
+    let pushedV = false;
     if (aid && A.appear?.[aid]) {
       imports.add(`import { Appear } from '@/components/Appear';`);
       appearUsed[aid] = A.appear[aid];
       open = `Appear as="${n.tag}" spec={AP[${JSON.stringify(aid)}]} bps={BPS}`; close = 'Appear';
     }
     // effets Framer déclarés par classe (scripts/extract-fx.mjs)
-    const fxs = cls(n).flatMap((c) => FXJ[c] || []).map((x) => x.props);
+    // surcharges par variante ($byVariant) : variante d'origine de l'instance englobante la plus proche (null = désactivé)
+    const fxs = cls(n).flatMap((c) => FXJ[c] || []).map((x) => {
+      const bv = x.props.$byVariant; if (!bv) return x.props;
+      const id = [...ancV].reverse().find((v) => bv[v]); if (!id) return x.props;
+      const o = { ...x.props }; for (const [k, v] of Object.entries(bv[id])) { if (v === null) delete o[k]; else o[k] = v; } return o;
+    });
     const tfx = fxs.find((p) => p.effect && typeof p.effect === 'object');
     // bascule de variante : marque la racine du composant (1er descendant portant la classe de la variante masquée)
     const vfx = fxs.find((p) => p.__framer__variantAppearEffectEnabled === true && p.__framer__visibleVariantId && VARS[p.__framer__obscuredVariantId]?.cls && VARS[p.__framer__visibleVariantId]?.cls);
     if (vfx) {
       const fromC = VARS[vfx.__framer__obscuredVariantId].cls;
-      const mark = (k) => { if (!k.tag) return false; if (cls(k).includes(fromC)) { k.vapp = { from: VARS[vfx.__framer__obscuredVariantId], to: VARS[vfx.__framer__visibleVariantId], threshold: vfx.__framer__threshold ?? 0, once: !!vfx.__framer__animateOnce }; return true; } return (k.kids || []).some(mark); };
+      const mark = (k) => { if (!k.tag) return false; if (cls(k).includes(fromC)) { k.vapp = { from: VARS[vfx.__framer__obscuredVariantId], to: VARS[vfx.__framer__visibleVariantId], toId: vfx.__framer__visibleVariantId, threshold: vfx.__framer__threshold ?? 0, once: !!vfx.__framer__animateOnce }; return true; } return (k.kids || []).some(mark); };
       n.kids.some(mark);
     }
-    if (n.vapp && !aid) {
+    const vscope = n.vapp && cls(n).find((c) => COMPS[c] && COMPS[c].variants[n.vapp.toId]);
+    if (n.vapp && !aid && vscope) {
+      const C = COMPS[vscope];
+      const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
+      imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);
+      open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}} appear={${JSON.stringify({ to: n.vapp.toId, threshold: n.vapp.threshold, once: n.vapp.once })}}`; close = 'VRoot';
+      vstack.push(C); vinit.push(initial); pushedV = true;
+    } else if (n.vapp && !aid) {
       imports.add(`import { VariantAppear } from '@/components/fx/VariantAppear';`);
       open = `VariantAppear as="${n.tag}" fx={${JSON.stringify(n.vapp)}}`; close = 'VariantAppear';
     }
@@ -176,6 +215,12 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       const segs = (k) => { const out = []; let cur = '', has = false; for (const c of k.kids) { if (c.t !== undefined || /white-space:\s*(nowrap|unset)/.test(attr(c, 'style') || '')) { cur += text(c); has = true; } else { if (has) out.push(tx(cur)); cur = ''; has = false; out.push(`{ tag: ${JSON.stringify(c.tag)}, attrs: ${attrsObj(c)}, text: ${tx(text(c))} }`); } } if (has) out.push(tx(cur)); return out; };
       const paras = n.kids.filter((k) => k.tag).map((k) => `{ tag: ${JSON.stringify(k.tag)}, attrs: ${attrsObj(k)}, segs: [${segs(k).join(', ')}] }`);
       return `${ind}<TextFx as="${n.tag}" fx={${JSON.stringify(tfx.effect)}} paras={[${paras.join(', ')}]}${attrs(n)} />`;
+    }
+    const lfx = fxs.find((p) => p.__framer__loopEffectEnabled === true && p.__framer__loop && typeof p.__framer__loop === 'object');
+    if (lfx && !aid && !afx) {
+      imports.add(`import { Loop } from '@/components/fx/Loop';`);
+      const fx = { to: lfx.__framer__loop, transition: lfx.__framer__loopTransition || {}, repeatType: lfx.__framer__loopRepeatType || 'loop', repeatDelay: lfx.__framer__loopRepeatDelay || 0, pauseOffscreen: !!lfx.__framer__loopPauseOffscreen };
+      open = `Loop as="${n.tag}" fx={${JSON.stringify(fx)}}`; close = 'Loop';
     }
     if (afx && !aid) {
       imports.add(`import { InView } from '@/components/fx/InView';`);
@@ -190,20 +235,37 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     }
     // moteur de variantes : racine d'instance (classe de portée configurée + classe framer-v-*) et ses éléments stylés
     const scope = cls(n).find((c) => COMPONENTS[c] && COMPS[c]);
-    let pushed = false;
-    if (scope && !aid && open === n.tag) {
+    let pushed = pushedV;
+    if (scope && !aid && open === n.tag && !pushedV) {
       const C = COMPS[scope], cfg = COMPONENTS[scope];
       const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
       if (initial) {
         imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);
-        open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}}${cfg.tap ? ` tap={${JSON.stringify(cfg.tap)}}` : ''}${cfg.follow ? ` follow={${JSON.stringify(cfg.follow)}}` : ''}`; close = 'VRoot';
-        vstack.push(C); pushed = true;
+        open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}}${cfg.tap ? ` tap={${JSON.stringify(cfg.tap)}}` : ''}${cfg.follow ? ` follow={${JSON.stringify(cfg.follow)}}` : ''}${cfg.events ? ` events={${JSON.stringify(cfg.events)}}` : ''}`; close = 'VRoot';
+        vstack.push(C); vinit.push(initial); pushed = true;
       }
     } else if (vstack.length && open === n.tag && !aid) {
       const C = vstack[vstack.length - 1];
       const ids = new Set(Object.keys(C.variants));
       const st = cls(n).flatMap((c) => VSTY[c] || []).find((x) => x.module === C.module && Object.keys(x.variants).some((k) => ids.has(k)));
-      if (st) { imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`); open = `VEl as="${n.tag}" base={${JSON.stringify(st.base || {})}} variants={${JSON.stringify(st.variants)}}`; close = 'VEl'; }
+      if (st) {
+        // base : style par défaut du code ; valeur non résolue → style SSR si la variante initiale ne la redéfinit pas
+        const ssr = Object.fromEntries((attr(n, 'style') || '').split(';').filter((d) => d.includes(':')).map((d) => { const i = d.indexOf(':'); return [camel(d.slice(0, i).trim()), d.slice(i + 1).trim()]; }));
+        const init = vinit[vinit.length - 1];
+        const base = {};
+        for (const k of new Set(Object.values(st.variants).flatMap((o) => Object.keys(o)))) {
+          const b = st.base?.[k];
+          if (b !== undefined && !(typeof b === 'string' && b.startsWith('<?'))) base[k] = b;
+          else if (!(st.variants[init] && k in st.variants[init]) && ssr[k] !== undefined) base[k] = ssr[k];
+        }
+        imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`); open = `VEl as="${n.tag}" base={${JSON.stringify(base)}} variants={${JSON.stringify(st.variants)}}`; close = 'VEl';
+      }
+    }
+    // formulaire Framer (D-023) : FormFx (validation, états, submitForm) ; styles de variante éventuels via VEl
+    if (n.tag === 'form' && attr(n, 'data-framer-form') !== undefined) {
+      imports.add(`import { FormFx } from '@/components/forms/FormFx';`);
+      const vel = open.startsWith('VEl ') ? open.slice(4).replace(/^as="form" /, '') : '';
+      open = `FormFx kind=${JSON.stringify(slug)}${vel ? ' vel ' + vel : ''}`; close = 'FormFx';
     }
     const href = attr(n, 'href');
     let skip = new Set();
@@ -213,7 +275,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     }
     const at = attrs(n, skip) + extra;
     const res = !n.kids.length || ['img', 'input', 'br', 'hr', 'source'].includes(n.tag) ? `${ind}<${open}${at} />` : `${ind}<${open}${at}>\n${kids()}\n${ind}</${close}>`;
-    if (pushed) vstack.pop();
+    if (pushed) { vstack.pop(); vinit.pop(); }
     return res;
   }
   const body = jsx(res.tree, 2);
