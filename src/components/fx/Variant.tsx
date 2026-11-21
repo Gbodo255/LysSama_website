@@ -4,20 +4,32 @@
 // `data-framer-name` de l'original) ; ses éléments (`VEl`) animent vers les styles déclarés pour cette variante
 // (`variants: { id: {...} }` du code compilé), sinon vers leur style de base, avec la transition par défaut du
 // composant et une animation de mise en page (layout), comme le runtime d'origine.
+// Survol (useVariantState du runtime, framer.mjs `bg`/`ug`/`sg`) : onMouseEnter/onMouseLeave sur la racine ; si
+// enabledGestures[base].hover, variante de geste `<base>-hover` appliquée par-dessus la base (animate [base, geste] ;
+// surcharges Object.assign(o[base], o[geste])) ; classes `framer-v-<base> hover` (Gl(dg(base), ug(...))), framer-v-* inchangée.
 import { motion } from 'motion/react';
 import { createContext, createElement, useContext, useEffect, useRef, useState, type ElementType } from 'react';
+import { useLink } from '@/components/useLink';
 import { usePricingBind } from './Pricing';
 import { gu, interp, onScroll, visible } from './Scroll';
 
-type Ctx = { v: string; transition: Record<string, unknown> } | null;
+type Ctx = { v: string; g?: string; transition: Record<string, unknown> } | null;
 const VCtx = createContext<Ctx>(null);
 const cache = new Map<string, ElementType>();
 const comp = (tag: string) => { let c = cache.get(tag); if (!c) { c = motion.create(tag as 'div'); cache.set(tag, c); } return c; };
 type VMap = Record<string, { cls: string; name?: string }>;
+type Sty = Record<string, Record<string, unknown>>;
+/** cible animée : variante de geste, sinon variante de base, sinon style de base */
+const pick = (variants: Sty, base: Record<string, unknown>, ctx: Ctx) => {
+  const target: Record<string, unknown> = {};
+  for (const k of new Set(Object.values(variants).flatMap((o) => Object.keys(o))))
+    target[k] = ctx?.g && variants[ctx.g] && k in variants[ctx.g] ? variants[ctx.g][k] : ctx && variants[ctx.v] && k in variants[ctx.v] ? variants[ctx.v][k] : base[k];
+  return target;
+};
 
 /** appear : bascule `initial` → `to` à l'entrée dans la vue (seuil `threshold`), retour à la sortie si `once` est faux
  *  (`__framer__variantAppearEffectEnabled`, `__framer__obscuredVariantId` / `__framer__visibleVariantId`). */
-export function VRoot({ as, map, initial, transition, tap, follow, appear, events, bind, index, scrollTargets, className, ...rest }: {
+export function VRoot({ as, map, initial, transition, tap, follow, appear, events, bind, index, scrollTargets, hover, hoverNames, base, variants, to, className, ...rest }: {
   as: string; map: VMap; initial: string; transition: Record<string, unknown>;
   tap?: Record<string, string>; follow?: Record<string, string>; appear?: { to: string; threshold: number; once: boolean }; className: string;
   /** états du formulaire contenu (événement framer-form-state) → variante ; succès appliqué 800 ms après, depuis Loading (code : onSuccess → re(…, 800)) */
@@ -26,9 +38,17 @@ export function VRoot({ as, map, initial, transition, tap, follow, appear, event
   bind?: string; index?: number;
   /** variante pilotée par le défilement (`__framer__targets` + variantAppear, runtime pD/wg) : indice de la cible = floor(interpolation) */
   scrollTargets?: { targets: { cls?: string; to: string }[]; threshold: number; once: boolean };
+  /** variantes dont le survol est activé (enabledGestures) ; nom de la racine par variante de geste (null : attribut absent) */
+  hover?: string[]; hoverNames?: Record<string, string | null>;
+  /** styles par variante de la racine elle-même (variants du code compilé, extract-fx `root`) */
+  base?: Record<string, unknown>; variants?: Sty;
+  /** racine lien interne (comme Lk) */
+  to?: string;
 } & Record<string, unknown>) {
   const parent = useContext(VCtx);
   const [own, setOwn] = useState(initial);
+  const [hov, setHov] = useState(false);
+  const l = useLink(to ?? '/');
   const ref = useRef<HTMLElement>(null);
   useEffect(() => {
     const el = ref.current; if (!appear || !el) return;
@@ -65,18 +85,20 @@ export function VRoot({ as, map, initial, transition, tap, follow, appear, event
     return () => { el.removeEventListener('framer-form-state', on); clearTimeout(t); };
   }, [events]);
   const b = usePricingBind(bind, index, initial);
-  const v = b.v ?? (follow && parent && follow[parent.v] ? follow[parent.v] : own);
-  const cls = Object.values(map).reduce((c, x) => c.replace(new RegExp(`\\b${x.cls}\\b`), ''), className).replace(/\s+/g, ' ').trim() + ' ' + map[v].cls;
-  const props: Record<string, unknown> = { ...rest, ref, className: cls, layout: true, transition, 'data-framer-name': map[v].name ?? rest['data-framer-name'] };
+  const v = b.v ?? (follow && parent ? (parent.g && follow[parent.g]) || follow[parent.v] : undefined) ?? own;
+  const g = hov && hover?.includes(v) ? v + '-hover' : undefined;
+  const cls = Object.values(map).reduce((c, x) => c.replace(new RegExp(`\\b${x.cls}\\b`), ''), className).replace(/\s+/g, ' ').trim() + ' ' + map[v].cls + (g ? ' hover' : '');
+  const name = g && hoverNames && g in hoverNames ? hoverNames[g] ?? undefined : map[v].name ?? rest['data-framer-name'];
+  const props: Record<string, unknown> = { ...rest, ref, className: cls, layout: true, transition, 'data-framer-name': name };
+  if (hover?.length) { props.onMouseEnter = () => setHov(true); props.onMouseLeave = () => setHov(false); }
+  if (variants) { props.initial = false; props.animate = pick(variants, base ?? {}, { v, g, transition }); }
+  if (to) { props.href = rest.href ?? l.href; props.onClick = l.onClick; }
   if (tap && tap[v]) props.onTap = () => setOwn((x) => tap[x] ?? x);
   if (b.onTap) props.onTap = b.onTap;
-  return <VCtx.Provider value={{ v, transition }}>{createElement(comp(as), props)}</VCtx.Provider>;
+  return <VCtx.Provider value={{ v, g, transition }}>{createElement(comp(as), props)}</VCtx.Provider>;
 }
 
 export function VEl({ as, base, variants, style, ...rest }: { as: string; base: Record<string, unknown>; variants: Record<string, Record<string, unknown>>; style?: Record<string, unknown> } & Record<string, unknown>) {
   const ctx = useContext(VCtx);
-  const keys = new Set(Object.values(variants).flatMap((o) => Object.keys(o)));
-  const target: Record<string, unknown> = {};
-  for (const k of keys) target[k] = ctx && variants[ctx.v] && k in variants[ctx.v] ? variants[ctx.v][k] : base[k];
-  return createElement(comp(as), { ...rest, style, layout: true, initial: false, animate: target, transition: ctx?.transition });
+  return createElement(comp(as), { ...rest, style, layout: true, initial: false, animate: pick(variants, base, ctx), transition: ctx?.transition });
 }

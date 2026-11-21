@@ -215,7 +215,7 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
       const C = COMPS[vscope];
       const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
       imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);
-      open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}} ${n.vapp.targets ? `scrollTargets={${JSON.stringify({ targets: n.vapp.targets, threshold: n.vapp.threshold, once: n.vapp.once })}}` : `appear={${JSON.stringify({ to: n.vapp.toId, threshold: n.vapp.threshold, once: n.vapp.once })}}`}`; close = 'VRoot';
+      open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}} ${n.vapp.targets ? `scrollTargets={${JSON.stringify({ targets: n.vapp.targets, threshold: n.vapp.threshold, once: n.vapp.once })}}` : `appear={${JSON.stringify({ to: n.vapp.toId, threshold: n.vapp.threshold, once: n.vapp.once })}}`}${vhov(C, n, initial)}`; close = 'VRoot';
       vstack.push(C); vinit.push(initial); pushedV = true;
     } else if (n.vapp && !aid) {
       imports.add(`import { VariantAppear } from '@/components/fx/VariantAppear';`);
@@ -266,33 +266,45 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     if (fol) {
       const P = vstack[vstack.length - 1];
       const map = Object.fromEntries(Object.keys(P.variants).map((id) => [id, fol.byParent[id] ?? fol.base]));
+      // variante de geste du parent (`<id>-hover`) : surcharge appliquée après la base (Object.assign(o[base], o[geste]))
+      for (const [k, v] of Object.entries(fol.byParent)) if (k.endsWith('-hover') && P.variants[k.slice(0, -6)]) map[k] = v;
       const mark = (k) => { if (!k.tag) return false; if (cls(k).some((c) => COMPS[c] && Object.values(map).some((v) => COMPS[c].variants[v]))) { k.followMap = map; return true; } return (k.kids || []).some(mark); };
       n.kids.some(mark);
     }
-    const scope = cls(n).find((c) => COMPS[c] && (COMPONENTS[c] || (n.followMap && Object.values(n.followMap).some((v) => COMPS[c].variants[v]))));
+    // survol (components.json `gestures`/`hoverNames`, extract-components) : variantes à survol, noms de geste, styles de la racine (extract-fx `root`)
+    function vhov(C, n, init) {
+      const hv = Object.keys(C.gestures || {}).filter((id) => C.gestures[id].hover);
+      if (!hv.length) return '';
+      const st = cls(n).flatMap((c) => VSTY[c] || []).find((x) => x.root && x.module === C.module && Object.keys(x.variants).some((k) => C.variants[k.replace(/-hover$/, '')]));
+      return ` hover={${JSON.stringify(hv)}}${C.hoverNames ? ` hoverNames={${JSON.stringify(C.hoverNames)}}` : ''}${st ? ` base={${JSON.stringify(stBase(n, st, init))}} variants={${JSON.stringify(st.variants)}}` : ''}`;
+    }
+    // base : style par défaut du code ; valeur non résolue → style SSR si la variante initiale ne la redéfinit pas
+    function stBase(n, st, init) {
+      const ssr = Object.fromEntries((attr(n, 'style') || '').split(';').filter((d) => d.includes(':')).map((d) => { const i = d.indexOf(':'); return [camel(d.slice(0, i).trim()), d.slice(i + 1).trim()]; }));
+      const base = {};
+      for (const k of new Set(Object.values(st.variants).flatMap((o) => Object.keys(o)))) {
+        const b = st.base?.[k];
+        if (b !== undefined && !(typeof b === 'string' && b.startsWith('<?'))) base[k] = b;
+        else if (!(st.variants[init] && k in st.variants[init]) && ssr[k] !== undefined) base[k] = ssr[k];
+      }
+      return base;
+    }
+    const scope = cls(n).find((c) => COMPS[c] && (COMPONENTS[c] || COMPS[c].gestures || (n.followMap && Object.values(n.followMap).some((v) => COMPS[c].variants[v]))));
     let pushed = pushedV;
     if (scope && !aid && open === n.tag && !pushedV) {
       const C = COMPS[scope], cfg = { ...(n.followMap ? { follow: n.followMap } : {}), ...(COMPONENTS[scope] || {}) };
       const initial = Object.keys(C.variants).find((id) => cls(n).includes(C.variants[id].cls));
       if (initial) {
         imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`);
-        open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}}${cfg.tap ? ` tap={${JSON.stringify(cfg.tap)}}` : ''}${cfg.follow ? ` follow={${JSON.stringify(cfg.follow)}}` : ''}${cfg.events ? ` events={${JSON.stringify(cfg.events)}}` : ''}${cfg.bind ? ` bind="${cfg.bind}"` : ''}${cfg.indexed ? ` index={${(() => { const key = svStack.join('.') + '|' + scope; const i = idxCount.get(key) || 0; idxCount.set(key, i + 1); return i; })()}}` : ''}`; close = 'VRoot';
+        open = `VRoot as="${n.tag}" map={${JSON.stringify(C.variants)}} initial="${initial}" transition={${JSON.stringify(C.transition)}}${cfg.tap ? ` tap={${JSON.stringify(cfg.tap)}}` : ''}${cfg.follow ? ` follow={${JSON.stringify(cfg.follow)}}` : ''}${cfg.events ? ` events={${JSON.stringify(cfg.events)}}` : ''}${cfg.bind ? ` bind="${cfg.bind}"` : ''}${cfg.indexed ? ` index={${(() => { const key = svStack.join('.') + '|' + scope; const i = idxCount.get(key) || 0; idxCount.set(key, i + 1); return i; })()}}` : ''}${vhov(C, n, initial)}`; close = 'VRoot';
         vstack.push(C); vinit.push(initial); pushed = true;
       }
     } else if (vstack.length && open === n.tag && !aid) {
       const C = vstack[vstack.length - 1];
       const ids = new Set(Object.keys(C.variants));
-      const st = cls(n).flatMap((c) => VSTY[c] || []).find((x) => x.module === C.module && Object.keys(x.variants).some((k) => ids.has(k)));
+      const st = cls(n).flatMap((c) => VSTY[c] || []).find((x) => !x.root && x.module === C.module && Object.keys(x.variants).some((k) => ids.has(k) || (k.endsWith('-hover') && ids.has(k.slice(0, -6)))));
       if (st) {
-        // base : style par défaut du code ; valeur non résolue → style SSR si la variante initiale ne la redéfinit pas
-        const ssr = Object.fromEntries((attr(n, 'style') || '').split(';').filter((d) => d.includes(':')).map((d) => { const i = d.indexOf(':'); return [camel(d.slice(0, i).trim()), d.slice(i + 1).trim()]; }));
-        const init = vinit[vinit.length - 1];
-        const base = {};
-        for (const k of new Set(Object.values(st.variants).flatMap((o) => Object.keys(o)))) {
-          const b = st.base?.[k];
-          if (b !== undefined && !(typeof b === 'string' && b.startsWith('<?'))) base[k] = b;
-          else if (!(st.variants[init] && k in st.variants[init]) && ssr[k] !== undefined) base[k] = ssr[k];
-        }
+        const base = stBase(n, st, vinit[vinit.length - 1]);
         imports.add(`import { VRoot, VEl } from '@/components/fx/Variant';`); open = `VEl as="${n.tag}" base={${JSON.stringify(base)}} variants={${JSON.stringify(st.variants)}}`; close = 'VEl';
       }
     }
@@ -305,8 +317,9 @@ for (const slug of process.argv.slice(2).filter((a) => !a.startsWith('--'))) {
     const href = attr(n, 'href');
     let skip = new Set();
     if (n.tag === 'a' && href && /^\.\.?\//.test(href) && !aid) {
-      imports.add(`import { Lk } from '@/components/Lk';`);
-      open = 'Lk'; close = 'Lk'; extra = ` to=${JSON.stringify(resolve(href))}`;
+      // racine d'instance lien (ex. Article Card) : VRoot garde l'élément et reçoit la navigation
+      if (open.startsWith('VRoot ')) extra = ` to=${JSON.stringify(resolve(href))}`;
+      else { imports.add(`import { Lk } from '@/components/Lk';`); open = 'Lk'; close = 'Lk'; extra = ` to=${JSON.stringify(resolve(href))}`; }
     }
     const at = attrs(n, skip) + extra;
     const res = !n.kids.length || ['img', 'input', 'br', 'hr', 'source'].includes(n.tag) ? `${ind}<${open}${at} />` : `${ind}<${open}${at}>\n${kids()}\n${ind}</${close}>`;

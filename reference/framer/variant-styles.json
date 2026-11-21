@@ -333,6 +333,21 @@
    }
   }
  ],
+ "framer-7l2lys": [
+  {
+   "module": "n_03H18N2.ClVbANJn.mjs",
+   "base": {
+    "opacity": 1,
+    "...": "<?>"
+   },
+   "variants": {
+    "WwhML3SLe": {
+     "opacity": 0.4
+    }
+   },
+   "root": true
+  }
+ ],
  "framer-fbyx7b": [
   {
    "module": "n_03H18N2.ClVbANJn.mjs",
@@ -390,6 +405,80 @@
    }
   }
  ],
+ "framer-utwgf5": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-a76a7bdc-12ae-45c2-b714-05c440884cc5, rgb(237, 70, 9))",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "boxShadow": "0px 0px 0px 1px rgba(173, 173, 173, 0)",
+    "...": "<?>"
+   },
+   "variants": {
+    "AQI0EawVi-hover": {
+     "backgroundColor": "rgb(18, 18, 18)",
+     "boxShadow": "0px 0px 0px 1px rgba(173, 173, 173, 0.17)"
+    },
+    "tLK6qT9cB-hover": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0.17)"
+    },
+    "UpWlNuY8v-hover": {
+     "backgroundColor": "var(--token-a76a7bdc-12ae-45c2-b714-05c440884cc5, rgb(242, 66, 2))"
+    },
+    "fE11MWlj9": {
+     "backgroundColor": "var(--token-7354084b-2f3d-4256-9942-cf21fcb19d60, rgb(249, 250, 251))"
+    },
+    "tLK6qT9cB": {
+     "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0)"
+    },
+    "UpWlNuY8v": {
+     "backgroundColor": "rgb(10, 10, 10)"
+    }
+   },
+   "root": true
+  }
+ ],
+ "framer-15phpsj": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-a76a7bdc-12ae-45c2-b714-05c440884cc5, rgb(237, 70, 9))",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "boxShadow": "0px 0px 0px 1px rgba(173, 173, 173, 0)",
+    "...": "<?>"
+   },
+   "variants": {
+    "AQI0EawVi-hover": {
+     "backgroundColor": "rgb(18, 18, 18)",
+     "boxShadow": "0px 0px 0px 1px rgba(173, 173, 173, 0.17)"
+    },
+    "tLK6qT9cB-hover": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0.17)"
+    },
+    "UpWlNuY8v-hover": {
+     "backgroundColor": "var(--token-a76a7bdc-12ae-45c2-b714-05c440884cc5, rgb(242, 66, 2))"
+    },
+    "fE11MWlj9": {
+     "backgroundColor": "var(--token-7354084b-2f3d-4256-9942-cf21fcb19d60, rgb(249, 250, 251))"
+    },
+    "tLK6qT9cB": {
+     "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0)"
+    },
+    "UpWlNuY8v": {
+     "backgroundColor": "rgb(10, 10, 10)"
+    }
+   },
+   "root": true
+  }
+ ],
  "framer-179jsj7": [
   {
    "module": "toplevel-deps.BY2s547D.mjs",
@@ -438,6 +527,66 @@
      "--extracted-r6o4lv": "rgb(0, 0, 0)"
     }
    }
+  }
+ ],
+ "framer-1rxxbiz": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0)",
+    "pointer": null,
+    "data": 0
+   },
+   "variants": {
+    "vtaGLVCx0-hover": {
+     "backgroundColor": "rgb(43, 43, 43)"
+    },
+    "ZCREUG_iX-hover": {
+     "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0.17)"
+    },
+    "OYJfUyovN": {
+     "backgroundColor": "rgb(0, 0, 0)"
+    },
+    "vtaGLVCx0": {
+     "backgroundColor": "rgb(10, 10, 10)"
+    }
+   },
+   "root": true
+  }
+ ],
+ "framer-3x6gac": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0)",
+    "pointer": null,
+    "data": 0
+   },
+   "variants": {
+    "vtaGLVCx0-hover": {
+     "backgroundColor": "rgb(43, 43, 43)"
+    },
+    "ZCREUG_iX-hover": {
+     "boxShadow": "0px 0px 0px 2px rgba(173, 173, 173, 0.17)"
+    },
+    "OYJfUyovN": {
+     "backgroundColor": "rgb(0, 0, 0)"
+    },
+    "vtaGLVCx0": {
+     "backgroundColor": "rgb(10, 10, 10)"
+    }
+   },
+   "root": true
   }
  ],
  "framer-mlc0qm": [
@@ -502,6 +651,42 @@
      "--1m973uw": "rgb(0, 0, 0)"
     }
    }
+  }
+ ],
+ "framer-fpwox8": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-7e378c57-2e87-407f-beec-cb702ad5880b, rgb(137, 87, 254))",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "...": "<?>"
+   },
+   "variants": {
+    "TG4NdWENM": {
+     "backgroundColor": "var(--token-eb20f921-2956-40c0-87dc-9d6d28897a6f, rgb(0, 153, 255))"
+    }
+   },
+   "root": true
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "backgroundColor": "var(--token-7e378c57-2e87-407f-beec-cb702ad5880b, rgb(137, 87, 254))",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "...": "<?>"
+   },
+   "variants": {
+    "TG4NdWENM": {
+     "backgroundColor": "var(--token-eb20f921-2956-40c0-87dc-9d6d28897a6f, rgb(0, 153, 255))"
+    }
+   },
+   "root": true
   }
  ],
  "framer-ygj5r0": [
@@ -833,6 +1018,66 @@
    }
   }
  ],
+ "framer-1v7hx6y": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--border-bottom-width": "1px",
+    "--border-color": "rgba(61, 61, 61, 0.5)",
+    "--border-left-width": "1px",
+    "--border-right-width": "1px",
+    "--border-style": "solid",
+    "--border-top-width": "1px",
+    "backgroundColor": "rgb(13, 13, 13)",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "...": "<?>"
+   },
+   "variants": {
+    "QvZffFKGr-hover": {
+     "--border-color": "rgba(54, 54, 54, 0)",
+     "backgroundColor": "rgb(240, 64, 0)"
+    },
+    "rTFgYo5_a": {
+     "--border-color": "rgba(179, 179, 179, 0.17)",
+     "backgroundColor": "var(--token-dc588b35-c3f4-4522-b991-225e10f3f497, rgb(243, 244, 246))"
+    }
+   },
+   "root": true
+  }
+ ],
+ "framer-thy7w1": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "--border-bottom-width": "1px",
+    "--border-color": "rgba(61, 61, 61, 0.5)",
+    "--border-left-width": "1px",
+    "--border-right-width": "1px",
+    "--border-style": "solid",
+    "--border-top-width": "1px",
+    "backgroundColor": "rgb(13, 13, 13)",
+    "borderBottomLeftRadius": 8,
+    "borderBottomRightRadius": 8,
+    "borderTopLeftRadius": 8,
+    "borderTopRightRadius": 8,
+    "...": "<?>"
+   },
+   "variants": {
+    "QvZffFKGr-hover": {
+     "--border-color": "rgba(54, 54, 54, 0)",
+     "backgroundColor": "rgb(240, 64, 0)"
+    },
+    "rTFgYo5_a": {
+     "--border-color": "rgba(179, 179, 179, 0.17)",
+     "backgroundColor": "var(--token-dc588b35-c3f4-4522-b991-225e10f3f497, rgb(243, 244, 246))"
+    }
+   },
+   "root": true
+  }
+ ],
  "framer-pm8azj": [
   {
    "module": "toplevel-deps.BY2s547D.mjs",
@@ -970,6 +1215,21 @@
    }
   }
  ],
+ "framer-oxml7j": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 1,
+    "...": "<?>"
+   },
+   "variants": {
+    "ZdQbvFLzW-hover": {
+     "opacity": 0.5
+    }
+   },
+   "root": true
+  }
+ ],
  "framer-dczzwc": [
   {
    "module": "toplevel-deps.BY2s547D.mjs",
@@ -1063,6 +1323,24 @@
      "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))"
     }
    }
+  }
+ ],
+ "framer-xkbypw": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "base": {
+    "opacity": 1,
+    "...": "<?>"
+   },
+   "variants": {
+    "Rqy7FUIBo-hover": {
+     "opacity": 1
+    },
+    "wBnCNx14X": {
+     "opacity": 0.75
+    }
+   },
+   "root": true
   }
  ],
  "framer-17skh7b": [

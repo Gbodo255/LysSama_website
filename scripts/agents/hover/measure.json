@@ -1,0 +1,293 @@
+{
+ "gestures": [
+  {
+   "module": "caaAwhF9X.BYTWrlvA.mjs",
+   "lit": "{qkJaMXuuZ:{hover:!0}}",
+   "scope": "framer-qXCbS",
+   "dist": 30
+  },
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "lit": "{QnheowYVb:{hover:!0}}",
+   "scope": "framer-OpQuF",
+   "dist": 32
+  },
+  {
+   "module": "koAJndPrk.X0Y8SY4j.mjs",
+   "lit": "{KePuGGRdl:{hover:!0}}",
+   "scope": "framer-8TEAn",
+   "dist": 32
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{AQI0EawVi:{hover:!0},tLK6qT9cB:{hover:!0},UpWlNuY8v:{hover:!0}}",
+   "scope": "framer-LKtbf",
+   "dist": 68
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{vtaGLVCx0:{hover:!0},ZCREUG_iX:{hover:!0}}",
+   "scope": "framer-WDjIE",
+   "dist": 56
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{dk0Avt7ZN:{hover:!0}}",
+   "scope": "framer-JHBGB",
+   "dist": 32
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{QvZffFKGr:{hover:!0}}",
+   "scope": "framer-XzoKs",
+   "dist": 44
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{Fyih9sCDk:{hover:!0},LEwHm1Xmc:{hover:!0}}",
+   "scope": "framer-2YuhP",
+   "dist": 56
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{ZdQbvFLzW:{hover:!0}}",
+   "scope": "framer-BF4Of",
+   "dist": 32
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{F8QhxJmqp:{hover:!0}}",
+   "scope": "framer-U9l7N",
+   "dist": 32
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "lit": "{Rqy7FUIBo:{hover:!0}}",
+   "scope": "framer-8H41b",
+   "dist": 68
+  },
+  {
+   "module": "v7Wd3N72W.Dzl5_5IZ.mjs",
+   "lit": "{jinEk1yag:{hover:!0},RVD7A0_PA:{hover:!0}}",
+   "scope": "framer-St8Ub",
+   "dist": 54
+  },
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "lit": "{xOitXcA3M:{hover:!0}}",
+   "scope": "framer-asHOM",
+   "dist": 32
+  },
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "lit": "{xkvFjRWsw:{hover:!0}}",
+   "scope": "framer-k45qK",
+   "dist": 3
+  },
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "lit": "{EwnHLUTYk:{hover:!0}}",
+   "scope": "framer-if8OZ",
+   "dist": 56
+  }
+ ],
+ "names": [
+  {
+   "module": "caaAwhF9X.BYTWrlvA.mjs",
+   "id": "qkJaMXuuZ",
+   "name": "`Article Card Content`"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "AQI0EawVi",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "tLK6qT9cB",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "UpWlNuY8v",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "vtaGLVCx0",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "ZCREUG_iX",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "QvZffFKGr",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "Fyih9sCDk",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "LEwHm1Xmc",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "ZdQbvFLzW",
+   "name": "void 0"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "id": "Rqy7FUIBo",
+   "name": "void 0"
+  },
+  {
+   "module": "v7Wd3N72W.Dzl5_5IZ.mjs",
+   "id": "jinEk1yag",
+   "name": "`Desktop Right Arrow`"
+  },
+  {
+   "module": "v7Wd3N72W.Dzl5_5IZ.mjs",
+   "id": "RVD7A0_PA",
+   "name": "`Desktop Left Arrow`"
+  },
+  {
+   "module": "vL1rEwvHQ.BRqKSIP-.mjs",
+   "id": "EwnHLUTYk",
+   "name": "`Service Card Interaction Trigger`"
+  }
+ ],
+ "other": [
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onHoverStart"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onHoverStart"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "toplevel-deps.BY2s547D.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "Video.CCIhSoyO.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "Video.CCIhSoyO.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "Video.CCIhSoyO.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "vlaxPR_qcmIvxjiZ46LjAcoM8wt_1Tf_u9yI8LD_ays.DIM9WBae.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "YouTube.BccqSYT9.mjs",
+   "k": "onMouseEnter"
+  },
+  {
+   "module": "YouTube.BccqSYT9.mjs",
+   "k": "onMouseEnter"
+  }
+ ],
+ "stylesHover": [
+  "framer-yme2qk",
+  "framer-oqgboy",
+  "framer-c1dua2",
+  "framer-tbdlzo",
+  "framer-1o629ul",
+  "framer-a32j11",
+  "framer-1o2749o",
+  "framer-1u3jrt9",
+  "framer-16o5iqg",
+  "framer-179jsj7",
+  "framer-me6jbz",
+  "framer-mlc0qm",
+  "framer-4joyqg",
+  "framer-9ljc49",
+  "framer-k4kqvl",
+  "framer-mikpa6-container",
+  "framer-pm8azj",
+  "framer-41at20",
+  "framer-kdnc6p",
+  "framer-105crdb",
+  "framer-dczzwc",
+  "framer-154bepi",
+  "framer-17skh7b",
+  "framer-1gm2ya6",
+  "framer-l29hgm",
+  "framer-zixbhw",
+  "framer-1396mtp",
+  "framer-73np5u",
+  "framer-1dag8of",
+  "framer-1ucuywo",
+  "framer-76c8x0",
+  "framer-1c31hon",
+  "framer-q1wiq0-container"
+ ],
+ "followsHover": [
+  {
+   "c": "framer-14l2v1m-container",
+   "by": {
+    "AQI0EawVi-hover": "ZBuRmAZ5Y",
+    "tLK6qT9cB-hover": "ZBuRmAZ5Y",
+    "UpWlNuY8v-hover": "bAHFpmm1J",
+    "fE11MWlj9": "aTBCrc4Jk",
+    "UpWlNuY8v": "aTBCrc4Jk"
+   }
+  },
+  {
+   "c": "framer-1p16sqf-container",
+   "by": {
+    "dk0Avt7ZN-hover": "emNd45eer"
+   }
+  },
+  {
+   "c": "framer-11r03s7-container",
+   "by": {
+    "QvZffFKGr-hover": "bAHFpmm1J"
+   }
+  },
+  {
+   "c": "framer-vuuz9-container",
+   "by": {
+    "xkvFjRWsw-hover": "XN1X2rc4T"
+   }
+  }
+ ]
+}

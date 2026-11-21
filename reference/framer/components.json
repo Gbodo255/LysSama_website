@@ -75,6 +75,14 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "qkJaMXuuZ": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "qkJaMXuuZ-hover": "Article Card Content"
   }
  },
  "framer-83xqy": {
@@ -366,6 +374,11 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "QnheowYVb": {
+    "hover": true
+   }
   }
  },
  "framer-8TEAn": {
@@ -390,6 +403,11 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "KePuGGRdl": {
+    "hover": true
+   }
   }
  },
  "framer-pVIbn": {
@@ -938,6 +956,22 @@
    "delay": 0,
    "duration": 0.3,
    "type": "spring"
+  },
+  "gestures": {
+   "AQI0EawVi": {
+    "hover": true
+   },
+   "tLK6qT9cB": {
+    "hover": true
+   },
+   "UpWlNuY8v": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "AQI0EawVi-hover": null,
+   "tLK6qT9cB-hover": null,
+   "UpWlNuY8v-hover": null
   }
  },
  "framer-WDjIE": {
@@ -965,6 +999,18 @@
    "delay": 0,
    "duration": 0.3,
    "type": "spring"
+  },
+  "gestures": {
+   "vtaGLVCx0": {
+    "hover": true
+   },
+   "ZCREUG_iX": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "vtaGLVCx0-hover": null,
+   "ZCREUG_iX-hover": null
   }
  },
  "framer-lxgec": {
@@ -1190,6 +1236,11 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "dk0Avt7ZN": {
+    "hover": true
+   }
   }
  },
  "framer-KsJvq": {
@@ -1256,6 +1307,14 @@
    "delay": 0,
    "duration": 0.3,
    "type": "spring"
+  },
+  "gestures": {
+   "QvZffFKGr": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "QvZffFKGr-hover": null
   }
  },
  "framer-h9lrK": {
@@ -1316,6 +1375,18 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "Fyih9sCDk": {
+    "hover": true
+   },
+   "LEwHm1Xmc": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "Fyih9sCDk-hover": null,
+   "LEwHm1Xmc-hover": null
   }
  },
  "framer-Z2aNj": {
@@ -1465,6 +1536,14 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "ZdQbvFLzW": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "ZdQbvFLzW-hover": null
   }
  },
  "framer-shGv8": {
@@ -1508,6 +1587,11 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "F8QhxJmqp": {
+    "hover": true
+   }
   }
  },
  "framer-tVn1f": {
@@ -1601,6 +1685,14 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "Rqy7FUIBo": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "Rqy7FUIBo-hover": null
   }
  },
  "framer-eYdsD": {
@@ -1661,6 +1753,18 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "jinEk1yag": {
+    "hover": true
+   },
+   "RVD7A0_PA": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "jinEk1yag-hover": "Desktop Right Arrow",
+   "RVD7A0_PA-hover": "Desktop Left Arrow"
   }
  },
  "framer-Oiz8K": {
@@ -1747,6 +1851,11 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "xOitXcA3M": {
+    "hover": true
+   }
   }
  },
  "framer-0lSwF": {
@@ -1861,6 +1970,11 @@
    "delay": 0,
    "duration": 0.4,
    "type": "spring"
+  },
+  "gestures": {
+   "xkvFjRWsw": {
+    "hover": true
+   }
   }
  },
  "framer-if8OZ": {
@@ -1893,6 +2007,14 @@
     1
    ],
    "type": "tween"
+  },
+  "gestures": {
+   "EwnHLUTYk": {
+    "hover": true
+   }
+  },
+  "hoverNames": {
+   "EwnHLUTYk-hover": "Service Card Interaction Trigger"
   }
  },
  "framer-gkSx9": {

@@ -136,12 +136,21 @@ for (const f of fs.readdirSync(DIR).filter((f) => f.endsWith('.mjs') && !LIBS.te
   // styles par variante déclarés sur les éléments : { className, style (base), variants: { id: {...} } }
   walk(ast, (n) => {
     if (n.type !== 'ObjectExpression') return;
-    let cls = null, vNode = null, sNode = null;
-    for (const p of n.properties) { if (p.type !== 'Property') continue; const k = p.key.name || p.key.value; if (k === 'className') { const v = val(p.value); if (typeof v === 'string') cls = v; } if (k === 'variants') vNode = p.value; if (k === 'style') sNode = p.value; }
+    let cls = null, vNode = null, sNode = null, root = false;
+    for (const p of n.properties) {
+      if (p.type !== 'Property') continue; const k = p.key.name || p.key.value;
+      if (k === 'className') {
+        const v = val(p.value);
+        if (typeof v === 'string') cls = v;
+        // racine d'instance : className calculé (`N(re, 'framer-xxx', c, x)` ou `${f(se, 'framer-xxx', h, A)} framer-yyy`) → classes littérales, marquées root
+        else { const lits = []; walk(p.value, (q) => { if (q.type === 'Literal' && typeof q.value === 'string') lits.push(q.value); if (q.type === 'TemplateElement') lits.push(q.value.cooked); }); cls = lits.join(' '); root = true; }
+      }
+      if (k === 'variants') vNode = p.value; if (k === 'style') sNode = p.value;
+    }
     if (!cls || !vNode || vNode.type !== 'ObjectExpression') return;
     const vv = val(vNode); if (!vv || typeof vv !== 'object') return;
     const base = sNode && sNode.type === 'ObjectExpression' ? val(sNode) : null;
-    for (const c of cls.split(/\s+/).filter((c) => /^framer-[a-z0-9]+(-container)?$/.test(c))) (styles[c] ||= []).push({ module: f, base, variants: vv });
+    for (const c of cls.split(/\s+/).filter((c) => /^framer-[a-z0-9]+(-container)?$/.test(c))) (styles[c] ||= []).push({ module: f, base, variants: vv, ...(root ? { root } : {}) });
   });
   // tables des variantes : { id: 'framer-v-xxx' } et { 'Nom lisible': id }
   walk(ast, (n) => {
