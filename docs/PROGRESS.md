@@ -43,7 +43,7 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 - [ ] `/journal`
 - [ ] `/journal/<8 articles>`
 - [ ] `/contact`
-- [ ] `/privacy-policy` · `/terms-conditions` · `/cookie-policy`
+- [x] `/privacy-policy` · `/terms-conditions` · `/cookie-policy` — statique + apparitions : 0 manquant, 0 en trop, 0 géométrie, 0 style, 0 texte, hauteur 0 %, pixels ≤ 1,04 % aux 4 largeurs (`compare/<slug>/<w>.json`, D-033) ; survol du lien du corps : Phase 4
 - [ ] 404
 
 ## Phase 4 — Interactions (lignes du registre)
@@ -55,7 +55,10 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 10 — Revue indépendante
 ## Phase 11 — Qualité, `check:launch`, RAPPORT.md
 
-## Point de reprise (2026-11-21, session 2)
+## Point de reprise (2026-11-21, session 3)
+- Agents D-032 interrompus sans composant ; reprise par `scripts/genpage.mjs` (D-033). Légales validées. Curseur construit (C-044, courbe à mesurer). Suite : accueil, studio, contact, journal (+8), projets (+6), /projects, 404.
+
+## Point de reprise précédent (2026-11-21, session 2)
 - Selftest de l'original OK (0 %). Extraction de référence liste A en cours en arrière-plan (`reference/extract-A.log`, `--net=record`).
 - Fondations faites et mesurées : gabarit, navigation, footer, presets, Variants/HideOn, outils spec/transpose/compare (D-029..D-032).
 - Vague de construction en agents parallèles (D-032) : homea, homeb, projects, studio, journal, fx — rapports dans `docs/build/<id>.md`, demandes dans `docs/requests/<id>.md`.

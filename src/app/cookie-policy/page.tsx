@@ -1,10 +1,14 @@
 import { PageStyle } from '@/components/PageStyle';
+import { Template } from '@/components/Template';
+import { Body } from '@/gen/cookie-policy/Body';
 
-// Page /cookie-policy — sections ajoutées par l'agent de construction propriétaire (src/sections/cookie-policy/).
 export default function Page() {
   return (
     <>
       <PageStyle slug="cookie-policy" />
+      <Template>
+        <Body />
+      </Template>
     </>
   );
 }

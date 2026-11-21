@@ -517,3 +517,14 @@ export const PAGE_META = {
   },
   "_demo": true
 } as const;
+
+/** Curseur personnalisé (« Cursor » gy, TD:19920–20138) : zone `data-framer-cursor` → variante et libellé. */
+export const CURSOR = {
+  zones: { '19wcnfu': 'IeznnrIPT', '9iwj27': 'JYlp8aboM', a8ccln: 'gq6hjYdVi', '1v6kiai': 'nSACZy5aP' } as Record<string, string>,
+  variants: {
+    IeznnrIPT: { name: 'Default', cls: 'framer-v-ez28hj' },
+    JYlp8aboM: { name: 'View Project', cls: 'framer-v-m35kh1', label: 'View Project', labelCls: 'framer-onr06i' },
+    gq6hjYdVi: { name: 'Read Article', cls: 'framer-v-xkbv01', label: 'Read Article', labelCls: 'framer-1rodrlc' },
+    nSACZy5aP: { name: 'Next', cls: 'framer-v-18ule0', label: 'Next', labelCls: 'framer-ihyrq7' },
+  } as Record<string, { name: string; cls: string; label?: string; labelCls?: string }>,
+};

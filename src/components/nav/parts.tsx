@@ -108,15 +108,15 @@ export function NavItem({ to, label, count, variant, color, onNavigate, name }: 
 }
 
 // ------------------------------------------------------------------ Nav Links (jv)
-const LINKS_VARIANT = { desktop: ['framer-v-fvp1dl', 'Desktop', 'large'], phone: ['framer-v-1mkgfd6', 'Phone', 'largePhone'], top: ['framer-v-1fd22pg', 'Desktop - Top', 'small'], topPhone: ['framer-v-1c01me7', 'Phone - Top', 'smallPhone'] } as const;
+const LINKS_VARIANT = { desktop: ['framer-v-fvp1dl', 'Desktop', 'large'], phone: ['framer-v-1mkgfd6', 'Phone', 'largePhone'], top: ['framer-v-1fd22pg', 'Desktop - Top', 'small'], topTablet: ['framer-v-1c01me7', 'Tablet - Top', 'smallPhone'] } as const;
 const CONTAINER = { Home: 'framer-ade1jf-container', Projects: 'framer-f4luyz-container', Studio: 'framer-1kxedq2-container', Journal: 'framer-9r7k9d-container' } as const;
-export function NavLinks({ variant, color, onNavigate, nameAttr }: { variant: keyof typeof LINKS_VARIANT; color: string; onNavigate?: () => void; nameAttr?: string }) {
-  const withHome = !variant.startsWith('top') || variant === 'topPhone';
+export function NavLinks({ variant, color, onNavigate, nameAttr, style = { width: '100%' } }: { variant: keyof typeof LINKS_VARIANT; color: string; onNavigate?: () => void; nameAttr?: string; style?: S }) {
+  const withHome = !variant.startsWith('top'); // TD:19284 : Home masqué dans les variantes « - Top »
   const [cls, name, item] = LINKS_VARIANT[variant];
   const count = `(${projects.length})`;
   const names = ['Home', 'Projects', 'Studio', 'Journal'] as const;
   return (
-    <motion.div className={`framer-Z2aNj framer-fvp1dl ${cls}`} data-framer-name={name} {...{ name: nameAttr }} style={{ width: '100%' }} layout>
+    <motion.div className={`framer-Z2aNj framer-fvp1dl ${cls}`} data-framer-name={name} {...{ name: nameAttr }} style={style} layout>
       {NAV.links.map((lk, i) => (i === 0 && !withHome ? null : (
         <motion.div key={lk.href} className={CONTAINER[names[i]]} data-framer-name={names[i]} {...{ name: names[i] }} layout>
           <NavItem name={names[i]} to={lk.href} label={lk.label} count={'count' in lk ? count : undefined} variant={item} color={color} onNavigate={onNavigate} />

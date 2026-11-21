@@ -26,3 +26,4 @@ compare/**/*.png
 reference/specs/
 clone-ref/screenshots/
 clone-ref/dom/
+reference/geometry/

@@ -29,6 +29,13 @@ export function Variants({ d, t, p }: { d: ReactNode; t: ReactNode; p: ReactNode
   return <>{groups.map((g, i) => (bp && !g.bps.includes(bp) ? null : <div key={i} className={['ssr-variant', ...ALL.filter((b) => !g.bps.includes(b)).map((b) => HIDE[b])].join(' ')}>{g.node}</div>))}</>;
 }
 
+/** Enveloppe `ssr-variant` générée (scripts/genpage.mjs) : classes d'origine telles quelles, retirée du DOM après
+ *  hydratation hors des breakpoints `show` (même mécanisme que `Variants`, mesuré D-030). */
+export function SV({ c, show, children }: { c: string; show: Breakpoint[]; children?: ReactNode }) {
+  const bp = useBreakpoint();
+  return bp && !show.includes(bp) ? null : <div className={c}>{children}</div>;
+}
+
 /** Élément porteur d'une classe `hidden-*` : présent dans le HTML statique, retiré du DOM après hydratation sur les
  *  breakpoints où il est masqué (comportement mesuré de l'original : « Filler », « Navigation Spacer » absents à 390). */
 export function HideOn({ on, children }: { on: Breakpoint[]; children: ReactNode }) {

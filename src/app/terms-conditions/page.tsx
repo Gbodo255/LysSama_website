@@ -1,10 +1,14 @@
 import { PageStyle } from '@/components/PageStyle';
+import { Template } from '@/components/Template';
+import { Body } from '@/gen/terms-conditions/Body';
 
-// Page /terms-conditions — sections ajoutées par l'agent de construction propriétaire (src/sections/terms-conditions/).
 export default function Page() {
   return (
     <>
       <PageStyle slug="terms-conditions" />
+      <Template>
+        <Body />
+      </Template>
     </>
   );
 }

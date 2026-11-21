@@ -19,7 +19,10 @@ const STYLE_IGNORE = new Set(['transform']); // les transformations d'animation 
 const readJ = async (p) => JSON.parse(await fs.readFile(p, 'utf8'));
 const num = (v) => parseFloat(v);
 
-function inScope(items) {
+// Premier segment (enfant de <body>) retiré des deux côtés : Next.js insère un <div hidden> avant #main (D-033).
+const rebase = (items) => items.map((i) => ({ ...i, sel: i.sel.replace(/^[^>]*>?/, '') || '(main)' }));
+function inScope(items0) {
+  const items = rebase(items0);
   if (!scope) return { list: items, dx: 0, dy: 0 };
   const key = `[data-framer-name="${scope}"]`;
   const root = items.filter((i) => i.sel.endsWith(key) || i.name === scope).sort((a, b) => a.sel.length - b.sel.length)[0];

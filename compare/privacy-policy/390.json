@@ -1,0 +1,29 @@
+{
+ "route": "/privacy-policy",
+ "width": 390,
+ "scope": null,
+ "height": {
+  "ref": 4496,
+  "clone": 4496,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 460,
+  "clone": 460,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0,
+  "over2": [],
+  "n": 17
+ }
+}

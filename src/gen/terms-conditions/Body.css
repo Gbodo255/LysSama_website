@@ -1,0 +1,37 @@
+/* Généré par scripts/genpage.mjs depuis reference/html/terms-conditions.html (D-033). Valeurs d'origine inchangées. */
+@media (min-width: 1200px) { .hidden-1xlf4m4 { display: none !important; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .hidden-o63hkf { display: none !important; } }
+@media (max-width: 809.98px) { .hidden-71q57o { display: none !important; } }
+p.framer-text:not(:first-child), div.framer-text:not(:first-child), h1.framer-text:not(:first-child), h2.framer-text:not(:first-child), h3.framer-text:not(:first-child), h4.framer-text:not(:first-child), h5.framer-text:not(:first-child), h6.framer-text:not(:first-child), ol.framer-text:not(:first-child), ul.framer-text:not(:first-child), blockquote.framer-text:not(:first-child), table.framer-text:not(:first-child), figure.framer-text:not(:first-child), .framer-image.framer-text:not(:first-child) { margin-top: var(--framer-blockquote-paragraph-spacing,var(--framer-paragraph-spacing,0)); }
+ul.framer-text, ol.framer-text { padding-inline-start: 0px; position: relative; }
+li.framer-text { counter-increment: list-item 1; padding-inline-start: 2ch; list-style: ""; }
+ul.framer-text > li.framer-text::before { content: "•"; position: absolute; inset-inline-start: 0px; }
+.framer-H8D2e.framer-l1jqn, .framer-H8D2e .framer-l1jqn { display: block; }
+.framer-H8D2e.framer-1xlf4m4 { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: center flex-start; align-items: center; gap: 0px; width: 1200px; padding: 0px; display: flex; position: relative; }
+.framer-H8D2e .framer-3eqo7d-container { z-index: 1; flex: 0 0 auto; width: auto; height: auto; position: absolute; top: 0px; left: 50%; transform: translate(-50%); }
+.framer-H8D2e .framer-xzv5at { background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94,#fff); z-index: 1; flex-flow: row; flex: 0 0 auto; place-content: flex-start; align-items: flex-start; gap: 0px; width: 100%; max-width: 100%; height: min-content; padding: 0px; display: flex; position: relative; }
+.framer-H8D2e .framer-9jbr6o-container { flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-H8D2e .framer-enn8d8 { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 1 0 0px; place-content: center; align-items: center; gap: 0px; width: 1px; padding: 33px 0px 120px; display: flex; position: relative; }
+.framer-H8D2e .framer-dbjhxy { max-width: 1920px; height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; place-content: flex-start center; align-items: flex-start; gap: 120px; width: 100%; padding: 0px 33px; display: flex; position: relative; }
+.framer-H8D2e .framer-1b00xfu { flex: 0 0 auto; grid-template-rows: repeat(1, minmax(0px, 1fr)); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-auto-rows: minmax(0px, 1fr); justify-content: center; gap: 40px 20px; width: 100%; height: min-content; padding: 0px; display: grid; position: relative; overflow: visible; }
+.framer-H8D2e .framer-1w1rh85-container { pointer-events: auto; will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; place-self: center start; width: fit-content; height: auto; position: relative; }
+.framer-H8D2e .framer-1kt5x92-container { pointer-events: auto; will-change: var(--framer-will-change-effect-override,transform); flex: 0 0 auto; grid-column: span 3; place-self: center start; width: 100%; position: relative; }
+.framer-H8D2e .framer-14mi3ot { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex: 0 0 auto; grid-template-rows: repeat(1, minmax(0px, 1fr)); grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-auto-rows: minmax(0px, 1fr); justify-content: center; gap: 20px; width: 100%; padding: 0px; display: grid; position: relative; }
+.framer-H8D2e .framer-85otex { height: min-content; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-effect-override,transform); z-index: 1; flex-flow: row; flex: 0 0 auto; place-content: flex-start center; place-self: start; align-items: flex-start; gap: 15px; width: 100%; padding: 6px 0px 0px; display: flex; position: sticky; top: 50px; }
+.framer-H8D2e .framer-15xc10m { --framer-link-text-color: #09f; --framer-link-text-decoration: underline; white-space: pre; flex: 0 0 auto; width: auto; height: auto; position: relative; }
+.framer-H8D2e .framer-1hck9yt { --framer-link-text-color: #09f; --framer-link-text-decoration: underline; white-space: pre-wrap; word-break: break-word; overflow-wrap: break-word; flex: 1 0 0px; width: 1px; height: auto; position: relative; }
+.framer-H8D2e .framer-1bdpxdc { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; grid-column: span 3; place-content: flex-start center; place-self: start; align-items: flex-start; gap: 60px; width: 100%; padding: 0px; display: flex; position: relative; }
+.framer-H8D2e .framer-xk7x5z { height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; flex: 0 0 auto; place-content: flex-start center; align-items: flex-start; gap: 40px; width: 100%; padding: 0px; display: flex; position: relative; }
+.framer-H8D2e .framer-1p9fj0l { white-space: pre-wrap; will-change: var(--framer-will-change-effect-override,transform); word-break: break-word; overflow-wrap: break-word; flex: 0 0 auto; width: 100%; max-width: 600px; height: auto; position: relative; }
+.framer-H8D2e .framer-4itqln { --framer-link-text-color: #09f; --framer-link-text-decoration: underline; white-space: pre-wrap; word-break: break-word; overflow-wrap: break-word; flex: 0 0 auto; width: 100%; max-width: 500px; height: auto; position: relative; }
+.framer-H8D2e .framer-104pdxd { --framer-paragraph-spacing: 30px; white-space: pre-wrap; word-break: break-word; overflow-wrap: break-word; flex: 0 0 auto; width: 100%; max-width: 500px; height: auto; position: relative; }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-H8D2e.framer-1xlf4m4 { width: 810px; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-H8D2e .framer-enn8d8 { padding: 33px 0px 90px; } }
+@media (min-width: 810px) and (max-width: 1199.98px) { .framer-H8D2e .framer-dbjhxy { gap: 90px; } }
+@media (max-width: 809.98px) { .framer-H8D2e.framer-1xlf4m4 { width: 390px; } }
+@media (max-width: 809.98px) { .framer-H8D2e .framer-enn8d8 { padding: 141px 0px 60px; } }
+@media (max-width: 809.98px) { .framer-H8D2e .framer-dbjhxy { gap: 40px; padding: 0px 22px; } }
+@media (max-width: 809.98px) { .framer-H8D2e .framer-14mi3ot { flex-flow: column; align-content: flex-start; align-items: flex-start; display: flex; } }
+@media (max-width: 809.98px) { .framer-H8D2e .framer-85otex { align-self: unset; top: unset; position: relative; } }
+@media (max-width: 809.98px) { .framer-H8D2e .framer-1bdpxdc { align-self: unset; } }
+@media (max-width: 809.98px) { .framer-H8D2e .framer-104pdxd { max-width: unset; } }

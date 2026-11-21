@@ -1,0 +1,12 @@
+/* Transposé de reference/html/journal.html — "css:a.framer-qXCbS" [0] (scripts/transpose.mjs, D-029). Valeurs d'origine inchangées. */
+.framer-qXCbS.framer-1e4az23, .framer-qXCbS .framer-1e4az23 { display: block; }
+.framer-qXCbS.framer-n8zo7t { cursor: pointer; height: min-content; overflow: var(--overflow-clip-fallback,clip); flex-flow: column; place-content: center; align-items: center; gap: 15px; width: 350px; padding: 0px; text-decoration: none; display: flex; position: relative; }
+.framer-qXCbS .framer-1mffi2y { flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 10px; width: 100%; height: min-content; padding: 0px; display: flex; position: relative; overflow: visible; }
+.framer-qXCbS .framer-kdqgfg, .framer-qXCbS .framer-1kgjso1 { white-space: pre-wrap; word-break: break-word; overflow-wrap: break-word; flex: 0 0 auto; width: 100%; height: auto; position: relative; }
+.framer-qXCbS .framer-v9hp8k { user-select: none; height: min-content; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); flex-flow: row; flex: 0 0 auto; place-content: center; align-items: center; gap: 15px; width: 100%; padding: 0px; display: flex; position: relative; }
+.framer-qXCbS .framer-yme2qk { image-rendering: auto; height: auto; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-filter-override,filter); flex: 1 0 0px; width: 1px; position: relative; }
+.framer-qXCbS .framer-oqgboy { image-rendering: auto; height: auto; overflow: var(--overflow-clip-fallback,clip); will-change: var(--framer-will-change-override,transform); z-index: 1; flex: 0 0 auto; width: 100%; position: absolute; top: 50%; left: 50%; }
+.framer-qXCbS .framer-3pqa2g { flex-flow: column; flex: 0 0 auto; place-content: center; align-items: center; gap: 5px; width: 100%; height: min-content; padding: 0px; display: flex; position: relative; overflow: visible; }
+.framer-qXCbS .framer-1fg44cf { --framer-text-wrap-override: balance; flex: 0 0 auto; width: 100%; height: auto; position: relative; }
+.framer-qXCbS.framer-v-fcep5.framer-n8zo7t { cursor: unset; }
+.framer-qXCbS.framer-v-n8zo7t.hover .framer-oqgboy { width: 75%; }

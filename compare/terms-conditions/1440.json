@@ -1,0 +1,29 @@
+{
+ "route": "/terms-conditions",
+ "width": 1440,
+ "scope": null,
+ "height": {
+  "ref": 5351,
+  "clone": 5351,
+  "deltaPct": 0
+ },
+ "counts": {
+  "ref": 480,
+  "clone": 480,
+  "missing": 0,
+  "extra": 0,
+  "geo": 0,
+  "styles": 0,
+  "text": 0
+ },
+ "missing": [],
+ "extra": [],
+ "geo": [],
+ "styles": [],
+ "text": [],
+ "pixels": {
+  "worst": 0.63,
+  "over2": [],
+  "n": 21
+ }
+}
