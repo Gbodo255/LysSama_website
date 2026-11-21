@@ -37,3 +37,6 @@ _Aucune pour l'instant._
 | Journal | deux formats de date (`6/15/26` cartes, `Jun 15, 2026` article) ; « More articles » = 4 premiers articles hors article courant (les anciens proposent toujours les plus récents) ; `<title>`/description de `/journal` = textes génériques du template. Le compteur `(8)` correspond bien au nombre d'articles (piège § 1.5 levé) | journal.md |
 | Formulaires | l'original poste vers Framer Forms (`api.framer.com/forms/...`) : remplacé par `submitForm()` (D-023) | contact.md, global.md |
 | Accessibilité d'origine | `aria-label` des options du calculateur sans espace (`Motion designAdd-on Toggle`), reproduit | homeb.md |
+
+## L-014 — Rotations des effets de défilement (accueil, bloc Reel)
+L'original omet les rotations des cibles de défilement après un saut de position (ex. retour direct en haut de page) et les applique lors d'un défilement continu (D-040, relevés `scripts/agents/main/probe-transform.mjs`). Le clone les applique toujours. Effet au banc : écarts de géométrie sur le bloc Reel dans la mesure faite en haut de page après `gotoStable` ; captures de défilement concordantes.

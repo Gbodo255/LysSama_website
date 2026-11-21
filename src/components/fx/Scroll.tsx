@@ -15,9 +15,9 @@ const cache = new Map<string, ElementType>();
 const comp = (tag: string) => { let c = cache.get(tag); if (!c) { c = motion.create(tag as 'div'); cache.set(tag, c); } return c; };
 const KEYS = ['opacity', 'x', 'y', 'scale', 'rotate', 'rotateX', 'rotateY', 'skewX', 'skewY'] as const;
 const ID: Record<string, number> = { opacity: 1, x: 0, y: 0, scale: 1, rotate: 0, rotateX: 0, rotateY: 0, skewX: 0, skewY: 0 };
-// Mesuré sur le DOM hydraté de l'original (accueil : Reel, Reel Duration, Play Reel…) : les rotations déclarées dans les
-// cibles de défilement ne sont jamais appliquées (seuls opacité, x, y, échelle, et la perspective du style d'origine).
-const NO_ROT = new Set(['rotate', 'rotateX', 'rotateY']);
+// Rotations des cibles appliquées (comportement vu en défilant). L'original les omet parfois selon l'historique de
+// défilement (bizarrerie du runtime, relevés D-040 : chargement à 0 → présentes ; saut direct dans la plage → absentes).
+const NO_ROT = new Set<string>();
 type Target = { ref?: { cls: string } | string | null; offset?: number; target: Record<string, number> };
 export const offTop = (e: HTMLElement | null) => { let n = 0; for (let r: HTMLElement | null = e; r && r !== document.documentElement; r = r.offsetParent as HTMLElement | null) n += r.offsetTop; return n; };
 export const interp = (v: number, i: number[], o: number[]) => {
