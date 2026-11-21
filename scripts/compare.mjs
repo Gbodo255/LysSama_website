@@ -7,7 +7,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { pixelDiff, triptych, normText, rectDelta } from './lib/compare.mjs';
-import { LIST_A, ROOT } from './lib/harness.mjs';
+import { LIST_A, ROOT, ORIGIN, CLONE_ORIGIN } from './lib/harness.mjs';
 import { slugOf } from './routes.mjs';
 
 const arg = (k, d) => (process.argv.find((a) => a.startsWith(`--${k}=`)) || '').slice(k.length + 3) || d;
@@ -56,7 +56,9 @@ for (const r of routes) for (const w of widths) {
       }
       if (a.text && normText(a.text) !== normText(b.text)) lines.push({ sel: a.sel, kind: 'texte', ref: a.text, clone: b.text });
       else if (a.lines && JSON.stringify(a.lines) !== JSON.stringify(b.lines)) lines.push({ sel: a.sel, kind: 'lignes', ref: a.lines, clone: b.lines });
-      for (const k of ['href', 'targetAttr', 'alt', 'placeholder', 'nameAttr']) if (a[k] !== undefined && a[k] !== b[k]) styles.push({ sel: a.sel, k, ref: a[k], clone: b[k] });
+      // liens absolus construits depuis l'origine courante (ex. vitrine /projects) : origine retirée des deux côtés
+      const strip = (v) => (typeof v === 'string' ? v.replace(ORIGIN, '').replace(CLONE_ORIGIN, '') : v);
+      for (const k of ['href', 'targetAttr', 'alt', 'placeholder', 'nameAttr']) if (a[k] !== undefined && strip(a[k]) !== strip(b[k])) styles.push({ sel: a.sel, k, ref: a[k], clone: b[k] });
     }
     out.counts = { ref: A.list.length, clone: B.list.length, missing: missing.length, extra: bySel.size, geo: geo.length, styles: styles.length, text: lines.length };
     out.missing = missing.slice(0, max); out.extra = [...bySel.keys()].slice(0, max);

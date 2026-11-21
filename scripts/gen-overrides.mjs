@@ -64,8 +64,9 @@ export const OVERRIDES = [
   // /projects : vitrine incurvée (composant de l'auteur porté) et ses slots CMS d'origine.
   {
     match: (n, { cls }) => cls.includes('framer-q4xdmx-container'),
-    imports: [`import { ProjectsShowcase } from '@/webgl/projects/ProjectsShowcase';`],
-    render: (n, h) => `<div${h.attrs(n)}><ProjectsShowcase ${[['slot', 'Projects Source (Slot)'], ['fontSlot', 'Title Font Goes Here'], ['countFontSlot', 'Count Font Goes Here'], ['detailsSlot', 'Card Details (Slot)']].map(([k, nm]) => `${k}={${h.jsx(byName(n, nm), h.d + 1).trim()}}`).join(' ')} /></div>`,
+    imports: [`import { ProjectsShowcase } from '@/webgl/projects/ProjectsShowcase';`, `import { SV } from '@/components/Variants';`],
+    // enveloppe ssr-variant du SSR conservée (présente dans le DOM hydraté de l'original)
+    render: (n, h) => `<div${h.attrs(n)}><SV c="ssr-variant" show={["desktop","tablet","phone"]}><ProjectsShowcase ${[['slot', 'Projects Source (Slot)'], ['fontSlot', 'Title Font Goes Here'], ['countFontSlot', 'Count Font Goes Here'], ['detailsSlot', 'Card Details (Slot)']].map(([k, nm]) => `${k}={${h.jsx(byName(n, nm), h.d + 1).trim()}}`).join(' ')} /></SV></div>`,
   },
   // Accueil : préchargeur et diaporama WebGL (composants de l'auteur portés) ; slots CMS d'origine passés tels quels.
   {
@@ -107,6 +108,12 @@ export const OVERRIDES = [
       const fg = find(n, /--variable-reference-odJoTSF6e-oYhWrTjTX:\s*(var\([^;]*\)\)|[^;]+)/);
       return `<FormButtonFx label={${h.tx(txt(top).trim())}} color={${JSON.stringify(bg)}} textColor={${JSON.stringify(fg)}} style={${JSON.stringify(Object.fromEntries(Object.entries(styleOf(n)).filter(([k]) => k !== 'opacity')))}}${attr(n, 'name') ? ` name={${JSON.stringify(attr(n, 'name'))}}` : ''} />`;
     },
+  },
+  // Compteur de projets de /projects (composant de code, SSR « 6 », rendu « (6) ») : nombre de projets de src/data/projects.ts.
+  {
+    match: (n, { name }) => name === 'Project count font' && !n.done,
+    imports: [`import { projects } from '@/data/projects';`],
+    rewrite: (n) => withText(n, '`(${projects.length})`'),
   },
   // Compteur d'articles du journal (composant de code, SSR « 6 », rendu « (8) ») : nombre d'articles de src/data/journal.ts.
   {

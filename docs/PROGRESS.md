@@ -37,7 +37,7 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 
 ## Phase 3 — Pages (sections listées après l'audit ; chaque section × 1440/1200/810/390)
 - [~] `/` accueil — 1440 : 2331/2331 éléments, 0 manquant/en trop/géométrie/style/texte, hauteur 0 % ; restent pixels (section Process, 17 plans) et les 3 autres largeurs
-- [~] `/projects` — construit (vitrine incurvée portée, Lenis horizontal) ; référence de l'original non capturée (onglet planté), à refaire
+- [x] `/projects` — COMPARAISON OK aux 4 largeurs en mode `--light` (D-041), pixels ≤ 0,021 % (`compare/projects/<w>.json`)
 - [~] `/projects/gucci` · `chanel` · `puma` · `adidas` · `nike` · `under-armour` — 1440 : gucci, chanel, puma 0 écart (pixels ≤ 1,31 %) ; adidas, nike, under-armour à remesurer après D-037/D-038 ; 1200/810/390 à valider ; pixels gucci/puma jusqu'à 27 %
 - [~] `/studio` — 0 manquant/en trop/géométrie/style/texte, hauteur 0 % aux 4 largeurs ; pixels ≤ 0,53 % à 1440/810/390 ; 1200 : capture d'écran impossible côté banc (« Unable to capture screenshot »), à refaire. Compteurs portés à l'identique (D-027), effets de défilement (hero, parallaxe) désactivés hors desktop comme l'original
 - [x] `/journal` — 0 écart structurel, hauteur 0 %, pixels ≤ 0,54 % aux 4 largeurs (`compare/journal/<w>.json`)

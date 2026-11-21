@@ -18,6 +18,8 @@ const NAME: Record<NavVariant, string> = { dOpen: 'Desktop - Open', pOpen: 'Phon
 const CLOSED_OF: Record<NavVariant, NavVariant> = { dOpen: 'dClosed', dClosed: 'dClosed', tOpen: 'tClosed', tClosed: 'tClosed', pOpen: 'pClosed', pClosed: 'pClosed' };
 const isClosed = (v: NavVariant) => v.endsWith('Closed');
 const translateX = (_: unknown, t: string) => `translateX(-50%) ${t}`;
+// rotation fixe de l'étiquette dans le gabarit (une rotation passée en style était retirée par la projection de mise en page)
+const badge = (_: unknown, t: string) => `translateX(-50%) rotate(-90deg)${t && t !== 'none' ? ' ' + t : ''}`;
 
 function PhoneLogo({ onTap }: { onTap: () => void }) {
   const l = useLink(NAV.logo.href, onTap);
@@ -57,7 +59,7 @@ export function NavBar({ initial }: { initial: NavVariant }) {
                 <Hamburger open={!closedish} onTap={onHamburger} />
               </motion.div>
               {!phone && (
-                <motion.div className="framer-ybstj0-container" layout style={{ rotate: -90 }} transformTemplate={translateX}>
+                <motion.div className="framer-ybstj0-container" layout transformTemplate={badge}>
                   <EstablishedTag />
                 </motion.div>
               )}

@@ -8,7 +8,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import sharp from 'sharp';
-import { launch, openPage, gotoStable, scrollSequence, closeAll, LIST_A, LIST_B, ROOT } from './lib/harness.mjs';
+import { launch, openPage, gotoStable, scrollSequence, closeAll, advance, urlFor, hideOutOfScope, LIST_A, LIST_B, ROOT } from './lib/harness.mjs';
 import { ROUTES, slugOf } from './routes.mjs';
 
 const arg = (k, d) => (process.argv.find((a) => a.startsWith(`--${k}=`)) || '').split('=')[1] || d;
@@ -17,6 +17,7 @@ const routes = arg('only', '') ? arg('only', '').split(',') : ROUTES;
 const widths = arg('widths', '') ? arg('widths', '').split(',').map(Number) : [...LIST_A, ...LIST_B];
 const jobs = +arg('jobs', 2);
 const force = process.argv.includes('--force');
+const light = process.argv.includes('--light');
 const BASE = path.join(ROOT, target === 'ref' ? 'reference' : 'clone-ref');
 
 // Exécuté dans la page : relevé des éléments visibles.
@@ -93,7 +94,8 @@ async function worker() {
     const t = Date.now();
     const h = await openPage(browser, target, { width: w, net: arg('net', 'replay') });
     try {
-      await gotoStable(h, r);
+      // --light : chargement + 7 s de temps virtuel, sans défilement complet (pages à défilement horizontal : /projects) — même mode pour les deux cibles
+      if (light) { await h.page.goto(urlFor(target, r), { waitUntil: 'load' }); await hideOutOfScope(h.page, target); await advance(h.page, 7000); } else await gotoStable(h, r);
       // Géométrie relevée en haut de page après défilement complet (apparitions déclenchées et terminées).
       const geo = await h.page.evaluate(collectGeometry);
       const dom = await h.page.content();
@@ -105,12 +107,13 @@ async function worker() {
       await fs.writeFile(path.join(BASE, 'text', slug, `${w}.json`), JSON.stringify(geo.texts, null, 1));
       await fs.writeFile(path.join(BASE, 'dom', slug, `${w}.html`), dom);
       // Capture de page = séquence de défilement (D-017) : pas de 25 % de fenêtre (liste A), 100 % (liste B).
-      const seq = await scrollSequence(h, {
+      const seq = light ? { scrollHeight: geo.scrollHeight, ys: [0], shots: [] } : await scrollSequence(h, {
         stepFrac: LIST_A.includes(w) ? 0.25 : 1,
         settleMs: 600, // apparitions déjà déclenchées par gotoStable ; effets liés au défilement immédiats
         sectionsSelector: target === 'ref' ? 'main > div > div > *, [data-framer-name] > section, section' : '[data-section]',
         onShot: (s) => sharp(s.png).webp({ lossless: true, effort: 4 }).toFile(path.join(shotDir, `seq-${String(s.index).padStart(3, '0')}.webp`)).then(() => { s.png = undefined; }),
       });
+      if (light) await sharp(await h.page.screenshot()).webp({ lossless: true, effort: 4 }).toFile(path.join(shotDir, 'seq-000.webp'));
       await fs.writeFile(path.join(shotDir, 'seq.json'), JSON.stringify({ scrollHeight: seq.scrollHeight, ys: seq.ys }, null, 1));
       report.push({ r, w, ok: true, ms: Date.now() - t, height: geo.scrollHeight, items: geo.items.length, missing: h.missing.length, errors: h.errors.length });
     } catch (e) {

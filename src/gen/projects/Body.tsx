@@ -6,6 +6,7 @@ import { Lk } from '@/components/Lk';
 import { ProjectsShowcase } from '@/webgl/projects/ProjectsShowcase';
 import { SV } from '@/components/Variants';
 import { SmoothScroll } from '@/components/SmoothScroll';
+import { projects } from '@/data/projects';
 
 
 export function Body() {
@@ -39,7 +40,7 @@ export function Body() {
                     <div className="framer-gbueqi" data-framer-name="Project count font">
                       <div className="framer-93y8ef" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }}>
-                          {T[2]}
+                          {`(${projects.length})`}
                         </p>
                       </div>
                     </div>
@@ -51,18 +52,18 @@ export function Body() {
                   <div className="framer-w6BnQ framer-yTVl5 framer-Me6vv framer-162pug6 framer-v-162pug6" data-framer-name="Big" style={{ "width": "100%" }}>
                     <div className="framer-14g1br8" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "flex-end", "--extracted-r6o4lv": "var(--variable-reference-XU6EGhHcu-D21Ecyglh)", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "--variable-reference-XU6EGhHcu-D21Ecyglh": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))", "transform": "none" }}>
                       <p className="framer-text framer-styles-preset-1l3tbw0" data-styles-preset="cZ7bby0gR" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-XU6EGhHcu-D21Ecyglh))" }}>
-                        {T[3]}
+                        {T[2]}
                       </p>
                     </div>
                   </div>
                 </div>
               </SV>
             </header>
-            <div className="framer-q4xdmx-container"><ProjectsShowcase slot={<div className="framer-1smkdlc" data-framer-name="Projects Source (Slot)">
+            <div className="framer-q4xdmx-container"><SV c="ssr-variant" show={["desktop","tablet","phone"]}><ProjectsShowcase slot={<div className="framer-1smkdlc" data-framer-name="Projects Source (Slot)">
                 <Lk className="framer-12qg72k framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Project Card" href="./projects/gucci" to="/projects/gucci">
                   <div className="framer-e3lzt7" data-framer-name="Cover">
                     <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                      <img decoding="async" width={2400} height={1350} src="/assets/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg" alt={T[4]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                      <img decoding="async" width={2400} height={1350} src="/assets/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg" alt={T[3]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                     </div>
                   </div>
                   <div className="framer-1mlcts6-container" data-framer-name="Uploaded Video" {...{ name: "Uploaded Video" }}>
@@ -70,26 +71,26 @@ export function Body() {
                   </div>
                   <div className="framer-1nt3kx8" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
-                      {T[5]}
+                      {T[4]}
                     </h2>
                   </div>
                 </Lk>
                 <Lk className="framer-12qg72k framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Project Card" href="./projects/chanel" to="/projects/chanel">
                   <div className="framer-e3lzt7" data-framer-name="Cover">
                     <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                      <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[6]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                      <img decoding="async" width={2040} height={1148} src="/assets/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg" alt={T[5]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                     </div>
                   </div>
                   <div className="framer-1nt3kx8" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
-                      {T[7]}
+                      {T[6]}
                     </h2>
                   </div>
                 </Lk>
                 <Lk className="framer-12qg72k framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Project Card" href="./projects/puma" to="/projects/puma">
                   <div className="framer-e3lzt7" data-framer-name="Cover">
                     <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                      <img decoding="async" width={1152} height={1440} src="/assets/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg" alt={T[8]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                      <img decoding="async" width={1152} height={1440} src="/assets/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg" alt={T[7]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                     </div>
                   </div>
                   <div className="framer-1mlcts6-container" data-framer-name="Uploaded Video" {...{ name: "Uploaded Video" }}>
@@ -97,69 +98,69 @@ export function Body() {
                   </div>
                   <div className="framer-1nt3kx8" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
-                      {T[9]}
+                      {T[8]}
                     </h2>
                   </div>
                 </Lk>
                 <Lk className="framer-12qg72k framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Project Card" href="./projects/adidas" to="/projects/adidas">
                   <div className="framer-e3lzt7" data-framer-name="Cover">
                     <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                      <img decoding="async" width={2400} height={1350} src="/assets/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg" alt={T[10]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                      <img decoding="async" width={2400} height={1350} src="/assets/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg" alt={T[9]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                     </div>
                   </div>
                   <div className="framer-1nt3kx8" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
-                      {T[11]}
+                      {T[10]}
                     </h2>
                   </div>
                 </Lk>
                 <Lk className="framer-12qg72k framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Project Card" href="./projects/nike" to="/projects/nike">
                   <div className="framer-e3lzt7" data-framer-name="Cover">
                     <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                      <img decoding="async" width={2040} height={1148} src="/assets/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg" alt={T[12]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                      <img decoding="async" width={2040} height={1148} src="/assets/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg" alt={T[11]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                     </div>
                   </div>
                   <div className="framer-1nt3kx8" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
-                      {T[13]}
+                      {T[12]}
                     </h2>
                   </div>
                 </Lk>
                 <Lk className="framer-12qg72k framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Project Card" href="./projects/under-armour" to="/projects/under-armour">
                   <div className="framer-e3lzt7" data-framer-name="Cover">
                     <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
-                      <img decoding="async" width={2040} height={1148} src="/assets/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg" alt={T[14]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
+                      <img decoding="async" width={2040} height={1148} src="/assets/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg" alt={T[13]} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} />
                     </div>
                   </div>
                   <div className="framer-1nt3kx8" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <h2 className="framer-text framer-styles-preset-fvem1p" data-styles-preset="LMUl9NNGN" dir="auto" style={{ "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" }}>
-                      {T[15]}
+                      {T[14]}
                     </h2>
                   </div>
                 </Lk>
               </div>} fontSlot={<div className="framer-1wrhru3" data-framer-name="Title Font Goes Here">
                 <div className="framer-6lhlmk" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                   <h2 className="framer-text framer-styles-preset-1c0t51l" data-styles-preset="iLKnB8A0V" dir="auto">
-                    {T[16]}
+                    {T[15]}
                   </h2>
                 </div>
               </div>} countFontSlot={<div className="framer-1is60kx" data-framer-name="Count Font Goes Here">
                 <div className="framer-bowggs" data-framer-name="Count Text" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                   <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto">
-                    {T[17]}
+                    {T[16]}
                   </p>
                 </div>
               </div>} detailsSlot={<div className="framer-9lk2t" data-framer-name="Card Details (Slot)">
                 <Lk className="framer-ed3rdn framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Details" href="./projects/gucci" to="/projects/gucci">
                   <div className="framer-32mldv" data-framer-name="Industry" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)" }}>
-                      {T[18]}
+                      {T[17]}
                     </p>
                   </div>
                   <div className="framer-1steoaf" data-framer-name="Year" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
                       <time dateTime="2026-07-08T00:00:00.000Z">
-                        {T[19]}
+                        {T[18]}
                       </time>
                     </p>
                   </div>
@@ -167,13 +168,13 @@ export function Body() {
                 <Lk className="framer-ed3rdn framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Details" href="./projects/chanel" to="/projects/chanel">
                   <div className="framer-32mldv" data-framer-name="Industry" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)" }}>
-                      {T[20]}
+                      {T[19]}
                     </p>
                   </div>
                   <div className="framer-1steoaf" data-framer-name="Year" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
                       <time dateTime="2024-07-10T00:00:00.000Z">
-                        {T[21]}
+                        {T[20]}
                       </time>
                     </p>
                   </div>
@@ -181,13 +182,13 @@ export function Body() {
                 <Lk className="framer-ed3rdn framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Details" href="./projects/puma" to="/projects/puma">
                   <div className="framer-32mldv" data-framer-name="Industry" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)" }}>
-                      {T[22]}
+                      {T[21]}
                     </p>
                   </div>
                   <div className="framer-1steoaf" data-framer-name="Year" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
                       <time dateTime="2025-05-05T00:00:00.000Z">
-                        {T[23]}
+                        {T[22]}
                       </time>
                     </p>
                   </div>
@@ -195,13 +196,13 @@ export function Body() {
                 <Lk className="framer-ed3rdn framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Details" href="./projects/adidas" to="/projects/adidas">
                   <div className="framer-32mldv" data-framer-name="Industry" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)" }}>
-                      {T[24]}
+                      {T[23]}
                     </p>
                   </div>
                   <div className="framer-1steoaf" data-framer-name="Year" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
                       <time dateTime="2025-04-15T00:00:00.000Z">
-                        {T[25]}
+                        {T[24]}
                       </time>
                     </p>
                   </div>
@@ -209,13 +210,13 @@ export function Body() {
                 <Lk className="framer-ed3rdn framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Details" href="./projects/nike" to="/projects/nike">
                   <div className="framer-32mldv" data-framer-name="Industry" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)" }}>
-                      {T[26]}
+                      {T[25]}
                     </p>
                   </div>
                   <div className="framer-1steoaf" data-framer-name="Year" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
                       <time dateTime="2025-01-01T00:00:00.000Z">
-                        {T[27]}
+                        {T[26]}
                       </time>
                     </p>
                   </div>
@@ -223,18 +224,18 @@ export function Body() {
                 <Lk className="framer-ed3rdn framer-1wrtkop" data-framer-cursor="9iwj27" data-framer-name="Details" href="./projects/under-armour" to="/projects/under-armour">
                   <div className="framer-32mldv" data-framer-name="Industry" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "start", "--framer-text-color": "var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94)" }}>
-                      {T[28]}
+                      {T[27]}
                     </p>
                   </div>
                   <div className="framer-1steoaf" data-framer-name="Year" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }}>
                     <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))" }}>
                       <time dateTime="2023-02-01T00:00:00.000Z">
-                        {T[29]}
+                        {T[28]}
                       </time>
                     </p>
                   </div>
                 </Lk>
-              </div>} /></div>
+              </div>} /></SV></div>
           </div>
         </section>
       </div>

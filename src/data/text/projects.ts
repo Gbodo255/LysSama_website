@@ -2,7 +2,6 @@
 export const T: readonly string[] = [
  "home",
  "selected works",
- "6",
  "(2012-26©)",
  "Close-up of a model wearing wraparound sunglasses covered in water droplets",
  "Gucci",
