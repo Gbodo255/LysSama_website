@@ -1,0 +1,7190 @@
+{
+ "width": 1440,
+ "missing": 0,
+ "errors": [
+  "Failed to load resource: net::ERR_FAILED",
+  "Failed to load resource: net::ERR_FAILED",
+  "TypeError: Failed to fetch dynamically imported module: https://framer.com/edit/init.mjs"
+ ],
+ "scrollHeight": 9190,
+ "outline": [
+  {
+   "d": 1,
+   "n": "Spacer",
+   "c": "framer-yXQrW framer-gmtdri",
+   "tag": "div",
+   "r": [
+    0,
+    0,
+    59,
+    800
+   ]
+  },
+  {
+   "d": 1,
+   "n": "Content",
+   "c": "framer-1n70wml",
+   "tag": "div",
+   "r": [
+    59,
+    0,
+    1381,
+    8245.4
+   ]
+  },
+  {
+   "d": 2,
+   "n": "Hero",
+   "c": "framer-1x0mefb",
+   "tag": "section",
+   "r": [
+    59,
+    0,
+    1381,
+    900
+   ]
+  },
+  {
+   "d": 3,
+   "n": "BG Outer Container",
+   "c": "framer-oqp9pp",
+   "tag": "div",
+   "r": [
+    59,
+    0,
+    1381,
+    900
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Revealed",
+   "c": "framer-83xqy framer-j4z1zy",
+   "tag": "div",
+   "r": [
+    62,
+    3,
+    1375,
+    894
+   ]
+  },
+  {
+   "d": 5,
+   "n": "BG",
+   "c": "framer-rbevx0",
+   "tag": "div",
+   "r": [
+    62,
+    3,
+    1375,
+    894
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Dark overlay",
+   "c": "framer-1q48sik",
+   "tag": "div",
+   "r": [
+    62,
+    3,
+    1375,
+    894
+   ]
+  },
+  {
+   "d": 6,
+   "n": "BG Image",
+   "c": "framer-ios0bt",
+   "tag": "div",
+   "r": [
+    62,
+    3,
+    1375,
+    894
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Inside Container",
+   "c": "framer-hb5ox2",
+   "tag": "div",
+   "r": [
+    59,
+    0,
+    1381,
+    900
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Top",
+   "c": "framer-1k134jf",
+   "tag": "header",
+   "r": [
+    92,
+    33,
+    1315,
+    26.5
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Link Container",
+   "c": "framer-fjOy7 framer-gesna7",
+   "tag": "a",
+   "r": [
+    92,
+    36.5,
+    70,
+    19.4
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Logo",
+   "c": "framer-1xjrc framer-7h3po8",
+   "tag": "div",
+   "r": [
+    92,
+    36.5,
+    70,
+    19.4
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Desktop - Top",
+   "c": "framer-Z2aNj framer-fvp1dl",
+   "tag": "div",
+   "r": [
+    425.8,
+    33,
+    981.3,
+    26.5
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Projects",
+   "c": "framer-f4luyz-container",
+   "tag": "div",
+   "r": [
+    425.8,
+    33,
+    90.2,
+    26.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Small",
+   "c": "framer-2YuhP framer-7E2P2",
+   "tag": "a",
+   "r": [
+    425.8,
+    33,
+    90.2,
+    26.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Count Text",
+   "c": "framer-12mewa9",
+   "tag": "div",
+   "r": [
+    501.9,
+    33,
+    14,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Studio",
+   "c": "framer-1kxedq2-container",
+   "tag": "div",
+   "r": [
+    901.5,
+    33,
+    54.4,
+    26.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Small",
+   "c": "framer-2YuhP framer-7E2P2",
+   "tag": "a",
+   "r": [
+    901.5,
+    33,
+    54.4,
+    26.5
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Journal",
+   "c": "framer-9r7k9d-container",
+   "tag": "div",
+   "r": [
+    1341.5,
+    33,
+    65.5,
+    26.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Small",
+   "c": "framer-2YuhP framer-7E2P2",
+   "tag": "a",
+   "r": [
+    1341.5,
+    33,
+    65.5,
+    26.5
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Heading",
+   "c": "framer-1338hsz",
+   "tag": "div",
+   "r": [
+    92,
+    289.1,
+    1315,
+    214.3
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Filler",
+   "c": "framer-dx75ug",
+   "tag": "div",
+   "r": [
+    92,
+    289.1,
+    313.8,
+    1
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Heading / Description",
+   "c": "framer-by1tpf",
+   "tag": "div",
+   "r": [
+    425.8,
+    289.1,
+    981.3,
+    214.3
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Bottom",
+   "c": "framer-9yv8xi",
+   "tag": "div",
+   "r": [
+    92,
+    733,
+    1315,
+    134
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Location",
+   "c": "framer-3ji1qe",
+   "tag": "div",
+   "r": [
+    92,
+    827,
+    313.8,
+    40
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Locations",
+   "c": "framer-1l9jy5e",
+   "tag": "div",
+   "r": [
+    156.5,
+    827,
+    249.2,
+    40
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Services",
+   "c": "framer-lx5sm7",
+   "tag": "div",
+   "r": [
+    425.8,
+    783,
+    647.5,
+    84
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Desktop",
+   "c": "framer-shGv8 framer-4tnhfa",
+   "tag": "div",
+   "r": [
+    1294,
+    850,
+    113,
+    17
+   ]
+  },
+  {
+   "d": 6,
+   "n": "X",
+   "c": "framer-17kf78c-container",
+   "tag": "div",
+   "r": [
+    1294,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    1294,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    1294,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-LAEqS framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    1294,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 6,
+   "n": "IG",
+   "c": "framer-1smje0b-container",
+   "tag": "div",
+   "r": [
+    1326,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    1326,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    1326,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-uZnUQ framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    1326,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Dribbble",
+   "c": "framer-t1kefs-container",
+   "tag": "div",
+   "r": [
+    1358,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    1358,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    1358,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-K6Gdb framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    1358,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Behance",
+   "c": "framer-1cdugcb-container",
+   "tag": "div",
+   "r": [
+    1390,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    1390,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    1390,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-lYLYO framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    1390,
+    850,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 2,
+   "n": "Studio",
+   "c": "framer-c2l0bx",
+   "tag": "div",
+   "r": [
+    59,
+    900,
+    1381,
+    7345.4
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Culture",
+   "c": "framer-1nyqe0x",
+   "tag": "section",
+   "r": [
+    59,
+    900,
+    1381,
+    860
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-1emkou7",
+   "tag": "div",
+   "r": [
+    59,
+    1020,
+    1381,
+    620
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Statement / Images",
+   "c": "framer-ty9ie9",
+   "tag": "div",
+   "r": [
+    92,
+    1020,
+    1315,
+    300
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Images / Text",
+   "c": "framer-1wzgagh",
+   "tag": "div",
+   "r": [
+    92,
+    1020,
+    313.8,
+    149.2
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Images",
+   "c": "framer-te4fjx",
+   "tag": "div",
+   "r": [
+    92,
+    1053,
+    235.3,
+    116.2
+   ]
+  },
+  {
+   "d": 8,
+   "n": "1",
+   "c": "framer-1frrzdj",
+   "tag": "div",
+   "r": [
+    92,
+    1053,
+    116.2,
+    116.2
+   ]
+  },
+  {
+   "d": 8,
+   "n": "2",
+   "c": "framer-1jz2epk",
+   "tag": "div",
+   "r": [
+    211.2,
+    1053,
+    116.2,
+    116.2
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Numbers",
+   "c": "framer-1dufcq3",
+   "tag": "div",
+   "r": [
+    92,
+    1400,
+    1315,
+    240
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Metrics",
+   "c": "framer-1sbfwjx",
+   "tag": "div",
+   "r": [
+    759.5,
+    1400,
+    647.5,
+    240
+   ]
+  },
+  {
+   "d": 7,
+   "n": "1",
+   "c": "framer-1o91f3y-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    1400,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    759.5,
+    1400,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    759.5,
+    1400,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    1428,
+    35.8,
+    72
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    759.5,
+    1428,
+    35.8,
+    72
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    759.5,
+    1428,
+    35.8,
+    72
+   ]
+  },
+  {
+   "d": 7,
+   "n": "2",
+   "c": "framer-1o8w7s0-container",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1400,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1400,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1400,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1428,
+    33.7,
+    72
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1428,
+    33.7,
+    72
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1428,
+    33.7,
+    72
+   ]
+  },
+  {
+   "d": 7,
+   "n": "3",
+   "c": "framer-1gy3kbc-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    1540,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    759.5,
+    1540,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    759.5,
+    1540,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    1568,
+    107.1,
+    72
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    759.5,
+    1568,
+    107.1,
+    72
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    759.5,
+    1568,
+    107.1,
+    72
+   ]
+  },
+  {
+   "d": 7,
+   "n": "4",
+   "c": "framer-1g9nqon-container",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1540,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1540,
+    313.8,
+    100
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1540,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1568,
+    89.3,
+    72
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1568,
+    89.3,
+    72
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    1093.3,
+    1568,
+    89.3,
+    72
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Desktop",
+   "c": "framer-EGaJK framer-2Ps8M",
+   "tag": "div",
+   "r": [
+    59,
+    1760,
+    1381,
+    2040.7
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Outer Container",
+   "c": "framer-1fgvo0o",
+   "tag": "div",
+   "r": [
+    62,
+    1763,
+    1375,
+    2034.7
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Inside Container",
+   "c": "framer-1n75itp",
+   "tag": "div",
+   "r": [
+    62,
+    1796,
+    1375,
+    1968.7
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Top",
+   "c": "framer-1ixs85r",
+   "tag": "div",
+   "r": [
+    95,
+    1796,
+    1309,
+    32
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Filler",
+   "c": "framer-247kte",
+   "tag": "div",
+   "r": [
+    95,
+    1796,
+    312.3,
+    1
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Logo",
+   "c": "framer-1xjrc framer-1mi7dag",
+   "tag": "div",
+   "r": [
+    427.3,
+    1802.3,
+    70,
+    19.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Variant 1",
+   "c": "framer-D1HnP framer-Me6vv",
+   "tag": "div",
+   "r": [
+    1307.4,
+    1796,
+    96.6,
+    32
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Globe",
+   "c": "framer-x2q9so",
+   "tag": "div",
+   "r": [
+    1307.4,
+    1796,
+    31,
+    32
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-6xha2i",
+   "tag": "div",
+   "r": [
+    1338.4,
+    1796,
+    65.6,
+    32
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Team",
+   "c": "framer-1bpmpdl",
+   "tag": "div",
+   "r": [
+    95,
+    1948,
+    1309,
+    1245.6
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Text",
+   "c": "framer-1np8gf2",
+   "tag": "div",
+   "r": [
+    95,
+    1948,
+    1309,
+    240
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    95,
+    1948,
+    83.8,
+    18
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    95,
+    1948,
+    83.8,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Filler",
+   "c": "framer-18o87xw",
+   "tag": "div",
+   "r": [
+    95,
+    2268,
+    312.3,
+    1
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    759.5,
+    2268,
+    312.3,
+    452.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    759.5,
+    2268,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    759.5,
+    2268,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    771.5,
+    2280,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    759.5,
+    2694.3,
+    312.3,
+    26.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    1091.8,
+    2268,
+    312.3,
+    452.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    1091.8,
+    2268,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    1091.8,
+    2268,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    1103.8,
+    2280,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    1091.8,
+    2694.3,
+    312.3,
+    26.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    95,
+    2740.8,
+    312.3,
+    452.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    95,
+    2740.8,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    95,
+    2740.8,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    107,
+    2752.8,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    95,
+    3167.1,
+    312.3,
+    26.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    427.3,
+    2740.8,
+    312.3,
+    452.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    427.3,
+    2740.8,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    427.3,
+    2740.8,
+    312.3,
+    416.3
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    439.3,
+    2752.8,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    427.3,
+    3167.1,
+    312.3,
+    26.5
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Hiring Block",
+   "c": "framer-1f3fres",
+   "tag": "div",
+   "r": [
+    95,
+    3313.6,
+    312.3,
+    185.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Top",
+   "c": "framer-ifuqey",
+   "tag": "div",
+   "r": [
+    95,
+    3313.6,
+    312.3,
+    135.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Open Positions",
+   "c": "framer-1gw2wss",
+   "tag": "div",
+   "r": [
+    95,
+    3427,
+    312.3,
+    22
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Number",
+   "c": "framer-1obh6ik",
+   "tag": "div",
+   "r": [
+    95,
+    3427,
+    22,
+    22
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop - Right",
+   "c": "framer-St8Ub framer-khCxy",
+   "tag": "a",
+   "r": [
+    330.6,
+    3479,
+    76.7,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-1dzfdpz",
+   "tag": "div",
+   "r": [
+    330.6,
+    3479,
+    50.7,
+    20.4
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Text",
+   "c": "framer-zixbhw",
+   "tag": "div",
+   "r": [
+    330.6,
+    3479,
+    50.7,
+    20.4
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Bottom Text",
+   "c": "framer-1396mtp",
+   "tag": "div",
+   "r": [
+    330.6,
+    3499,
+    50.7,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Chevron",
+   "c": "framer-73np5u",
+   "tag": "div",
+   "r": [
+    390.3,
+    3480.7,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Filler",
+   "c": "framer-13n93o6",
+   "tag": "div",
+   "r": [
+    427.3,
+    3313.6,
+    312.3,
+    1
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Team photo",
+   "c": "framer-1yvrc4p",
+   "tag": "div",
+   "r": [
+    759.5,
+    3313.6,
+    644.5,
+    451.1
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Grain Overlay",
+   "c": "framer-15xi4dy",
+   "tag": "div",
+   "r": [
+    62,
+    1763,
+    1375,
+    2034.7
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Principles",
+   "c": "framer-epz8fu",
+   "tag": "section",
+   "r": [
+    59,
+    3800.7,
+    1381,
+    949.3
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-1ryjy6b",
+   "tag": "div",
+   "r": [
+    59,
+    3920.7,
+    1381,
+    709.3
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Principles",
+   "c": "framer-1bhgxfc",
+   "tag": "div",
+   "r": [
+    759.5,
+    3920.7,
+    647.5,
+    709.3
+   ]
+  },
+  {
+   "d": 6,
+   "n": "1",
+   "c": "framer-vze3ri-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    3920.7,
+    647.5,
+    175.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    759.5,
+    3920.7,
+    647.5,
+    175.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    759.5,
+    3920.7,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    759.5,
+    3920.7,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    1093.3,
+    3951.7,
+    313.8,
+    144.8
+   ]
+  },
+  {
+   "d": 6,
+   "n": "2",
+   "c": "framer-l3pwqf-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    4126.5,
+    647.5,
+    175.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    759.5,
+    4126.5,
+    647.5,
+    175.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    759.5,
+    4126.5,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    759.5,
+    4126.5,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    1093.3,
+    4157.5,
+    313.8,
+    144.8
+   ]
+  },
+  {
+   "d": 6,
+   "n": "3",
+   "c": "framer-k1zcwk-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    4332.3,
+    647.5,
+    133.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    759.5,
+    4332.3,
+    647.5,
+    133.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    759.5,
+    4332.3,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    759.5,
+    4332.3,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    1093.3,
+    4363.3,
+    313.8,
+    102.8
+   ]
+  },
+  {
+   "d": 6,
+   "n": "4",
+   "c": "framer-1wd0xq0-container",
+   "tag": "div",
+   "r": [
+    759.5,
+    4496.1,
+    647.5,
+    133.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    759.5,
+    4496.1,
+    647.5,
+    133.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    759.5,
+    4496.1,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    759.5,
+    4496.1,
+    647.5,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    1093.3,
+    4527.1,
+    313.8,
+    102.8
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Desktop",
+   "c": "framer-HIOH4 framer-Me6vv",
+   "tag": "section",
+   "r": [
+    59,
+    4750,
+    1381,
+    561
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-10m73gh",
+   "tag": "div",
+   "r": [
+    59,
+    4870,
+    1381,
+    321
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    92,
+    4870,
+    69.5,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    92,
+    4870,
+    69.5,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Logo / Rating",
+   "c": "framer-v4fp35",
+   "tag": "div",
+   "r": [
+    425.8,
+    4870,
+    981.3,
+    321
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Logos",
+   "c": "framer-1v6x4pk",
+   "tag": "div",
+   "r": [
+    425.8,
+    4870,
+    981.3,
+    245
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    425.8,
+    4870,
+    323.8,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-gaSjD framer-o7c73w",
+   "tag": "div",
+   "r": [
+    554.3,
+    4915,
+    66.7,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    754.5,
+    4870,
+    323.8,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-wSHP9 framer-o7c73w",
+   "tag": "div",
+   "r": [
+    904.4,
+    4915,
+    24,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    1083.3,
+    4870,
+    323.8,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-yh1m0 framer-o7c73w",
+   "tag": "div",
+   "r": [
+    1205.1,
+    4915,
+    80,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    425.8,
+    4995,
+    323.8,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-9SpMv framer-o7c73w",
+   "tag": "div",
+   "r": [
+    550.1,
+    5040,
+    75,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    754.5,
+    4995,
+    323.8,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-CxFEq framer-o7c73w",
+   "tag": "div",
+   "r": [
+    893.3,
+    5040,
+    46.1,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    1083.3,
+    4995,
+    323.8,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-azjUT framer-o7c73w",
+   "tag": "div",
+   "r": [
+    1227.5,
+    5040,
+    35.3,
+    30
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Year / Rating",
+   "c": "framer-11lsex1",
+   "tag": "div",
+   "r": [
+    425.8,
+    5155,
+    981.3,
+    36
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Rating",
+   "c": "framer-Vl2Hy framer-AWIXE",
+   "tag": "div",
+   "r": [
+    759.5,
+    5157.7,
+    647.5,
+    30.6
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Stacked Avatars",
+   "c": "framer-15gtnew",
+   "tag": "div",
+   "r": [
+    759.5,
+    5157.7,
+    107,
+    30
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Container",
+   "c": "framer-4rons3",
+   "tag": "div",
+   "r": [
+    759.5,
+    5157.7,
+    107,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "1",
+   "c": "framer-zsjmne-container",
+   "tag": "div",
+   "r": [
+    776.5,
+    5157.7,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Large",
+   "c": "framer-oe2kI framer-134908u",
+   "tag": "div",
+   "r": [
+    776.5,
+    5157.7,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Image",
+   "c": "framer-17aumxd",
+   "tag": "div",
+   "r": [
+    762,
+    5157.7,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "2",
+   "c": "framer-1ywp80p-container",
+   "tag": "div",
+   "r": [
+    800.5,
+    5157.7,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Large",
+   "c": "framer-oe2kI framer-134908u",
+   "tag": "div",
+   "r": [
+    800.5,
+    5157.7,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Image",
+   "c": "framer-17aumxd",
+   "tag": "div",
+   "r": [
+    786,
+    5157.7,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "3",
+   "c": "framer-r3qz5f-container",
+   "tag": "div",
+   "r": [
+    824.5,
+    5157.7,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Large",
+   "c": "framer-oe2kI framer-134908u",
+   "tag": "div",
+   "r": [
+    824.5,
+    5157.7,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Image",
+   "c": "framer-17aumxd",
+   "tag": "div",
+   "r": [
+    810,
+    5157.7,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "4",
+   "c": "framer-ac7ito",
+   "tag": "div",
+   "r": [
+    848.5,
+    5157.7,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Count",
+   "c": "framer-1dm823p",
+   "tag": "div",
+   "r": [
+    834,
+    5157.7,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Rating",
+   "c": "framer-1gj1j7j",
+   "tag": "div",
+   "r": [
+    876.5,
+    5157.7,
+    115.8,
+    30.6
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Rating / Stars",
+   "c": "framer-o7y3w4",
+   "tag": "div",
+   "r": [
+    876.5,
+    5157.7,
+    115.8,
+    13.8
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Stars",
+   "c": "framer-lhv1pj",
+   "tag": "div",
+   "r": [
+    910.5,
+    5160.5,
+    53,
+    8
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Recognition",
+   "c": "framer-1v9qbyv",
+   "tag": "section",
+   "r": [
+    59,
+    5311,
+    1381,
+    700
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-maixoy",
+   "tag": "div",
+   "r": [
+    59,
+    5431,
+    1381,
+    460
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Awards",
+   "c": "framer-1qjbmof",
+   "tag": "div",
+   "r": [
+    92,
+    5583,
+    1315,
+    308
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Small",
+   "c": "framer-w6BnQ framer-yTVl5",
+   "tag": "div",
+   "r": [
+    92,
+    5583,
+    61.2,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Awards",
+   "c": "framer-fa2fr4",
+   "tag": "div",
+   "r": [
+    425.8,
+    5583,
+    981.3,
+    308
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Labels",
+   "c": "framer-1pyvfr0",
+   "tag": "div",
+   "r": [
+    425.8,
+    5583,
+    981.3,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Awards",
+   "c": "framer-1q3vn7z",
+   "tag": "div",
+   "r": [
+    425.8,
+    5631,
+    981.3,
+    260
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Desktop",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    425.8,
+    5631,
+    981.3,
+    65
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    425.8,
+    5651,
+    981.3,
+    24
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    425.8,
+    5695,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    425.8,
+    5695,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Desktop",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    425.8,
+    5696,
+    981.3,
+    65
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    425.8,
+    5716,
+    981.3,
+    24
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    425.8,
+    5760,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    425.8,
+    5760,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Desktop",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    425.8,
+    5761,
+    981.3,
+    65
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    425.8,
+    5781,
+    981.3,
+    24
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    425.8,
+    5825,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    425.8,
+    5825,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Desktop",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    425.8,
+    5826,
+    981.3,
+    65
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    425.8,
+    5846,
+    981.3,
+    24
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    425.8,
+    5890,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    425.8,
+    5890,
+    981.3,
+    1
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Desktop",
+   "c": "framer-azsrl framer-LubW4",
+   "tag": "section",
+   "r": [
+    59,
+    6011,
+    1381,
+    939.1
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-1fq9aj0",
+   "tag": "div",
+   "r": [
+    59,
+    6131,
+    1381,
+    699.1
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Label / Heading",
+   "c": "framer-t0gxtr",
+   "tag": "div",
+   "r": [
+    92,
+    6131,
+    1315,
+    110
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Filler",
+   "c": "framer-nqgxp3",
+   "tag": "div",
+   "r": [
+    92,
+    6131,
+    313.8,
+    1
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Label / Heading",
+   "c": "framer-srsset",
+   "tag": "div",
+   "r": [
+    425.8,
+    6131,
+    647.5,
+    110
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    425.8,
+    6131,
+    105.3,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    425.8,
+    6131,
+    105.3,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Desktop - Right",
+   "c": "framer-St8Ub framer-khCxy",
+   "tag": "a",
+   "r": [
+    1330.6,
+    6220.5,
+    76.4,
+    20.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Text",
+   "c": "framer-1dzfdpz",
+   "tag": "div",
+   "r": [
+    1330.6,
+    6220.5,
+    50.4,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Top Text",
+   "c": "framer-zixbhw",
+   "tag": "div",
+   "r": [
+    1330.6,
+    6220.5,
+    50.4,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bottom Text",
+   "c": "framer-1396mtp",
+   "tag": "div",
+   "r": [
+    1330.6,
+    6240.5,
+    50.4,
+    20.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Chevron",
+   "c": "framer-73np5u",
+   "tag": "div",
+   "r": [
+    1390,
+    6222.3,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Desktop",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    92,
+    6321,
+    313.8,
+    311.3
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    92,
+    6321,
+    313.8,
+    246.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    92,
+    6321,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    92,
+    6349,
+    313.8,
+    218.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    92,
+    6349,
+    313.8,
+    218.8
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    92,
+    6582.8,
+    313.8,
+    49.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    92,
+    6614.3,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Desktop",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    425.8,
+    6321,
+    313.8,
+    508.9
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    425.8,
+    6321,
+    313.8,
+    444.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    425.8,
+    6321,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    425.8,
+    6349,
+    313.8,
+    416.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    425.8,
+    6349,
+    313.8,
+    416.5
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    425.8,
+    6780.4,
+    313.8,
+    49.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    425.8,
+    6811.9,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Desktop",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    759.5,
+    6321,
+    313.8,
+    269
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    759.5,
+    6321,
+    313.8,
+    204.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    759.5,
+    6321,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    759.5,
+    6349,
+    313.8,
+    176.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    759.5,
+    6349,
+    313.8,
+    176.5
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    759.5,
+    6540.5,
+    313.8,
+    49.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    759.5,
+    6572,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Desktop",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    1093.3,
+    6321,
+    313.8,
+    509.1
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    1093.3,
+    6321,
+    313.8,
+    444.6
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    1093.3,
+    6321,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    1093.3,
+    6349,
+    313.8,
+    416.6
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    1093.3,
+    6349,
+    313.8,
+    416.6
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    1093.3,
+    6780.6,
+    313.8,
+    49.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    1093.3,
+    6812,
+    313.8,
+    18
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Desktop",
+   "c": "framer-qIn7C framer-QoPvp",
+   "tag": "section",
+   "r": [
+    59,
+    6950,
+    1381,
+    1295.3
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Outer Container",
+   "c": "framer-1sfsb0h",
+   "tag": "div",
+   "r": [
+    62,
+    6953,
+    1375,
+    1289.3
+   ]
+  },
+  {
+   "d": 5,
+   "n": "End",
+   "c": "framer-GJxp5 framer-ygyp3d",
+   "tag": "div",
+   "r": [
+    62,
+    6953,
+    1375,
+    1289.3
+   ]
+  },
+  {
+   "d": 6,
+   "n": "BG",
+   "c": "framer-fbyx7b",
+   "tag": "div",
+   "r": [
+    62,
+    6953,
+    1375,
+    1289.3
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark overlay",
+   "c": "framer-2rkagx",
+   "tag": "div",
+   "r": [
+    62,
+    6953,
+    1375,
+    1289.3
+   ]
+  },
+  {
+   "d": 7,
+   "n": "BG Image",
+   "c": "framer-1rd84u6",
+   "tag": "div",
+   "r": [
+    62,
+    6953,
+    1375,
+    1289.3
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Inside Container",
+   "c": "framer-18ffh8y",
+   "tag": "div",
+   "r": [
+    62,
+    6983,
+    1375,
+    1139.3
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Top",
+   "c": "framer-1xd81fe",
+   "tag": "div",
+   "r": [
+    92,
+    6983,
+    1315,
+    36.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    92,
+    6983,
+    70.1,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    92,
+    6983,
+    70.1,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Availability",
+   "c": "framer-1x9xq4c",
+   "tag": "div",
+   "r": [
+    425.8,
+    6983,
+    647.5,
+    18.2
+   ]
+  },
+  {
+   "d": 8,
+   "n": "2",
+   "c": "framer-fqvLJ framer-c37j5z",
+   "tag": "div",
+   "r": [
+    425.8,
+    6986.1,
+    18,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Active",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    425.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    425.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Active",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    429.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    429.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Inactive",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    433.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    433.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Inactive",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    437.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    437.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Inactive",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    441.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    441.8,
+    6986.1,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Author",
+   "c": "framer-QRwP7 framer-QoPvp",
+   "tag": "div",
+   "r": [
+    1093.3,
+    6983,
+    313.8,
+    36.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-lpw2kj",
+   "tag": "div",
+   "r": [
+    1136.3,
+    6983,
+    48.5,
+    36.4
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Middle",
+   "c": "framer-1vtoytd",
+   "tag": "div",
+   "r": [
+    92,
+    7139.4,
+    1315,
+    762.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Filler",
+   "c": "framer-13uprae",
+   "tag": "div",
+   "r": [
+    92,
+    7139.4,
+    313.8,
+    1
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Heading / Form",
+   "c": "framer-sec3t8",
+   "tag": "div",
+   "r": [
+    425.8,
+    7139.4,
+    981.3,
+    762.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Heading / Description",
+   "c": "framer-11w2tx5",
+   "tag": "div",
+   "r": [
+    425.8,
+    7139.4,
+    981.3,
+    226.9
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Form / Contact Info",
+   "c": "framer-behbyg",
+   "tag": "div",
+   "r": [
+    425.8,
+    7446.3,
+    981.3,
+    455.6
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Default",
+   "c": "framer-KEC63 framer-khCxy",
+   "tag": "div",
+   "r": [
+    425.8,
+    7446.3,
+    647.5,
+    455.6
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Spinner",
+   "c": "framer-pEZXs framer-7sj87n",
+   "tag": "div",
+   "r": [
+    741.5,
+    7670.7,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Spinner",
+   "c": "framer-1yqlm52",
+   "tag": "div",
+   "r": [
+    741.5,
+    7670.7,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Fields",
+   "c": "framer-17d941x",
+   "tag": "div",
+   "r": [
+    425.8,
+    7446.3,
+    647.5,
+    387.2
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Name / Company",
+   "c": "framer-1c5kg59",
+   "tag": "div",
+   "r": [
+    425.8,
+    7446.3,
+    647.5,
+    49.2
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Name",
+   "c": "framer-myo4nu",
+   "tag": "label",
+   "r": [
+    425.8,
+    7446.3,
+    318.8,
+    49.2
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Company",
+   "c": "framer-c41om3",
+   "tag": "label",
+   "r": [
+    754.5,
+    7446.3,
+    318.8,
+    49.2
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Help With",
+   "c": "framer-ausbnb",
+   "tag": "label",
+   "r": [
+    425.8,
+    7510.5,
+    647.5,
+    49.2
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Pitch",
+   "c": "framer-3t0b9d",
+   "tag": "label",
+   "r": [
+    425.8,
+    7574.8,
+    647.5,
+    130.4
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Budget & Timeline",
+   "c": "framer-1lq4m9b",
+   "tag": "div",
+   "r": [
+    425.8,
+    7720.2,
+    647.5,
+    49.2
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Budget",
+   "c": "framer-mvvosq",
+   "tag": "label",
+   "r": [
+    425.8,
+    7720.2,
+    318.8,
+    49.2
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Start",
+   "c": "framer-78o1yk",
+   "tag": "label",
+   "r": [
+    754.5,
+    7720.2,
+    318.8,
+    49.2
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Email",
+   "c": "framer-u8bpr7",
+   "tag": "label",
+   "r": [
+    425.8,
+    7784.4,
+    647.5,
+    49.2
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Legal / Submit",
+   "c": "framer-nxx5hd",
+   "tag": "div",
+   "r": [
+    425.8,
+    7863.6,
+    647.5,
+    38.4
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Legal",
+   "c": "framer-mrpb47",
+   "tag": "div",
+   "r": [
+    425.8,
+    7864.6,
+    313.8,
+    36.4
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Incomplete",
+   "c": "framer-8H41b framer-khCxy",
+   "tag": "button",
+   "r": [
+    759.5,
+    7863.6,
+    313.8,
+    38.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "BG Color",
+   "c": "framer-17skh7b",
+   "tag": "div",
+   "r": [
+    759.5,
+    7863.6,
+    313.8,
+    38.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "btn text",
+   "c": "framer-71e8ti",
+   "tag": "div",
+   "r": [
+    869.4,
+    7872.6,
+    93.9,
+    20.4
+   ]
+  },
+  {
+   "d": 13,
+   "n": "top",
+   "c": "framer-1gm2ya6",
+   "tag": "div",
+   "r": [
+    869.4,
+    7872.6,
+    93.9,
+    20.4
+   ]
+  },
+  {
+   "d": 13,
+   "n": "bottom",
+   "c": "framer-l29hgm",
+   "tag": "div",
+   "r": [
+    869.4,
+    7892.6,
+    93.9,
+    20.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Success",
+   "c": "framer-o60xf framer-1xmnpcd",
+   "tag": "svg",
+   "r": [
+    906,
+    7875.9,
+    14.4,
+    14.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Spinner",
+   "c": "framer-pEZXs framer-7sj87n",
+   "tag": "div",
+   "r": [
+    908.4,
+    7875.1,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 13,
+   "n": "Spinner",
+   "c": "framer-1yqlm52",
+   "tag": "div",
+   "r": [
+    908.4,
+    7875.1,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Contact / Logo",
+   "c": "framer-xxp7hb",
+   "tag": "div",
+   "r": [
+    1093.3,
+    7446.3,
+    313.8,
+    116.5
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Phone / Email",
+   "c": "framer-1g9sbcz",
+   "tag": "div",
+   "r": [
+    1093.3,
+    7446.3,
+    313.8,
+    63.5
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-1xjrc framer-swsyrf",
+   "tag": "div",
+   "r": [
+    1093.3,
+    7544.8,
+    65,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Bottom",
+   "c": "framer-casp62",
+   "tag": "div",
+   "r": [
+    92,
+    8022,
+    1315,
+    100.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Filler",
+   "c": "framer-1aggwsw",
+   "tag": "div",
+   "r": [
+    92,
+    8022,
+    313.8,
+    100.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark",
+   "c": "framer-4Ch77 framer-Me6vv",
+   "tag": "div",
+   "r": [
+    425.8,
+    8022,
+    313.8,
+    100.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Step",
+   "c": "framer-v8qtu5",
+   "tag": "div",
+   "r": [
+    425.8,
+    8022,
+    23,
+    23
+   ]
+  },
+  {
+   "d": 9,
+   "n": "01",
+   "c": "framer-cnai0k",
+   "tag": "div",
+   "r": [
+    431.2,
+    8024.5,
+    12.1,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-re0eey",
+   "tag": "div",
+   "r": [
+    425.8,
+    8058,
+    313.8,
+    64.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark",
+   "c": "framer-4Ch77 framer-Me6vv",
+   "tag": "div",
+   "r": [
+    759.5,
+    8022,
+    313.8,
+    100.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Step",
+   "c": "framer-v8qtu5",
+   "tag": "div",
+   "r": [
+    759.5,
+    8022,
+    23,
+    23
+   ]
+  },
+  {
+   "d": 9,
+   "n": "01",
+   "c": "framer-cnai0k",
+   "tag": "div",
+   "r": [
+    764,
+    8024.5,
+    14,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-re0eey",
+   "tag": "div",
+   "r": [
+    759.5,
+    8058,
+    313.8,
+    64.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark",
+   "c": "framer-4Ch77 framer-Me6vv",
+   "tag": "div",
+   "r": [
+    1093.3,
+    8022,
+    313.8,
+    100.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Step",
+   "c": "framer-v8qtu5",
+   "tag": "div",
+   "r": [
+    1093.3,
+    8022,
+    23,
+    23
+   ]
+  },
+  {
+   "d": 9,
+   "n": "01",
+   "c": "framer-cnai0k",
+   "tag": "div",
+   "r": [
+    1097.6,
+    8024.5,
+    14.2,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-re0eey",
+   "tag": "div",
+   "r": [
+    1093.3,
+    8058,
+    313.8,
+    64.4
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    425.8,
+    33,
+    72.2,
+    26.5
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    425.8,
+    58,
+    72.2,
+    26.5
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "(6)",
+   "raw": "(6)",
+   "r": [
+    501.9,
+    33,
+    14,
+    18
+   ],
+   "lines": [
+    "(6)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(245, 45, 15) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Count Text"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    901.5,
+    33,
+    54.4,
+    26.5
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    901.5,
+    58,
+    54.4,
+    26.5
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    1341.5,
+    33,
+    65.5,
+    26.5
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    1341.5,
+    58,
+    65.5,
+    26.5
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "h1",
+   "t": "the studio.",
+   "raw": "the studio.",
+   "r": [
+    425.8,
+    289.1,
+    549.9,
+    131.1
+   ],
+   "lines": [
+    "the"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 139.757px | 125.782px | -2.79515px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "p",
+   "t": "A brand and web studio for founders who care how they’re seen. Small on purpose, and personal by design.",
+   "raw": "                           A brand and web studio for founders who care how they’re seen. Small on purpose, and personal by design.",
+   "r": [
+    425.8,
+    450.5,
+    550,
+    52.9
+   ],
+   "lines": [
+    "A",
+    "t"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | justify | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "p",
+   "t": "based in",
+   "raw": "based in",
+   "r": [
+    92,
+    849,
+    49.5,
+    18
+   ],
+   "lines": [
+    "based"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(188, 188, 188) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Location"
+  },
+  {
+   "tag": "p",
+   "t": "los angeles",
+   "raw": "los angeles",
+   "r": [
+    156.5,
+    827,
+    249.2,
+    18
+   ],
+   "lines": [
+    "los"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Locations"
+  },
+  {
+   "tag": "p",
+   "t": "tokyo",
+   "raw": "tokyo",
+   "r": [
+    156.5,
+    849,
+    249.2,
+    18
+   ],
+   "lines": [
+    "tokyo"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Locations"
+  },
+  {
+   "tag": "p",
+   "t": "Services",
+   "raw": "Services",
+   "r": [
+    425.8,
+    849,
+    52.1,
+    18
+   ],
+   "lines": [
+    "Services"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(188, 188, 188) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Brand Identity",
+   "raw": "Brand Identity",
+   "r": [
+    492.8,
+    783,
+    580.4,
+    18
+   ],
+   "lines": [
+    "Brand"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Web Design",
+   "raw": "Web Design",
+   "r": [
+    492.8,
+    805,
+    580.4,
+    18
+   ],
+   "lines": [
+    "Web"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Framer Dev",
+   "raw": "Framer Dev",
+   "r": [
+    492.8,
+    827,
+    580.4,
+    18
+   ],
+   "lines": [
+    "Framer"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Art Direction",
+   "raw": "Art Direction",
+   "r": [
+    492.8,
+    849,
+    580.4,
+    18
+   ],
+   "lines": [
+    "Art"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Our culture.",
+   "raw": "Our culture.",
+   "r": [
+    92,
+    1020,
+    313.8,
+    18
+   ],
+   "lines": [
+    "Our"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Images / Text"
+  },
+  {
+   "tag": "h2",
+   "t": "We care about details most people never notice. We argue about kerning and mean it. Everyone here has taste and gets to use it. Nothing leaves the studio that we wouldn’t put our own name on.",
+   "raw": "                          We care about details most people never notice. We argue about kerning and mean it. Everyone here has taste and gets to use it. Nothing leaves the studio that we wouldn’t put our own name on.",
+   "r": [
+    425.8,
+    1020,
+    981.3,
+    300
+   ],
+   "lines": [
+    "W",
+    "n",
+    "m",
+    "u",
+    "w"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 60px | 60px | -1.2px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | justify | 1",
+   "sec": "Statement / Images"
+  },
+  {
+   "tag": "p",
+   "t": "by the numbers.",
+   "raw": "by the numbers.",
+   "r": [
+    92,
+    1400,
+    400,
+    18
+   ],
+   "lines": [
+    "by"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Numbers"
+  },
+  {
+   "tag": "p",
+   "t": "industries we’ve shipped in",
+   "raw": "industries we’ve shipped in",
+   "r": [
+    759.5,
+    1400,
+    313.8,
+    18
+   ],
+   "lines": [
+    "industries"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "0",
+   "raw": "0",
+   "r": [
+    759.5,
+    1428,
+    35.8,
+    72
+   ],
+   "lines": [
+    "0"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "people max on any project",
+   "raw": "people max on any project",
+   "r": [
+    1093.3,
+    1400,
+    313.8,
+    18
+   ],
+   "lines": [
+    "people"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "3",
+   "raw": "3",
+   "r": [
+    1093.3,
+    1428,
+    33.7,
+    72
+   ],
+   "lines": [
+    "3"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "longest you’ll wait for a reply",
+   "raw": "longest you’ll wait for a reply",
+   "r": [
+    759.5,
+    1540,
+    313.8,
+    18
+   ],
+   "lines": [
+    "longest"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "0hr",
+   "raw": "0hr",
+   "r": [
+    759.5,
+    1568,
+    107.1,
+    72
+   ],
+   "lines": [
+    "0hr"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "of our launches are still live",
+   "raw": "of our launches are still live",
+   "r": [
+    1093.3,
+    1540,
+    313.8,
+    18
+   ],
+   "lines": [
+    "of"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "0%",
+   "raw": "0%",
+   "r": [
+    1093.3,
+    1568,
+    89.3,
+    72
+   ],
+   "lines": [
+    "0%"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "EST. 2012",
+   "raw": " EST. 2012",
+   "r": [
+    1345.4,
+    1803,
+    51.6,
+    18
+   ],
+   "lines": [
+    "EST."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Meet the team",
+   "raw": "Meet the team",
+   "r": [
+    95,
+    1948,
+    83.8,
+    18
+   ],
+   "lines": [
+    "Meet"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+   "raw": "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+   "r": [
+    427.3,
+    1948,
+    976.8,
+    240
+   ],
+   "lines": [
+    "W",
+    "P",
+    "B",
+    "T"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 60px | 60px | -1.2px | uppercase | rgba(13, 13, 13, 0.7) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | justify | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "(4) Team Members",
+   "raw": "(4) Team Members",
+   "r": [
+    427.3,
+    2268,
+    312.3,
+    18
+   ],
+   "lines": [
+    "(4)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | justify | 1",
+   "sec": "Team"
+  },
+  {
+   "tag": "p",
+   "t": "Jin Yuen",
+   "raw": "Jin Yuen",
+   "r": [
+    771.5,
+    2694.3,
+    237.3,
+    26.5
+   ],
+   "lines": [
+    "Jin"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Founder",
+   "raw": "Founder",
+   "r": [
+    1008.8,
+    2702.8,
+    50.9,
+    18
+   ],
+   "lines": [
+    "Founder"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Sarah Park",
+   "raw": "Sarah Park",
+   "r": [
+    1103.8,
+    2694.3,
+    234.5,
+    26.5
+   ],
+   "lines": [
+    "Sarah"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Designer",
+   "raw": "Designer",
+   "r": [
+    1338.2,
+    2702.8,
+    53.8,
+    18
+   ],
+   "lines": [
+    "Designer"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Alex West",
+   "raw": "Alex West",
+   "r": [
+    107,
+    3167.1,
+    194.3,
+    26.5
+   ],
+   "lines": [
+    "Alex"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Client Manager",
+   "raw": "Client Manager",
+   "r": [
+    301.3,
+    3175.6,
+    94,
+    18
+   ],
+   "lines": [
+    "Client"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "David Torres",
+   "raw": "David Torres",
+   "r": [
+    439.3,
+    3167.1,
+    226.7,
+    26.5
+   ],
+   "lines": [
+    "David"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Developer",
+   "raw": "Developer",
+   "r": [
+    666,
+    3175.6,
+    61.5,
+    18
+   ],
+   "lines": [
+    "Developer"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "h3",
+   "t": "join us, we're hiring.",
+   "raw": "join us, we're hiring.",
+   "r": [
+    95,
+    3313.6,
+    312.3,
+    42
+   ],
+   "lines": [
+    "j"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 42px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Top"
+  },
+  {
+   "tag": "p",
+   "t": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+   "raw": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+   "r": [
+    95,
+    3370.6,
+    312.3,
+    36.4
+   ],
+   "lines": [
+    "We’re",
+    "talented"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(255, 255, 255) | normal | normal | start | 1",
+   "sec": "Top"
+  },
+  {
+   "tag": "p",
+   "t": "02",
+   "raw": "02",
+   "r": [
+    99,
+    3429,
+    14,
+    18
+   ],
+   "lines": [
+    "02"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Number"
+  },
+  {
+   "tag": "p",
+   "t": "Open Positions",
+   "raw": "Open Positions",
+   "r": [
+    124,
+    3429,
+    89.9,
+    18
+   ],
+   "lines": [
+    "Open"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Open Positions"
+  },
+  {
+   "tag": "p",
+   "t": "Email us",
+   "raw": "Email us",
+   "r": [
+    330.6,
+    3479,
+    50.7,
+    20.4
+   ],
+   "lines": [
+    "Email"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Top Text"
+  },
+  {
+   "tag": "p",
+   "t": "Email us",
+   "raw": "Email us",
+   "r": [
+    330.6,
+    3499,
+    50.7,
+    20.4
+   ],
+   "lines": [
+    "Email"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Bottom Text"
+  },
+  {
+   "tag": "h2",
+   "t": "What guides us.",
+   "raw": "What guides us.",
+   "r": [
+    92,
+    3920.7,
+    400,
+    144
+   ],
+   "lines": [
+    "W",
+    "g"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Inside Container"
+  },
+  {
+   "tag": "h2",
+   "t": "01",
+   "raw": "01",
+   "r": [
+    759.5,
+    3851.7,
+    313.8,
+    72
+   ],
+   "lines": [
+    "01"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Desktop"
+  },
+  {
+   "tag": "h3",
+   "t": "You talk to the maker.",
+   "raw": "You talk to the maker.",
+   "r": [
+    1093.3,
+    3951.7,
+    300,
+    84
+   ],
+   "lines": [
+    "You",
+    "the"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 42px | -0.8px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "No account layer, no handoffs. The person in your calls is the person in the file.",
+   "raw": "No account layer, no handoffs. The person in your calls is the person in the file.",
+   "r": [
+    1093.3,
+    4055.7,
+    313.8,
+    40.8
+   ],
+   "lines": [
+    "No",
+    "in"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "02",
+   "raw": "02",
+   "r": [
+    759.5,
+    4057.5,
+    313.8,
+    72
+   ],
+   "lines": [
+    "02"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Desktop"
+  },
+  {
+   "tag": "h3",
+   "t": "Scope is set before we start.",
+   "raw": "Scope is set before we start.",
+   "r": [
+    1093.3,
+    4157.5,
+    300,
+    84
+   ],
+   "lines": [
+    "Scope",
+    "before"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 42px | -0.8px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Price, timeline, and deliverables on paper before day one. Surprises are a design flaw.",
+   "raw": "Price, timeline, and deliverables on paper before day one. Surprises are a design flaw.",
+   "r": [
+    1093.3,
+    4261.5,
+    313.8,
+    40.8
+   ],
+   "lines": [
+    "Price,",
+    "before"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "03",
+   "raw": "03",
+   "r": [
+    759.5,
+    4263.3,
+    313.8,
+    72
+   ],
+   "lines": [
+    "03"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Desktop"
+  },
+  {
+   "tag": "h3",
+   "t": "We say no early.",
+   "raw": "We say no early.",
+   "r": [
+    1093.3,
+    4363.3,
+    300,
+    42
+   ],
+   "lines": [
+    "We"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 42px | -0.8px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "If design is not your real problem, we will tell you in the first call and point you somewhere better.",
+   "raw": "If design is not your real problem, we will tell you in the first call and point you somewhere better.",
+   "r": [
+    1093.3,
+    4425.3,
+    313.8,
+    40.8
+   ],
+   "lines": [
+    "If",
+    "in"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "04",
+   "raw": "04",
+   "r": [
+    759.5,
+    4427.1,
+    313.8,
+    72
+   ],
+   "lines": [
+    "04"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Desktop"
+  },
+  {
+   "tag": "h3",
+   "t": "You own the work.",
+   "raw": "You own the work.",
+   "r": [
+    1093.3,
+    4527.1,
+    300,
+    42
+   ],
+   "lines": [
+    "You"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 42px | -0.8px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Every file, font, and license comes with the handoff. Nothing stays hostage in our drive.",
+   "raw": "Every file, font, and license comes with the handoff. Nothing stays hostage in our drive.",
+   "r": [
+    1093.3,
+    4589.1,
+    313.8,
+    40.8
+   ],
+   "lines": [
+    "Every",
+    "handoff."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Our clients",
+   "raw": "Our clients",
+   "r": [
+    92,
+    4870,
+    69.5,
+    18
+   ],
+   "lines": [
+    "Our"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "2012 2026©",
+   "raw": "2012 2026©",
+   "r": [
+    425.8,
+    5155,
+    50,
+    36
+   ],
+   "lines": [
+    "2012",
+    "2026©"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Year / Rating"
+  },
+  {
+   "tag": "p",
+   "t": "+47",
+   "raw": "+47",
+   "r": [
+    839,
+    5165.8,
+    20,
+    13.8
+   ],
+   "lines": [
+    "+47"
+   ],
+   "f": "Switzer | 600 | 12px | 13.8px | -0.24px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Count"
+  },
+  {
+   "tag": "p",
+   "t": "4.9/5",
+   "raw": "4.9/5",
+   "r": [
+    876.5,
+    5157.7,
+    27,
+    13.8
+   ],
+   "lines": [
+    "4.9"
+   ],
+   "f": "Switzer | 600 | 12px | 13.8px | -0.24px | none | rgb(13, 13, 13) | normal | normal | left | 1",
+   "sec": "Rating / Stars"
+  },
+  {
+   "tag": "p",
+   "t": "Trusted by 50+ clients",
+   "raw": "Trusted by 50+ clients",
+   "r": [
+    876.5,
+    5174.5,
+    115.8,
+    13.8
+   ],
+   "lines": [
+    "Trusted"
+   ],
+   "f": "Switzer | 600 | 12px | 13.8px | -0.24px | none | rgb(13, 13, 13) | normal | normal | left | 1",
+   "sec": "Rating"
+  },
+  {
+   "tag": "h2",
+   "t": "Awards.",
+   "raw": "Awards.",
+   "r": [
+    92,
+    5431,
+    1315,
+    72
+   ],
+   "lines": [
+    "A"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Inside Container"
+  },
+  {
+   "tag": "p",
+   "t": "(2012-26©)",
+   "raw": "(2012-26©)",
+   "r": [
+    92,
+    5583,
+    61.2,
+    18
+   ],
+   "lines": [
+    "(2012-26©)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Awarded by",
+   "raw": "Awarded by",
+   "r": [
+    425.8,
+    5583,
+    313.8,
+    18
+   ],
+   "lines": [
+    "Awarded"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Labels"
+  },
+  {
+   "tag": "p",
+   "t": "Award",
+   "raw": "Award",
+   "r": [
+    759.5,
+    5583,
+    313.8,
+    18
+   ],
+   "lines": [
+    "Award"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Labels"
+  },
+  {
+   "tag": "p",
+   "t": "year",
+   "raw": "year",
+   "r": [
+    1378.1,
+    5583,
+    28.9,
+    18
+   ],
+   "lines": [
+    "year"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Labels"
+  },
+  {
+   "tag": "p",
+   "t": "Awwwards",
+   "raw": "Awwwards",
+   "r": [
+    470.8,
+    5652.8,
+    268.8,
+    20.4
+   ],
+   "lines": [
+    "Awwwards"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Site of the Day",
+   "raw": "Site of the Day",
+   "r": [
+    759.5,
+    5652.8,
+    313.8,
+    20.4
+   ],
+   "lines": [
+    "Site"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2026",
+   "raw": "2026",
+   "r": [
+    1377.5,
+    5652.8,
+    29.5,
+    20.4
+   ],
+   "lines": [
+    "2026"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "FWA",
+   "raw": "FWA",
+   "r": [
+    470.8,
+    5717.8,
+    268.8,
+    20.4
+   ],
+   "lines": [
+    "FWA"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "FWA of the day",
+   "raw": "FWA of the day",
+   "r": [
+    759.5,
+    5717.8,
+    313.8,
+    20.4
+   ],
+   "lines": [
+    "FWA"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2025",
+   "raw": "2025",
+   "r": [
+    1377.8,
+    5717.8,
+    29.2,
+    20.4
+   ],
+   "lines": [
+    "2025"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "CSS design awards",
+   "raw": "CSS design awards",
+   "r": [
+    470.8,
+    5782.8,
+    268.8,
+    20.4
+   ],
+   "lines": [
+    "CSS"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Website of the day",
+   "raw": "Website of the day",
+   "r": [
+    759.5,
+    5782.8,
+    313.8,
+    20.4
+   ],
+   "lines": [
+    "Website"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2024",
+   "raw": "2024",
+   "r": [
+    1377.5,
+    5782.8,
+    29.5,
+    20.4
+   ],
+   "lines": [
+    "2024"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Awwwards",
+   "raw": "Awwwards",
+   "r": [
+    470.8,
+    5847.8,
+    268.8,
+    20.4
+   ],
+   "lines": [
+    "Awwwards"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Honorable Mention",
+   "raw": "Honorable Mention",
+   "r": [
+    759.5,
+    5847.8,
+    313.8,
+    20.4
+   ],
+   "lines": [
+    "Honorable"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2023",
+   "raw": "2023",
+   "r": [
+    1377.8,
+    5847.8,
+    29.2,
+    20.4
+   ],
+   "lines": [
+    "2023"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "From the journal",
+   "raw": "From the journal",
+   "r": [
+    425.8,
+    6131,
+    105.3,
+    18
+   ],
+   "lines": [
+    "From"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "articles.",
+   "raw": "articles.",
+   "r": [
+    425.8,
+    6169,
+    647.5,
+    72
+   ],
+   "lines": [
+    "a"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Label / Heading"
+  },
+  {
+   "tag": "p",
+   "t": "View All",
+   "raw": "View All",
+   "r": [
+    1330.6,
+    6220.5,
+    50.4,
+    20.4
+   ],
+   "lines": [
+    "View"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Top Text"
+  },
+  {
+   "tag": "p",
+   "t": "View All",
+   "raw": "View All",
+   "r": [
+    1330.6,
+    6240.5,
+    50.4,
+    20.4
+   ],
+   "lines": [
+    "View"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Bottom Text"
+  },
+  {
+   "tag": "p",
+   "t": "(Studio Notes)",
+   "raw": "(Studio Notes)",
+   "r": [
+    92,
+    6321,
+    313.8,
+    18
+   ],
+   "lines": [
+    "(Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "Fewer projects, more attention.",
+   "raw": "Fewer projects, more attention.",
+   "r": [
+    92,
+    6582.8,
+    313.8,
+    26.5
+   ],
+   "lines": [
+    "Fewer"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "6/15/26",
+   "raw": "6/15/26",
+   "r": [
+    92,
+    6614.3,
+    313.8,
+    18
+   ],
+   "lines": [
+    "6/15/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "(Opinion)",
+   "raw": "(Opinion)",
+   "r": [
+    425.8,
+    6321,
+    313.8,
+    18
+   ],
+   "lines": [
+    "(Opinion)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "Awards don't build brands.",
+   "raw": "Awards don't build brands.",
+   "r": [
+    425.8,
+    6780.4,
+    313.8,
+    26.5
+   ],
+   "lines": [
+    "Awards"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "5/5/26",
+   "raw": "5/5/26",
+   "r": [
+    425.8,
+    6811.9,
+    313.8,
+    18
+   ],
+   "lines": [
+    "5/5/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "(Process)",
+   "raw": "(Process)",
+   "r": [
+    759.5,
+    6321,
+    313.8,
+    18
+   ],
+   "lines": [
+    "(Process)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "Why we quote fixed.",
+   "raw": "Why we quote fixed.",
+   "r": [
+    759.5,
+    6540.5,
+    313.8,
+    26.5
+   ],
+   "lines": [
+    "Why"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "4/3/26",
+   "raw": "4/3/26",
+   "r": [
+    759.5,
+    6572,
+    313.8,
+    18
+   ],
+   "lines": [
+    "4/3/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "(Craft)",
+   "raw": "(Craft)",
+   "r": [
+    1093.3,
+    6321,
+    313.8,
+    18
+   ],
+   "lines": [
+    "(Craft)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "The best type is invisible.",
+   "raw": "The best type is invisible.",
+   "r": [
+    1093.3,
+    6780.6,
+    313.8,
+    26.5
+   ],
+   "lines": [
+    "The"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "3/20/26",
+   "raw": "3/20/26",
+   "r": [
+    1093.3,
+    6812,
+    313.8,
+    18
+   ],
+   "lines": [
+    "3/20/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "Book a call",
+   "raw": "Book a call",
+   "r": [
+    92,
+    6983,
+    70.1,
+    18
+   ],
+   "lines": [
+    "Book"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "2 slots for August '26",
+   "raw": "2 slots for August '26",
+   "r": [
+    451.8,
+    6983,
+    621.5,
+    18.2
+   ],
+   "lines": [
+    "2"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Availability"
+  },
+  {
+   "tag": "p",
+   "t": "Jin Yuen",
+   "raw": "Jin Yuen",
+   "r": [
+    1136.3,
+    6983,
+    48.4,
+    18.2
+   ],
+   "lines": [
+    "Jin"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(250, 250, 250) | normal | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Founder",
+   "raw": "Founder",
+   "r": [
+    1136.3,
+    7001.2,
+    48.5,
+    18.2
+   ],
+   "lines": [
+    "Founder"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "h2",
+   "t": "Let's make you impossible to ignore.",
+   "raw": "Let's make you impossible to ignore.",
+   "r": [
+    425.8,
+    7139.4,
+    700,
+    144
+   ],
+   "lines": [
+    "L",
+    "i"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 80px | 72px | -1.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "p",
+   "t": "Tell us what you're building. We'll tell you how we'd make it land.",
+   "raw": "                          Tell us what you're building. We'll tell you how we'd make it land.",
+   "r": [
+    425.8,
+    7313.4,
+    350,
+    52.9
+   ],
+   "lines": [
+    "T",
+    "W"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | justify | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "label",
+   "t": "My name is",
+   "raw": "My name is",
+   "r": [
+    425.8,
+    7446.3,
+    318.8,
+    49.2
+   ],
+   "lines": [
+    "My"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Name"
+  },
+  {
+   "tag": "label",
+   "t": "i’m from",
+   "raw": "i’m from",
+   "r": [
+    754.5,
+    7446.3,
+    318.8,
+    49.2
+   ],
+   "lines": [
+    "i’m"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Company"
+  },
+  {
+   "tag": "label",
+   "t": "and I need help with",
+   "raw": "and I need help with",
+   "r": [
+    425.8,
+    7510.5,
+    647.5,
+    49.2
+   ],
+   "lines": [
+    "and"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Help With"
+  },
+  {
+   "tag": "label",
+   "t": "here’s the Idea:",
+   "raw": "here’s the Idea:",
+   "r": [
+    425.8,
+    7574.8,
+    647.5,
+    130.4
+   ],
+   "lines": [
+    "here’s"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Pitch"
+  },
+  {
+   "tag": "label",
+   "t": "my budget is around",
+   "raw": "my budget is around",
+   "r": [
+    425.8,
+    7720.2,
+    318.8,
+    49.2
+   ],
+   "lines": [
+    "my"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Budget"
+  },
+  {
+   "tag": "label",
+   "t": "and i’d like to startWhen…ASAPWithin a monthThis quarterJust exploring",
+   "raw": "and i’d like to startWhen…ASAPWithin a monthThis quarterJust exploring",
+   "r": [
+    754.5,
+    7720.2,
+    318.8,
+    49.2
+   ],
+   "lines": [
+    "and"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Start"
+  },
+  {
+   "tag": "label",
+   "t": "reach me at",
+   "raw": "reach me at",
+   "r": [
+    425.8,
+    7784.4,
+    647.5,
+    49.2
+   ],
+   "lines": [
+    "reach"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Email"
+  },
+  {
+   "tag": "p",
+   "t": "By submitting, you agree to our terms and privacy policy.",
+   "raw": "By submitting, you agree to our terms and privacy policy.",
+   "r": [
+    425.8,
+    7864.6,
+    240,
+    36.4
+   ],
+   "lines": [
+    "By",
+    "our"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Legal"
+  },
+  {
+   "tag": "button",
+   "t": "Start a projectStart a project",
+   "raw": "Start a projectStart a project",
+   "r": [
+    759.5,
+    7863.6,
+    313.8,
+    38.4
+   ],
+   "lines": [
+    "Start",
+    "Start"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | center | 0.75",
+   "sec": "Incomplete"
+  },
+  {
+   "tag": "p",
+   "t": "+1 (805) 450 1432",
+   "raw": "+1 (805) 450 1432",
+   "r": [
+    1093.3,
+    7446.3,
+    313.8,
+    34.5
+   ],
+   "lines": [
+    "+1"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 34.5px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Phone / Email"
+  },
+  {
+   "tag": "p",
+   "t": "hello@mira.studio",
+   "raw": "hello@mira.studio",
+   "r": [
+    1093.3,
+    7488.8,
+    313.8,
+    21
+   ],
+   "lines": [
+    "hello@mira.studio"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | justify | 1",
+   "sec": "Phone / Email"
+  },
+  {
+   "tag": "p",
+   "t": "01",
+   "raw": "01",
+   "r": [
+    431.2,
+    8024.5,
+    12.1,
+    18
+   ],
+   "lines": [
+    "01"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "01"
+  },
+  {
+   "tag": "p",
+   "t": "You hear back within a day.",
+   "raw": "You hear back within a day.",
+   "r": [
+    425.8,
+    8058,
+    313.8,
+    21
+   ],
+   "lines": [
+    "You"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "From the founder, not a form-bot. We read every enquiry personally.",
+   "raw": "From the founder, not a form-bot. We read every enquiry personally.",
+   "r": [
+    425.8,
+    8086,
+    240,
+    36.4
+   ],
+   "lines": [
+    "From",
+    "We"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "02",
+   "raw": "02",
+   "r": [
+    764,
+    8024.5,
+    14,
+    18
+   ],
+   "lines": [
+    "02"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "01"
+  },
+  {
+   "tag": "p",
+   "t": "A short discovery call.",
+   "raw": "A short discovery call.",
+   "r": [
+    759.5,
+    8058,
+    313.8,
+    21
+   ],
+   "lines": [
+    "A"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Thirty minutes to understand your goals, audience, and what's not working.",
+   "raw": "Thirty minutes to understand your goals, audience, and what's not working.",
+   "r": [
+    759.5,
+    8086,
+    240,
+    36.4
+   ],
+   "lines": [
+    "Thirty",
+    "audience,"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "03",
+   "raw": "03",
+   "r": [
+    1097.6,
+    8024.5,
+    14.2,
+    18
+   ],
+   "lines": [
+    "03"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "01"
+  },
+  {
+   "tag": "p",
+   "t": "A fixed-quote proposal.",
+   "raw": "A fixed-quote proposal.",
+   "r": [
+    1093.3,
+    8058,
+    313.8,
+    21
+   ],
+   "lines": [
+    "A"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Clear scope, clear timeline, clear price. No surprises later.",
+   "raw": "Clear scope, clear timeline, clear price. No surprises later.",
+   "r": [
+    1093.3,
+    8086,
+    240,
+    36.4
+   ],
+   "lines": [
+    "Clear",
+    "clear"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "EST. 2012",
+   "raw": " EST. 2012",
+   "r": [
+    22,
+    775.7,
+    18,
+    51.6
+   ],
+   "lines": [
+    "EST."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Home",
+   "raw": "Home",
+   "r": [
+    89,
+    132.4,
+    73,
+    44
+   ],
+   "lines": [
+    "Home"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "Home",
+   "raw": "Home",
+   "r": [
+    89,
+    177.4,
+    73,
+    44
+   ],
+   "lines": [
+    "Home"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    89,
+    183.4,
+    122.3,
+    44
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    89,
+    228.4,
+    122.3,
+    44
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "(6)",
+   "raw": "(6)",
+   "r": [
+    213.3,
+    183.4,
+    14,
+    18
+   ],
+   "lines": [
+    "(6)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(245, 45, 15) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Count Text"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    89,
+    234.4,
+    92.1,
+    44
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    89,
+    279.4,
+    92.1,
+    44
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    89,
+    285.4,
+    111.2,
+    44
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    89,
+    330.4,
+    111.2,
+    44
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 40px | 44px | -0.8px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large"
+  },
+  {
+   "tag": "p",
+   "t": "let's talk",
+   "raw": "let's talk",
+   "r": [
+    89,
+    369.4,
+    56.3,
+    18
+   ],
+   "lines": [
+    "let's"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(188, 188, 188) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Contact"
+  },
+  {
+   "tag": "span",
+   "t": "2026 MIRA ®",
+   "raw": "2026 MIRA ®",
+   "r": [
+    89,
+    835.8,
+    66,
+    15
+   ],
+   "lines": [
+    "2026"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(188, 188, 188) | normal | normal | start | 1",
+   "sec": "Bottom"
+  },
+  {
+   "tag": "span",
+   "t": "®",
+   "raw": "®",
+   "r": [
+    147.1,
+    833.8,
+    7.9,
+    18
+   ],
+   "lines": [
+    "®"
+   ],
+   "f": "Switzer | 600 | 14.4px | 14.4px | -0.36px | none | rgb(188, 188, 188) | normal | normal | start | 1",
+   "sec": "Bottom"
+  },
+  {
+   "tag": "span",
+   "t": "All rights reserved.",
+   "raw": "All rights reserved.",
+   "r": [
+    89,
+    851.4,
+    96.9,
+    15.6
+   ],
+   "lines": [
+    "All"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(188, 188, 188) | normal | normal | start | 1",
+   "sec": "Bottom"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    425.8,
+    8285.4,
+    72.2,
+    26.5
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    425.8,
+    8310.4,
+    72.2,
+    26.5
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "(6)",
+   "raw": "(6)",
+   "r": [
+    501.9,
+    8285.4,
+    14,
+    18
+   ],
+   "lines": [
+    "(6)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(245, 45, 15) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Count Text"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    901.5,
+    8285.4,
+    54.4,
+    26.5
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    901.5,
+    8310.4,
+    54.4,
+    26.5
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    1341.5,
+    8285.4,
+    65.5,
+    26.5
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    1341.5,
+    8310.4,
+    65.5,
+    26.5
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "span",
+   "t": "2026 MIRA ®",
+   "raw": "2026 MIRA ®",
+   "r": [
+    430.8,
+    8431.8,
+    66,
+    15
+   ],
+   "lines": [
+    "2026"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(104, 104, 104) | normal | normal | start | 1",
+   "sec": "Copyright Notice"
+  },
+  {
+   "tag": "span",
+   "t": "®",
+   "raw": "®",
+   "r": [
+    488.9,
+    8429.8,
+    7.9,
+    18
+   ],
+   "lines": [
+    "®"
+   ],
+   "f": "Switzer | 600 | 14.4px | 14.4px | -0.36px | none | rgb(104, 104, 104) | normal | normal | start | 1",
+   "sec": "Copyright Notice"
+  },
+  {
+   "tag": "span",
+   "t": "All rights reserved.",
+   "raw": "All rights reserved.",
+   "r": [
+    430.8,
+    8447.4,
+    96.9,
+    15.6
+   ],
+   "lines": [
+    "All"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(104, 104, 104) | normal | normal | start | 1",
+   "sec": "Copyright Notice"
+  },
+  {
+   "tag": "h1",
+   "t": "mira",
+   "raw": "mira",
+   "r": [
+    430.8,
+    8483,
+    550,
+    259.4
+   ],
+   "lines": [
+    "mira"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 231.436px | 185.149px | -4.62872px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"liga\" 0, \"ss01\", \"ss07\" | left | 1",
+   "sec": "Footer Logo Name"
+  },
+  {
+   "tag": "h1",
+   "t": "®",
+   "raw": "®",
+   "r": [
+    950.5,
+    8501.9,
+    27.5,
+    39.5
+   ],
+   "lines": [
+    "®"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 41.0244px | 28.7171px | normal | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"liga\" 0, \"ss01\", \"ss07\" | left | 1",
+   "sec": "Footer Logo Trademark"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    733.3,
+    8674,
+    247.5,
+    67.8
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "Smooch | 400 | 77.7897px | 48.2296px | normal | none | rgb(245, 45, 15) | normal | normal | start | 1",
+   "sec": "Footer Logo Descriptor"
+  },
+  {
+   "tag": "p",
+   "t": "A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW.",
+   "raw": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW.",
+   "r": [
+    430.8,
+    8772.2,
+    550,
+    79.4
+   ],
+   "lines": [
+    "A",
+    "fresh",
+    "filler."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.23px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | justify | 1",
+   "sec": "Newsletter Introduction"
+  },
+  {
+   "tag": "button",
+   "t": "Join NowJoin Now",
+   "raw": "Join NowJoin Now",
+   "r": [
+    737.8,
+    8895.5,
+    80,
+    38.4
+   ],
+   "lines": [
+    "Join",
+    "Join"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | center | 0.75",
+   "sec": "Incomplete"
+  },
+  {
+   "tag": "label",
+   "t": "By signing up, you’re agreeing to our privacy policy.",
+   "raw": "By signing up, you’re agreeing to our privacy policy.",
+   "r": [
+    430.8,
+    8949.9,
+    391,
+    18.2
+   ],
+   "lines": [
+    "By"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Agree to terms"
+  },
+  {
+   "tag": "p",
+   "t": "legal",
+   "raw": "legal",
+   "r": [
+    425.8,
+    9132.1,
+    32.9,
+    18
+   ],
+   "lines": [
+    "legal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Legal Navigation Link"
+  },
+  {
+   "tag": "p",
+   "t": "Privacy Policy.",
+   "raw": "Privacy Policy.",
+   "r": [
+    488.7,
+    9088.1,
+    250.8,
+    18
+   ],
+   "lines": [
+    "Privacy"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "tag": "p",
+   "t": "Terms & Conditions.",
+   "raw": "Terms & Conditions.",
+   "r": [
+    488.7,
+    9110.1,
+    250.8,
+    18
+   ],
+   "lines": [
+    "Terms"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "tag": "p",
+   "t": "Cookies.",
+   "raw": "Cookies.",
+   "r": [
+    488.7,
+    9132.1,
+    250.8,
+    18
+   ],
+   "lines": [
+    "Cookies."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "tag": "p",
+   "t": "let’s talk",
+   "raw": "let’s talk",
+   "r": [
+    1170.4,
+    9132.1,
+    56.6,
+    18
+   ],
+   "lines": [
+    "let’s"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Contact Link"
+  }
+ ],
+ "links": [
+  {
+   "t": "",
+   "href": "./",
+   "target": "",
+   "r": [
+    92,
+    36.5,
+    70,
+    19.4
+   ],
+   "sec": "Link Container"
+  },
+  {
+   "t": "projectsprojects(6)",
+   "href": "./projects",
+   "target": "",
+   "r": [
+    425.8,
+    33,
+    90.2,
+    26.5
+   ],
+   "sec": "Small"
+  },
+  {
+   "t": "StudioStudio",
+   "href": "./studio",
+   "target": "",
+   "r": [
+    901.5,
+    33,
+    54.4,
+    26.5
+   ],
+   "sec": "Small"
+  },
+  {
+   "t": "JournalJournal",
+   "href": "./journal",
+   "target": "",
+   "r": [
+    1341.5,
+    33,
+    65.5,
+    26.5
+   ],
+   "sec": "Small"
+  },
+  {
+   "t": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "r": [
+    1294,
+    850,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "r": [
+    1326,
+    850,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "r": [
+    1358,
+    850,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "r": [
+    1390,
+    850,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "Email usEmail us",
+   "href": null,
+   "target": "",
+   "r": [
+    330.6,
+    3479,
+    76.7,
+    20.4
+   ],
+   "sec": "Desktop - Right"
+  },
+  {
+   "t": "View AllView All",
+   "href": "./journal",
+   "target": "",
+   "r": [
+    1330.6,
+    6220.5,
+    76.4,
+    20.4
+   ],
+   "sec": "Desktop - Right"
+  },
+  {
+   "t": "(Studio Notes)Fewer projects, more attention.6/15/26",
+   "href": "./journal/fewer-projects-more-attention",
+   "target": "",
+   "r": [
+    92,
+    6321,
+    313.8,
+    311.3
+   ],
+   "sec": "Desktop"
+  },
+  {
+   "t": "(Opinion)Awards don't build brands.5/5/26",
+   "href": "./journal/awards-dont-build-brands",
+   "target": "",
+   "r": [
+    425.8,
+    6321,
+    313.8,
+    508.9
+   ],
+   "sec": "Desktop"
+  },
+  {
+   "t": "(Process)Why we quote fixed.4/3/26",
+   "href": "./journal/why-we-quote-fixed",
+   "target": "",
+   "r": [
+    759.5,
+    6321,
+    313.8,
+    269
+   ],
+   "sec": "Desktop"
+  },
+  {
+   "t": "(Craft)The best type is invisible.3/20/26",
+   "href": "./journal/the-best-type-is-invisible",
+   "target": "",
+   "r": [
+    1093.3,
+    6321,
+    313.8,
+    509.1
+   ],
+   "sec": "Desktop"
+  },
+  {
+   "t": "terms",
+   "href": "./terms-conditions",
+   "target": "",
+   "r": [
+    447.4,
+    7883.8,
+    34.1,
+    16
+   ],
+   "sec": "Legal"
+  },
+  {
+   "t": "privacy policy.",
+   "href": "./privacy-policy",
+   "target": "",
+   "r": [
+    508,
+    7883.8,
+    81.4,
+    16
+   ],
+   "sec": "Legal"
+  },
+  {
+   "t": "+1 (805) 450 1432",
+   "href": "tel:+18054501432",
+   "target": "_blank",
+   "r": [
+    1093.3,
+    7441.3,
+    174.6,
+    43
+   ],
+   "sec": "Phone / Email"
+  },
+  {
+   "t": "hello@mira.studio",
+   "href": "mailto:hello@mira.studio",
+   "target": "_blank",
+   "r": [
+    1093.3,
+    7489.8,
+    118.6,
+    19
+   ],
+   "sec": "Phone / Email"
+  },
+  {
+   "t": "",
+   "href": "./",
+   "target": "",
+   "r": [
+    89,
+    33,
+    70,
+    19.4
+   ],
+   "sec": "Link Container"
+  },
+  {
+   "t": "HomeHome",
+   "href": "./",
+   "target": "",
+   "r": [
+    89,
+    132.4,
+    377,
+    44
+   ],
+   "sec": "Large"
+  },
+  {
+   "t": "projectsprojects(6)",
+   "href": "./projects",
+   "target": "",
+   "r": [
+    89,
+    183.4,
+    377,
+    44
+   ],
+   "sec": "Large"
+  },
+  {
+   "t": "StudioStudio",
+   "href": "./studio",
+   "target": "",
+   "r": [
+    89,
+    234.4,
+    377,
+    44
+   ],
+   "sec": "Large"
+  },
+  {
+   "t": "JournalJournal",
+   "href": "./journal",
+   "target": "",
+   "r": [
+    89,
+    285.4,
+    377,
+    44
+   ],
+   "sec": "Large"
+  },
+  {
+   "t": "",
+   "href": "./contact",
+   "target": "",
+   "r": [
+    89,
+    402.4,
+    150,
+    42
+   ],
+   "sec": "Desktop"
+  },
+  {
+   "t": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "r": [
+    89,
+    798.8,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "r": [
+    121,
+    798.8,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "r": [
+    153,
+    798.8,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "r": [
+    185,
+    798.8,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "./",
+   "target": "",
+   "r": [
+    92,
+    8288.9,
+    70,
+    19.4
+   ],
+   "sec": "Link Container"
+  },
+  {
+   "t": "projectsprojects(6)",
+   "href": "./projects",
+   "target": "",
+   "r": [
+    425.8,
+    8285.4,
+    90.2,
+    26.5
+   ],
+   "sec": "Small"
+  },
+  {
+   "t": "StudioStudio",
+   "href": "./studio",
+   "target": "",
+   "r": [
+    901.5,
+    8285.4,
+    54.4,
+    26.5
+   ],
+   "sec": "Small"
+  },
+  {
+   "t": "JournalJournal",
+   "href": "./journal",
+   "target": "",
+   "r": [
+    1341.5,
+    8285.4,
+    65.5,
+    26.5
+   ],
+   "sec": "Small"
+  },
+  {
+   "t": "privacy policy.",
+   "href": "./privacy-policy",
+   "target": "",
+   "r": [
+    659.5,
+    8950.9,
+    81.4,
+    16
+   ],
+   "sec": "Newsletter Consent Copy"
+  },
+  {
+   "t": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "r": [
+    92,
+    9133.1,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "r": [
+    124,
+    9133.1,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "r": [
+    156,
+    9133.1,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "r": [
+    188,
+    9133.1,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "Privacy Policy.",
+   "href": "./privacy-policy",
+   "target": "",
+   "r": [
+    488.7,
+    9086.1,
+    90.1,
+    21
+   ],
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "t": "Terms & Conditions.",
+   "href": "./terms-conditions",
+   "target": "",
+   "r": [
+    488.7,
+    9108.1,
+    120.8,
+    21
+   ],
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "t": "Cookies.",
+   "href": "./cookie-policy",
+   "target": "",
+   "r": [
+    488.7,
+    9130.1,
+    50.4,
+    21
+   ],
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "t": "",
+   "href": "./contact",
+   "target": "",
+   "r": [
+    1257,
+    9108.1,
+    150,
+    42
+   ],
+   "sec": "Desktop"
+  }
+ ],
+ "media": [
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/Fcz0H6OyRLSzO1j6CmBZCeoCrYA.jpg?scale-down-to=2048&width=2816&height=1536",
+   "alt": "",
+   "r": [
+    62,
+    3,
+    1375,
+    894
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "12px",
+   "sizes": "(min-width: 1200px) max(100vw, 1px), (max-width: 809.98px) max(max(max(100vw, 1px) - 6px, 1px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(100vw, 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=2048&width=1920&height=2560",
+   "alt": "Black and white photo of the studio team posing together",
+   "r": [
+    92,
+    1053,
+    116.2,
+    116.2
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) 100vw, (max-width: 809.98px) max((max(min(max(100vw, 1px), 1920px) - 46px, 50px) - 3px) / 2, 1px), (min-width: 810px) and (max-width: 1199.98px) 100vw"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+   "alt": "Black and white photo of the team playing table football",
+   "r": [
+    211.2,
+    1053,
+    116.2,
+    116.2
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) 100vw, (max-width: 809.98px) max((max(min(max(100vw, 1px), 1920px) - 46px, 50px) - 3px) / 2, 1px), (min-width: 810px) and (max-width: 1199.98px) 100vw"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg?width=655&height=872",
+   "alt": "Portrait of Jin Yuen",
+   "r": [
+    759.5,
+    2268,
+    312.3,
+    416.3
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg?width=528&height=701",
+   "alt": "Portrait of Sarah Park",
+   "r": [
+    1091.8,
+    2268,
+    312.3,
+    416.3
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg?width=528&height=701",
+   "alt": "Portrait of Alex West",
+   "r": [
+    95,
+    2740.8,
+    312.3,
+    416.3
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg?width=528&height=701",
+   "alt": "Portrait of David Torres",
+   "r": [
+    427.3,
+    2740.8,
+    312.3,
+    416.3
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=1024&width=2040&height=1428",
+   "alt": "Studio team talking in a bright workshop",
+   "r": [
+    759.5,
+    3313.6,
+    644.5,
+    451.1
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) calc(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px) * 2 + 20px), (min-width: 810px) and (max-width: 1199.98px) calc(max((min(100vw - 6px, 1920px) - 86px) / 2, 50px) * 2 + 20px), (max-width: 809.98px) max(min(max(100vw, 1px) - 6px, 1920px) - 46px, 50px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?width=640&height=640",
+   "alt": "",
+   "r": [
+    762,
+    5157.7,
+    30,
+    30
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "6px",
+   "sizes": "(min-width: 1200px) 30, (min-width: 810px) and (max-width: 1199.98px) 30, (max-width: 809.98px) 30"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?width=640&height=640",
+   "alt": "",
+   "r": [
+    786,
+    5157.7,
+    30,
+    30
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "6px",
+   "sizes": "(min-width: 1200px) 30, (min-width: 810px) and (max-width: 1199.98px) 30, (max-width: 809.98px) 30"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640",
+   "alt": "",
+   "r": [
+    810,
+    5157.7,
+    30,
+    30
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "6px",
+   "sizes": "(min-width: 1200px) 30, (min-width: 810px) and (max-width: 1199.98px) 30, (max-width: 809.98px) 30"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?scale-down-to=512&width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "r": [
+    92,
+    6349,
+    313.8,
+    218.8
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?scale-down-to=512&width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "r": [
+    92,
+    6349,
+    313.8,
+    218.8
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?scale-down-to=1024&width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "r": [
+    425.8,
+    6349,
+    313.8,
+    416.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?scale-down-to=1024&width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "r": [
+    425.8,
+    6349,
+    313.8,
+    416.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?scale-down-to=512&width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "r": [
+    759.5,
+    6349,
+    313.8,
+    176.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?scale-down-to=512&width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "r": [
+    759.5,
+    6348.9,
+    313.8,
+    176.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?scale-down-to=1024&width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "r": [
+    1093.3,
+    6349,
+    313.8,
+    416.6
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?scale-down-to=1024&width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "r": [
+    1093.3,
+    6349,
+    313.8,
+    416.6
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/EYivEG50p7YL92jdB9h51wLz4iU.jpg?scale-down-to=2048&width=2400&height=1808",
+   "alt": "",
+   "r": [
+    62,
+    6953,
+    1375,
+    1289.3
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "12px",
+   "sizes": "(min-width: 1200px) max(calc(100vw - 6px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(calc(100vw - 6px), 1px), (max-width: 809.98px) max(calc(max(100vw, 1px) - 6px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+   "alt": "Portrait of Jin Yuen",
+   "r": [
+    1093.3,
+    6985.2,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "sizes": ""
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "r": [
+    94,
+    407.4,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "r": [
+    1262,
+    9113.1,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px"
+  }
+ ]
+}

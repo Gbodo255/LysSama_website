@@ -1,0 +1,650 @@
+{
+ "activeStudio": [
+  {
+   "href": "./",
+   "n": "Link Container",
+   "inNav": false,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1",
+   "color": "rgb(0, 0, 238)",
+   "dec": "none"
+  },
+  {
+   "href": "./projects",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./studio",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./journal",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./journal",
+   "n": "Desktop - Right",
+   "inNav": false,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-St8Ub framer-khCxy framer-q8hg74 framer-v-q8hg74 framer-ghew07",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./privacy-policy",
+   "inNav": false,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-text framer-styles-preset-3w9o9k",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./",
+   "n": "Link Container",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1",
+   "color": "rgb(0, 0, 238)",
+   "dec": "none"
+  },
+  {
+   "href": "./",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./projects",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./studio",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./journal",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./",
+   "n": "Link Container",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1",
+   "color": "rgb(0, 0, 238)",
+   "dec": "none"
+  },
+  {
+   "href": "./projects",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./studio",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./journal",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./privacy-policy",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-text framer-styles-preset-7b2rcp",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./privacy-policy",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-text framer-styles-preset-7b2rcp",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  }
+ ],
+ "hoverFooterSocialIG": {
+  "pos": [
+   132.5,
+   851.625
+  ],
+  "final": {},
+  "frames": [
+   [
+    16,
+    {}
+   ],
+   [
+    32,
+    {}
+   ],
+   [
+    48,
+    {}
+   ],
+   [
+    64,
+    {}
+   ],
+   [
+    96,
+    {}
+   ],
+   [
+    144,
+    {}
+   ],
+   [
+    192,
+    {}
+   ],
+   [
+    240,
+    {}
+   ],
+   [
+    288,
+    {}
+   ],
+   [
+    336,
+    {}
+   ],
+   [
+    384,
+    {}
+   ],
+   [
+    432,
+    {}
+   ],
+   [
+    480,
+    {}
+   ],
+   [
+    528,
+    {}
+   ],
+   [
+    576,
+    {}
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverJoinNowTyped": {
+  "pos": [
+   777.765625,
+   624.71875
+  ],
+  "final": {},
+  "frames": [
+   [
+    16,
+    {}
+   ],
+   [
+    32,
+    {}
+   ],
+   [
+    48,
+    {}
+   ],
+   [
+    64,
+    {}
+   ],
+   [
+    96,
+    {}
+   ],
+   [
+    144,
+    {}
+   ],
+   [
+    192,
+    {}
+   ],
+   [
+    240,
+    {}
+   ],
+   [
+    288,
+    {}
+   ],
+   [
+    336,
+    {}
+   ],
+   [
+    384,
+    {}
+   ],
+   [
+    432,
+    {}
+   ],
+   [
+    480,
+    {}
+   ],
+   [
+    528,
+    {}
+   ],
+   [
+    576,
+    {}
+   ],
+   [
+    624,
+    {}
+   ],
+   [
+    672,
+    {}
+   ],
+   [
+    720,
+    {}
+   ],
+   [
+    768,
+    {}
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "checkbox": {
+  "r": [
+   430.75,
+   662.515625,
+   13,
+   13
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "border": "0px none rgb(0, 0, 0)",
+  "appearance": "none",
+  "shadow": "none"
+ },
+ "checkboxChecked": {
+  "checked": false,
+  "bg": "rgb(255, 255, 255)",
+  "border": "0px none rgb(0, 0, 0)",
+  "bgImg": "none",
+  "shadow": "none"
+ },
+ "invalidCheckedClick": {
+  "msg": "Please fill out this field.",
+  "focused": false,
+  "btn": "framer-8H41b framer-khCxy framer-QoPvp framer-xkbypw framer-v-a28jhw"
+ },
+ "formRequests": [],
+ "nav": [
+  [
+   100,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   200,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   300,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   400,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   500,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   600,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   700,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   800,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   900,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   1000,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   1100,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   1200,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   1300,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   1400,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   1500,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ],
+  [
+   1600,
+   {
+    "url": "/journal",
+    "sy": 0,
+    "preloaderVisible": [],
+    "title": "Mira - Agency & Portfolio Framer Template",
+    "ss": [],
+    "ls": []
+   }
+  ]
+ ],
+ "activeJournal": [
+  {
+   "href": "./",
+   "n": "Link Container",
+   "inNav": false,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1",
+   "color": "rgb(0, 0, 238)",
+   "dec": "none"
+  },
+  {
+   "href": "./",
+   "n": "Link Container",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1",
+   "color": "rgb(0, 0, 238)",
+   "dec": "none"
+  },
+  {
+   "href": "./",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./projects",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./studio",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./journal",
+   "n": "Large",
+   "inNav": true,
+   "inFoot": false,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-h4zf60 framer-5e3077",
+   "color": "rgb(255, 255, 255)",
+   "dec": "none"
+  },
+  {
+   "href": "./",
+   "n": "Link Container",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-fjOy7 framer-gesna7 framer-v-gesna7 framer-9gdys1",
+   "color": "rgb(0, 0, 238)",
+   "dec": "none"
+  },
+  {
+   "href": "./projects",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./studio",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./journal",
+   "n": "Small",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-2YuhP framer-7E2P2 framer-yTVl5 framer-QoPvp framer-Me6vv framer-h4zf60 framer-v-1xhybmy framer-5e3077",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./privacy-policy",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-text framer-styles-preset-7b2rcp",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  },
+  {
+   "href": "./privacy-policy",
+   "inNav": false,
+   "inFoot": true,
+   "vis": true,
+   "cls": "framer-text framer-styles-preset-7b2rcp",
+   "color": "rgb(13, 13, 13)",
+   "dec": "none"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+▲ Next.js 16.4.6 (Turbopack)
+- Local:         http://localhost:3105
+- Network:       http://100.124.137.73:3105
+✓ Ready in 26.1s
+✓ Running next.config.ts took 1179ms
+⚠ Slow filesystem detected. The benchmark took 260ms. If \\?\C:\Users\Chris\Desktop\Lys Sama\.next-journal\dev is a network drive, consider moving it to a local folder.
+See more: https://nextjs.org/docs/app/guides/local-development
+
+  We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+  	- include was updated to add '.next-journal/types/**/*.ts'
+  	- include was updated to add '.next-journal/dev/types/**/*.ts'
+
+
+✓ Generated AGENTS.md for AI agents. Set `agentRules: false` in next.config to disable.

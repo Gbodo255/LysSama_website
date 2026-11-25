@@ -1,0 +1,848 @@
+
+## hero
+<section "Hero" gdnth6 [0,0,390,828] {gap=15px; overflow=clip; flex column j=center a=center}
+  <div "Slider Container" 16qy4y3 [3,3,384,822] {gap=20px; borderRadius=12px; overflow=clip; pos=absolute; flex row j=center a=center}
+    <div "Project Showcase Slider" framer-ey8enx-container [3,3,384,822]
+      <div "Projects Source (Slot)" 1p6mac3 [-99996,3,1340,902] {gap=20px; flex row j=flow-start a=flow-start}
+        <a "Project Card" 1oyvw8h.1ayeqj4 [-99996,3,320,902] {gap=8px; flex column j=flow-start a=flow-start; cursor=pointer} href=./projects/gucci
+          <div "Cover" 1e6y0i4 [-99996,3,320,420] {borderRadius=12px; cursor=pointer}
+            <img  [-99996,3,320,420] {borderRadius=12px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg alt=Close-up of a model wearing wraparound sunglasses covered in water droplets
+          <div "Uploaded Video" framer-160fj7z-container [-99996,431,320,420] {cursor=pointer}
+            <video  [-99996,431,320,420] {overflow=clip} src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted= playsinline= paused=false
+          <div "Guide Dynamic Label" 13m35m [-99996,859,320,46] {flex column j=flow-start a=normal; cursor=pointer}
+            <p  [-99996,859,320,46] font="Mona Sans Variable"/40px/46px/lsnormal/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 675 {cursor=pointer} :: "Gucci"
+              (0 spans enfants; opacity∈{}; transform∈{})
+        <a "Project Card" 1oyvw8h.1ayeqj4 [-99656,3,320,474] {gap=8px; flex column j=flow-start a=flow-start; cursor=pointer} href=./projects/chanel
+          <div "Cover" 1e6y0i4 [-99656,3,320,420] {borderRadius=12px; cursor=pointer}
+            <img  [-99656,3,320,420] {borderRadius=12px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg alt=Model applying face cream to her cheek against a pale background
+          <div "Guide Dynamic Label" 13m35m [-99656,431,320,46] {flex column j=flow-start a=normal; cursor=pointer}
+            <p  [-99656,431,320,46] font="Mona Sans Variable"/40px/46px/lsnormal/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 675 {cursor=pointer} :: "Chanel"
+              (0 spans enfants; opacity∈{}; transform∈{})
+        <a "Project Card" 1oyvw8h.1ayeqj4 [-99316,3,320,902] {gap=8px; flex column j=flow-start a=flow-start; cursor=pointer} href=./projects/puma
+          <div "Cover" 1e6y0i4 [-99316,3,320,420] {borderRadius=12px; cursor=pointer}
+            <img  [-99316,3,320,420] {borderRadius=12px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg alt=Runner in a red rain jacket and black cap on a misty coastline
+          <div "Uploaded Video" framer-160fj7z-container [-99316,431,320,420] {cursor=pointer}
+            <video  [-99316,431,320,420] {overflow=clip} src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted= playsinline= paused=false
+          <div "Guide Dynamic Label" 13m35m [-99316,859,320,46] {flex column j=flow-start a=normal; cursor=pointer}
+            <p  [-99316,859,320,46] font="Mona Sans Variable"/40px/46px/lsnormal/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 675 {cursor=pointer} :: "Puma"
+              (0 spans enfants; opacity∈{}; transform∈{})
+        <a "Project Card" 1oyvw8h.1ayeqj4 [-98976,3,320,474] {gap=8px; flex column j=flow-start a=flow-start; cursor=pointer} href=./projects/adidas
+          <div "Cover" 1e6y0i4 [-98976,3,320,420] {borderRadius=12px; cursor=pointer}
+            <img  [-98976,3,320,420] {borderRadius=12px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg alt=Close-up of a tennis player with braids looking over her racket
+          <div "Guide Dynamic Label" 13m35m [-98976,431,320,46] {flex column j=flow-start a=normal; cursor=pointer}
+            <p  [-98976,431,320,46] font="Mona Sans Variable"/40px/46px/lsnormal/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 675 {cursor=pointer} :: "Adidas"
+              (0 spans enfants; opacity∈{}; transform∈{})
+      <div  [3,3,1,1] font=sans-serif/12px/normal/lsnormal/none/start/rgb(0, 0, 0) {overflow=hidden; clipPath=inset(50%); pos=absolute} :: "Slide 1 of 4: GUCCI"
+        (0 spans enfants; opacity∈{}; transform∈{})
+      <img  [3,3,384,822] {overflow=clip} src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg alt=
+      <button  [3,3,192,822] {pos=absolute; cursor=pointer} aria-label=Previous slide
+      <button  [195,3,192,822] {pos=absolute; cursor=pointer} aria-label=Next slide
+  <div "Inside Container" 1d50dfc [0,0,390,828] {padding=23px; overflow=clip; flex column j=space-between a=center}
+    <header "Top" x2u5i [23,23,344,57] {padding=0px 0px 30px; gap=40px 20px; grid}
+    <div "Middle" 13nv7w3 [23,210,344,269] {gap=20px; overflow=hidden; flex row j=center a=center}
+      <div "Text Container" aizpav [23,210,344,269] {gap=20px; overflow=hidden; flex column j=flow-start a=flow-start}
+        <div "Name" 7yj4as [23,210,344,162] {gap=16px; flex column j=center a=center}
+          <div "Name / R Symbol" 94s39g [23,210,344,162] {gap=20px; flex row j=center a=center}
+            <svg "Logo Name" an17dl [23,210,344,162] {flex column j=flow-start a=normal}
+            <div "R Symbol" wfnd21 [348,222,17,25] {gap=16px; transform=matrix(1, 0, 0, 1, -8.59375, -12.4609); pos=absolute; flex column j=center a=center}
+              <svg "Logo Trademark" 1a8sdqn [348,222,17,25] {flex column j=flow-start a=normal}
+          <svg "Logo Descriptor" 15fhema [212,330,155,42] {pos=absolute; flex column j=flow-start a=normal}
+        <div "Studio Introduction" 1hlhch1 [23,392,344,87] {flex column j=flow-start a=normal}
+          <h1 framer-styles-preset-1l3tbw0 [23,392,344,87] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/justify/rgb(255, 255, 255)/wdth 75, wght 675 :: "⟨22sp⟩Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look." LINES=Mira|how|presence|gap
+            (0 spans enfants; opacity∈{}; transform∈{})
+    <div "Bottom" 136tn1m [23,609,344,196] {padding=30px 0px 0px; gap=40px 20px; grid}
+      <div "Location" 1j09cxy [23,683,162,40] {gap=15px; overflow=clip; flex row j=center a=flow-end}
+        <div "Location Label" 10b2dqi [23,705,50,18] {flex column j=flow-end a=normal}
+          <p framer-styles-preset-c95aba [23,705,50,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(188, 188, 188)/wdth 80, wght 700 :: "based in"
+            (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Locations" jn8mmr [88,683,97,40] {gap=4px; overflow=clip; flex column j=center a=flow-start}
+          <div "Los Angeles Location" 1g5xosj [88,683,97,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [88,683,97,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "los angeles"
+              (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Tokyo Location" 15fm0sh [88,705,97,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [88,705,97,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "tokyo"
+              (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Services" 868u5k [205,639,162,84] {gap=15px; overflow=clip; flex row j=center a=flow-end}
+        <div "Services Navigation Link" tbs24v [205,705,52,18] {flex column j=flow-end a=normal}
+          <p framer-styles-preset-c95aba [205,705,52,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(188, 188, 188)/wdth 80, wght 700 :: "Services"
+            (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Navigation Link Group" mpf3ht [272,639,95,84] {gap=4px; flex column j=center a=flow-start}
+          <div "Dynamic Navigation Label" rwz1c2 [272,639,95,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [272,639,95,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "Brand Identity"
+              (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Dynamic Navigation Label" rwz1c2 [272,661,95,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [272,661,95,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "Web Design"
+              (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Dynamic Navigation Label" rwz1c2 [272,683,95,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [272,683,95,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "Framer Dev"
+              (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Dynamic Navigation Label" rwz1c2 [272,705,95,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [272,705,95,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "Art Direction"
+              (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Contact" atlsp8 [23,763,344,42] {gap=15px; overflow=clip; flex row j=flow-end a=flow-end}
+        <div "Contact Navigation Link" v1t4dw [23,787,57,18] {flex column j=flow-end a=normal}
+          <p framer-styles-preset-c95aba [23,787,57,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(188, 188, 188)/wdth 80, wght 700 :: "let’s talk"
+            (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Navigation Contact Button" framer-1jyh0tc-container [95,763,272,42]
+          <a "Phone" framer-U9l7N.1973bho.framer-v-u2y57g.1w8xaug [95,763,272,42] {gap=5px; borderRadius=8px; overflow=clip; flex row j=center a=center; cursor=pointer} href=./contact aria-label=contact
+            <div "Button" dczzwc [95,763,272,42] {padding=5px 15px 5px 5px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex row j=space-between a=center; cursor=pointer}
+              <div "Picture" 154bepi [100,768,32,32] {borderRadius=4px; overflow=clip; cursor=pointer}
+                <img  [100,768,32,32] {borderRadius=4px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=
+              <svg framer-SYorz.1acwqfj [335,776,17,17] {overflow=hidden; cursor=pointer}
+
+## about
+<section "About" ycmhje [0,828,390,923] {padding=60px 0px; gap=60px; backgroundColor=rgb(255, 255, 255); flex column j=flow-start a=center}
+  <div "Inside Container" 1lym5t5 [0,888,390,803] {padding=0px 23px; gap=40px; overflow=clip; flex column j=center a=center}
+    <div "Positioning Headline Group" 1x2zti6 [23,888,344,218] {gap=20px; overflow=clip; grid}
+      <div "Positioning Section Label" framer-1lh7vmw-container [23,888,344,18]
+        <div "Label" framer-Cuyir.framer-Me6vv.mi0u4.framer-v-mi0u4 [23,888,79,18] {gap=5px; flex row j=flow-start a=center}
+          <div "Count" 1qsszq [23,888,20,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [23,888,20,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 :: "(01)"
+              (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Text" moe5to [48,888,54,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [48,888,54,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "About us"
+              (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Positioning Headline" 5s3f7s [23,926,344,180] {flex column j=flow-start a=normal}
+        <h2 framer-styles-preset-fvem1p [23,926,344,180] font="Mona Sans Variable"/30px/30px/ls-0.6px/uppercase/justify/rgb(13, 13, 13)/wdth 75, wght 700 :: "⟨17sp⟩WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK." LINES=WE|FOUNDERS|IN.|ATTENTION,|ENOUGH|IS
+          (136 spans enfants; opacity∈{1}; transform∈{none})
+    <div "Philosophy" qcr6nv [23,1146,344,545] {gap=40px 20px; grid}
+      <div "Card / Signature" djt4hk [23,1146,162,266] {gap=15px; flex column j=center a=center}
+        <div "Founder Profile Card" framer-12okula-container [23,1146,162,266]
+          <div "Revealed" framer-ZmXTs.framer-yTVl5.framer-Me6vv.1hwt7ic.framer-v-1hwt7ic [23,1146,162,266] {gap=10px; borderRadius=10px; overflow=clip; flex column j=center a=flow-start; cursor=default}
+            <div "Image Container" 1jw74wi [23,1146,162,216] {gap=15px; borderRadius=10px; overflow=clip; flex row j=center a=center; cursor=default}
+              <div "Image" 17tax9v [23,1146,162,216] {borderRadius=10px; overflow=clip; maskImage=url(svg…); cursor=default}
+                <img  [23,1146,162,216] {borderRadius=10px; overflow=clip; cursor=default} src=https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg alt=Portrait of Jin Yuen
+                <div "Logo" framer-urcMH.h6mult [35,1158,23,20] {backgroundColor=rgb(255, 255, 255); maskImage=url(svg…); pos=absolute; cursor=default}
+            <div "Name / Role" 3ohe8n [23,1372,162,40] {padding=0px 12px; gap=0px; flex column j=flow-start a=flow-end; cursor=default}
+              <p framer-styles-preset-1l3tbw0 [35,1372,138,22] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 675 {cursor=default} :: "Jin Yuen"
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [122,1394,51,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 {cursor=default} :: "Founder"
+                (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Signature" framer-FESjs.1wg7p81 [126,1270,138,40] {transform=matrix(1, 0, 0, 1, 0, -20.0234); backgroundColor=rgb(245, 45, 15); maskImage=url(svg…); pos=absolute}
+      <div "Philosophy Eyebrow" ql5j4v [205,1146,98,18] {flex column j=flow-start a=normal}
+        <p framer-styles-preset-c95aba [205,1146,98,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(104, 104, 104)/wdth 80, wght 700 :: "(My philosophy)"
+          (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Quote / Primary Link" luaw3f [23,1452,344,239] {gap=40px; flex column j=center a=flow-start}
+        <div "Quote" 1yax0v2 [23,1452,344,178] {gap=15px; overflow=clip; flex column j=center a=flow-start}
+          <div "Quote" 1vyjfpw [23,1452,344,79] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-ervepf [23,1452,344,79] font="Mona Sans Variable"/23px/26.45px/ls-0.46px/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 675 :: "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”" LINES=“|watching|competitors
+              (86 spans enfants; opacity∈{1}; transform∈{none})
+          <div "Small Text" vur5wz [23,1546,344,84] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-10r2g7l [23,1546,344,84] font=Switzer/15px/21px/ls-0.45px/none/left/rgb(13, 13, 13) :: "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?" LINES=Design|understood.|question:|forward?
+              (25 spans enfants; opacity∈{1}; transform∈{none})
+        <div "Primary link" k36hqa [23,1670,344,20] {gap=40px; overflow=clip; grid}
+          <div "Filler" 1whhr62 [23,1670,152,1] {overflow=clip}
+          <div "Philosophy Link" framer-l6m7oy-container [215,1670,111,20]
+            <a "Phone Right" framer-St8Ub.framer-khCxy.q8hg74.framer-v-ls2zup.ghew07 [215,1670,111,20] {gap=9px; overflow=clip; flex row j=center a=center} href=./studio
+              <div "Text" 1dzfdpz [215,1670,85,20] {gap=15px; flex row j=center a=center}
+                <div "Top Text" zixbhw [215,1670,85,20] {flex column j=flow-start a=normal}
+                  <p framer-styles-preset-k5mxv3 [215,1670,85,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 :: "See the studio"
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                <div "Bottom Text" 1396mtp [215,1690,85,20] {opacity=0; pos=absolute; flex column j=flow-start a=normal}
+                  <p framer-styles-preset-k5mxv3 [215,1690,85,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 :: "See the studio"
+                    (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Chevron" 73np5u [309,1672,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center}
+                <svg framer-ab47M.19pf2gr [311,1674,13,13] {overflow=hidden}
+
+## work
+<div "Work Section" 3iq6j8 [0,1751,390,3150] {gap=0px; overflow=clip; flex column j=center a=center}
+  <div "Work Reveal" 12sj56n [0,1751,390,900] {padding=3px; gap=0px; borderRadius=12px; overflow=clip; pos=sticky; flex column j=center a=center}
+    <div "Inner" yveai5 [3,1754,384,894] {gap=3px; borderRadius=12px; overflow=clip; flex column j=center a=center}
+      <div "Logo / Text Reveal / Button" 1eglvw5 [3,2045,384,311] {padding=0px 20px; gap=20px; transform=matrix(1, 0, 0, 1, -192, -155.484); overflow=clip; pos=absolute; grid}
+        <div "Logo" 1xjrc.12rs6gn [-77,2045,65,18] {opacity=0; transform=matrix(1, 0, 0, 1, -100, 0); backgroundColor=rgb(255, 255, 255); maskImage=url(svg…)}
+        <div "Text Reveal / Button" 2o9mr0 [23,2083,344,273] {gap=30px 20px; grid}
+          <div "Text Reveal" framer-z0p32y-container [23,2083,344,122]
+            <div "Edit text reveal here" 1c2cnw1 [23,2083,344,122] {gap=15px; overflow=clip; flex row j=flow-start a=center}
+              <div "Guide Message Title" 158exkv [23,2083,344,122] {flex column j=flow-start a=normal}
+                <h2 framer-styles-preset-1c0t51l [23,2083,344,122]
+                  <div  [57,2083,40,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 {opacity=0; transform=matrix(1, 0, 0, 1, 0, 0)} :: "50"
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div  [104,2083,125,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 {opacity=0; transform=matrix(1, 0, 0, 1, 0, 0)} :: "BRANDS."
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div  [57,2124,33,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 {opacity=0; transform=matrix(1, 0, 0, 1, 0, 0)} :: "14"
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div  [98,2124,101,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 {opacity=0; transform=matrix(1, 0, 0, 1, 0, 0)} :: "YEARS."
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div  [57,2164,56,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgb(245, 45, 15)/wdth 75, wght 700 {opacity=0; transform=matrix(1, 0, 0, 1, 0, 0)} :: "ONE"
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div  [121,2164,158,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 {opacity=0; transform=matrix(1, 0, 0, 1, 0, 0)} :: "STANDARD."
+                    (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Edit text reveal here" 1c2cnw1 [23,2083,344,122] {gap=15px; overflow=clip; flex row j=flow-start a=center}
+              <div "Guide Message Title" 158exkv [23,2083,344,122] {flex column j=flow-start a=normal}
+                <h2 framer-styles-preset-1c0t51l [23,2083,344,122] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgba(0, 0, 0, 0)/wdth 75, wght 700 :: "50 BRANDS. 14 YEARS. ONE STANDARD." LINES=50|14|ONE
+                  (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Projects Collection" 1mqkqdf [73,2259,344,73] {gap=20px; opacity=0; transform=matrix(1, 0, 0, 1, 50, 0); flex column j=center a=flow-start}
+            <div "Featured Projects Button" framer-3bqj9f-container [73,2259,344,73]
+              <a "Desktop" framer-k45qK.framer-Me6vv.framer-AWIXE.icn1dx.framer-v-icn1dx.r8h64 [73,2259,200,73] {padding=3px; gap=0px; borderRadius=10px; backgroundColor=rgb(255, 255, 255); overflow=clip; flex row j=center a=center; cursor=pointer} href=./projects
+                <div "Image / Video" framer-vuuz9-container [76,2262,67,67] {cursor=pointer}
+                  <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [76,2262,67,67] {gap=15px; flex row j=center a=center; cursor=pointer}
+                    <div "BG" fbyx7b [76,2262,67,67] {gap=15px; borderRadius=8px; filter=grayscale(0); overflow=clip; flex row j=center a=center; cursor=pointer}
+                      <div "Dark overlay" 2rkagx [76,2262,67,67] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                      <div "Uploaded Video" framer-ii6yae-container [76,2262,67,67] {cursor=pointer}
+                        <video  [76,2262,67,67] {overflow=clip} src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted= autoplay= playsinline= paused=true
+                <div "Text / Count" 1l7e0fh [143,2273,127,44] {padding=13px; gap=3px; overflow=clip; flex row j=center a=center; cursor=pointer}
+                  <p framer-styles-preset-c95aba [178,2286,41,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 {cursor=pointer} :: "See all"
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Project count font" 1xlyw8p [221,2286,14,18] {gap=15px; overflow=clip; flex row j=center a=center; cursor=pointer}
+                    <p framer-styles-preset-c95aba [221,2286,14,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 {cursor=pointer} :: "(6)"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Media" 1jgewsq [-400,815,1190,2771] {gap=3px; transform=matrix(3.1, 0, 0, 3.1, 0, 0); overflow=clip; flex row j=center a=center}
+        <div "Dark Overlay" ul47s4 [-400,815,1190,2771] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute}
+        <div "Top Row" br9d9a [-1011,815,798,2771] {gap=3px; overflow=clip; flex column j=center a=center}
+          <div "Top" framer-pcfn12-container [-1011,815,798,1381]
+            <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [-1011,815,798,1381] {gap=15px; flex row j=center a=center}
+              <div "BG" fbyx7b [-1011,815,798,1381] {gap=15px; borderRadius=10px; filter=grayscale(0); overflow=clip; flex row j=center a=center}
+                <div "Dark overlay" 2rkagx [-1011,815,798,1381] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                <div "Uploaded Video" framer-ii6yae-container [-1011,815,798,1381]
+                  <video  [-1011,815,798,1381] {overflow=clip} src=https://framerusercontent.com/assets/V3ybBeZxp5aiQvQwxbsc72F4V4.mp4 poster=https://framerusercontent.com/images/WigME9FAJdZx9jQu2PhxXL8Pc9M.jpg loop= muted= autoplay= playsinline= paused=true
+          <div "Bottom" framer-fs5fsc-container [-1011,2205,798,1381]
+            <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [-1011,2205,798,1381] {gap=15px; flex row j=center a=center}
+              <div "BG" fbyx7b [-1011,2205,798,1381] {gap=15px; borderRadius=10px; filter=grayscale(0); overflow=clip; flex row j=center a=center}
+                <div "Dark overlay" 2rkagx [-1011,2205,798,1381] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                <div "BG Image" 1rd84u6 [-1011,2205,798,1381] {gap=15px; borderRadius=10px; overflow=clip}
+                  <img  [-1011,2205,798,1381] {borderRadius=10px; overflow=clip} src=https://framerusercontent.com/images/kP9y3f68sbv1icRVUmBXDlIfu0I.png alt=
+        <div "Middle Row" y0cfvd [-204,815,798,2771] {gap=3px; overflow=clip; flex column j=center a=center}
+          <div "Top" framer-17k5vtz-container [-204,815,798,918]
+            <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [-204,815,798,918] {gap=15px; flex row j=center a=center}
+              <div "BG" fbyx7b [-204,815,798,918] {gap=15px; borderRadius=10px; filter=grayscale(0); overflow=clip; flex row j=center a=center}
+                <div "Dark overlay" 2rkagx [-204,815,798,918] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                <div "BG Image" 1rd84u6 [-204,815,798,918] {gap=15px; borderRadius=10px; overflow=clip}
+                  <img  [-204,815,798,918] {borderRadius=10px; overflow=clip} src=https://framerusercontent.com/images/Pvg65dRGYEkffGzS24z71aAheT0.jpg alt=
+          <div "Middle" framer-1e00623-container [-204,1742,798,918]
+            <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [-204,1742,798,918] {gap=15px; flex row j=center a=center}
+              <div "BG" fbyx7b [-204,1742,798,918] {gap=15px; borderRadius=10px; filter=grayscale(0); overflow=clip; flex row j=center a=center}
+                <div "Dark overlay" 2rkagx [-204,1742,798,918] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                <div "BG Image" 1rd84u6 [-204,1742,798,918] {gap=15px; borderRadius=10px; overflow=clip}
+                  <img  [-204,1742,798,918] {borderRadius=10px; overflow=clip} src=https://framerusercontent.com/images/BOaxMUc8EHCGgQUwQ0NELClE1U.jpg alt=
+          <div "Bottom" framer-1wehdij-container [-204,2669,798,918]
+            <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [-204,2669,798,918] {gap=15px; flex row j=center a=center}
+              <div "BG" fbyx7b [-204,2669,798,918] {gap=15px; borderRadius=10px; filter=grayscale(0); overflow=clip; flex row j=center a=center}
+                <div "Dark overlay" 2rkagx [-204,2669,798,918] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                <div "Uploaded Video" framer-ii6yae-container [-204,2669,798,918]
+                  <video  [-204,2669,798,918] {overflow=clip} src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted= autoplay= playsinline= paused=true
+        <div "Top Row" 89k7li [603,815,798,2771] {gap=3px; overflow=clip; flex column j=center a=center}
+          <div "Top" framer-1a1yanr-container [603,815,798,1381]
+            <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [603,815,798,1381] {gap=15px; flex row j=center a=center}
+              <div "BG" fbyx7b [603,815,798,1381] {gap=15px; borderRadius=10px; filter=grayscale(0); overflow=clip; flex row j=center a=center}
+                <div "Dark overlay" 2rkagx [603,815,798,1381] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                <div "Uploaded Video" framer-ii6yae-container [603,815,798,1381]
+                  <video  [603,815,798,1381] {overflow=clip} src=https://framerusercontent.com/assets/rjNIvMHRogDJaHfneCJlZtXM.mp4 poster=https://framerusercontent.com/images/FbhJf8mYmDiQSJihxpqFmhRJxU.jpg loop= muted= autoplay= playsinline= paused=true
+          <div "Bottom" framer-c90k33-container [603,2205,798,1381]
+            <div "End" framer-GJxp5.ygyp3d.framer-v-1gumnrm [603,2205,798,1381] {gap=15px; flex row j=center a=center}
+              <div "BG" fbyx7b [603,2205,798,1381] {gap=15px; borderRadius=10px; filter=grayscale(0); overflow=clip; flex row j=center a=center}
+                <div "Dark overlay" 2rkagx [603,2205,798,1381] {opacity=0; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=default}
+                <div "BG Image" 1rd84u6 [603,2205,798,1381] {gap=15px; borderRadius=10px; overflow=clip}
+                  <img  [603,2205,798,1381] {borderRadius=10px; overflow=clip} src=https://framerusercontent.com/images/AgAKhYFyXNgfrvcXhbkrSnOv8.jpg alt=
+  <div "Trigger 1" 4ctmxs [0,2651,390,1800] {gap=0px; overflow=clip; flex column j=center a=center}
+    <div "Trigger 2" wxgd4u [0,4001,390,450] {gap=0px; overflow=clip; pos=absolute; flex column j=center a=center}
+  <div "Stop Scroll" 21ym8m [0,4451,390,450] {gap=0px; overflow=clip; flex column j=center a=center}
+
+## clients
+<div "Client Logo Marquee" framer-hkp95f-container [0,4901,390,644]
+  <section "Phone" framer-HIOH4.framer-Me6vv.1npuuv8.framer-v-kvuuzz [0,4901,390,644] {padding=60px 0px; gap=40px; overflow=clip; flex column j=center a=center}
+    <div "Inside Container" 10m73gh [0,4961,390,524] {padding=0px 23px; gap=40px; overflow=clip; flex column j=center a=center}
+      <div "Label" framer-Cuyir.framer-Me6vv.mi0u4.framer-v-mi0u4 [23,4961,96,18] {gap=5px; flex row j=flow-start a=center}
+        <div "Count" 1qsszq [23,4961,21,18] {flex column j=flow-start a=normal}
+          <p framer-styles-preset-c95aba [23,4961,21,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 :: "(02)"
+            (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Text" moe5to [49,4961,70,18] {flex column j=flow-start a=normal}
+          <p framer-styles-preset-c95aba [49,4961,70,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "Our clients"
+            (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Logo / Rating" v4fp35 [23,4999,344,486] {gap=40px; overflow=clip; flex column j=center a=center}
+        <div "Logos" 1v6x4pk [23,4999,344,370] {gap=5px; grid}
+          <div "Case Study" framer-rE6x2.1evdr1t.framer-v-1evdr1t [23,4999,170,120] {padding=30px; gap=20px; borderRadius=10px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex column j=center a=center}
+            <div "Logo" framer-gaSjD.o7c73w [74,5044,67,30] {backgroundColor=rgb(13, 13, 13); maskImage=url(svg…)}
+          <div "Case Study" framer-rE6x2.1evdr1t.framer-v-1evdr1t [198,4999,170,120] {padding=30px; gap=20px; borderRadius=10px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex column j=center a=center}
+            <div "Logo" framer-wSHP9.o7c73w [270,5044,24,30] {backgroundColor=rgb(13, 13, 13); maskImage=url(svg…)}
+          <div "Case Study" framer-rE6x2.1evdr1t.framer-v-1evdr1t [23,5124,170,120] {padding=30px; gap=20px; borderRadius=10px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex column j=center a=center}
+            <div "Logo" yh1m0.o7c73w [68,5169,80,30] {backgroundColor=rgb(13, 13, 13); maskImage=url(svg…)}
+          <div "Case Study" framer-rE6x2.1evdr1t.framer-v-1evdr1t [198,5124,170,120] {padding=30px; gap=20px; borderRadius=10px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex column j=center a=center}
+            <div "Logo" framer-9SpMv.o7c73w [245,5169,75,30] {backgroundColor=rgb(13, 13, 13); maskImage=url(svg…)}
+          <div "Case Study" framer-rE6x2.1evdr1t.framer-v-1evdr1t [23,5249,170,120] {padding=30px; gap=20px; borderRadius=10px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex column j=center a=center}
+            <div "Logo" framer-CxFEq.o7c73w [85,5294,46,30] {backgroundColor=rgb(13, 13, 13); maskImage=url(svg…)}
+          <div "Case Study" framer-rE6x2.1evdr1t.framer-v-1evdr1t [198,5249,170,120] {padding=30px; gap=20px; borderRadius=10px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex column j=center a=center}
+            <div "Logo" framer-azjUT.o7c73w [265,5294,35,30] {backgroundColor=rgb(13, 13, 13); maskImage=url(svg…)}
+        <div "Year / Rating" 11lsex1 [23,5409,344,76] {gap=20px; grid}
+          <p framer-styles-preset-c95aba [23,5409,50,36] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "2012 2026©" LINES=2012|2026©
+            (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Rating" framer-Vl2Hy.framer-AWIXE.1apgf77.framer-v-1apgf77 [144,5409,223,76] {gap=15px 10px; flex column j=flow-start a=flow-start}
+            <div "Stacked Avatars" 15gtnew [144,5409,107,30] {gap=16px; flex row j=flow-start a=center}
+              <div "Container" 4rons3 [144,5409,107,30] {padding=0px 17px; gap=23px; flex row j=flow-start a=center}
+                <div "1" framer-zsjmne-container [161,5409,1,30]
+                  <div "Large" framer-oe2kI.134908u.framer-v-134908u [161,5409,1,30] {borderRadius=100%}
+                    <div "Image" 17aumxd [147,5409,30,30] {borderRadius=6px; boxShadow=rgb(255, 255, 255) 0px 0px 0px 2px; transform=matrix(1, 0, 0, 1, -15, -15); overflow=hidden; pos=absolute}
+                      <img  [147,5409,30,30] {borderRadius=6px; overflow=clip} src=https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg alt=
+                <div "2" framer-1ywp80p-container [185,5409,1,30]
+                  <div "Large" framer-oe2kI.134908u.framer-v-134908u [185,5409,1,30] {borderRadius=100%}
+                    <div "Image" 17aumxd [171,5409,30,30] {borderRadius=6px; boxShadow=rgb(255, 255, 255) 0px 0px 0px 2px; transform=matrix(1, 0, 0, 1, -15, -15); overflow=hidden; pos=absolute}
+                      <img  [171,5409,30,30] {borderRadius=6px; overflow=clip} src=https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg alt=
+                <div "3" framer-r3qz5f-container [209,5409,1,30]
+                  <div "Large" framer-oe2kI.134908u.framer-v-134908u [209,5409,1,30] {borderRadius=100%}
+                    <div "Image" 17aumxd [195,5409,30,30] {borderRadius=6px; boxShadow=rgb(255, 255, 255) 0px 0px 0px 2px; transform=matrix(1, 0, 0, 1, -15, -15); overflow=hidden; pos=absolute}
+                      <img  [195,5409,30,30] {borderRadius=6px; overflow=clip} src=https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg alt=
+                <div "4" ac7ito [233,5409,1,30] {borderRadius=100%}
+                  <div "Count" 1dm823p [219,5409,30,30] {gap=40px; borderRadius=6px; boxShadow=rgb(255, 255, 255) 0px 0px 0px 2px; transform=matrix(1, 0, 0, 1, -15, -15); backgroundColor=rgb(245, 45, 15); overflow=hidden; pos=absolute}
+                    <p framer-styles-preset-ss7lqy [224,5417,20,14] font=Switzer/12px/13.8px/ls-0.24px/none/left/rgb(255, 255, 255) :: "+47"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Rating" 1gj1j7j [144,5454,116,31] {gap=3px; flex column j=center a=flow-start}
+              <div "Rating / Stars" o7y3w4 [144,5454,116,14] {gap=7px; flex row j=flow-start a=center}
+                <p framer-styles-preset-ss7lqy [144,5454,27,14] font=Switzer/12px/13.8px/ls-0.24px/none/left/rgb(13, 13, 13) :: "4.9/5"
+                  (1 spans enfants; opacity∈{1}; transform∈{none})
+                <div "Stars" lhv1pj [178,5457,53,8] {gap=2px; flex row j=center a=center}
+                  <svg  [178,5457,9,8] {overflow=hidden}
+                  <svg  [189,5457,9,8] {overflow=hidden}
+                  <svg  [200,5457,9,8] {overflow=hidden}
+                  <svg  [211,5457,9,8] {overflow=hidden}
+                  <svg  [222,5457,9,8] {overflow=hidden}
+              <p framer-styles-preset-ss7lqy [144,5470,116,14] font=Switzer/12px/13.8px/ls-0.24px/none/left/rgb(13, 13, 13) :: "Trusted by 50+ clients"
+  (1 spans)
+
+## whyus
+<section "Why us" 1qtyeza [0,5544,390,1873] {padding=3px; gap=0px; flex column j=center a=center}
+  <div "Outer Container" 1q01uzu [3,5547,384,1867] {padding=60px 0px; gap=15px; borderRadius=12px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex row j=center a=center}
+    <div "Inside Container" 1395npy [3,5607,384,1747] {padding=0px 23px; gap=40px; overflow=clip; flex column j=center a=center}
+      <div "Label / Heading" ddom1c [26,5607,338,288] {gap=15px; overflow=clip; flex column j=center a=flow-start}
+        <div "Impact Section Label" framer-15t8gb5-container [26,5607,70,18]
+          <div "Label" framer-Cuyir.framer-Me6vv.mi0u4.framer-v-mi0u4 [26,5607,70,18] {gap=5px; flex row j=flow-start a=center}
+            <div "Count" 1qsszq [26,5607,21,18] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-c95aba [26,5607,21,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 :: "(03)"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Text" moe5to [52,5607,44,18] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-c95aba [52,5607,44,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "Why us"
+                (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Impact Headline Group" 1coydt8 [26,5640,338,255] {gap=30px; overflow=clip; flex column j=center a=flow-start}
+          <div "Impact Headline" 4mh2mt [26,5640,338,81] {flex column j=flow-start a=normal}
+            <h2 framer-styles-preset-1c0t51l [26,5640,338,81] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 700 :: "why Mira® is your next choice." LINES=why|your
+              (25 spans enfants; opacity∈{1}; transform∈{none})
+          <div "Description / Qualifier" 8xf3fa [26,5751,338,144] {gap=20px; flex column j=center a=flow-start}
+            <div "Impact Supporting Copy" fan4ht [26,5751,338,87] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-1l3tbw0 [26,5751,338,87] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/justify/rgb(13, 13, 13)/wdth 75, wght 675 :: "⟨26sp⟩WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE." LINES=WITHIN|SEE|MEASURED|PERFORMANCE.
+                (112 spans enfants; opacity∈{1}; transform∈{none})
+            <div "Impact Footnote" o6avto [26,5859,338,36] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-lu6cf5 [26,5859,338,36] font=Switzer/13px/18.2px/ls-0.26px/none/start/rgb(104, 104, 104) :: "*Across client launches from 2023 to 2026, measured over the first six months post-launch." LINES=*Across|measured
+                (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Impact Bar Graph" framer-8jwvf3-container [26,5935,338,332]
+        <div "End" framer-0lSwF.framer-Me6vv.framer-QoPvp.14e620u.framer-v-14e620u [26,5935,338,332] {gap=30px; overflow=clip; flex column j=center a=flow-start}
+          <div "Bar Graph" 98w18l [26,5935,338,266] {padding=40px 15px; gap=20px; flex column j=flow-end a=flow-start}
+            <div "Logo / Text" 1l4zi18 [41,5975,87,18] {gap=10px; flex row j=center a=center}
+              <p framer-styles-preset-c95aba [68,5975,60,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "With Mira"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Top Bar" 1vpv6b9 [41,6008,308,50] {padding=10px; gap=20px; borderRadius=10px; backgroundColor=rgb(13, 13, 13); overflow=clip; flex row j=flow-end a=flow-end}
+              <p framer-styles-preset-c95aba [254,6030,85,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 :: "+47% inbound"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <p framer-styles-preset-c95aba [41,6078,79,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "Industry avg"
+              (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Bottom Bar" 1q722ob [41,6111,77,50] {padding=10px; gap=20px; borderRadius=10px; backgroundColor=rgb(255, 255, 255); overflow=clip; flex row j=flow-end a=flow-end}
+              <p framer-styles-preset-c95aba [79,6133,30,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "+12%"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Lines" 11srtzw [26,5935,338,266] {overflow=hidden; pos=absolute; flex row j=space-between a=flow-end}
+              <div "Bottom Line" 1nwgf8v [26,6180,338,1] {overflow=clip; pos=absolute}
+              <div "1" swzb6q [26,5935,18,266] {gap=10px; overflow=clip; flex column j=center a=center}
+                <div "Line" zqdm85 [35,5935,1,238] {overflow=hidden}
+                <p framer-styles-preset-c95aba [26,6183,18,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(104, 104, 104)/wdth 80, wght 700 :: "0%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "2" p7g4i4 [74,5935,18,266] {gap=10px; overflow=clip; flex column j=center a=center}
+                <div "Line" 1yy3xur [82,5935,1,238] {overflow=hidden}
+                <p framer-styles-preset-c95aba [74,6183,18,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(104, 104, 104)/wdth 80, wght 700 :: "8%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "3" 1ys1ix7 [122,5935,23,266] {gap=10px; overflow=clip; flex column j=center a=center}
+                <div "Line" 1ltf892 [133,5935,1,238] {overflow=hidden}
+                <p framer-styles-preset-c95aba [122,6183,23,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(104, 104, 104)/wdth 80, wght 700 :: "16%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "4" l0f5ma [174,5935,24,266] {gap=10px; overflow=clip; flex column j=center a=center}
+                <div "Line" g5ffb6 [186,5935,1,238] {overflow=hidden}
+                <p framer-styles-preset-c95aba [174,6183,24,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(104, 104, 104)/wdth 80, wght 700 :: "24%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "5" 1nnzqod [229,5935,24,266] {gap=10px; overflow=clip; flex column j=center a=center}
+                <div "Line" 745m9s [240,5935,1,238] {overflow=hidden}
+                <p framer-styles-preset-c95aba [229,6183,24,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(104, 104, 104)/wdth 80, wght 700 :: "32%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "6" 7y0t8p [283,5935,26,266] {gap=10px; overflow=clip; flex column j=center a=center}
+                <div "Line" owxy2r [295,5935,1,238] {overflow=hidden}
+                <p framer-styles-preset-c95aba [283,6183,26,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(104, 104, 104)/wdth 80, wght 700 :: "40%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "7" hjkps9 [339,5935,25,266] {gap=10px; overflow=clip; flex column j=center a=center}
+                <div "Line" 1edzbyy [351,5935,1,238] {overflow=hidden}
+                <p framer-styles-preset-c95aba [339,6183,25,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(104, 104, 104)/wdth 80, wght 700 :: "48%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+          <p framer-styles-preset-lu6cf5 [26,6231,338,36] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(104, 104, 104) :: "Average growth in qualified enquiries, first six months after launch" LINES=Average|first
+            (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Proof Points Group" 1km4gyt [26,6307,338,1047] {gap=40px 20px; overflow=clip; grid}
+        <div "Company Card" 1gx5uo5 [26,6307,338,408] {padding=30px; gap=0px; borderRadius=10px; backgroundColor=rgb(245, 45, 15); flex column j=center a=flow-start}
+          <div "Logo / Slogan" 1eqaor8 [56,6337,278,155] {gap=30px; overflow=clip; flex column j=flow-start a=flow-start}
+            <div "Proof Points Icon" framer-urcMH.533vj9 [56,6337,40,35] {backgroundColor=rgb(255, 255, 255); maskImage=url(svg…)}
+            <div "Slogan" zry8b9 [56,6402,278,90] {gap=10px; overflow=clip; flex column j=center a=flow-start}
+              <div "Proof Points Heading" 1r5x61w [56,6402,200,44] {flex column j=flow-start a=normal}
+                <p framer-styles-preset-1l3tbw0 [56,6402,200,44] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 :: "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS." LINES=REAL|NUMBERS.
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Proof Points Description" qof2k3 [56,6456,220,36] {opacity=0.85; flex column j=flow-start a=normal}
+                <p framer-styles-preset-lu6cf5 [56,6456,220,36] font=Switzer/13px/18.2px/ls-0.26px/none/start/rgb(255, 255, 255) :: "Most clients come back for the next project. The rest send referrals." LINES=Most|project.
+                  (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Stats" 140sspa [56,6492,278,193] {padding=50px 0px 0px; gap=30px; overflow=clip; flex column j=flow-start a=flow-start}
+            <div "Companies Automated" eolegq [56,6542,106,57] {gap=7px; flex column j=flow-start a=flow-start}
+              <div "Brands Launched Value" yu2e2v [56,6542,40,32] {flex column j=flow-start a=normal}
+                <h3 framer-styles-preset-s3qbre [56,6542,40,32] font="Mona Sans Variable"/30px/31.5px/ls-0.6px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 :: "50+"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Brands Launched Label" 1xkeben [56,6581,106,18] {opacity=0.85; flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [56,6581,106,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "brands launched"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Satisfaction Rate" 1dga4qu [56,6629,93,57] {gap=7px; flex column j=flow-start a=flow-start}
+              <div "On-Time Delivery Value" 2f19st [56,6629,56,32] {flex column j=flow-start a=normal}
+                <h3 framer-styles-preset-s3qbre [56,6629,56,32] font="Mona Sans Variable"/30px/31.5px/ls-0.6px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 :: "100%"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "On-Time Delivery Label" 1por1vl [56,6667,93,18] {opacity=0.85; flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [56,6667,93,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 :: "shipped on time"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Project Metrics Group" x0xz02 [26,6755,338,599] {gap=40px; overflow=clip; flex column j=center a=center}
+          <div "Stats" 1gw2692 [26,6755,338,388] {gap=30px 20px; overflow=clip; flex column j=flow-start a=center}
+            <div "Project Metric One" framer-yyn04o-container [26,6755,338,169]
+              <div "Light" framer-M6TOJ.framer-Me6vv.framer-2Ps8M.framer-khCxy.framer-QoPvp.1l3encs.framer-v-mdjzd1 [26,6755,338,169] {gap=12px; borderRadius=4px; flex row j=center a=flow-end}
+                <div "Stat" 19iwyhl [26,6755,338,169] {gap=30px; flex column j=center a=center}
+                  <div "Count" nrs2ax [26,6755,338,18] {flex column j=center a=normal}
+                    <p framer-styles-preset-c95aba [26,6755,338,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 :: "01"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Number / Description" 1d57mhn [26,6803,338,90] {gap=20px; grid}
+                    <div "Metric" w3nx7a [26,6863,159,30] {flex column j=center a=normal}
+                      <h2 framer-styles-preset-fvem1p [26,6863,159,30] font="Mona Sans Variable"/30px/30px/ls-0.6px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 :: "6 Wks"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                    <div "Label / Description" dkfec8 [205,6803,159,90] {gap=15px; overflow=clip; flex column j=center a=flow-start}
+                      <div "Label" qouc4r [205,6803,159,20] {flex column j=center a=normal}
+                        <p framer-styles-preset-k5mxv3 [205,6803,159,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 :: "(AVERAGE TIME TO LAUNCH)"
+                          (0 spans enfants; opacity∈{}; transform∈{})
+                      <div "Description" 1rvpfig [205,6839,159,55] {flex column j=flow-start a=normal}
+                        <p framer-styles-preset-lu6cf5 [205,6839,159,55] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(104, 104, 104) :: "Most projects go from first call to live site in under two months." LINES=Most|first|under
+                          (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Show Horizontal" framer-sz7Kf.t5kp41.framer-v-dtr87q [26,6923,338,1] {gap=32px; flex row j=flow-start a=flow-start}
+                    <div "Line" 5nyabp [26,6923,338,1] {backgroundColor=rgba(156, 156, 156, 0.2); overflow=hidden}
+            <div "Project Metric Two" framer-19pivww-container [26,6954,338,189]
+              <div "Light" framer-M6TOJ.framer-Me6vv.framer-2Ps8M.framer-khCxy.framer-QoPvp.1l3encs.framer-v-mdjzd1 [26,6954,338,189] {gap=12px; borderRadius=4px; flex row j=center a=flow-end}
+                <div "Stat" 19iwyhl [26,6954,338,189] {gap=30px; flex column j=center a=center}
+                  <div "Count" nrs2ax [26,6954,338,18] {flex column j=center a=normal}
+                    <p framer-styles-preset-c95aba [26,6954,338,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 :: "02"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Number / Description" 1d57mhn [26,7002,338,110] {gap=20px; grid}
+                    <div "Metric" w3nx7a [26,7083,159,30] {flex column j=center a=normal}
+                      <h2 framer-styles-preset-fvem1p [26,7083,159,30] font="Mona Sans Variable"/30px/30px/ls-0.6px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 :: "40+"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                    <div "Label / Description" dkfec8 [205,7002,159,110] {gap=15px; overflow=clip; flex column j=center a=flow-start}
+                      <div "Label" qouc4r [205,7002,159,41] {flex column j=center a=normal}
+                        <p framer-styles-preset-k5mxv3 [205,7002,159,41] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 :: "(REFERRALS SENT BY CLIENTS)" LINES=(REFERRALS|SENT
+                          (0 spans enfants; opacity∈{}; transform∈{})
+                      <div "Description" 1rvpfig [205,7058,159,55] {flex column j=flow-start a=normal}
+                        <p framer-styles-preset-lu6cf5 [205,7058,159,55] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(104, 104, 104) :: "Happy clients are the only marketing channel we've ever needed." LINES=Happy|only|we've
+                          (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Show Horizontal" framer-sz7Kf.t5kp41.framer-v-dtr87q [26,7143,338,1] {gap=32px; flex row j=flow-start a=flow-start}
+                    <div "Line" 5nyabp [26,7143,338,1] {backgroundColor=rgba(156, 156, 156, 0.2); overflow=hidden}
+          <div "Services Introduction Group" 1ckw0ru [26,7184,338,171] {gap=40px 20px; overflow=clip; grid}
+            <div "Team Quote" u7488v [26,7184,338,110] {gap=20px; overflow=clip; flex column j=center a=flow-start}
+              <div "Quote" 1p1yh5e [26,7184,240,54] {flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [26,7184,240,54] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(13, 13, 13)/wdth 80, wght 700 :: "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU." LINES=NOT|WORK|PROBLEM.
+                  (1 spans enfants; opacity∈{1}; transform∈{none})
+              <div "Founder Author Card" framer-1fhgc27-container [26,7258,338,36]
+                <div "Author" framer-QRwP7.framer-QoPvp.1kijlsy.framer-v-1kijlsy [26,7258,338,36] {gap=11px; overflow=clip; flex row j=flow-start a=center}
+                  <img  [26,7260,32,32] {borderRadius=4px; overflow=clip} src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=Portrait of Jin Yuen
+                  <div "Name / Role" lpw2kj [69,7258,79,36] {gap=0px; overflow=clip; flex column j=center a=flow-start}
+                    <p framer-styles-preset-lu6cf5 [69,7258,48,18] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(13, 13, 13) :: "Jin Yuen"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                    <p framer-styles-preset-lu6cf5 [69,7276,79,18] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(104, 104, 104) :: "Founder, Mira"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Services Introduction Link" framer-1y26ven-container [244,7334,120,20]
+              <a "Desktop - Right" framer-St8Ub.framer-khCxy.q8hg74.framer-v-q8hg74.ghew07 [244,7334,120,20] {gap=9px; overflow=clip; flex row j=center a=center; cursor=pointer} href=./contact
+                <div "Text" 1dzfdpz [244,7334,94,20] {gap=15px; flex row j=center a=center; cursor=pointer}
+                  <div "Top Text" zixbhw [244,7334,94,20] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [244,7334,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Bottom Text" 1396mtp [244,7354,94,20] {opacity=0; pos=absolute; flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [244,7354,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <div "Chevron" 73np5u [347,7336,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center; cursor=pointer}
+                  <svg framer-ab47M.19pf2gr [349,7338,13,13] {overflow=hidden; cursor=pointer}
+
+## services
+<section "Services" nb46is [0,7417,390,1148] {padding=60px 0px; gap=40px; flex column j=center a=center}
+  <div "Label / Heading" 1rtf8yx [0,7477,390,185] {padding=0px 23px; gap=15px; overflow=clip; flex column j=center a=flow-start}
+    <div "Filler" 15bxga8 [23,7477,255,1] {gap=30px; overflow=clip}
+    <div "Services Section Label" framer-khit0z-container [23,7493,116,18]
+      <div "Label" framer-Cuyir.framer-Me6vv.mi0u4.framer-v-mi0u4 [23,7493,116,18] {gap=5px; flex row j=flow-start a=center}
+        <div "Count" 1qsszq [23,7493,22,18] {flex column j=flow-start a=normal}
+          <p framer-styles-preset-c95aba [23,7493,22,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 :: "(04)"
+            (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Text" moe5to [50,7493,89,18] {flex column j=flow-start a=normal}
+          <p framer-styles-preset-c95aba [50,7493,89,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "What we bring"
+            (0 spans enfants; opacity∈{}; transform∈{})
+    <div "Heading / Description" 1s9hlkd [23,7526,344,136] {gap=30px; overflow=clip; flex column j=center a=flow-start}
+      <div "Services Heading" 5fp2uh [23,7526,344,41] {flex column j=flow-start a=normal}
+        <h2 framer-styles-preset-1c0t51l [23,7526,344,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/left/rgb(13, 13, 13)/wdth 75, wght 700 :: "services."
+          (9 spans enfants; opacity∈{1}; transform∈{none})
+      <div "Services Description" 1as0e7n [23,7597,344,66] {flex column j=flow-start a=normal}
+        <p framer-styles-preset-1l3tbw0 [23,7597,344,66] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/justify/rgb(13, 13, 13)/wdth 75, wght 675 :: "⟨26sp⟩Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start." LINES=Everything|established,|is
+          (96 spans enfants; opacity∈{1}; transform∈{none})
+  <div "Service Cards" 5ssu39 [0,7702,390,803] {padding=0px 3px; gap=3px; flex column j=flow-start a=center}
+    <div "Services Card" framer-1s0kbss-container [3,7702,384,594]
+      <div "Phone Open" framer-if8OZ.framer-Me6vv.framer-lt6Rw.framer-LubW4.framer-QoPvp.40gaj4.framer-v-kquzu7 [3,7702,384,594] {padding=20px 0px; gap=20px; borderRadius=12px; backgroundColor=rgb(13, 13, 13); overflow=hidden; flex column j=center a=center; cursor=pointer}
+        <div "Bg Image" 1267v3b [3,7600,384,800] {transform=matrix(1, 0, 0, 1, -192, -400); overflow=clip; pos=absolute; cursor=pointer}
+          <img  [3,7600,384,800] {overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+        <div "Overlay" 1c31hon [3,7702,384,594] {opacity=0.85; backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+        <div "Inside Container" mvjs4y [3,7722,384,554] {gap=20px; overflow=hidden; flex column j=center a=center; cursor=pointer}
+          <div "Top" 1tu3fa2 [3,7722,384,20] {padding=0px 20px; gap=20px; overflow=hidden; grid; cursor=pointer}
+            <div "Count" fklgz8 [23,7723,29,18] {gap=0px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <p framer-styles-preset-c95aba [23,7723,10,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 {cursor=pointer} :: "S."
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [33,7723,20,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "(01)"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Service Title" mbxiwc [114,7722,162,20] {gap=40px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <div "Service Title" 4xbqmr [114,7672,120,26] {opacity=0; pos=absolute; flex column j=flow-start a=normal; cursor=pointer}
+                <p framer-styles-preset-ervepf [114,7672,120,26] font="Mona Sans Variable"/23px/26.45px/ls-0.46px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=pointer} :: "Brand Identity."
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Open" framer-LQ8sa.1q1cc5y.framer-v-5x09si [347,7722,20,20] {padding=4px; gap=0px; borderRadius=100%; backgroundColor=rgb(255, 255, 255); flex column j=center a=center; cursor=pointer}
+              <div "Plus" 1uijhxj [351,7726,12,12] {gap=0px; transform=matrix(1, 0, 0, 1, 0, 0); overflow=clip; cursor=pointer}
+                <div "V" 17e2lex [356,7738,2,12] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+                <div "H" 1f2jp2r [351,7731,12,2] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+          <div "Service Info" pbfvxz [3,7762,384,514] {padding=0px 20px; gap=30px; overflow=hidden; flex column j=center a=center; cursor=pointer}
+            <div "Image / Service Title" oxwxvb [23,7762,344,307] {gap=20px; overflow=hidden; grid; cursor=pointer}
+              <img  [23,7762,162,162] {borderRadius=10px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+              <div "Filler" wl692x [205,7762,162,1] {overflow=clip; cursor=pointer}
+              <div "Title / Description" fdvby0 [23,7944,344,125] {gap=20px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <div "Title / Price" 1pnc4jy [23,7944,300,69] {gap=10px; flex column j=center a=flow-start; cursor=pointer}
+                  <h2 framer-styles-preset-1c0t51l [23,7944,300,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Brand Identity."
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Price" 19iungr [23,7995,98,18] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-c95aba [23,7995,98,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Starts at $4,500"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-lu6cf5 [23,8033,240,36] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(188, 188, 188) {cursor=pointer} :: "Logo, type, color, and the system that keeps it consistent everywhere it lives." LINES=Logo,|keeps
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Bottom Info" 1dl9ezp [23,8099,344,177] {gap=40px 20px; overflow=hidden; grid; cursor=pointer}
+              <div "Delivery Time" poqckm [205,8165,162,51] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [205,8165,79,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "Delivery time"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-c95aba [205,8198,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "2-3 weeks"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Includes" 166f4hp [23,8099,162,117] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [23,8099,53,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "includes"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <div "List" xy2d0g [23,8132,162,84] {gap=4px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                  <div "Include Item" 1im46rs [23,8132,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8132,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8132,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Logo and wordmark"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8154,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8154,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8154,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Typography system"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8176,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8176,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8176,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Color palette"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8198,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8198,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8198,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Brand guidelines"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+              <a "Phone Right" framer-St8Ub.framer-khCxy.q8hg74.framer-v-ls2zup.ghew07 [23,8256,120,20] {gap=9px; overflow=clip; flex row j=center a=center; cursor=pointer} href=./contact
+                <div "Text" 1dzfdpz [23,8256,94,20] {gap=15px; flex row j=center a=center; cursor=pointer}
+                  <div "Top Text" zixbhw [23,8256,94,20] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [23,8256,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Bottom Text" 1396mtp [23,8276,94,20] {opacity=0; pos=absolute; flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [23,8276,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <div "Chevron" 73np5u [126,8258,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center; cursor=pointer}
+                  <svg framer-ab47M.19pf2gr [128,8260,13,13] {overflow=hidden; cursor=pointer}
+    <div "Services Card" framer-1s0kbss-container [3,8300,384,66]
+      <div "Phone Closed" framer-if8OZ.framer-Me6vv.framer-lt6Rw.framer-LubW4.framer-QoPvp.40gaj4.framer-v-mp3lk [3,8300,384,66] {padding=20px 0px; gap=20px; borderRadius=12px; backgroundColor=rgb(13, 13, 13); overflow=hidden; flex column j=center a=center; cursor=pointer}
+        <div "Bg Image" 1267v3b [3,7933,384,800] {transform=matrix(1, 0, 0, 1, -192, -400); overflow=clip; pos=absolute; cursor=pointer}
+          <img  [3,7933,384,800] {overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+        <div "Overlay" 1c31hon [3,8300,384,66] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+        <div "Inside Container" mvjs4y [3,8320,384,26] {gap=40px; overflow=hidden; flex column j=center a=center; cursor=pointer}
+          <div "Top" 1tu3fa2 [3,8320,384,26] {padding=0px 20px; gap=20px; overflow=hidden; grid; cursor=pointer}
+            <div "Count" fklgz8 [23,8324,31,18] {gap=0px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <p framer-styles-preset-c95aba [23,8324,10,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 {cursor=pointer} :: "S."
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [33,8324,21,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "(02)"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Service Title" mbxiwc [114,8320,162,26] {gap=40px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <div "Service Title" 4xbqmr [114,8320,93,26] {flex column j=flow-start a=normal; cursor=pointer}
+                <p framer-styles-preset-ervepf [114,8320,93,26] font="Mona Sans Variable"/23px/26.45px/ls-0.46px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=pointer} :: "Web Design."
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Closed" framer-LQ8sa.1q1cc5y.framer-v-1q1cc5y [347,8323,20,20] {padding=4px; gap=0px; borderRadius=100%; backgroundColor=rgb(255, 255, 255); flex column j=center a=center; cursor=pointer}
+              <div "Plus" 1uijhxj [351,8327,12,12] {gap=0px; overflow=clip; cursor=pointer}
+                <div "V" 17e2lex [356,8327,2,12] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+                <div "H" 1f2jp2r [351,8332,12,2] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+          <div "Service Info" pbfvxz [3,8420,384,532] {padding=0px 20px; gap=30px; overflow=hidden; pos=absolute; flex column j=center a=center; cursor=pointer}
+            <div "Image / Service Title" oxwxvb [23,8420,344,307] {gap=20px; overflow=hidden; grid; cursor=pointer}
+              <img  [23,8420,162,162] {borderRadius=10px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+              <div "Filler" wl692x [205,8420,162,1] {overflow=clip; cursor=pointer}
+              <div "Title / Description" fdvby0 [23,8602,344,125] {gap=20px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <div "Title / Price" 1pnc4jy [23,8602,300,69] {gap=10px; flex column j=center a=flow-start; cursor=pointer}
+                  <h2 framer-styles-preset-1c0t51l [23,8602,300,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Web Design."
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Price" 19iungr [23,8652,98,18] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-c95aba [23,8652,98,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Starts at $6,500"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-lu6cf5 [23,8690,240,36] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(188, 188, 188) {cursor=pointer} :: "Sites built to turn attention into enquiries, not just look good." LINES=Sites|enquiries,
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Bottom Info" 1dl9ezp [23,8757,344,195] {gap=40px 20px; overflow=hidden; grid; cursor=pointer}
+              <div "Delivery Time" poqckm [205,8841,162,51] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [205,8841,79,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "Delivery time"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-c95aba [205,8874,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "3-4 weeks"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Includes" 166f4hp [23,8757,162,135] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [23,8757,53,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "includes"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <div "List" xy2d0g [23,8790,162,102] {gap=4px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                  <div "Include Item" 1im46rs [23,8790,162,36] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8790,162,36] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8790,162,36] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Up to 6 unique page designs" LINES=Up|designs
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8830,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8830,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8830,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Mobile and tablet layouts"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8852,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8852,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8852,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Component library"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8874,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8874,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8874,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Hand-off documentation"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+              <a "Desktop - Right" framer-St8Ub.framer-khCxy.q8hg74.framer-v-q8hg74.ghew07 [23,8932,344,20] {gap=9px; overflow=clip; flex row j=center a=center; cursor=pointer} href=./contact
+                <div "Text" 1dzfdpz [135,8932,94,20] {gap=15px; flex row j=center a=center; cursor=pointer}
+                  <div "Top Text" zixbhw [135,8932,94,20] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [135,8932,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Bottom Text" 1396mtp [135,8952,94,20] {opacity=0; pos=absolute; flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [135,8952,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <div "Chevron" 73np5u [238,8933,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center; cursor=pointer}
+                  <svg framer-ab47M.19pf2gr [240,8935,13,13] {overflow=hidden; cursor=pointer}
+    <div "Services Card" framer-1s0kbss-container [3,8369,384,66]
+      <div "Phone Closed" framer-if8OZ.framer-Me6vv.framer-lt6Rw.framer-LubW4.framer-QoPvp.40gaj4.framer-v-mp3lk [3,8369,384,66] {padding=20px 0px; gap=20px; borderRadius=12px; backgroundColor=rgb(13, 13, 13); overflow=hidden; flex column j=center a=center; cursor=pointer}
+        <div "Bg Image" 1267v3b [3,8002,384,800] {transform=matrix(1, 0, 0, 1, -192, -400); overflow=clip; pos=absolute; cursor=pointer}
+          <img  [3,8002,384,800] {overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+        <div "Overlay" 1c31hon [3,8369,384,66] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+        <div "Inside Container" mvjs4y [3,8389,384,26] {gap=40px; overflow=hidden; flex column j=center a=center; cursor=pointer}
+          <div "Top" 1tu3fa2 [3,8389,384,26] {padding=0px 20px; gap=20px; overflow=hidden; grid; cursor=pointer}
+            <div "Count" fklgz8 [23,8393,31,18] {gap=0px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <p framer-styles-preset-c95aba [23,8393,10,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 {cursor=pointer} :: "S."
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [33,8393,21,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "(03)"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Service Title" mbxiwc [114,8389,162,26] {gap=40px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <div "Service Title" 4xbqmr [114,8389,93,26] {flex column j=flow-start a=normal; cursor=pointer}
+                <p framer-styles-preset-ervepf [114,8389,93,26] font="Mona Sans Variable"/23px/26.45px/ls-0.46px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=pointer} :: "Framer Dev."
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Closed" framer-LQ8sa.1q1cc5y.framer-v-1q1cc5y [347,8392,20,20] {padding=4px; gap=0px; borderRadius=100%; backgroundColor=rgb(255, 255, 255); flex column j=center a=center; cursor=pointer}
+              <div "Plus" 1uijhxj [351,8396,12,12] {gap=0px; overflow=clip; cursor=pointer}
+                <div "V" 17e2lex [356,8396,2,12] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+                <div "H" 1f2jp2r [351,8401,12,2] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+          <div "Service Info" pbfvxz [3,8489,384,568] {padding=0px 20px; gap=30px; overflow=hidden; pos=absolute; flex column j=center a=center; cursor=pointer}
+            <div "Image / Service Title" oxwxvb [23,8489,344,307] {gap=20px; overflow=hidden; grid; cursor=pointer}
+              <img  [23,8489,162,162] {borderRadius=10px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+              <div "Filler" wl692x [205,8489,162,1] {overflow=clip; cursor=pointer}
+              <div "Title / Description" fdvby0 [23,8671,344,125] {gap=20px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <div "Title / Price" 1pnc4jy [23,8671,300,69] {gap=10px; flex column j=center a=flow-start; cursor=pointer}
+                  <h2 framer-styles-preset-1c0t51l [23,8671,300,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Framer Dev."
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Price" 19iungr [23,8722,98,18] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-c95aba [23,8722,98,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Starts at $4,000"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-lu6cf5 [23,8760,240,36] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(188, 188, 188) {cursor=pointer} :: "Fast, animated, and easy for you to update yourself." LINES=Fast,|for
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Bottom Info" 1dl9ezp [23,8826,344,231] {gap=40px 20px; overflow=hidden; grid; cursor=pointer}
+              <div "Delivery Time" poqckm [205,8946,162,51] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [205,8946,79,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "Delivery time"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-c95aba [205,8979,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "2-3 weeks"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Includes" 166f4hp [23,8826,162,171] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [23,8826,53,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "includes"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <div "List" xy2d0g [23,8859,162,138] {gap=4px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                  <div "Include Item" 1im46rs [23,8859,162,36] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8859,162,36] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8859,162,36] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Pixel-perfect build in Framer" LINES=Pixel-perfect|Framer
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8899,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8899,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8899,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "CMS setup and migration"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8921,162,36] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8921,162,36] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8921,162,36] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Responsive across breakpoints" LINES=Responsive|breakpoints
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8961,162,36] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8961,162,36] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8961,162,36] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "30-day post-launch support" LINES=30-day|support
+                        (0 spans enfants; opacity∈{}; transform∈{})
+              <a "Desktop - Right" framer-St8Ub.framer-khCxy.q8hg74.framer-v-q8hg74.ghew07 [23,9037,344,20] {gap=9px; overflow=clip; flex row j=center a=center; cursor=pointer} href=./contact
+                <div "Text" 1dzfdpz [135,9037,94,20] {gap=15px; flex row j=center a=center; cursor=pointer}
+                  <div "Top Text" zixbhw [135,9037,94,20] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [135,9037,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Bottom Text" 1396mtp [135,9057,94,20] {opacity=0; pos=absolute; flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [135,9057,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <div "Chevron" 73np5u [238,9039,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center; cursor=pointer}
+                  <svg framer-ab47M.19pf2gr [240,9041,13,13] {overflow=hidden; cursor=pointer}
+    <div "Services Card" framer-1s0kbss-container [3,8439,384,66]
+      <div "Phone Closed" framer-if8OZ.framer-Me6vv.framer-lt6Rw.framer-LubW4.framer-QoPvp.40gaj4.framer-v-mp3lk [3,8439,384,66] {padding=20px 0px; gap=20px; borderRadius=12px; backgroundColor=rgb(13, 13, 13); overflow=hidden; flex column j=center a=center; cursor=pointer}
+        <div "Bg Image" 1267v3b [3,8072,384,800] {transform=matrix(1, 0, 0, 1, -192, -400); overflow=clip; pos=absolute; cursor=pointer}
+          <img  [3,8072,384,800] {overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+        <div "Overlay" 1c31hon [3,8439,384,66] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+        <div "Inside Container" mvjs4y [3,8459,384,26] {gap=40px; overflow=hidden; flex column j=center a=center; cursor=pointer}
+          <div "Top" 1tu3fa2 [3,8459,384,26] {padding=0px 20px; gap=20px; overflow=hidden; grid; cursor=pointer}
+            <div "Count" fklgz8 [23,8463,31,18] {gap=0px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <p framer-styles-preset-c95aba [23,8463,10,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(245, 45, 15)/wdth 80, wght 700 {cursor=pointer} :: "S."
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [33,8463,22,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "(04)"
+                (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Service Title" mbxiwc [114,8459,162,26] {gap=40px; overflow=hidden; flex row j=flow-start a=center; cursor=pointer}
+              <div "Service Title" 4xbqmr [114,8459,111,26] {flex column j=flow-start a=normal; cursor=pointer}
+                <p framer-styles-preset-ervepf [114,8459,111,26] font="Mona Sans Variable"/23px/26.45px/ls-0.46px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=pointer} :: "Art Direction."
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Closed" framer-LQ8sa.1q1cc5y.framer-v-1q1cc5y [347,8462,20,20] {padding=4px; gap=0px; borderRadius=100%; backgroundColor=rgb(255, 255, 255); flex column j=center a=center; cursor=pointer}
+              <div "Plus" 1uijhxj [351,8466,12,12] {gap=0px; overflow=clip; cursor=pointer}
+                <div "V" 17e2lex [356,8466,2,12] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+                <div "H" 1f2jp2r [351,8471,12,2] {backgroundColor=rgb(13, 13, 13); overflow=clip; pos=absolute; cursor=pointer}
+          <div "Service Info" pbfvxz [3,8559,384,532] {padding=0px 20px; gap=30px; overflow=hidden; pos=absolute; flex column j=center a=center; cursor=pointer}
+            <div "Image / Service Title" oxwxvb [23,8559,344,307] {gap=20px; overflow=hidden; grid; cursor=pointer}
+              <img  [23,8559,162,162] {borderRadius=10px; overflow=clip; cursor=pointer} src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+              <div "Filler" wl692x [205,8559,162,1] {overflow=clip; cursor=pointer}
+              <div "Title / Description" fdvby0 [23,8741,344,125] {gap=20px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <div "Title / Price" 1pnc4jy [23,8741,300,69] {gap=10px; flex column j=center a=flow-start; cursor=pointer}
+                  <h2 framer-styles-preset-1c0t51l [23,8741,300,41] font="Mona Sans Variable"/45px/40.5px/ls-0.9px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Art Direction."
+                    (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Price" 19iungr [23,8791,97,18] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-c95aba [23,8791,97,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Starts at $3,500"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-lu6cf5 [23,8829,240,36] font=Switzer/13px/18.2px/ls-0.26px/none/left/rgb(188, 188, 188) {cursor=pointer} :: "Photography, motion, and the visual language that ties everything together." LINES=Photography,|language
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Bottom Info" 1dl9ezp [23,8896,344,195] {gap=40px 20px; overflow=hidden; grid; cursor=pointer}
+              <div "Delivery Time" poqckm [205,8980,162,51] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [205,8980,79,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "Delivery time"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <p framer-styles-preset-c95aba [205,9013,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "2 weeks"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Includes" 166f4hp [23,8896,162,135] {gap=15px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                <p framer-styles-preset-c95aba [23,8896,53,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(188, 188, 188)/wdth 80, wght 700 {cursor=pointer} :: "includes"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+                <div "List" xy2d0g [23,8929,162,102] {gap=4px; overflow=clip; flex column j=center a=flow-start; cursor=pointer}
+                  <div "Include Item" 1im46rs [23,8929,162,36] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8929,162,36] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8929,162,36] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Mood and direction boards" LINES=Mood|boards
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8969,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8969,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8969,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Shoot or motion brief"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,8991,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,8991,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,8991,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Asset selection and edit"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Include Item" 1im46rs [23,9013,162,18] {gap=0px; overflow=clip; flex column j=flow-start a=flow-start; cursor=pointer}
+                    <div "Include Item" 1ryy5b3 [23,9013,162,18] {flex column j=flow-start a=normal; cursor=pointer}
+                      <p framer-styles-preset-c95aba [23,9013,162,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=pointer} :: "Usage guidelines"
+                        (0 spans enfants; opacity∈{}; transform∈{})
+              <a "Desktop - Right" framer-St8Ub.framer-khCxy.q8hg74.framer-v-q8hg74.ghew07 [23,9071,344,20] {gap=9px; overflow=clip; flex row j=center a=center; cursor=pointer} href=./contact
+                <div "Text" 1dzfdpz [135,9071,94,20] {gap=15px; flex row j=center a=center; cursor=pointer}
+                  <div "Top Text" zixbhw [135,9071,94,20] {flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [135,9071,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                  <div "Bottom Text" 1396mtp [135,9091,94,20] {opacity=0; pos=absolute; flex column j=flow-start a=normal; cursor=pointer}
+                    <p framer-styles-preset-k5mxv3 [135,9091,94,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Start a project"
+                      (0 spans enfants; opacity∈{}; transform∈{})
+                <div "Chevron" 73np5u [238,9072,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center; cursor=pointer}
+                  <svg framer-ab47M.19pf2gr [240,9074,13,13] {overflow=hidden; cursor=pointer}
+
+## team
+<div "Services Team Module" framer-hm4zv8-container [0,8565,390,1779]
+  <div "Phone" framer-EGaJK.framer-2Ps8M.framer-Me6vv.framer-uqMg0.framer-QoPvp.s41k98.framer-v-1j52xp1 [0,8565,390,1779] {padding=3px; gap=15px; overflow=clip; flex column j=center a=center}
+    <div "Outer Container" 1fgvo0o [3,8568,384,1773] {padding=23px 0px; gap=15px; borderRadius=12px; backgroundColor=rgb(245, 45, 15); overflow=clip; flex column j=center a=center}
+      <div "Inside Container" 1n75itp [3,8591,384,1727] {padding=0px 23px; gap=60px; overflow=clip; flex column j=center a=center}
+        <div "Top" 1ixs85r [26,8591,338,32] {flex row j=space-between a=center}
+          <div "Logo" 1xjrc.1mi7dag [26,8597,70,19] {backgroundColor=rgb(255, 255, 255); maskImage=url(svg…)}
+          <div "Variant 1" framer-D1HnP.framer-Me6vv.1875b8x.framer-v-1875b8x [267,8591,97,32] {gap=0px; flex row j=center a=center}
+            <div "Globe" x2q9so [267,8591,31,32] {padding=7px; gap=20px; flex row j=center a=center}
+              <svg  [274,8601,17,13] {overflow=hidden}
+            <div "Text" 6xha2i [298,8591,66,32] {padding=7px; gap=20px; flex row j=center a=center}
+              <p framer-styles-preset-c95aba [305,8598,52,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 :: "⟨1sp⟩EST. 2012"
+                (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Team" 1bpmpdl [26,8683,338,1124] {gap=80px; overflow=clip; flex column j=center a=center}
+          <div "Text" 1np8gf2 [26,8683,338,218] {gap=20px; overflow=clip; grid}
+            <div "Label" framer-Cuyir.framer-Me6vv.mi0u4.framer-v-mi0u4 [26,8683,110,18] {gap=5px; flex row j=flow-start a=center}
+              <div "Count" 1qsszq [26,8683,22,18] {flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [26,8683,22,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgba(255, 255, 255, 0.75)/wdth 80, wght 700 :: "(05)"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Text" moe5to [53,8683,84,18] {flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [53,8683,84,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 :: "Meet the team"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <h2 framer-styles-preset-fvem1p [26,8721,338,180] font="Mona Sans Variable"/30px/30px/ls-0.6px/uppercase/justify/rgba(13, 13, 13, 0.7)/wdth 75, wght 700 :: "⟨17sp⟩WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE." LINES=WE|COULD|ON|THE|BECAUSE|FREE.
+              (116 spans enfants; opacity∈{1}; transform∈{none})
+          <p framer-styles-preset-c95aba [26,8981,159,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/justify/rgb(255, 255, 255)/wdth 80, wght 700 :: "(4) Team Members"
+            (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Revealed" framer-ZmXTs.framer-yTVl5.framer-Me6vv.1hwt7ic.framer-v-1hwt7ic [205,8981,159,262] {gap=10px; borderRadius=10px; overflow=clip; flex column j=center a=flow-start; cursor=default}
+            <div "Image Container" 1jw74wi [205,8981,159,212] {gap=15px; borderRadius=10px; overflow=clip; flex row j=center a=center; cursor=default}
+              <div "Image" 17tax9v [205,8981,159,212] {borderRadius=10px; overflow=clip; maskImage=url(svg…); cursor=default}
+                <img  [205,8981,159,212] {borderRadius=10px; overflow=clip; cursor=default} src=https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg alt=Portrait of Jin Yuen
+                <div "Logo" framer-urcMH.h6mult [217,8993,23,20] {backgroundColor=rgb(255, 255, 255); maskImage=url(svg…); pos=absolute; cursor=default}
+            <div "Name / Role" 3ohe8n [205,9203,159,40] {padding=0px 12px; gap=0px; flex column j=flow-start a=flow-end; cursor=default}
+              <p framer-styles-preset-1l3tbw0 [217,9203,135,22] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=default} :: "Jin Yuen"
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [301,9225,51,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=default} :: "Founder"
+                (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Revealed" framer-ZmXTs.framer-yTVl5.framer-Me6vv.1hwt7ic.framer-v-1hwt7ic [26,9263,159,262] {gap=10px; borderRadius=10px; overflow=clip; flex column j=center a=flow-start; cursor=default}
+            <div "Image Container" 1jw74wi [26,9263,159,212] {gap=15px; borderRadius=10px; overflow=clip; flex row j=center a=center; cursor=default}
+              <div "Image" 17tax9v [26,9263,159,212] {borderRadius=10px; overflow=clip; maskImage=url(svg…); cursor=default}
+                <img  [26,9263,159,212] {borderRadius=10px; overflow=clip; cursor=default} src=https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg alt=Portrait of Sarah Park
+                <div "Logo" framer-urcMH.h6mult [38,9275,23,20] {backgroundColor=rgb(255, 255, 255); maskImage=url(svg…); pos=absolute; cursor=default}
+            <div "Name / Role" 3ohe8n [26,9485,159,40] {padding=0px 12px; gap=0px; flex column j=flow-start a=flow-end; cursor=default}
+              <p framer-styles-preset-1l3tbw0 [38,9485,135,22] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=default} :: "Sarah Park"
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [119,9507,54,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=default} :: "Designer"
+                (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Revealed" framer-ZmXTs.framer-yTVl5.framer-Me6vv.1hwt7ic.framer-v-1hwt7ic [205,9263,159,262] {gap=10px; borderRadius=10px; overflow=clip; flex column j=center a=flow-start; cursor=default}
+            <div "Image Container" 1jw74wi [205,9263,159,212] {gap=15px; borderRadius=10px; overflow=clip; flex row j=center a=center; cursor=default}
+              <div "Image" 17tax9v [205,9263,159,212] {borderRadius=10px; overflow=clip; maskImage=url(svg…); cursor=default}
+                <img  [205,9263,159,212] {borderRadius=10px; overflow=clip; cursor=default} src=https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg alt=Portrait of Alex West
+                <div "Logo" framer-urcMH.h6mult [217,9275,23,20] {backgroundColor=rgb(255, 255, 255); maskImage=url(svg…); pos=absolute; cursor=default}
+            <div "Name / Role" 3ohe8n [205,9485,159,40] {padding=0px 12px; gap=0px; flex column j=flow-start a=flow-end; cursor=default}
+              <p framer-styles-preset-1l3tbw0 [217,9485,135,22] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=default} :: "Alex West"
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [258,9507,94,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=default} :: "Client Manager"
+                (0 spans enfants; opacity∈{}; transform∈{})
+          <div "Revealed" framer-ZmXTs.framer-yTVl5.framer-Me6vv.1hwt7ic.framer-v-1hwt7ic [26,9545,159,262] {gap=10px; borderRadius=10px; overflow=clip; flex column j=center a=flow-start; cursor=default}
+            <div "Image Container" 1jw74wi [26,9545,159,212] {gap=15px; borderRadius=10px; overflow=clip; flex row j=center a=center; cursor=default}
+              <div "Image" 17tax9v [26,9545,159,212] {borderRadius=10px; overflow=clip; maskImage=url(svg…); cursor=default}
+                <img  [26,9545,159,212] {borderRadius=10px; overflow=clip; cursor=default} src=https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg alt=Portrait of David Torres
+                <div "Logo" framer-urcMH.h6mult [38,9557,23,20] {backgroundColor=rgb(255, 255, 255); maskImage=url(svg…); pos=absolute; cursor=default}
+            <div "Name / Role" 3ohe8n [26,9767,159,40] {padding=0px 12px; gap=0px; flex column j=flow-start a=flow-end; cursor=default}
+              <p framer-styles-preset-1l3tbw0 [38,9767,135,22] font="Mona Sans Variable"/19px/21.85px/ls-0.19px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 675 {cursor=default} :: "David Torres"
+                (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [111,9789,62,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 {cursor=default} :: "Developer"
+                (0 spans enfants; opacity∈{}; transform∈{})
+        <div "Hiring Block" 1f3fres [26,9867,338,175] {gap=30px; overflow=clip; flex column j=center a=flow-end}
+          <div "Top" ifuqey [26,9867,338,125] {gap=20px; overflow=clip; flex column j=center a=center}
+            <h3 framer-styles-preset-s3qbre [26,9867,338,32] font="Mona Sans Variable"/30px/31.5px/ls-0.6px/uppercase/start/rgb(255, 255, 255)/wdth 75, wght 700 :: "join us, we're hiring."
+              (19 spans enfants; opacity∈{1}; transform∈{none})
+            <p framer-styles-preset-lu6cf5 [26,9913,338,36] font=Switzer/13px/18.2px/ls-0.26px/none/start/rgb(255, 255, 255) :: "We’re looking for highly ambitious and talented people to help us drive real growth." LINES=We’re|talented
+              (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Open Positions" 1gw2wss [26,9970,338,22] {gap=7px; flex row j=flow-start a=center}
+              <div "Number" 1obh6ik [26,9970,22,22] {padding=4px; gap=0px; borderRadius=4px; backgroundColor=rgb(255, 255, 255); flex row j=center a=center}
+                <p framer-styles-preset-c95aba [30,9972,14,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(13, 13, 13)/wdth 80, wght 700 :: "02"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <p framer-styles-preset-c95aba [55,9972,90,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/left/rgb(255, 255, 255)/wdth 80, wght 700 :: "Open Positions"
+                (0 spans enfants; opacity∈{}; transform∈{})
+          <a "Desktop - Right" framer-St8Ub.framer-khCxy.q8hg74.framer-v-q8hg74.ghew07 [287,10022,77,20] {gap=9px; overflow=clip; flex row j=center a=center; cursor=pointer}
+            <div "Text" 1dzfdpz [287,10022,51,20] {gap=15px; flex row j=center a=center; cursor=pointer}
+              <div "Top Text" zixbhw [287,10022,51,20] {flex column j=flow-start a=normal; cursor=pointer}
+                <p framer-styles-preset-k5mxv3 [287,10022,51,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Email us"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+              <div "Bottom Text" 1396mtp [287,10042,51,20] {opacity=0; pos=absolute; flex column j=flow-start a=normal; cursor=pointer}
+                <p framer-styles-preset-k5mxv3 [287,10042,51,20] font="Mona Sans Variable"/17px/20.4px/ls-0.17px/uppercase/left/rgb(255, 255, 255)/wdth 75, wght 700 {cursor=pointer} :: "Email us"
+                  (0 spans enfants; opacity∈{}; transform∈{})
+            <div "Chevron" 73np5u [347,10023,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center; cursor=pointer}
+              <svg framer-ab47M.19pf2gr [349,10025,13,13] {overflow=hidden; cursor=pointer}
+        <div "Team photo" 1yvrc4p [26,10082,338,237] {borderRadius=10px; overflow=clip}
+          <img  [26,10082,338,237] {borderRadius=10px; overflow=clip} src=https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg alt=Studio team talking in a bright workshop
+      <div "Grain Overlay" 15xi4dy [3,8568,384,1773] {opacity=0.07; overflow=hidden; pos=absolute}

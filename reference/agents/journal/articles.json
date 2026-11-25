@@ -1,0 +1,666 @@
+{
+ "order": [
+  "fewer-projects-more-attention",
+  "awards-dont-build-brands",
+  "why-we-quote-fixed",
+  "the-best-type-is-invisible",
+  "on-saying-no",
+  "the-brief-before-the-brief",
+  "small-looks-expensive",
+  "the-founder-is-the-brand"
+ ],
+ "articles": [
+  {
+   "slug": "fewer-projects-more-attention",
+   "title": "Fewer projects, more attention.",
+   "articleType": "Studio Notes",
+   "date": "2026-06-15T00:00:00.000Z",
+   "dateCard": "6/15/26",
+   "dateArticle": "Jun 15, 2026",
+   "shortDescription": "Why Mira takes fewer projects than most studios our size, and what it does for the work.",
+   "introHeader": "                           Most studios grow by taking on more clients. Mira grows by taking on fewer. Here is why we hold a hard ceiling on the number of projects we accept each year, and what that ceiling actually gives back to the work, to the client, and to the studio itself.",
+   "metaTitle": "Fewer projects, more attention.",
+   "metaDescription": "Why Mira takes fewer projects than most studios our size, and what it does for the work.",
+   "mainImage": {
+    "src": "/assets/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg",
+    "original": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg",
+    "alt": "Close-up of glossy red lips",
+    "width": 1501,
+    "height": 1047
+   },
+   "author": {
+    "name": "David Torres",
+    "role": "Developer",
+    "avatar": {
+     "src": "/assets/images/h0uF4ecVvj33A97za3PYY3KMg.jpg",
+     "original": "https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg",
+     "alt": "Portrait of David Torres",
+     "width": 528,
+     "height": 701
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "The math against volume"
+    },
+    {
+     "tag": "p",
+     "text": "Most creative studios model their business the way accounting firms do: more billable hours, more revenue. That model works for accounting. It does not work for design. The moment a studio takes on more work than it can carry, the founder stops being in the room, and the founder is usually the reason clients hired the studio in the first place."
+    },
+    {
+     "tag": "p",
+     "text": "We hold the ceiling at six to nine projects a year. That number is small enough that Jin is on every call, in every review, and responsible for every decision. It is also large enough that the studio stays financially healthy without ever needing to compromise on the projects we take."
+    },
+    {
+     "tag": "h3",
+     "text": "What attention actually means"
+    },
+    {
+     "tag": "p",
+     "text": "When we say attention, we mean specific things. It means the founder replies to messages personally, usually the same day. It means the founder is in the design review, not a designer relaying feedback back to the founder. It means the person deciding what the brand should be is also the person putting pixels down on the canvas."
+    },
+    {
+     "tag": "p",
+     "text": "Attention is not a marketing word for us. It is the operating principle. Every project we take is a project we can give this to."
+    },
+    {
+     "tag": "h3",
+     "text": "The trade-off we accept"
+    },
+    {
+     "tag": "p",
+     "text": "The trade-off is real. We say no to more work than we say yes to. Every year, more inbound gets turned down than gets taken. That is uncomfortable in the short term and correct in the long term. The projects we do take get everything, and the projects we do not take go to studios that would have taken them anyway."
+    },
+    {
+     "tag": "h3",
+     "text": "Why this is the whole edge"
+    },
+    {
+     "tag": "p",
+     "text": "Most studios our size are chasing a bigger version of themselves. We are chasing the best version of what we can already do. That difference shows up in the work, and buyers can feel it even when they cannot name it."
+    },
+    {
+     "tag": "p",
+     "text": "Fewer projects, more attention. It is not a slogan. It is how we stay in business."
+    }
+   ],
+   "moreArticles": [
+    "awards-dont-build-brands",
+    "why-we-quote-fixed",
+    "the-best-type-is-invisible",
+    "on-saying-no"
+   ]
+  },
+  {
+   "slug": "awards-dont-build-brands",
+   "title": "Awards don't build brands.",
+   "articleType": "Opinion",
+   "date": "2026-05-05T00:00:00.000Z",
+   "dateCard": "5/5/26",
+   "dateArticle": "May 5, 2026",
+   "shortDescription": "The relationship between award-winning design and business outcomes is not what most studios pretend.",
+   "introHeader": "                           The design industry loves awards. Every studio homepage has a laurel row. Every deck has a featured-in slide. Here is why we think the relationship between award-winning design and business-effective design is far weaker than most studios pretend, and what that means for how you should evaluate design work you are about to pay for.",
+   "metaTitle": "Awards don't build brands.",
+   "metaDescription": "The relationship between award-winning design and business outcomes is not what most studios pretend.",
+   "mainImage": {
+    "src": "/assets/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg",
+    "original": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg",
+    "alt": "Black and white silhouette framed by outstretched hands",
+    "width": 904,
+    "height": 1200
+   },
+   "author": {
+    "name": "Jin Yuen",
+    "role": "Founder",
+    "avatar": {
+     "src": "/assets/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg",
+     "original": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg",
+     "alt": "Portrait of Jin Yuen",
+     "width": 655,
+     "height": 872
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "Two different audiences"
+    },
+    {
+     "tag": "p",
+     "text": "Awards juries and paying customers are not the same audience. Juries are made up of other designers, judging the work against other work in the same category, at the same show, in the same year. They reward novelty, craft, and technical ambition. That is not a bad thing. It just is not the same test the market is running."
+    },
+    {
+     "tag": "p",
+     "text": "The buyer at the other end is not asking whether a site looks like it deserves a Site of the Day badge. They are asking whether the brand feels credible enough to trust with a purchase decision. Different question, different answer."
+    },
+    {
+     "tag": "h3",
+     "text": "What awards actually reward"
+    },
+    {
+     "tag": "p",
+     "text": "Sites that win Awwwards or FWA usually share a few traits: an ambitious hero interaction, a strong visual signature, a moment of technical craft that stops the scroll. Those traits are wonderful. They are also, in most cases, expensive to build, hard to maintain, and mostly invisible to the person who actually needs to convert."
+    },
+    {
+     "tag": "p",
+     "text": "We know because we have shipped both. The projects with the biggest business outcomes rarely had the flashiest craft moments. The projects with the flashiest craft moments rarely had the biggest business outcomes. This is not an accident."
+    },
+    {
+     "tag": "h3",
+     "text": "Where they overlap"
+    },
+    {
+     "tag": "p",
+     "text": "Occasionally, the same project wins both games. A hero that is both cinematic and commercially precise. A brand system that is both jury-friendly and clear enough to sell. Those are the projects everyone celebrates. They are rare, and they usually happen when the studio and client are aligned on what matters before the work starts."
+    },
+    {
+     "tag": "h3",
+     "text": "What we tell clients"
+    },
+    {
+     "tag": "p",
+     "text": "We tell clients honestly: awards are for us, not for you. If the work is jury-friendly, we will submit. If it is not, we will not, and we will not compromise the effectiveness of the work to make it juryable. The client is paying for outcomes. The award is a bonus if the work happens to earn one. It is not the goal."
+    }
+   ],
+   "moreArticles": [
+    "fewer-projects-more-attention",
+    "why-we-quote-fixed",
+    "the-best-type-is-invisible",
+    "on-saying-no"
+   ]
+  },
+  {
+   "slug": "why-we-quote-fixed",
+   "title": "Why we quote fixed.",
+   "articleType": "Process",
+   "date": "2026-04-03T00:00:00.000Z",
+   "dateCard": "4/3/26",
+   "dateArticle": "Apr 3, 2026",
+   "shortDescription": "Every Mira project is priced up front. No hourly. No estimates that quietly grow. Here is why.",
+   "introHeader": "                           Every Mira project is priced up front. No hourly billing. No estimates that quietly grow past the number we agreed on. Here is the reasoning behind fixed pricing, and why we think it is the only honest way for a small studio to charge for the kind of work we do.",
+   "metaTitle": "Why we quote fixed.",
+   "metaDescription": "Every Mira project is priced up front. No hourly. No estimates that quietly grow. Here is why.",
+   "mainImage": {
+    "src": "/assets/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg",
+    "original": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg",
+    "alt": "Black horse wearing a flower garland in a field",
+    "width": 2040,
+    "height": 1148
+   },
+   "author": {
+    "name": "Alex West",
+    "role": "Client Manager",
+    "avatar": {
+     "src": "/assets/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg",
+     "original": "https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg",
+     "alt": "Portrait of Alex West",
+     "width": 528,
+     "height": 701
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "What hourly billing actually incentivises"
+    },
+    {
+     "tag": "p",
+     "text": "Hourly billing is a broken incentive on both sides of the invoice. The faster the studio works, the less it makes. The more careful the studio is, the more the client pays. Neither party wins. The studio has a quiet reason to slow down. The client has an ongoing reason to worry about scope creep. Neither of those energies is healthy for the actual work."
+    },
+    {
+     "tag": "p",
+     "text": "We have watched this play out at other agencies for years. Projects that should take four weeks stretch to eight because the invoice grows every Friday. Clients start hoarding decisions because every question costs money. The work suffers."
+    },
+    {
+     "tag": "h3",
+     "text": "What fixed pricing actually does"
+    },
+    {
+     "tag": "p",
+     "text": "Fixed pricing moves the pressure to the outcome, not the clock. The number is agreed up front. If we can ship the same result in half the time, that is our problem to solve, not yours to fund. If a project takes longer than we estimated, that is on us to absorb."
+    },
+    {
+     "tag": "p",
+     "text": "The upside for the client is that they know what they are committing to before anything starts. The upside for the studio is that we are financially motivated to work efficiently, ship on time, and avoid the scope creep spiral that eats agencies alive."
+    },
+    {
+     "tag": "h3",
+     "text": "What it costs us"
+    },
+    {
+     "tag": "p",
+     "text": "Fixed pricing forces the studio to say no more often. Some projects genuinely do not fit a fixed number. A client who cannot describe what they want. A founder whose scope will obviously double after the first review. A brief that keeps changing shape week to week. Those get turned down. The studio loses a percentage of potential revenue in exchange for keeping the pricing model honest."
+    },
+    {
+     "tag": "h3",
+     "text": "Why we hold the line"
+    },
+    {
+     "tag": "p",
+     "text": "The alternative is worse. Hourly billing makes the studio a vendor. Fixed pricing makes the studio a partner. We chose the harder model on purpose, and every year we get more convinced we chose right."
+    }
+   ],
+   "moreArticles": [
+    "fewer-projects-more-attention",
+    "awards-dont-build-brands",
+    "the-best-type-is-invisible",
+    "on-saying-no"
+   ]
+  },
+  {
+   "slug": "the-best-type-is-invisible",
+   "title": "The best type is invisible.",
+   "articleType": "Craft",
+   "date": "2026-03-20T00:00:00.000Z",
+   "dateCard": "3/20/26",
+   "dateArticle": "Mar 20, 2026",
+   "shortDescription": "Typography choices we make so you do not have to notice them.",
+   "introHeader": "                           If someone reads your website and remembers the fonts you used, you failed. Typography should carry the voice of a brand without ever asking to be looked at. Here is how we think about type on every Mira project, and why restraint at this layer lets us be louder everywhere else on the page.",
+   "metaTitle": "The best type is invisible.",
+   "metaDescription": "Typography choices we make so you do not have to notice them.",
+   "mainImage": {
+    "src": "/assets/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg",
+    "original": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg",
+    "alt": "Chrome hand reaching out beside a rainbow light flare",
+    "width": 1537,
+    "height": 2041
+   },
+   "author": {
+    "name": "Sarah Park",
+    "role": "Designer",
+    "avatar": {
+     "src": "/assets/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg",
+     "original": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg",
+     "alt": "Portrait of Sarah Park",
+     "width": 528,
+     "height": 701
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "Two faces, no more"
+    },
+    {
+     "tag": "p",
+     "text": "Every Mira project starts with the same type decision: one workhorse for body copy that reads for hours without effort, and one display face with enough personality to hold a headline. That is the whole system. No third face for accents. No decorative flourishes borrowed from moodboards. No condensed variant just because it looked good on Pinterest."
+    },
+    {
+     "tag": "p",
+     "text": "Two faces is not a rule of taste. It is a rule of maintenance. Buyers of design templates and clients handing off brand systems always drift toward complexity. Every extra face is one more thing to police, one more chance for the system to break the moment a junior designer picks a heading style."
+    },
+    {
+     "tag": "h3",
+     "text": "Restraint at the type layer earns loudness everywhere else"
+    },
+    {
+     "tag": "p",
+     "text": "When type stays quiet, everything around it gets to be loud. Bigger images. Bolder statements. More confident whitespace. This is the trade we make on every project. The typography is doing the invisible work of holding voice, so the rest of the design can push harder in the visible directions."
+    },
+    {
+     "tag": "p",
+     "text": "The best sites we have shipped are the ones where the reader could not name the typeface if you asked them. They only remember how the site felt. That is type doing its job."
+    },
+    {
+     "tag": "h3",
+     "text": "Where most brands go wrong"
+    },
+    {
+     "tag": "p",
+     "text": "Most brands over-select type. They pick a wordmark font, a headline font, a subheading font, a body font, and a monospace accent, and they think the layered specificity is a strength. It is not. It is a system with five points of failure and no single voice."
+    },
+    {
+     "tag": "p",
+     "text": "Restraint is the harder move. Pick two. Use them everywhere. Let the tone come from what you write and where you place it, not from how many typefaces you rotated through."
+    },
+    {
+     "tag": "h3",
+     "text": "What invisible looks like"
+    },
+    {
+     "tag": "p",
+     "text": "Invisible does not mean bland. It means legible, distinctive, and unremarkable in the right places. Good typography feels natural. You feel it before you see it. If a client asks us why we chose a particular font, we usually answer by asking them how the site felt to read. That is the whole test."
+    }
+   ],
+   "moreArticles": [
+    "fewer-projects-more-attention",
+    "awards-dont-build-brands",
+    "why-we-quote-fixed",
+    "on-saying-no"
+   ]
+  },
+  {
+   "slug": "on-saying-no",
+   "title": "On saying no.",
+   "articleType": "Studio Notes",
+   "date": "2026-02-18T00:00:00.000Z",
+   "dateCard": "2/18/26",
+   "dateArticle": "Feb 18, 2026",
+   "shortDescription": "The projects Mira turns down, and why we are better for it.",
+   "introHeader": "                           We turn down more work than we accept. This year alone, three good opportunities we walked away from. Here is why saying no is a studio skill we have practised deliberately, what it costs us in short-term revenue, and what it protects on the yes side of the ledger over the long run.",
+   "metaTitle": "On saying no.",
+   "metaDescription": "The projects Mira turns down, and why we are better for it.",
+   "mainImage": {
+    "src": "/assets/images/k15t4NH13VUuxLJcDCP4aIums.jpg",
+    "original": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg",
+    "alt": "Figure in a white hood sitting cross-legged with a red light across the eyes",
+    "width": 1278,
+    "height": 1148
+   },
+   "author": {
+    "name": "Jin Yuen",
+    "role": "Founder",
+    "avatar": {
+     "src": "/assets/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg",
+     "original": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg",
+     "alt": "Portrait of Jin Yuen",
+     "width": 655,
+     "height": 872
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "The three we turned down this year"
+    },
+    {
+     "tag": "p",
+     "text": "A Series B SaaS that wanted us to speed up their sales cycle through a rebrand. A fashion label pivoting mid-launch who could not describe the pivot in a sentence. A founder with a compelling story who could not articulate what the business actually sold. Three real inbound conversations. Three no's."
+    },
+    {
+     "tag": "p",
+     "text": "Each of those was a real revenue opportunity. Each of them was also a project that would have quietly compromised the studio, either by pulling attention from a better-fit engagement or by demanding a scope we did not think we could deliver honestly."
+    },
+    {
+     "tag": "h3",
+     "text": "What every no protects"
+    },
+    {
+     "tag": "p",
+     "text": "The maths of a small studio is unforgiving. If we take on the wrong project, it does not just affect that project. It steals capacity from the next two projects, because the founder is now debugging a bad brief instead of pushing the right one forward. Every no protects the yes."
+    },
+    {
+     "tag": "p",
+     "text": "Studios that say yes to everything eventually stop being good at anything. We watched a couple of studios we admire drift this way in the last three years. We do not want to be next."
+    },
+    {
+     "tag": "h3",
+     "text": "The habit is harder than it sounds"
+    },
+    {
+     "tag": "p",
+     "text": "Saying no is not a skill studios teach. Every referral feels like an obligation to the person referring. Every quick project feels like it might turn into something bigger later. Every founder pitching feels sincere in the moment. All of that is real, and none of it changes whether the project is a fit."
+    },
+    {
+     "tag": "p",
+     "text": "Getting comfortable with no took us years. We had to learn to say it kindly, quickly, and with a clear reason. We had to learn to not sugarcoat it into a maybe."
+    },
+    {
+     "tag": "h3",
+     "text": "Why the work is better for it"
+    },
+    {
+     "tag": "p",
+     "text": "The projects on our site now are the ones we said yes to for the right reasons. Every one of them had a clear brief, a client who was ready, and a scope we knew we could ship well. That is not accident. That is the compounding effect of a hundred quiet nos."
+    }
+   ],
+   "moreArticles": [
+    "fewer-projects-more-attention",
+    "awards-dont-build-brands",
+    "why-we-quote-fixed",
+    "the-best-type-is-invisible"
+   ]
+  },
+  {
+   "slug": "the-brief-before-the-brief",
+   "title": "The brief before the brief.",
+   "articleType": "Process",
+   "date": "2026-01-28T00:00:00.000Z",
+   "dateCard": "1/28/26",
+   "dateArticle": "Jan 28, 2026",
+   "shortDescription": "Why the most important part of a project happens before anyone opens a Figma file.",
+   "introHeader": "                           The most important part of any Mira project happens before anyone opens a design file. Here is why the discovery call, not the brief document, is where the real work of a project actually gets defined, and what we listen for in the first thirty minutes that reshapes the whole engagement.",
+   "metaTitle": "The brief before the brief.",
+   "metaDescription": "Why the most important part of a project happens before anyone opens a Figma file.",
+   "mainImage": {
+    "src": "/assets/images/3WFEUak51uY8vHBvH8hhaIvI.jpg",
+    "original": "https://framerusercontent.com/images/3WFEUak51uY8vHBvH8hhaIvI.jpg",
+    "alt": "Woman in a white outfit walking with a handbag against a white wall",
+    "width": 901,
+    "height": 1148
+   },
+   "author": {
+    "name": "Alex West",
+    "role": "Client Manager",
+    "avatar": {
+     "src": "/assets/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg",
+     "original": "https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg",
+     "alt": "Portrait of Alex West",
+     "width": 528,
+     "height": 701
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "What clients think they need"
+    },
+    {
+     "tag": "p",
+     "text": "Clients usually come to a studio with a specific request. A rebrand. A website redesign. A packaging refresh. Those requests are almost never wrong, but they are almost never the whole problem either. They are the surface symptom of something bigger sitting underneath."
+    },
+    {
+     "tag": "p",
+     "text": "A rebrand often means the positioning drifted before the visual identity did. A website redesign often means the naming stopped working before the site did. A packaging refresh often signals a distribution shift the founder has not yet articulated. The request is the tip of the iceberg. The real project is below."
+    },
+    {
+     "tag": "h3",
+     "text": "What we listen for"
+    },
+    {
+     "tag": "p",
+     "text": "The first thirty minutes of a discovery call are the most valuable minutes in the whole engagement. We are listening for what the client is not saying as much as what they are. Where do they stumble in describing the business? What competitor do they mention twice? What do they get defensive about? What have they already tried?"
+    },
+    {
+     "tag": "p",
+     "text": "Those tells tell us what the brief actually needs to solve, which is often not what the client wrote in their intro email."
+    },
+    {
+     "tag": "h3",
+     "text": "How we redefine the scope"
+    },
+    {
+     "tag": "p",
+     "text": "By the end of the call, we usually reframe the project. Not to talk the client into a bigger engagement. To make sure the engagement we agree on is aimed at the right problem. Sometimes that means we shrink the scope. Sometimes it means we push it wider. Almost always, it means we shift what the deliverables are actually for."
+    },
+    {
+     "tag": "h3",
+     "text": "Why this is not scope creep"
+    },
+    {
+     "tag": "p",
+     "text": "Scope creep happens when the definition of the project changes after work has started. What we are describing is the opposite: doing the definition properly before work starts, so no one is surprised later. That work is unglamorous. It happens on a Zoom call, not in Figma. It is also the single biggest predictor of whether a project ships well."
+    },
+    {
+     "tag": "p",
+     "text": "The brief that comes in the email is a symptom. The brief we agree on the call is the actual project. That is the whole difference."
+    }
+   ],
+   "moreArticles": [
+    "fewer-projects-more-attention",
+    "awards-dont-build-brands",
+    "why-we-quote-fixed",
+    "the-best-type-is-invisible"
+   ]
+  },
+  {
+   "slug": "small-looks-expensive",
+   "title": "Small looks expensive.",
+   "articleType": "Craft",
+   "date": "2025-12-12T00:00:00.000Z",
+   "dateCard": "12/12/25",
+   "dateArticle": "Dec 12, 2025",
+   "shortDescription": "Why restraint reads as premium, and how to design for it without becoming boring.",
+   "introHeader": "                           Cheap brands add. Expensive brands remove. Here is why restraint is the actual visual language of luxury, and how to design for premium without falling into the traps most agencies fall into the moment the word premium appears anywhere in the brief.",
+   "metaTitle": "Small looks expensive.",
+   "metaDescription": "Why restraint reads as premium, and how to design for it without becoming boring.",
+   "mainImage": {
+    "src": "/assets/images/1I2rFExVypdmLtMAuiNjBMIHg.jpg",
+    "original": "https://framerusercontent.com/images/1I2rFExVypdmLtMAuiNjBMIHg.jpg",
+    "alt": "Woman leaning out of a vintage car in the mountains",
+    "width": 1632,
+    "height": 2040
+   },
+   "author": {
+    "name": "Sarah Park",
+    "role": "Designer",
+    "avatar": {
+     "src": "/assets/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg",
+     "original": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg",
+     "alt": "Portrait of Sarah Park",
+     "width": 528,
+     "height": 701
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "What most agencies think premium means"
+    },
+    {
+     "tag": "p",
+     "text": "When premium shows up in a brief, most agencies start layering. Gradients. Oversized serifs. Gold foil. Marble backgrounds. Moody photography. Product renders with soft shadows. All of those signals are supposed to say luxury, and none of them actually do."
+    },
+    {
+     "tag": "p",
+     "text": "The reason they fail is that they are performing luxury rather than embodying it. Real luxury brands almost never look like moodboards of luxury brands. They are quieter, cleaner, and more restrained than the agencies briefed to imitate them."
+    },
+    {
+     "tag": "h3",
+     "text": "Why restraint reads as expensive"
+    },
+    {
+     "tag": "p",
+     "text": "Expensive works because of what it does not do. It does not fill every corner. It does not over-explain. It does not perform. The word luxury appears nowhere on a luxury site because it does not have to. The brand is confident enough not to need to say it."
+    },
+    {
+     "tag": "p",
+     "text": "Restraint signals confidence, and confidence signals value. A brand that trusts a single photograph and a single sentence to carry a whole homepage reads as more premium than a brand that layers five moments trying to prove it deserves the price."
+    },
+    {
+     "tag": "h3",
+     "text": "The trap of the moodboard"
+    },
+    {
+     "tag": "p",
+     "text": "Most premium briefs get killed at the moodboard stage. The client sends references. The references are all layered. The moodboard becomes a synthesis of a dozen busy looks. The final work is a slightly busier version of the busiest reference. Nothing about the process points toward restraint."
+    },
+    {
+     "tag": "p",
+     "text": "Our approach on premium projects is to remove first, add later. Strip the site to almost nothing. Design the one thing worth showing. Add only what the composition genuinely needs. Most of the time, we do not add much."
+    },
+    {
+     "tag": "h3",
+     "text": "What small-looks-expensive actually looks like"
+    },
+    {
+     "tag": "p",
+     "text": "One photograph, treated large. One sentence, treated with confidence. Space around both. That is the whole formula. The most premium moment on any site is the empty space around the one thing worth looking at. Everything else is decoration, and decoration is what makes a brand look cheaper than it actually is."
+    }
+   ],
+   "moreArticles": [
+    "fewer-projects-more-attention",
+    "awards-dont-build-brands",
+    "why-we-quote-fixed",
+    "the-best-type-is-invisible"
+   ]
+  },
+  {
+   "slug": "the-founder-is-the-brand",
+   "title": "The founder is the brand.",
+   "articleType": "Opinion",
+   "date": "2025-11-04T00:00:00.000Z",
+   "dateCard": "11/4/25",
+   "dateArticle": "Nov 4, 2025",
+   "shortDescription": "For small studios and small brands, the founder's presence is the most under-used asset.",
+   "introHeader": "                           Every small brand under-uses its founder. Every small studio does too. Here is why the founder's presence, story, and voice are the most under-leveraged asset in most emerging brands, and what we do on every Mira project to bring the founder back to the surface of the work.",
+   "metaTitle": "The founder is the brand.",
+   "metaDescription": "For small studios and small brands, the founder's presence is the most under-used asset.",
+   "mainImage": {
+    "src": "/assets/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg",
+    "original": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg",
+    "alt": "Blurred colorful flower against a grey background",
+    "width": 1360,
+    "height": 2040
+   },
+   "author": {
+    "name": "Jin Yuen",
+    "role": "Founder",
+    "avatar": {
+     "src": "/assets/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg",
+     "original": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg",
+     "alt": "Portrait of Jin Yuen",
+     "width": 655,
+     "height": 872
+    }
+   },
+   "body": [
+    {
+     "tag": "h3",
+     "text": "The invisible founder problem"
+    },
+    {
+     "tag": "p",
+     "text": "We work with founders who spend six figures on a rebrand and then refuse to appear anywhere on the site. Their story is the reason the business exists. Their point of view is what the customer is actually buying. And yet the About page shows a stock photo of a laptop on a wooden desk and a paragraph of corporate we-language."
+    },
+    {
+     "tag": "p",
+     "text": "The pattern is so common we now expect it. Founders are trained by decades of corporate culture to remove themselves from the brand as it grows. That instinct is the opposite of what a small brand actually needs."
+    },
+    {
+     "tag": "h3",
+     "text": "What the buyer is actually buying"
+    },
+    {
+     "tag": "p",
+     "text": "For small brands, the buyer is not just buying the product. They are buying the reason the product exists, and reason has a face. The founder's story is not filler on the About page. It is the credibility engine of the whole brand."
+    },
+    {
+     "tag": "p",
+     "text": "A candle brand from Savannah is more compelling because a real person in Savannah is pouring the candles. A leather workshop in Milan is more compelling because a family in Milan is cutting the leather. Anonymise either brand and the value proposition weakens. Put the founder back in and it strengthens immediately."
+    },
+    {
+     "tag": "h3",
+     "text": "How we surface the founder"
+    },
+    {
+     "tag": "p",
+     "text": "On every Mira project, we push for a founder moment near the top of the homepage. A photo, a short story, a signed statement. Not a full About page relocated to the top. Just enough presence to establish that a real person is behind the brand. It changes the emotional register of everything below it."
+    },
+    {
+     "tag": "p",
+     "text": "Some founders resist this at first. They worry it looks unprofessional. It does not. What looks unprofessional is a small brand pretending to be a big one."
+    },
+    {
+     "tag": "h3",
+     "text": "Why this is the unfair advantage"
+    },
+    {
+     "tag": "p",
+     "text": "The competition is well-funded, well-designed, and personality-free. Big brands cannot use their founders because their founders are usually a board of directors. Small brands can, and most refuse to. That refusal is the single biggest gift small brands hand to their competitors every day."
+    },
+    {
+     "tag": "p",
+     "text": "Show up. Say what you believe. Sign your name. The founder is your unfair advantage. Use them."
+    }
+   ],
+   "moreArticles": [
+    "fewer-projects-more-attention",
+    "awards-dont-build-brands",
+    "why-we-quote-fixed",
+    "the-best-type-is-invisible"
+   ]
+  }
+ ]
+}

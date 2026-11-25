@@ -1,0 +1,24 @@
+
+## about
+<section "About" ycmhje [59,900,1381,1015] {padding=120px 0px; gap=80px; backgroundColor=rgb(255, 255, 255); flex column j=flow-start a=center}
+  <div "Inside Container" 1lym5t5 [59,1020,1381,775] {padding=0px 33px; gap=80px; overflow=clip; flex column j=center a=center}
+    <div "Positioning Headline Group" 1x2zti6 [92,1020,1315,240] {gap=20px; overflow=clip; grid}
+      <div "Positioning Headline" 5s3f7s [426,1020,981,240] {flex column j=flow-start a=normal}
+        <h2 framer-styles-preset-fvem1p [426,1020,981,240] font="Mona Sans Variable"/60px/60px/ls-1.2px/uppercase/justify/rgb(13, 13, 13)/wdth 75, wght 700 :: "⟨17sp⟩WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK." LINES=W|R|A|P
+          (136 spans enfants; opacity∈{1}; transform∈{none})
+    <div "Philosophy" qcr6nv [92,1340,1315,455] {gap=40px 20px; grid}
+      <div "Card / Signature" djt4hk [92,1340,314,455] {gap=15px; flex column j=center a=center}
+      <div "Philosophy Eyebrow" ql5j4v [426,1340,98,18] {flex column j=flow-start a=normal}
+        <p framer-styles-preset-c95aba [426,1340,98,18] font="Mona Sans Variable"/15px/18px/ls-0.15px/uppercase/start/rgb(104, 104, 104)/wdth 80, wght 700 :: "(My philosophy)"
+          (0 spans enfants; opacity∈{}; transform∈{})
+      <div "Quote / Primary Link" luaw3f [760,1340,648,242] {gap=40px; flex column j=center a=flow-start}
+        <div "Quote" 1yax0v2 [760,1340,648,182] {gap=15px; overflow=clip; flex column j=center a=flow-start}
+          <div "Quote" 1vyjfpw [760,1340,550,104] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-ervepf [760,1340,550,104] font="Mona Sans Variable"/30px/34.5px/ls-0.6px/uppercase/start/rgb(13, 13, 13)/wdth 75, wght 675 :: "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”" LINES=“|w|c
+              (86 spans enfants; opacity∈{1}; transform∈{none})
+          <div "Small Text" vur5wz [760,1459,380,63] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-10r2g7l [760,1459,380,63] font=Switzer/15px/21px/ls-0.45px/none/left/rgb(13, 13, 13) :: "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?" LINES=Design|understood.|does
+              (25 spans enfants; opacity∈{1}; transform∈{none})
+        <div "Primary link" k36hqa [760,1562,648,20] {gap=40px; overflow=clip; grid}
+          <div "Filler" 1whhr62 [760,1562,304,1] {overflow=clip}
+          <div "Philosophy Link" framer-l6m7oy-container [1103,1562,111,20]

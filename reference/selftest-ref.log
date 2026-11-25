@@ -1,0 +1,4 @@
+run 0: 830672 ms, 26 images, scrollHeight=23041, missing=0, errors=4
+run 1: 661997 ms, 26 images, scrollHeight=23041, missing=0, errors=4
+{"target":"ref","route":"/","width":1440,"scrollHeights":[23041,23041],"worstDiffPct":0,"ok":true,"at":"2026-11-20T23:29:13.779Z"} []
+exit=0

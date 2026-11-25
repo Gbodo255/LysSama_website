@@ -1,0 +1,1335 @@
+div.framer-w9o3t8-container [Lenis Smooth Scroll]
+main.framer-3o3340 [Main]
+  div.framer-yXQrW.framer-gmtdri.framer-v-gmtdri [Spacer]
+  div.framer-mtqnda [Content]
+    div.framer-4wzv44 [Hero / Project]
+      section.framer-3ye8xs [Hero]
+        div.framer-by5zon [BG Outer Container]
+          div.framer-83xqy.framer-j4z1zy.framer-v-1shcg12 [Hidden Mask]
+            div.framer-rbevx0 [BG]
+              div.framer-1q48sik [Dark overlay]
+              div.framer-ios0bt [BG Image]
+                img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        div.framer-9cugxo [Inside Container]
+          header.framer-5km0ir [Top]
+            div.framer-19jj9t8-container appear=19jj9t8
+              a.framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-ra0to2.framer-ghew07 [Desktop - Left] href=../projects
+                div.framer-1dzfdpz [Text]
+                  div.framer-zixbhw [Top Text] type=RichTextContainer
+                    p.framer-text.framer-styles-preset-k5mxv3  « Back to projects »
+                  div.framer-1396mtp [Bottom Text] type=RichTextContainer
+                    p.framer-text.framer-styles-preset-k5mxv3  « Back to projects »
+                div.framer-73np5u [Chevron]
+                  svg.framer-4rnSx.framer-19pf2gr 
+            div.framer-1gjlcjd-container.hidden-1nc0ivo appear=1gjlcjd
+              a.framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [Link Container] href=../ aria-label="home"
+                div.framer-1xjrc.framer-7h3po8 [Logo]
+          div.framer-184oqzw [Image / Project Info]
+            div.framer-t241s [Image / Video] appear=t241s
+              img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+            div.framer-1niuf3q [Filler]
+            div.framer-1wtwicl [Project Info]
+              div.framer-1by17e4 [Title / Year] appear=1by17e4
+                div.framer-3xnncp [Title] type=RichTextContainer
+                  h1.framer-text.framer-styles-preset-15kw1n0  « Under Armour »
+                div.framer-16eh77w [Year] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « '23© »
+              div.framer-sz7Kf.framer-t5kp41.framer-v-14rrenl [Hidden Horizontal]
+                div.framer-5nyabp [Line]
+              div.framer-18lk34a [Description] type=RichTextContainer
+                p.framer-text.framer-styles-preset-lu6cf5  « Under Armour wanted its studio training line to feel like the practice, not the locker room. »
+          div.framer-1l9jlre [Bottom Info]
+            div.framer-6nrbi8 [Timeline] appear=6nrbi8
+              div.framer-zw3fh5 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « timeline »
+              div.framer-en6sck type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « 5 weeks »
+            div.framer-9t0tqy [Scope] appear=9t0tqy
+              div.framer-1osspgd type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « scope »
+              div.framer-1kxi1cl [Scope]
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Brand Identity »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Web Design »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Framer Dev »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Art Direction »
+      section.framer-3ye8xs [Hero]
+        div.framer-by5zon [BG Outer Container]
+          div.framer-83xqy.framer-j4z1zy.framer-v-1shcg12 [Hidden Mask]
+            div.framer-rbevx0 [BG]
+              div.framer-1q48sik [Dark overlay]
+              div.framer-ios0bt [BG Image]
+                img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        div.framer-9cugxo [Inside Container]
+          header.framer-5km0ir [Top]
+            div.framer-19jj9t8-container appear=19jj9t8
+              a.framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-ra0to2.framer-ghew07 [Desktop - Left] href=../projects
+                div.framer-1dzfdpz [Text]
+                  div.framer-zixbhw [Top Text] type=RichTextContainer
+                    p.framer-text.framer-styles-preset-k5mxv3  « Back to projects »
+                  div.framer-1396mtp [Bottom Text] type=RichTextContainer
+                    p.framer-text.framer-styles-preset-k5mxv3  « Back to projects »
+                div.framer-73np5u [Chevron]
+                  svg.framer-4rnSx.framer-19pf2gr 
+            div.framer-1gjlcjd-container.hidden-1nc0ivo appear=1gjlcjd
+              a.framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [Link Container] href=../ aria-label="home"
+                div.framer-1xjrc.framer-7h3po8 [Logo]
+          div.framer-184oqzw [Image / Project Info]
+            div.framer-t241s [Image / Video] appear=t241s
+              img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+            div.framer-1niuf3q [Filler]
+            div.framer-1wtwicl [Project Info]
+              div.framer-1by17e4 [Title / Year] appear=1by17e4
+                div.framer-3xnncp [Title] type=RichTextContainer
+                  h1.framer-text.framer-styles-preset-15kw1n0  « Under Armour »
+                div.framer-16eh77w [Year] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « '23© »
+              div.framer-sz7Kf.framer-t5kp41.framer-v-14rrenl [Hidden Horizontal]
+                div.framer-5nyabp [Line]
+              div.framer-18lk34a [Description] type=RichTextContainer
+                p.framer-text.framer-styles-preset-lu6cf5  « Under Armour wanted its studio training line to feel like the practice, not the locker room. »
+          div.framer-1l9jlre [Bottom Info]
+            div.framer-6nrbi8 [Timeline] appear=6nrbi8
+              div.framer-zw3fh5 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « timeline »
+              div.framer-en6sck type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « 5 weeks »
+            div.framer-9t0tqy [Scope] appear=9t0tqy
+              div.framer-1osspgd type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « scope »
+              div.framer-1kxi1cl [Scope]
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Brand Identity »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Web Design »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Framer Dev »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Art Direction »
+      section.framer-3ye8xs [Hero]
+        div.framer-by5zon [BG Outer Container]
+          div.framer-83xqy.framer-j4z1zy.framer-v-1shcg12 [Hidden Mask]
+            div.framer-rbevx0 [BG]
+              div.framer-1q48sik [Dark overlay]
+              div.framer-ios0bt [BG Image]
+                img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        div.framer-9cugxo [Inside Container]
+          header.framer-5km0ir [Top]
+            div.framer-19jj9t8-container appear=19jj9t8
+              a.framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-ra0to2.framer-ghew07 [Desktop - Left] href=../projects
+                div.framer-1dzfdpz [Text]
+                  div.framer-zixbhw [Top Text] type=RichTextContainer
+                    p.framer-text.framer-styles-preset-k5mxv3  « Back to projects »
+                  div.framer-1396mtp [Bottom Text] type=RichTextContainer
+                    p.framer-text.framer-styles-preset-k5mxv3  « Back to projects »
+                div.framer-73np5u [Chevron]
+                  svg.framer-4rnSx.framer-19pf2gr 
+            div.framer-1gjlcjd-container.hidden-1nc0ivo appear=1gjlcjd
+              a.framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [Link Container] href=../ aria-label="home"
+                div.framer-1xjrc.framer-7h3po8 [Logo]
+          div.framer-184oqzw [Image / Project Info]
+            div.framer-t241s [Image / Video] appear=t241s
+              img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+            div.framer-1niuf3q [Filler]
+            div.framer-1wtwicl [Project Info]
+              div.framer-1by17e4 [Title / Year] appear=1by17e4
+                div.framer-3xnncp [Title] type=RichTextContainer
+                  h1.framer-text.framer-styles-preset-15kw1n0  « Under Armour »
+                div.framer-16eh77w [Year] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « '23© »
+              div.framer-sz7Kf.framer-t5kp41.framer-v-14rrenl [Hidden Horizontal]
+                div.framer-5nyabp [Line]
+              div.framer-18lk34a [Description] type=RichTextContainer
+                p.framer-text.framer-styles-preset-lu6cf5  « Under Armour wanted its studio training line to feel like the practice, not the locker room. »
+          div.framer-1l9jlre [Bottom Info]
+            div.framer-6nrbi8 [Timeline] appear=6nrbi8
+              div.framer-zw3fh5 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « timeline »
+              div.framer-en6sck type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « 5 weeks »
+            div.framer-9t0tqy [Scope] appear=9t0tqy
+              div.framer-1osspgd type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « scope »
+              div.framer-1kxi1cl [Scope]
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Brand Identity »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Web Design »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Framer Dev »
+                div.framer-8qo32r [Service] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « Art Direction »
+      div.framer-dm7c33 [Project ]
+        section.framer-102xlp0 [Client / Brief]
+          div.framer-wmm6pc [Inside Container]
+            div.framer-1od0ywm [Client Logo / About them]
+              div.framer-6x907c [Description] type=RichTextContainer
+                p.framer-text.framer-styles-preset-lu6cf5  « The American performance brand. This engagement covered the launch of a women's studio training collection. »
+            div.framer-1iv0l1s [Brief / Live Link]
+              div.framer-at2bt6 [Approach Split]
+                div.framer-gnismn [Label / Heading]
+                  div.framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [Label]
+                    div.framer-moe5to [Text] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-c95aba  « The Brief »
+                  div.framer-onrclc [Big Text] type=RichTextContainer
+                    h2.framer-text.framer-styles-preset-fvem1p  « One collection. One promise. »
+                div.framer-4e5inr [Small Text] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « Training brands promise everything and deliver noise. This collection promises one thing: gear that disappears into the practice. The launch had to match that restraint. »
+              div.framer-1dh416h-container [Live Link]
+                a.framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-q8hg74.framer-ghew07 [Desktop - Right] href=https://launchnow.design?utm_source=miratemplate target=_blank
+                  div.framer-1dzfdpz [Text]
+                    div.framer-zixbhw [Top Text] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-k5mxv3  « View live »
+                    div.framer-1396mtp [Bottom Text] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-k5mxv3  « View live »
+                  div.framer-73np5u [Chevron]
+                    svg.framer-ab47M.framer-19pf2gr 
+              div.framer-1dh416h-container [Live Link]
+                a.framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-ls2zup.framer-ghew07 [Phone Right] href=https://launchnow.design?utm_source=miratemplate target=_blank
+                  div.framer-1dzfdpz [Text]
+                    div.framer-zixbhw [Top Text] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-k5mxv3  « View live »
+                    div.framer-1396mtp [Bottom Text] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-k5mxv3  « View live »
+                  div.framer-73np5u [Chevron]
+                    svg.framer-ab47M.framer-19pf2gr 
+        section.framer-1p5i3vy [Image Section]
+          div.framer-pgnxge-container [1]
+            div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+              div.framer-cbal85 [1]
+                img src=https://framerusercontent.com/images/vnm9m0Uei6UhjZqXwDd1J8XX77c.jpg?width=1800&height=1344 alt="Close-up of an athlete's arm gripping a rowing machine handle" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          div.framer-1x8wi03 [Bottom Images]
+            div.framer-nhp5bo-container [2]
+              div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+                div.framer-cbal85 [1]
+                  img src=https://framerusercontent.com/images/OTjft5MCpe1ZIm83rHxbvtd91Is.jpg?width=1344&height=1800 alt="Raised wrist wearing a black smartwatch against a pale sky" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+            div.framer-12ft01b-container [3]
+              div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+                div.framer-cbal85 [1]
+                  img src=https://framerusercontent.com/images/SG02Z58TlwLtrf5kZ1Ovewhv78.jpg?width=1344&height=1800 alt="Smartwatch on a wrist in low light" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        section.framer-qgqtua [Approach]
+          div.framer-106actt [Inside Container]
+            div.framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [Label]
+              div.framer-moe5to [Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « The Approach »
+            div.framer-1pu5h6j [Big Text / Small Text]
+              div.framer-rxaauc [Big Text] type=RichTextContainer
+                h2.framer-text.framer-styles-preset-fvem1p  « Show the practice, not the product. »
+              div.framer-1vesi0q [Small Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-10r2g7l  « The page leads with people mid-practice, not with feature bullets. Pilates on the reformer, breath work in the studio, the last rep of a hard set. The gear is the thread. The practice is the point. »
+        section.framer-fu09xc 
+          div.framer-1lrcd5x-container [1]
+            div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+              div.framer-cbal85 [1]
+                img src=https://framerusercontent.com/images/twFq2C702WAlYFgUMOigfzXxmc.jpg?width=1344&height=1800 alt="Athlete stretching in a side plank at sunrise" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          div.framer-1lrcd5x-container [1]
+            div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+              div.framer-cbal85 [1]
+                img src=https://framerusercontent.com/images/Qrq41RDwWjYez6cdKCt0QDIqRQw.jpg?width=1344&height=1800 alt="Athlete training on a reformer machine" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          div.framer-1lrcd5x-container [1]
+            div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+              div.framer-cbal85 [1]
+                img src=https://framerusercontent.com/images/ADEYBq7Wf4XmgvtnCjS0GtpFhY.jpg?width=1344&height=1800 alt="Silhouette of an athlete kneeling on a reformer machine" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          div.framer-1lrcd5x-container [1]
+            div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+              div.framer-cbal85 [1]
+                img src=https://framerusercontent.com/images/xrmKRvB9dpGe31Rj3chvWIsGjo.jpg?width=1344&height=1800 alt="Black gym bag, notebook, and headphones laid out on a table" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          div.framer-1lrcd5x-container [1]
+            div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+              div.framer-cbal85 [1]
+                img src=https://framerusercontent.com/images/eXa2q6JhWPIKKCjgvGkAgj0CckI.jpg?width=1344&height=1800 alt="Black kettlebells and dumbbells on a black pedestal" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          div.framer-1lrcd5x-container [1]
+            div.framer-pVIbn.framer-14neqw2.framer-v-1fvw07s [Hidden]
+              div.framer-cbal85 [1]
+                img src=https://framerusercontent.com/images/8DdK1PW6D47U4dZVHY3BzUAsiQ.jpg?width=1344&height=1800 alt="Black weights arranged on a floating shelf" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        section.framer-1ui1s1v [Outcomes]
+          div.framer-11zw2la [Inside Container]
+            div.framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [Label]
+              div.framer-moe5to [Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « Outcomes »
+            div.framer-lycdyf [Big Text / Small Text]
+              div.framer-1pjpizp [Big Text] type=RichTextContainer
+                h2.framer-text.framer-styles-preset-fvem1p  « Pre-orders sold out in five days. »
+              div.framer-1761imj [Small Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-10r2g7l  « First-run inventory cleared in five days. The waitlist for the second run grew by 4,000 in the first month. Three studio chains opened conversations about carrying the line. »
+    section.framer-x2p7po [Results / Testimonial]
+      div.framer-1smvlsv [Outer Container]
+        div.framer-euk6vp [Inside Container]
+          div.framer-1diamj1 [Metrics]
+            div.framer-17al0v9 [Label] type=RichTextContainer
+              p.framer-text.framer-styles-preset-c95aba  « Results »
+            div.framer-h7w56c [Metrics]
+              div.framer-1gxwewy-container [Metric]
+                div.framer-M6TOJ.framer-Me6vv.framer-2Ps8M.framer-khCxy.framer-QoPvp.framer-1l3encs.framer-v-1l3encs [Dark]
+                  div.framer-19iwyhl [Stat]
+                    div.framer-nrs2ax [Count] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-c95aba  « 01 »
+                    div.framer-1d57mhn [Number / Description]
+                      div.framer-w3nx7a [Metric] type=RichTextContainer
+                        h2.framer-text.framer-styles-preset-fvem1p  « 5 days »
+                      div.framer-dkfec8 [Label / Description]
+                        div.framer-qouc4r [Label] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « (pre-orders sold out) »
+                        div.framer-1rvpfig [Description] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-lu6cf5  « Full first-run inventory cleared through the page. »
+                    div.framer-sz7Kf.framer-t5kp41.framer-v-14rrenl [Hidden Horizontal]
+                      div.framer-5nyabp [Line]
+              div.framer-1gxwewy-container [Metric]
+                div.framer-M6TOJ.framer-Me6vv.framer-2Ps8M.framer-khCxy.framer-QoPvp.framer-1l3encs.framer-v-1l3encs [Dark]
+                  div.framer-19iwyhl [Stat]
+                    div.framer-nrs2ax [Count] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-c95aba  « 02 »
+                    div.framer-1d57mhn [Number / Description]
+                      div.framer-w3nx7a [Metric] type=RichTextContainer
+                        h2.framer-text.framer-styles-preset-fvem1p  « 4,000 »
+                      div.framer-dkfec8 [Label / Description]
+                        div.framer-qouc4r [Label] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « (waitlist added) »
+                        div.framer-1rvpfig [Description] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-lu6cf5  « New signups for the second production run. »
+                    div.framer-sz7Kf.framer-t5kp41.framer-v-14rrenl [Hidden Horizontal]
+                      div.framer-5nyabp [Line]
+              div.framer-1gxwewy-container [Metric]
+                div.framer-M6TOJ.framer-Me6vv.framer-2Ps8M.framer-khCxy.framer-QoPvp.framer-1l3encs.framer-v-1l3encs [Dark]
+                  div.framer-19iwyhl [Stat]
+                    div.framer-nrs2ax [Count] type=RichTextContainer
+                      p.framer-text.framer-styles-preset-c95aba  « 03 »
+                    div.framer-1d57mhn [Number / Description]
+                      div.framer-w3nx7a [Metric] type=RichTextContainer
+                        h2.framer-text.framer-styles-preset-fvem1p  « 3 studios »
+                      div.framer-dkfec8 [Label / Description]
+                        div.framer-qouc4r [Label] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « (in conversation) »
+                        div.framer-1rvpfig [Description] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-lu6cf5  « Studio chains opened wholesale talks in month one. »
+                    div.framer-sz7Kf.framer-t5kp41.framer-v-14rrenl [Hidden Horizontal]
+                      div.framer-5nyabp [Line]
+          div.framer-1i331ad [Quote]
+            div.framer-18arrr4 type=RichTextContainer
+              p.framer-text.framer-styles-preset-c95aba  « The Word »
+            div.framer-vx867a [Author Card]
+              img src=https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640 alt="Portrait of Wren Beaumont" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+              img src=https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640 alt="Portrait of Wren Beaumont" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+              div.framer-18y1rde [Name / Role]
+                div.framer-169brk5 type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Wren Beaumont »
+                div.framer-1xpol5b type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « GM, Under Armour Studio »
+            div.framer-1cax6r0 [Quote]
+              div.framer-i1tksj [Quote] type=RichTextContainer
+                p.framer-text.framer-styles-preset-ervepf  « “ Mira understood that training has to feel like the practice, not the pitch. ” »
+              div.framer-wo1sty [Small Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-10r2g7l  « Every pitch we heard leaned on optimization language. Jin was the only one who talked about calm. The page feels like a five-minute breath in the middle of a hard day. »
+    section.framer-npfnrg [More Projects]
+      div.framer-11bn4s5 [Inside Container]
+        div.framer-pjaw51 [Filler]
+        div.framer-xrsurv [Projects]
+          div.framer-ug8u0a type=RichTextContainer
+            p.framer-text.framer-styles-preset-c95aba  « more projects »
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh [Desktop] href=./gucci
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Gucci »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Gucci »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '26© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-5lad91 [Filler]
+              div.framer-1omuosn [Image / Video]
+                div.framer-9pqtfb-container [Uploaded Video]
+                  video src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350 loop muted playsinline preload=none
+                div.framer-r4h57g [Dark overlay]
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-1pcouco.framer-m0zkdh [Phone] href=./gucci
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Gucci »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Gucci »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '26© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-1omuosn [Image / Video]
+                div.framer-9pqtfb-container [Uploaded Video]
+                  video src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350 loop muted playsinline preload=none
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh [Desktop] href=./chanel
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Chanel »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Chanel »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '24© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-5lad91 [Filler]
+              div.framer-1omuosn [Image / Video]
+                img src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148 alt="Model applying face cream to her cheek against a pale background" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                div.framer-r4h57g [Dark overlay]
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-1pcouco.framer-m0zkdh [Phone] href=./chanel
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Chanel »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Chanel »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '24© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-1omuosn [Image / Video]
+                img src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148 alt="Model applying face cream to her cheek against a pale background" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh [Desktop] href=./puma
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Puma »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Puma »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '25© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-5lad91 [Filler]
+              div.framer-1omuosn [Image / Video]
+                div.framer-9pqtfb-container [Uploaded Video]
+                  video src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440 loop muted playsinline preload=none
+                div.framer-r4h57g [Dark overlay]
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-1pcouco.framer-m0zkdh [Phone] href=./puma
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Puma »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Puma »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '25© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-1omuosn [Image / Video]
+                div.framer-9pqtfb-container [Uploaded Video]
+                  video src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440 loop muted playsinline preload=none
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh [Desktop] href=./adidas
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Adidas »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Adidas »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '25© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-5lad91 [Filler]
+              div.framer-1omuosn [Image / Video]
+                img src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350 alt="Close-up of a tennis player with braids looking over her racket" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                div.framer-r4h57g [Dark overlay]
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-1pcouco.framer-m0zkdh [Phone] href=./adidas
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Adidas »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Adidas »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '25© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-1omuosn [Image / Video]
+                img src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350 alt="Close-up of a tennis player with braids looking over her racket" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh [Desktop] href=./nike
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Nike »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Nike »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '25© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-5lad91 [Filler]
+              div.framer-1omuosn [Image / Video]
+                img src=https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148 alt="Athlete lacing orange and white running shoes on a stadium track" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                div.framer-r4h57g [Dark overlay]
+          a.framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-1pcouco.framer-m0zkdh [Phone] href=./nike
+            div.framer-11z2nkk [Nav Item]
+              div.framer-1nl3ckl [Text]
+                div.framer-a32j11 [Top] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Nike »
+                div.framer-1o2749o [Bottom] type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-fvem1p  « Nike »
+              div.framer-1u3jrt9 type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « '25© »
+            div.framer-16o5iqg [Image / Video Preview]
+              div.framer-1omuosn [Image / Video]
+                img src=https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148 alt="Athlete lacing orange and white running shoes on a stadium track" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+    section.framer-qIn7C.framer-QoPvp.framer-LubW4.framer-yTVl5.framer-lt6Rw.framer-xYquH.framer-laVYw.framer-14rm87n.framer-v-14rm87n [Desktop]
+      div.framer-1sfsb0h [Outer Container]
+        div.framer-GJxp5.framer-ygyp3d.framer-v-ygyp3d [Start]
+          div.framer-fbyx7b [BG]
+            div.framer-2rkagx [Dark overlay]
+            div.framer-1rd84u6 [BG Image]
+              img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        div.framer-18ffh8y [Inside Container]
+          div.framer-1xd81fe [Top]
+            div.framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [Label]
+              div.framer-moe5to [Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « Book a call »
+            div.framer-1x9xq4c [Availability]
+              div.framer-fqvLJ.framer-c37j5z.framer-v-1ki7lk6 [2]
+                div.framer-E3D9I.framer-7l2lys.framer-v-7l2lys [Active]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-7l2lys [Active]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+              div.framer-11fc1lh type=RichTextContainer
+                p.framer-text.framer-styles-preset-lu6cf5  « 2 slots for August '26 »
+            div.framer-QRwP7.framer-QoPvp.framer-1kijlsy.framer-v-1kijlsy [Author]
+              img src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84 alt="Portrait of Jin Yuen" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+              div.framer-lpw2kj [Name / Role]
+                div.framer-1mvw4z9 type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Jin Yuen »
+                div.framer-t6pkcg type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Founder »
+          div.framer-1vtoytd [Middle]
+            div.framer-13uprae [Filler]
+            div.framer-sec3t8 [Heading / Form]
+              div.framer-11w2tx5 [Heading / Description]
+                div.framer-1xbm67e type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-1c0t51l  « Let's make you impossible to ignore. »
+                div.framer-1ppt5ho type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « Tell us what you're building. We'll tell you how we'd make it land. »
+              div.framer-behbyg [Form / Contact Info]
+                div.framer-KEC63.framer-khCxy.framer-QoPvp.framer-xYquH.framer-11230cp.framer-v-11230cp [Default]
+                  div.framer-pEZXs.framer-7sj87n.framer-v-7sj87n [Spinner]
+                    div.framer-1yqlm52 [Spinner]
+                  form.framer-3onib8 
+                    div.framer-17d941x [Fields]
+                      div.framer-1c5kg59 [Name / Company]
+                        label.framer-myo4nu [Name] « My name is »
+                          div.framer-fvxa39 type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « My name is »
+                          input.framer-form-input.framer-form-input-empty type=text name=Name placeholder="Name *"
+                        label.framer-c41om3 [Company] « i’m from »
+                          div.framer-1ghdy9u type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « i’m from »
+                          input.framer-form-input.framer-form-input-empty type=text name=Company placeholder="Company Name"
+                      label.framer-ausbnb [Help With] « and I need help with »
+                        div.framer-17k9ytc type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « and I need help with »
+                        input.framer-form-input.framer-form-input-empty type=text name=I need help with placeholder="This service"
+                      label.framer-3t0b9d [Pitch] « here’s the Idea: »
+                        div.framer-fgq56l type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « here’s the Idea: »
+                        textarea.framer-form-input 
+                      div.framer-1lq4m9b [Budget & Timeline]
+                        label.framer-mvvosq [Budget] « my budget is around »
+                          div.framer-16h4pdc type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « my budget is around »
+                          input.framer-form-input.framer-form-input-empty type=text name=Budget placeholder="$10k"
+                        label.framer-78o1yk [Start] « and i’d like to startWhen…ASAPWithin a monthThis quarterJust exploring »
+                          div.framer-k2st13 type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « and i’d like to start »
+                          select.framer-form-input 
+                      label.framer-u8bpr7 [Email] « reach me at »
+                        div.framer-1ikczjy type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « reach me at »
+                        input.framer-form-input.framer-form-input-empty type=email name=Email placeholder="Email *"
+                    div.framer-nxx5hd [Legal / Submit]
+                      div.framer-mrpb47 [Legal]
+                        div.framer-1mzwcwg type=RichTextContainer
+                          p.framer-text.framer-styles-preset-lu6cf5  « By submitting, you agree to our terms and privacy policy. »
+                      button.framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw [Incomplete] type=submit name=null placeholder="" « Start a projectStart a project »
+                        div.framer-17skh7b [BG Color]
+                        div.framer-71e8ti [btn text]
+                          div.framer-1gm2ya6 [top] type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « Start a project »
+                          div.framer-l29hgm [bottom] type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « Start a project »
+                        svg.framer-o60xf.framer-1xmnpcd [Success]
+                        div.framer-pEZXs.framer-7sj87n.framer-v-7sj87n [Spinner]
+                          div.framer-1yqlm52 [Spinner]
+                    input type=text name=website placeholder=""
+                    input type=text name=company placeholder=""
+                    input type=text name=message placeholder=""
+                    input type=text name=subject placeholder=""
+                    input type=text name=title placeholder=""
+                    input type=text name=description placeholder=""
+                    input type=text name=feedback placeholder=""
+                    input type=text name=notes placeholder=""
+                    input type=text name=details placeholder=""
+                    input type=text name=remarks placeholder=""
+                    input type=text name=comments placeholder=""
+                div.framer-xxp7hb [Contact / Logo]
+                  div.framer-1g9sbcz [Phone / Email]
+                    div.framer-irhihs type=RichTextContainer
+                      p.framer-text.framer-styles-preset-ervepf  « +1 (805) 450 1432 »
+                    div.framer-1ejwr34 type=RichTextContainer
+                      p.framer-text.framer-styles-preset-10r2g7l  « hello@mira.studio »
+                  div.framer-1xjrc.framer-swsyrf [Logo]
+          div.framer-casp62 [Bottom]
+            div.framer-1aggwsw [Filler]
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 01 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « You hear back within a day. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « From the founder, not a form-bot. We read every enquiry personally. »
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 02 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « A short discovery call. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Thirty minutes to understand your goals, audience, and what's not working. »
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 03 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « A fixed-quote proposal. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Clear scope, clear timeline, clear price. No surprises later. »
+    section.framer-qIn7C.framer-QoPvp.framer-LubW4.framer-yTVl5.framer-lt6Rw.framer-xYquH.framer-laVYw.framer-14rm87n.framer-v-b7iwrm [Phone]
+      div.framer-1sfsb0h [Outer Container]
+        div.framer-GJxp5.framer-ygyp3d.framer-v-ygyp3d [Start]
+          div.framer-fbyx7b [BG]
+            div.framer-2rkagx [Dark overlay]
+            div.framer-1rd84u6 [BG Image]
+              img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        div.framer-18ffh8y [Inside Container]
+          div.framer-1xd81fe [Top]
+            div.framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [Label]
+              div.framer-moe5to [Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « Book a call »
+            div.framer-1x9xq4c [Availability]
+              div.framer-fqvLJ.framer-c37j5z.framer-v-1ki7lk6 [2]
+                div.framer-E3D9I.framer-7l2lys.framer-v-7l2lys [Active]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-7l2lys [Active]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+              div.framer-11fc1lh type=RichTextContainer
+                p.framer-text.framer-styles-preset-lu6cf5  « 2 slots for August '26 »
+            div.framer-QRwP7.framer-QoPvp.framer-1kijlsy.framer-v-1kijlsy [Author]
+              img src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84 alt="Portrait of Jin Yuen" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+              div.framer-lpw2kj [Name / Role]
+                div.framer-1mvw4z9 type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Jin Yuen »
+                div.framer-t6pkcg type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Founder »
+          div.framer-1vtoytd [Middle]
+            div.framer-sec3t8 [Heading / Form]
+              div.framer-11w2tx5 [Heading / Description]
+                div.framer-1xbm67e type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-1c0t51l  « Let's make you impossible to ignore. »
+                div.framer-1ppt5ho type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « Tell us what you're building. We'll tell you how we'd make it land. »
+              div.framer-behbyg [Form / Contact Info]
+                div.framer-KEC63.framer-khCxy.framer-QoPvp.framer-xYquH.framer-11230cp.framer-v-11230cp [Default]
+                  div.framer-pEZXs.framer-7sj87n.framer-v-7sj87n [Spinner]
+                    div.framer-1yqlm52 [Spinner]
+                  form.framer-3onib8 
+                    div.framer-17d941x [Fields]
+                      div.framer-1c5kg59 [Name / Company]
+                        label.framer-myo4nu [Name] « My name is »
+                          div.framer-fvxa39 type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « My name is »
+                          input.framer-form-input.framer-form-input-empty type=text name=Name placeholder="Name *"
+                        label.framer-c41om3 [Company] « i’m from »
+                          div.framer-1ghdy9u type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « i’m from »
+                          input.framer-form-input.framer-form-input-empty type=text name=Company placeholder="Company Name"
+                      label.framer-ausbnb [Help With] « and I need help with »
+                        div.framer-17k9ytc type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « and I need help with »
+                        input.framer-form-input.framer-form-input-empty type=text name=I need help with placeholder="This service"
+                      label.framer-3t0b9d [Pitch] « here’s the Idea: »
+                        div.framer-fgq56l type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « here’s the Idea: »
+                        textarea.framer-form-input 
+                      div.framer-1lq4m9b [Budget & Timeline]
+                        label.framer-mvvosq [Budget] « my budget is around »
+                          div.framer-16h4pdc type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « my budget is around »
+                          input.framer-form-input.framer-form-input-empty type=text name=Budget placeholder="$10k"
+                        label.framer-78o1yk [Start] « and i’d like to startWhen…ASAPWithin a monthThis quarterJust exploring »
+                          div.framer-k2st13 type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « and i’d like to start »
+                          select.framer-form-input 
+                      label.framer-u8bpr7 [Email] « reach me at »
+                        div.framer-1ikczjy type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « reach me at »
+                        input.framer-form-input.framer-form-input-empty type=email name=Email placeholder="Email *"
+                    div.framer-nxx5hd [Legal / Submit]
+                      div.framer-mrpb47 [Legal]
+                        div.framer-1mzwcwg type=RichTextContainer
+                          p.framer-text.framer-styles-preset-lu6cf5  « By submitting, you agree to our terms and privacy policy. »
+                      button.framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw [Incomplete] type=submit name=null placeholder="" « Start a projectStart a project »
+                        div.framer-17skh7b [BG Color]
+                        div.framer-71e8ti [btn text]
+                          div.framer-1gm2ya6 [top] type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « Start a project »
+                          div.framer-l29hgm [bottom] type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « Start a project »
+                        svg.framer-o60xf.framer-1xmnpcd [Success]
+                        div.framer-pEZXs.framer-7sj87n.framer-v-7sj87n [Spinner]
+                          div.framer-1yqlm52 [Spinner]
+                    input type=text name=website placeholder=""
+                    input type=text name=company placeholder=""
+                    input type=text name=message placeholder=""
+                    input type=text name=subject placeholder=""
+                    input type=text name=title placeholder=""
+                    input type=text name=description placeholder=""
+                    input type=text name=feedback placeholder=""
+                    input type=text name=notes placeholder=""
+                    input type=text name=details placeholder=""
+                    input type=text name=remarks placeholder=""
+                    input type=text name=comments placeholder=""
+                div.framer-xxp7hb [Contact / Logo]
+                  div.framer-1g9sbcz [Phone / Email]
+                    div.framer-irhihs type=RichTextContainer
+                      p.framer-text.framer-styles-preset-ervepf  « +1 (805) 450 1432 »
+                    div.framer-1ejwr34 type=RichTextContainer
+                      p.framer-text.framer-styles-preset-10r2g7l  « hello@mira.studio »
+                  div.framer-1xjrc.framer-swsyrf [Logo]
+          div.framer-casp62 [Bottom]
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 01 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « You hear back within a day. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « From the founder, not a form-bot. We read every enquiry personally. »
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 02 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « A short discovery call. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Thirty minutes to understand your goals, audience, and what's not working. »
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 03 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « A fixed-quote proposal. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Clear scope, clear timeline, clear price. No surprises later. »
+    section.framer-qIn7C.framer-QoPvp.framer-LubW4.framer-yTVl5.framer-lt6Rw.framer-xYquH.framer-laVYw.framer-14rm87n.framer-v-1g58qed [Tablet]
+      div.framer-1sfsb0h [Outer Container]
+        div.framer-GJxp5.framer-ygyp3d.framer-v-ygyp3d [Start]
+          div.framer-fbyx7b [BG]
+            div.framer-2rkagx [Dark overlay]
+            div.framer-1rd84u6 [BG Image]
+              img src=https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 alt="Smiling athlete in a black tank top after a workout" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+        div.framer-18ffh8y [Inside Container]
+          div.framer-1xd81fe [Top]
+            div.framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [Label]
+              div.framer-moe5to [Text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « Book a call »
+            div.framer-1x9xq4c [Availability]
+              div.framer-fqvLJ.framer-c37j5z.framer-v-1ki7lk6 [2]
+                div.framer-E3D9I.framer-7l2lys.framer-v-7l2lys [Active]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-7l2lys [Active]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+                div.framer-E3D9I.framer-7l2lys.framer-v-n4w2md [Inactive]
+                  div.framer-w3tiya [Slot]
+              div.framer-11fc1lh type=RichTextContainer
+                p.framer-text.framer-styles-preset-lu6cf5  « 2 slots for August '26 »
+            div.framer-QRwP7.framer-QoPvp.framer-1kijlsy.framer-v-1kijlsy [Author]
+              img src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84 alt="Portrait of Jin Yuen" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+              div.framer-lpw2kj [Name / Role]
+                div.framer-1mvw4z9 type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Jin Yuen »
+                div.framer-t6pkcg type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Founder »
+          div.framer-1vtoytd [Middle]
+            div.framer-sec3t8 [Heading / Form]
+              div.framer-11w2tx5 [Heading / Description]
+                div.framer-1xbm67e type=RichTextContainer
+                  h2.framer-text.framer-styles-preset-1c0t51l  « Let's make you impossible to ignore. »
+                div.framer-1ppt5ho type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « Tell us what you're building. We'll tell you how we'd make it land. »
+              div.framer-behbyg [Form / Contact Info]
+                div.framer-KEC63.framer-khCxy.framer-QoPvp.framer-xYquH.framer-11230cp.framer-v-11230cp [Default]
+                  div.framer-pEZXs.framer-7sj87n.framer-v-7sj87n [Spinner]
+                    div.framer-1yqlm52 [Spinner]
+                  form.framer-3onib8 
+                    div.framer-17d941x [Fields]
+                      div.framer-1c5kg59 [Name / Company]
+                        label.framer-myo4nu [Name] « My name is »
+                          div.framer-fvxa39 type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « My name is »
+                          input.framer-form-input.framer-form-input-empty type=text name=Name placeholder="Name *"
+                        label.framer-c41om3 [Company] « i’m from »
+                          div.framer-1ghdy9u type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « i’m from »
+                          input.framer-form-input.framer-form-input-empty type=text name=Company placeholder="Company Name"
+                      label.framer-ausbnb [Help With] « and I need help with »
+                        div.framer-17k9ytc type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « and I need help with »
+                        input.framer-form-input.framer-form-input-empty type=text name=I need help with placeholder="This service"
+                      label.framer-3t0b9d [Pitch] « here’s the Idea: »
+                        div.framer-fgq56l type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « here’s the Idea: »
+                        textarea.framer-form-input 
+                      div.framer-1lq4m9b [Budget & Timeline]
+                        label.framer-mvvosq [Budget] « my budget is around »
+                          div.framer-16h4pdc type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « my budget is around »
+                          input.framer-form-input.framer-form-input-empty type=text name=Budget placeholder="$10k"
+                        label.framer-78o1yk [Start] « and i’d like to startWhen…ASAPWithin a monthThis quarterJust exploring »
+                          div.framer-k2st13 type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « and i’d like to start »
+                          select.framer-form-input 
+                      label.framer-u8bpr7 [Email] « reach me at »
+                        div.framer-1ikczjy type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « reach me at »
+                        input.framer-form-input.framer-form-input-empty type=email name=Email placeholder="Email *"
+                    div.framer-nxx5hd [Legal / Submit]
+                      div.framer-mrpb47 [Legal]
+                        div.framer-1mzwcwg type=RichTextContainer
+                          p.framer-text.framer-styles-preset-lu6cf5  « By submitting, you agree to our terms and privacy policy. »
+                      button.framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw [Incomplete] type=submit name=null placeholder="" « Start a projectStart a project »
+                        div.framer-17skh7b [BG Color]
+                        div.framer-71e8ti [btn text]
+                          div.framer-1gm2ya6 [top] type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « Start a project »
+                          div.framer-l29hgm [bottom] type=RichTextContainer
+                            p.framer-text.framer-styles-preset-k5mxv3  « Start a project »
+                        svg.framer-o60xf.framer-1xmnpcd [Success]
+                        div.framer-pEZXs.framer-7sj87n.framer-v-7sj87n [Spinner]
+                          div.framer-1yqlm52 [Spinner]
+                    input type=text name=website placeholder=""
+                    input type=text name=company placeholder=""
+                    input type=text name=message placeholder=""
+                    input type=text name=subject placeholder=""
+                    input type=text name=title placeholder=""
+                    input type=text name=description placeholder=""
+                    input type=text name=feedback placeholder=""
+                    input type=text name=notes placeholder=""
+                    input type=text name=details placeholder=""
+                    input type=text name=remarks placeholder=""
+                    input type=text name=comments placeholder=""
+                div.framer-xxp7hb [Contact / Logo]
+                  div.framer-1g9sbcz [Phone / Email]
+                    div.framer-irhihs type=RichTextContainer
+                      p.framer-text.framer-styles-preset-ervepf  « +1 (805) 450 1432 »
+                    div.framer-1ejwr34 type=RichTextContainer
+                      p.framer-text.framer-styles-preset-10r2g7l  « hello@mira.studio »
+                  div.framer-1xjrc.framer-swsyrf [Logo]
+          div.framer-casp62 [Bottom]
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 01 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « You hear back within a day. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « From the founder, not a form-bot. We read every enquiry personally. »
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 02 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « A short discovery call. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Thirty minutes to understand your goals, audience, and what's not working. »
+            div.framer-4Ch77.framer-Me6vv.framer-laVYw.framer-QoPvp.framer-9kx42m.framer-v-9kx42m [Dark]
+              div.framer-v8qtu5 [Step]
+                div.framer-cnai0k [01] type=RichTextContainer
+                  p.framer-text.framer-styles-preset-c95aba  « 03 »
+              div.framer-re0eey [Text]
+                div.framer-qynumf type=RichTextContainer
+                  p.framer-text.framer-styles-preset-10r2g7l  « A fixed-quote proposal. »
+                div.framer-127574l type=RichTextContainer
+                  p.framer-text.framer-styles-preset-lu6cf5  « Clear scope, clear timeline, clear price. No surprises later. »
+div.framer-9ihltw-container [Shared Navigation]
+  div.framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-l44v03 [Desktop - Closed]
+    div.framer-1f8xv28 [Overlay BG]
+    nav.framer-3der5 [Side Nav]
+      div.framer-1wba9e6 [SideBar]
+        div.framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn [Closed]
+          div.framer-t6cidc [Hamburger]
+            div.framer-19kq29j [Top]
+              div.framer-ij8d5t [1]
+              div.framer-1oucckw [2]
+            div.framer-17en59d [Bottom]
+              div.framer-1ihbq2i [3]
+              div.framer-xca395 [4]
+        div.framer-D1HnP.framer-Me6vv.framer-1875b8x.framer-v-1875b8x [Variant 1]
+          div.framer-x2q9so [Globe]
+            div.framer-186e1em type=SVG
+              svg 
+          div.framer-6xha2i [Text]
+            div.framer-19p5zwk type=RichTextContainer
+              p.framer-text.framer-styles-preset-c95aba  « EST. 2012 »
+      div.framer-tk3v71 [Menu]
+        div.framer-19orxsl [Top]
+          a.framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [Link Container] href=../ aria-label="home"
+            div.framer-1xjrc.framer-7h3po8 [Logo]
+          div.framer-c5vrme [Nav. Items]
+            div.framer-Z2aNj.framer-fvp1dl.framer-v-fvp1dl [Desktop]
+              div.framer-ade1jf-container [Home]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [Large] href=../
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Home »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Home »
+              div.framer-f4luyz-container [Projects]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [Large] href=../projects
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « projects »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « projects »
+                  div.framer-12mewa9 [Count Text]
+                    div.framer-283ip9 type=RichTextContainer
+                      p.framer-text.framer-styles-preset-c95aba  « 6 »
+              div.framer-1kxedq2-container [Studio]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [Large] href=../studio
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Studio »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Studio »
+              div.framer-9r7k9d-container [Journal]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [Large] href=../journal
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Journal »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Journal »
+            div.framer-3g7ymn [Contact]
+              div.framer-f81h7k type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « let's talk »
+              a.framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug [Desktop] href=../contact aria-label="contact"
+                div.framer-dczzwc [Button]
+                  div.framer-154bepi [Picture]
+                    img src=https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744 alt="" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                  svg.framer-SYorz.framer-1acwqfj 
+        div.framer-5dotip [Bottom]
+          div.framer-shGv8.framer-4tnhfa.framer-v-4tnhfa [Desktop]
+            div.framer-17kf78c-container [X]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://x.com target=_blank aria-label="X Link"
+                  div.framer-LAEqS.framer-1fo7tgr [Top Icon]
+            div.framer-1smje0b-container [IG]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://instagram.com target=_blank aria-label="Instagram Link"
+                  div.framer-uZnUQ.framer-1fo7tgr [Top Icon]
+            div.framer-t1kefs-container [Dribbble]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://dribbble.com target=_blank aria-label="Dribbble Link"
+                  div.framer-K6Gdb.framer-1fo7tgr [Top Icon]
+            div.framer-1cdugcb-container [Behance]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://behance.com target=_blank aria-label="Behance Link"
+                  div.framer-lYLYO.framer-1fo7tgr [Top Icon]
+        div.framer-1sxc0wu [Left Border]
+  div.framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-1s6eirn [Phone Closed]
+    div.framer-1f8xv28 [Overlay BG]
+    nav.framer-3der5 [Side Nav]
+      div.framer-1wba9e6 [SideBar]
+        a.framer-ij0712.framer-1naqc9k [Phone Logo Container] href=../ aria-label="home"
+          div.framer-1xjrc.framer-1fcg7o3 [Logo]
+        div.framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn [Closed]
+          div.framer-t6cidc [Hamburger]
+            div.framer-19kq29j [Top]
+              div.framer-ij8d5t [1]
+              div.framer-1oucckw [2]
+            div.framer-17en59d [Bottom]
+              div.framer-1ihbq2i [3]
+              div.framer-xca395 [4]
+      div.framer-tk3v71 [Menu]
+        div.framer-19orxsl [Top]
+          div.framer-c5vrme [Nav. Items]
+            div.framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6 [Phone]
+              div.framer-ade1jf-container [Home]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Home »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Home »
+              div.framer-f4luyz-container [Projects]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../projects
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « projects »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « projects »
+                  div.framer-12mewa9 [Count Text]
+                    div.framer-283ip9 type=RichTextContainer
+                      p.framer-text.framer-styles-preset-c95aba  « 6 »
+              div.framer-1kxedq2-container [Studio]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../studio
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Studio »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Studio »
+              div.framer-9r7k9d-container [Journal]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../journal
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Journal »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Journal »
+            div.framer-3g7ymn [Contact]
+              div.framer-f81h7k type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « let's talk »
+              a.framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [Phone] href=../contact aria-label="contact"
+                div.framer-dczzwc [Button]
+                  div.framer-154bepi [Picture]
+                    img src=https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744 alt="" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                  svg.framer-SYorz.framer-1acwqfj 
+        div.framer-5dotip [Bottom]
+          div.framer-shGv8.framer-4tnhfa.framer-v-5pv308 [Phone]
+            div.framer-17kf78c-container [X]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://x.com target=_blank aria-label="X Link"
+                  div.framer-LAEqS.framer-1fo7tgr [Top Icon]
+            div.framer-1smje0b-container [IG]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://instagram.com target=_blank aria-label="Instagram Link"
+                  div.framer-uZnUQ.framer-1fo7tgr [Top Icon]
+            div.framer-t1kefs-container [Dribbble]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://dribbble.com target=_blank aria-label="Dribbble Link"
+                  div.framer-K6Gdb.framer-1fo7tgr [Top Icon]
+            div.framer-1cdugcb-container [Behance]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://behance.com target=_blank aria-label="Behance Link"
+                  div.framer-lYLYO.framer-1fo7tgr [Top Icon]
+  div.framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-164awg0 [Tablet - Closed]
+    div.framer-1f8xv28 [Overlay BG]
+    nav.framer-3der5 [Side Nav]
+      div.framer-1wba9e6 [SideBar]
+        div.framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn [Closed]
+          div.framer-t6cidc [Hamburger]
+            div.framer-19kq29j [Top]
+              div.framer-ij8d5t [1]
+              div.framer-1oucckw [2]
+            div.framer-17en59d [Bottom]
+              div.framer-1ihbq2i [3]
+              div.framer-xca395 [4]
+        div.framer-D1HnP.framer-Me6vv.framer-1875b8x.framer-v-1875b8x [Variant 1]
+          div.framer-x2q9so [Globe]
+            div.framer-186e1em type=SVG
+              svg 
+          div.framer-6xha2i [Text]
+            div.framer-19p5zwk type=RichTextContainer
+              p.framer-text.framer-styles-preset-c95aba  « EST. 2012 »
+      div.framer-tk3v71 [Menu]
+        div.framer-19orxsl [Top]
+          a.framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [Link Container] href=../ aria-label="home"
+            div.framer-1xjrc.framer-7h3po8 [Logo]
+          div.framer-c5vrme [Nav. Items]
+            div.framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6 [Phone]
+              div.framer-ade1jf-container [Home]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Home »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Home »
+              div.framer-f4luyz-container [Projects]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../projects
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « projects »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « projects »
+                  div.framer-12mewa9 [Count Text]
+                    div.framer-283ip9 type=RichTextContainer
+                      p.framer-text.framer-styles-preset-c95aba  « 6 »
+              div.framer-1kxedq2-container [Studio]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../studio
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Studio »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Studio »
+              div.framer-9r7k9d-container [Journal]
+                a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../journal
+                  div.framer-kdnc6p type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Journal »
+                  div.framer-105crdb type=RichTextContainer
+                    p.framer-text.framer-styles-preset-t83dbl  « Journal »
+            div.framer-3g7ymn [Contact]
+              div.framer-f81h7k type=RichTextContainer
+                p.framer-text.framer-styles-preset-c95aba  « let's talk »
+              a.framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [Phone] href=../contact aria-label="contact"
+                div.framer-dczzwc [Button]
+                  div.framer-154bepi [Picture]
+                    img src=https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744 alt="" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                  svg.framer-SYorz.framer-1acwqfj 
+        div.framer-5dotip [Bottom]
+          div.framer-shGv8.framer-4tnhfa.framer-v-5pv308 [Phone]
+            div.framer-17kf78c-container [X]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://x.com target=_blank aria-label="X Link"
+                  div.framer-LAEqS.framer-1fo7tgr [Top Icon]
+            div.framer-1smje0b-container [IG]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://instagram.com target=_blank aria-label="Instagram Link"
+                  div.framer-uZnUQ.framer-1fo7tgr [Top Icon]
+            div.framer-t1kefs-container [Dribbble]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://dribbble.com target=_blank aria-label="Dribbble Link"
+                  div.framer-K6Gdb.framer-1fo7tgr [Top Icon]
+            div.framer-1cdugcb-container [Behance]
+              div.framer-BF4Of.framer-oxml7j.framer-v-1qy02dt [Phone]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://behance.com target=_blank aria-label="Behance Link"
+                  div.framer-lYLYO.framer-1fo7tgr [Top Icon]
+        div.framer-1sxc0wu [Left Border]
+div.framer-ubdqd9 [Footer]
+  div.framer-fhqei7-container.hidden-1pvmz1y [Navigation Spacer]
+    div.framer-yXQrW.framer-gmtdri.framer-v-gmtdri [Spacer]
+  section.framer-1064shm [Footer]
+    div.framer-aqqavh [Inside Container]
+      div.framer-112av23 [Top]
+        div.framer-1e616zs-container [Shared Navigation Logo]
+          a.framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [Link Container] href=../ aria-label="home"
+            div.framer-SHtMX.framer-7h3po8 [Logo]
+          a.framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [Link Container] href=../ aria-label="home"
+            div.framer-SHtMX.framer-7h3po8 [Logo]
+        div.framer-3m3d8l-container [Shared Navigation Links]
+          div.framer-Z2aNj.framer-fvp1dl.framer-v-1fd22pg [Desktop - Top]
+            div.framer-f4luyz-container [Projects]
+              a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [Small] href=../projects
+                div.framer-kdnc6p type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « projects »
+                div.framer-105crdb type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « projects »
+                div.framer-12mewa9 [Count Text]
+                  div.framer-283ip9 type=RichTextContainer
+                    p.framer-text.framer-styles-preset-c95aba  « 6 »
+            div.framer-1kxedq2-container [Studio]
+              a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [Small] href=../studio
+                div.framer-kdnc6p type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « Studio »
+                div.framer-105crdb type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « Studio »
+            div.framer-9r7k9d-container [Journal]
+              a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [Small] href=../journal
+                div.framer-kdnc6p type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « Journal »
+                div.framer-105crdb type=RichTextContainer
+                  p.framer-text.framer-styles-preset-1l3tbw0  « Journal »
+        div.framer-3m3d8l-container [Shared Navigation Links]
+          div.framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6 [Phone]
+            div.framer-ade1jf-container [Home]
+              a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../
+                div.framer-kdnc6p type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « Home »
+                div.framer-105crdb type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « Home »
+            div.framer-f4luyz-container [Projects]
+              a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../projects
+                div.framer-kdnc6p type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « projects »
+                div.framer-105crdb type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « projects »
+                div.framer-12mewa9 [Count Text]
+                  div.framer-283ip9 type=RichTextContainer
+                    p.framer-text.framer-styles-preset-c95aba  « 6 »
+            div.framer-1kxedq2-container [Studio]
+              a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../studio
+                div.framer-kdnc6p type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « Studio »
+                div.framer-105crdb type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « Studio »
+            div.framer-9r7k9d-container [Journal]
+              a.framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [Large Phone] href=../journal
+                div.framer-kdnc6p type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « Journal »
+                div.framer-105crdb type=RichTextContainer
+                  p.framer-text.framer-styles-preset-t83dbl  « Journal »
+      div.framer-10uqj7m [Middle]
+        div.framer-11fuqsj.hidden-1pvmz1y [Filler]
+        div.framer-10tu5xj [Text Container]
+          div.framer-1j72mo7-container [Copyright Notice]
+          div.framer-odwucj [Name / Description]
+            div.framer-ab2qu1 [Name]
+              div.framer-g8f7gt [Name / R Symbol]
+                svg.framer-ibnepj [Footer Logo Name] type=RichTextContainer
+                div.framer-grnsur [R Symbol]
+                  svg.framer-hhlsu5 [Footer Logo Trademark] type=RichTextContainer
+              svg.framer-1xn72o7 [Footer Logo Descriptor] type=RichTextContainer
+            div.framer-tr2r27 [Description / Newsletter]
+              div.framer-23fpvw [Newsletter Introduction] type=RichTextContainer
+                p.framer-text.framer-styles-preset-1l3tbw0  « A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW. »
+              form.framer-1lnl6jg [Newsletter Signup]
+                div.framer-199g2yg [Input / Button]
+                  label.framer-1t2u8aq [Newsletter Form Group]
+                    div.framer-form-text-input.framer-form-input-wrapper.framer-1dpa36t [Newsletter Email Input]
+                      input.framer-form-input.framer-form-input-empty type=email name=Email placeholder="Enter your email"
+                  div.framer-s7u2da-container [Newsletter Submit Button]
+                    button.framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw [Incomplete] type=submit name=Newsletter Submit Button placeholder="" « Join NowJoin Now »
+                      div.framer-17skh7b [BG Color]
+                      div.framer-71e8ti [btn text]
+                        div.framer-1gm2ya6 [top] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « Join Now »
+                        div.framer-l29hgm [bottom] type=RichTextContainer
+                          p.framer-text.framer-styles-preset-k5mxv3  « Join Now »
+                      svg.framer-o60xf.framer-1xmnpcd [Success]
+                      div.framer-pEZXs.framer-7sj87n.framer-v-7sj87n [Spinner]
+                        div.framer-1yqlm52 [Spinner]
+                label.framer-169r9xi [Agree to terms] « By signing up, you’re agreeing to our privacy policy. »
+                  input.framer-form-boolean-input.framer-1qlsdo5 [Newsletter Consent Checkbox] type=checkbox name=Agreed to terms / privacy placeholder=""
+                  div.framer-1rl9j96 [Newsletter Consent Copy] type=RichTextContainer
+                    p.framer-text.framer-styles-preset-lu6cf5  « By signing up, you’re agreeing to our privacy policy. »
+                input type=text name=website placeholder=""
+                input type=text name=company placeholder=""
+                input type=text name=message placeholder=""
+                input type=text name=subject placeholder=""
+                input type=text name=title placeholder=""
+                input type=text name=description placeholder=""
+                input type=text name=feedback placeholder=""
+                input type=text name=notes placeholder=""
+                input type=text name=details placeholder=""
+                input type=text name=remarks placeholder=""
+                input type=text name=comments placeholder=""
+      div.framer-1nbmjrz [Bottom]
+        div.framer-sfsj97-container [Footer Social Links]
+          div.framer-shGv8.framer-4tnhfa.framer-v-4tnhfa [Desktop]
+            div.framer-17kf78c-container [X]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://x.com target=_blank aria-label="X Link"
+                  div.framer-LAEqS.framer-1fo7tgr [Top Icon]
+            div.framer-1smje0b-container [IG]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://instagram.com target=_blank aria-label="Instagram Link"
+                  div.framer-uZnUQ.framer-1fo7tgr [Top Icon]
+            div.framer-t1kefs-container [Dribbble]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://dribbble.com target=_blank aria-label="Dribbble Link"
+                  div.framer-K6Gdb.framer-1fo7tgr [Top Icon]
+            div.framer-1cdugcb-container [Behance]
+              div.framer-BF4Of.framer-oxml7j.framer-v-oxml7j [Desktop]
+                a.framer-10b7uxf.framer-na8c8c [Icon] href=https://behance.com target=_blank aria-label="Behance Link"
+                  div.framer-lYLYO.framer-1fo7tgr [Top Icon]
+        div.framer-18r9k2i [Legal]
+          div.framer-s03u8i [Legal Navigation Link] type=RichTextContainer
+            p.framer-text.framer-styles-preset-c95aba  « legal »
+          div.framer-14oqxd3 [Footer Contact Link Group]
+            div.framer-1f81en6 [Footer Dynamic Label] type=RichTextContainer
+              p.framer-text.framer-styles-preset-c95aba  « Privacy Policy. »
+            div.framer-1f81en6 [Footer Dynamic Label] type=RichTextContainer
+              p.framer-text.framer-styles-preset-c95aba  « Terms & Conditions. »
+            div.framer-1f81en6 [Footer Dynamic Label] type=RichTextContainer
+              p.framer-text.framer-styles-preset-c95aba  « Cookies. »
+        div.framer-1eth1vs [Contact]
+          div.framer-yzm327 [Footer Contact Link] type=RichTextContainer
+            p.framer-text.framer-styles-preset-c95aba  « let’s talk »
+          div.framer-9685jw-container [Footer Contact Button]
+            a.framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug [Desktop] href=../contact aria-label="contact"
+              div.framer-dczzwc [Button]
+                div.framer-154bepi [Picture]
+                  img src=https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744 alt="" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                svg.framer-SYorz.framer-1acwqfj 
+            a.framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [Phone] href=../contact aria-label="contact"
+              div.framer-dczzwc [Button]
+                div.framer-154bepi [Picture]
+                  img src=https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744 alt="" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                svg.framer-SYorz.framer-1acwqfj 
+            a.framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [Phone] href=../contact aria-label="contact"
+              div.framer-dczzwc [Button]
+                div.framer-154bepi [Picture]
+                  img src=https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744 alt="" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+                svg.framer-SYorz.framer-1acwqfj 
+div.framer-1y4qiiy-container [Template Buy Button]
+  div.framer-h9lrK.framer-j8ytx.framer-ydlgfe.framer-v-ydlgfe [Buy Button] appear=ydlgfe
+    div.framer-10iwdjj [Outer]
+      div.framer-bypx4w [Inner]
+        div.framer-1o7lt08 [Image / Btn]
+          div.framer-36dbuc [Template Image]
+            img src=https://framerusercontent.com/images/5lPREXUGyAFz8HUN76gYMzCPPfc.jpg?width=1600&height=1200 alt="Mira Framer template fullscreen hero slider for a creative studio" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          a.framer-XzoKs.framer-j8ytx.framer-ZL2OU.framer-1v7hx6y.framer-v-1v7hx6y.framer-thy7w1 [Dark] href=null
+            div.framer-leshrs [Text]
+              div.framer-pm8azj [Top text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-455vy9  « Unlock from $129 »
+              div.framer-41at20 [Bottom text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-455vy9  « Get Template »
+            div.framer-1Fjxh.framer-10c2ln6.framer-v-10c2ln6 [Variant 1]
+              div.framer-14g45mj-container [Orange]
+                div.framer-OtBkq.framer-1ye5gzy.framer-v-1ye5gzy [Default]
+                  div.framer-1rx7maj type=SVG
+                    svg 
+              div.framer-d818a2-container [White]
+                div.framer-OtBkq.framer-1ye5gzy.framer-v-mkwthb [White]
+                  div.framer-1rx7maj type=SVG
+        div.framer-12u7vvz [Payments Secured By]
+          div.framer-u6y71q [Icon / Text]
+            svg.framer-SVWQi.framer-14pz7p8 
+            div.framer-1whkkok [Payments Secured By] type=RichTextContainer
+              p.framer-text  « Secured By »
+          div.framer-1f1q597 type=RichTextContainer
+            p.framer-text.framer-styles-preset-455vy9  « / »
+          div.framer-11umyip [Polar]
+            div.framer-10j5rga [Logotype white] type=SVG
+  div.framer-h9lrK.framer-j8ytx.framer-ydlgfe.framer-v-op1meb [Phone] appear=ydlgfe
+    div.framer-10iwdjj [Outer]
+      div.framer-bypx4w [Inner]
+        div.framer-1o7lt08 [Image / Btn]
+          div.framer-36dbuc [Template Image]
+            img src=https://framerusercontent.com/images/5lPREXUGyAFz8HUN76gYMzCPPfc.jpg?width=1600&height=1200 alt="Mira Framer template fullscreen hero slider for a creative studio" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+          a.framer-XzoKs.framer-j8ytx.framer-ZL2OU.framer-1v7hx6y.framer-v-1cr4oj7.framer-thy7w1 [Phone] href=https://launchnow.design/checkout/mira?utm_medium=phonebtn target=_blank
+            div.framer-leshrs [Text]
+              div.framer-pm8azj [Top text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-455vy9  « Unlock from $129 »
+              div.framer-41at20 [Bottom text] type=RichTextContainer
+                p.framer-text.framer-styles-preset-4e019n  « All Access »
+            div.framer-1Fjxh.framer-10c2ln6.framer-v-10c2ln6 [Variant 1]
+              div.framer-14g45mj-container [Orange]
+                div.framer-OtBkq.framer-1ye5gzy.framer-v-1ye5gzy [Default]
+                  div.framer-1rx7maj type=SVG
+                    svg 
+              div.framer-d818a2-container [White]
+                div.framer-OtBkq.framer-1ye5gzy.framer-v-mkwthb [White]
+                  div.framer-1rx7maj type=SVG
+        div.framer-12u7vvz [Payments Secured By]
+          div.framer-u6y71q [Icon / Text]
+            svg.framer-SVWQi.framer-14pz7p8 
+            div.framer-1whkkok [Payments Secured By] type=RichTextContainer
+              p.framer-text  « Secured By »
+          div.framer-1f1q597 type=RichTextContainer
+            p.framer-text.framer-styles-preset-455vy9  « / »
+          div.framer-11umyip [Polar]
+            div.framer-10j5rga [Logotype white] type=SVG
+a.framer-6jWyo.framer-n0ccwk.framer-v-n0ccwk.framer-bmpgw8 [Light] appear=n0ccwk href=https://www.framer.com
+  div.framer-13yxzio [Backdrop]
+  div.framer-19yaanm [Content]
+    div.framer-hcsc7.framer-e50co [Logo]
+    p  « Create a free website with Framer, the website builder loved by startups, designers and agencies. »
+    div.framer-g7oZR.framer-1um7t9d [Text]
+  div.framer-j4ugry [Bottom]
+  div.framer-jnuwbw [Border]
+svg 
+svg 
+svg 
+svg 
+svg 
+svg 
+svg 

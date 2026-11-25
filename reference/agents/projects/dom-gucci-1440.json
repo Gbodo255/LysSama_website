@@ -1,0 +1,1696 @@
+{
+ "slug": "gucci",
+ "width": 1440,
+ "base": {
+  "scrollHeight": 8313,
+  "sections": [
+   {
+    "name": "Hero",
+    "cls": "framer-3ye8xs",
+    "rect": [
+     59,
+     0,
+     1381,
+     900
+    ]
+   },
+   {
+    "name": "Top",
+    "cls": "framer-5km0ir",
+    "rect": [
+     92,
+     33,
+     1315,
+     70.4
+    ]
+   },
+   {
+    "name": "Image / Video",
+    "cls": "framer-t241s",
+    "rect": [
+     92,
+     355,
+     313.8,
+     176.5
+    ]
+   },
+   {
+    "name": "Project Info",
+    "cls": "framer-1wtwicl",
+    "rect": [
+     759.5,
+     326.9,
+     647.5,
+     204.6
+    ]
+   },
+   {
+    "name": "Bottom Info",
+    "cls": "framer-1l9jlre",
+    "rect": [
+     92,
+     755,
+     1315,
+     112
+    ]
+   },
+   {
+    "name": "Project ",
+    "cls": "framer-dm7c33",
+    "rect": [
+     59,
+     900,
+     1381,
+     3335.4
+    ]
+   },
+   {
+    "name": "Client / Brief",
+    "cls": "framer-102xlp0",
+    "rect": [
+     59,
+     900,
+     1381,
+     617.4
+    ]
+   },
+   {
+    "name": "Image Section",
+    "cls": "framer-1p5i3vy",
+    "rect": [
+     59,
+     1517.4,
+     1381,
+     863.5
+    ]
+   },
+   {
+    "name": "Bottom Images",
+    "cls": "framer-1x8wi03",
+    "rect": [
+     62,
+     1520.4,
+     1375,
+     857.5
+    ]
+   },
+   {
+    "name": "Approach",
+    "cls": "framer-qgqtua",
+    "rect": [
+     59,
+     2380.9,
+     1381,
+     464
+    ]
+   },
+   {
+    "name": "",
+    "cls": "framer-fu09xc",
+    "rect": [
+     59,
+     2844.9,
+     1381,
+     926.5
+    ]
+   },
+   {
+    "name": "Outcomes",
+    "cls": "framer-1ui1s1v",
+    "rect": [
+     59,
+     3771.4,
+     1381,
+     464
+    ]
+   },
+   {
+    "name": "Results / Testimonial",
+    "cls": "framer-x2p7po",
+    "rect": [
+     59,
+     4235.4,
+     1381,
+     949
+    ]
+   },
+   {
+    "name": "Metrics",
+    "cls": "framer-1diamj1",
+    "rect": [
+     92,
+     4358.4,
+     1315,
+     331.6
+    ]
+   },
+   {
+    "name": "Metrics",
+    "cls": "framer-h7w56c",
+    "rect": [
+     759.5,
+     4358.4,
+     647.5,
+     331.6
+    ]
+   },
+   {
+    "name": "Quote",
+    "cls": "framer-1i331ad",
+    "rect": [
+     92,
+     4810,
+     1315,
+     251.4
+    ]
+   },
+   {
+    "name": "Author Card",
+    "cls": "framer-vx867a",
+    "rect": [
+     425.8,
+     4810,
+     313.8,
+     251.4
+    ]
+   },
+   {
+    "name": "Quote",
+    "cls": "framer-1cax6r0",
+    "rect": [
+     759.5,
+     4810,
+     647.5,
+     186.5
+    ]
+   },
+   {
+    "name": "Quote",
+    "cls": "framer-i1tksj",
+    "rect": [
+     759.5,
+     4810,
+     430,
+     103.5
+    ]
+   },
+   {
+    "name": "More Projects",
+    "cls": "framer-npfnrg",
+    "rect": [
+     59,
+     5184.4,
+     1381,
+     888
+    ]
+   },
+   {
+    "name": "Desktop",
+    "cls": "framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh",
+    "rect": [
+     424.3,
+     5457.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "name": "Top",
+    "cls": "framer-a32j11",
+    "rect": [
+     424.3,
+     5457.4,
+     146.8,
+     60
+    ]
+   },
+   {
+    "name": "Image / Video",
+    "cls": "framer-1omuosn",
+    "rect": [
+     1094.8,
+     5370,
+     315.3,
+     177.4
+    ]
+   },
+   {
+    "name": "Desktop",
+    "cls": "framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh",
+    "rect": [
+     424.3,
+     5532.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "name": "Top",
+    "cls": "framer-a32j11",
+    "rect": [
+     424.3,
+     5532.4,
+     114.9,
+     60
+    ]
+   },
+   {
+    "name": "Image / Video",
+    "cls": "framer-1omuosn",
+    "rect": [
+     1094.8,
+     5228.4,
+     315.3,
+     394.1
+    ]
+   },
+   {
+    "name": "Desktop",
+    "cls": "framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh",
+    "rect": [
+     424.3,
+     5607.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "name": "Top",
+    "cls": "framer-a32j11",
+    "rect": [
+     424.3,
+     5607.4,
+     143.1,
+     60
+    ]
+   },
+   {
+    "name": "Image / Video",
+    "cls": "framer-1omuosn",
+    "rect": [
+     1094.8,
+     5520.1,
+     315.3,
+     177.3
+    ]
+   },
+   {
+    "name": "Desktop",
+    "cls": "framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh",
+    "rect": [
+     424.3,
+     5682.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "name": "Top",
+    "cls": "framer-a32j11",
+    "rect": [
+     424.3,
+     5682.4,
+     86.4,
+     60
+    ]
+   },
+   {
+    "name": "Image / Video",
+    "cls": "framer-1omuosn",
+    "rect": [
+     1094.8,
+     5595,
+     315.3,
+     177.4
+    ]
+   },
+   {
+    "name": "Desktop",
+    "cls": "framer-8TEAn.framer-2Ps8M.framer-Me6vv.framer-oubejw.framer-v-oubejw.framer-m0zkdh",
+    "rect": [
+     424.3,
+     5757.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "name": "Top",
+    "cls": "framer-a32j11",
+    "rect": [
+     424.3,
+     5757.4,
+     306.3,
+     60
+    ]
+   },
+   {
+    "name": "Image / Video",
+    "cls": "framer-1omuosn",
+    "rect": [
+     1094.8,
+     5670,
+     315.3,
+     177.4
+    ]
+   },
+   {
+    "name": "Desktop",
+    "cls": "framer-qIn7C.framer-QoPvp.framer-LubW4.framer-yTVl5.framer-lt6Rw.framer-xYquH.framer-laVYw.framer-14rm87n.framer-v-14rm87n",
+    "rect": [
+     59,
+     6072.4,
+     1381,
+     1295.3
+    ]
+   },
+   {
+    "name": "Top",
+    "cls": "framer-1xd81fe",
+    "rect": [
+     92,
+     6105.4,
+     1315,
+     36.4
+    ]
+   }
+  ],
+  "texts": [
+   {
+    "t": "Back to projects",
+    "tag": "P",
+    "rect": [
+     118,
+     33,
+     103.3,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Back to projects",
+    "tag": "P",
+    "rect": [
+     118,
+     53,
+     103.3,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Play Film",
+    "tag": "P",
+    "rect": [
+     338.5,
+     501.4,
+     47.2,
+     13.8
+    ],
+    "font": "Switzer 600 12px/13.8px ls=-0.24px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Gucci",
+    "tag": "H1",
+    "rect": [
+     759.5,
+     326.9,
+     400,
+     81
+    ],
+    "font": "\"Mona Sans Variable\" 400 90px/81px ls=-1.8px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "'26©",
+    "tag": "P",
+    "rect": [
+     759.5,
+     417.9,
+     27.3,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Gucci needed its new eyewear capsule to land online with the same weight it carries in the case.",
+    "tag": "P",
+    "rect": [
+     759.5,
+     476.9,
+     240,
+     54.6
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "timeline",
+    "tag": "P",
+    "rect": [
+     92,
+     849,
+     48.5,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(188, 188, 188)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "7 weeks",
+    "tag": "P",
+    "rect": [
+     155.5,
+     849,
+     584,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "scope",
+    "tag": "P",
+    "rect": [
+     759.5,
+     849,
+     36,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(188, 188, 188)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Brand Identity",
+    "tag": "P",
+    "rect": [
+     810.5,
+     805,
+     596.5,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Web Design",
+    "tag": "P",
+    "rect": [
+     810.5,
+     827,
+     596.5,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Framer Dev",
+    "tag": "P",
+    "rect": [
+     810.5,
+     849,
+     596.5,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "The Florentine fashion house, founded in 1921. This engagement covered the digital launch of a single eyewear capsule.",
+    "tag": "P",
+    "rect": [
+     92,
+     1075,
+     240,
+     54.6
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(104, 104, 104)",
+    "fvs": "normal"
+   },
+   {
+    "t": "The Brief",
+    "tag": "P",
+    "rect": [
+     759.5,
+     1020,
+     53,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Sunglasses that deserved their own light.",
+    "tag": "H2",
+    "rect": [
+     759.5,
+     1053,
+     500,
+     180
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "A house like Gucci does not need an introduction. The capsule needed a page that treated each frame as an object, not a SKU, and moved at the pace of the campaign rather than the catalog.",
+    "tag": "P",
+    "rect": [
+     759.5,
+     1253,
+     340,
+     84
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(104, 104, 104)",
+    "fvs": "normal"
+   },
+   {
+    "t": "View live",
+    "tag": "P",
+    "rect": [
+     759.5,
+     1377,
+     54.1,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "View live",
+    "tag": "P",
+    "rect": [
+     759.5,
+     1397,
+     54.1,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "The Approach",
+    "tag": "P",
+    "rect": [
+     92,
+     2500.9,
+     83.3,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Shot in water. Set in stone.",
+    "tag": "H2",
+    "rect": [
+     759.5,
+     2500.9,
+     500,
+     120
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "We built the launch around the campaign's water-drenched photography and let each frame hold the screen alone. No grid overload. No noise. Just the frame, and the reason to want it.",
+    "tag": "P",
+    "rect": [
+     759.5,
+     2640.9,
+     340,
+     84
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(104, 104, 104)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Outcomes",
+    "tag": "P",
+    "rect": [
+     92,
+     3891.4,
+     60.3,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Sold out. Then reordered.",
+    "tag": "H2",
+    "rect": [
+     759.5,
+     3891.4,
+     500,
+     120
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "The capsule allocation cleared in ten days. The waitlist for the second colorway doubled overnight. Two more capsule launches were commissioned before summer.",
+    "tag": "P",
+    "rect": [
+     759.5,
+     4031.4,
+     340,
+     84
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(104, 104, 104)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Results",
+    "tag": "P",
+    "rect": [
+     92,
+     4358.4,
+     240,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(188, 188, 188)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "01",
+    "tag": "P",
+    "rect": [
+     759.5,
+     4358.4,
+     647.5,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(245, 45, 15)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "10 days",
+    "tag": "H2",
+    "rect": [
+     759.5,
+     4418.2,
+     313.8,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "(sold out)",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     4406.4,
+     313.8,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Capsule allocation cleared through the launch page alone.",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     4441.8,
+     313.8,
+     36.4
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "02",
+    "tag": "P",
+    "rect": [
+     759.5,
+     4539.2,
+     647.5,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(245, 45, 15)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "+240%",
+    "tag": "H2",
+    "rect": [
+     759.5,
+     4599,
+     313.8,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "(waitlist growth)",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     4587.2,
+     313.8,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Second-colorway waitlist doubled inside 24 hours of launch.",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     4622.6,
+     313.8,
+     36.4
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "The Word",
+    "tag": "P",
+    "rect": [
+     92,
+     4810,
+     57.3,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(188, 188, 188)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Chiara Bellini",
+    "tag": "P",
+    "rect": [
+     426.8,
+     5025,
+     312.8,
+     18.2
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Digital Director, Gucci Eyewear",
+    "tag": "P",
+    "rect": [
+     426.8,
+     5043.2,
+     312.8,
+     18.2
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "“ The capsule finally has a page that shows the frames the way the campaign saw them. ”",
+    "tag": "P",
+    "rect": [
+     759.5,
+     4810,
+     430,
+     103.5
+    ],
+    "font": "\"Mona Sans Variable\" 400 30px/34.5px ls=-0.6px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 675"
+   },
+   {
+    "t": "We brief a lot of studios. Mira was the only one that treated the page like part of the collection. It just shows what the frames are, and lets people fall for them.",
+    "tag": "P",
+    "rect": [
+     759.5,
+     4933.5,
+     380,
+     63
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "more projects",
+    "tag": "P",
+    "rect": [
+     424.3,
+     5424.4,
+     985.8,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(104, 104, 104)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Chanel",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5457.4,
+     146.8,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Chanel",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5522.4,
+     146.8,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(245, 45, 15)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "'24©",
+    "tag": "P",
+    "rect": [
+     576,
+     5457.4,
+     27.3,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(104, 104, 104)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Puma",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5532.4,
+     114.9,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Puma",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5597.4,
+     114.9,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(245, 45, 15)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "'25©",
+    "tag": "P",
+    "rect": [
+     544.2,
+     5532.4,
+     27,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(104, 104, 104)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Adidas",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5607.4,
+     143.1,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Adidas",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5672.4,
+     143.1,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(245, 45, 15)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "'25©",
+    "tag": "P",
+    "rect": [
+     572.3,
+     5607.4,
+     27,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(104, 104, 104)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Nike",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5682.4,
+     86.4,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Nike",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5747.4,
+     86.4,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(245, 45, 15)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "'25©",
+    "tag": "P",
+    "rect": [
+     515.7,
+     5682.4,
+     27,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(104, 104, 104)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Under Armour",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5757.4,
+     306.3,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Under Armour",
+    "tag": "H2",
+    "rect": [
+     424.3,
+     5822.4,
+     306.3,
+     60
+    ],
+    "font": "\"Mona Sans Variable\" 400 60px/60px ls=-1.2px tt=uppercase c=rgb(245, 45, 15)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "'23©",
+    "tag": "P",
+    "rect": [
+     735.5,
+     5757.4,
+     27,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(104, 104, 104)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "Book a call",
+    "tag": "P",
+    "rect": [
+     92,
+     6105.4,
+     70.1,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "2 slots for August '26",
+    "tag": "P",
+    "rect": [
+     451.8,
+     6105.4,
+     621.5,
+     18.2
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Jin Yuen",
+    "tag": "P",
+    "rect": [
+     1136.3,
+     6105.4,
+     48.4,
+     18.2
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(250, 250, 250)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Founder",
+    "tag": "P",
+    "rect": [
+     1136.3,
+     6123.6,
+     48.5,
+     18.2
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Let's make you impossible to ignore.",
+    "tag": "H2",
+    "rect": [
+     425.8,
+     6261.8,
+     700,
+     144
+    ],
+    "font": "\"Mona Sans Variable\" 400 80px/72px ls=-1.6px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Tell us what you're building. We'll tell you how we'd make it land.",
+    "tag": "P",
+    "rect": [
+     425.8,
+     6435.8,
+     350,
+     52.9
+    ],
+    "font": "\"Mona Sans Variable\" 400 23px/26.45px ls=-0.23px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 675"
+   },
+   {
+    "t": "My name is",
+    "tag": "P",
+    "rect": [
+     425.8,
+     6583.1,
+     65.9,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "i’m from",
+    "tag": "P",
+    "rect": [
+     754.5,
+     6583.1,
+     51.1,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "and I need help with",
+    "tag": "P",
+    "rect": [
+     425.8,
+     6647.3,
+     122,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "here’s the Idea:",
+    "tag": "P",
+    "rect": [
+     425.8,
+     6697.2,
+     91.2,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "my budget is around",
+    "tag": "P",
+    "rect": [
+     425.8,
+     6857,
+     127.3,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "and i’d like to start",
+    "tag": "P",
+    "rect": [
+     754.5,
+     6857,
+     119.4,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "reach me at",
+    "tag": "P",
+    "rect": [
+     425.8,
+     6921.2,
+     71.7,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "By submitting, you agree to our terms and privacy policy.",
+    "tag": "P",
+    "rect": [
+     425.8,
+     6987,
+     240,
+     36.4
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Start a project",
+    "tag": "P",
+    "rect": [
+     869.4,
+     6995,
+     93.9,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "Start a project",
+    "tag": "P",
+    "rect": [
+     869.4,
+     7015,
+     93.9,
+     20.4
+    ],
+    "font": "\"Mona Sans Variable\" 400 17px/20.4px ls=-0.17px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 75, \"wght\" 700"
+   },
+   {
+    "t": "+1 (805) 450 1432",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     6568.8,
+     313.8,
+     34.5
+    ],
+    "font": "\"Mona Sans Variable\" 400 30px/34.5px ls=-0.6px tt=uppercase c=rgb(255, 255, 255)",
+    "fvs": "\"wdth\" 75, \"wght\" 675"
+   },
+   {
+    "t": "hello@mira.studio",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     6611.3,
+     313.8,
+     21
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "01",
+    "tag": "P",
+    "rect": [
+     431.2,
+     7146.9,
+     12.1,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "You hear back within a day.",
+    "tag": "P",
+    "rect": [
+     425.8,
+     7180.4,
+     313.8,
+     21
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "From the founder, not a form-bot. We read every enquiry personally.",
+    "tag": "P",
+    "rect": [
+     425.8,
+     7208.4,
+     240,
+     36.4
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "02",
+    "tag": "P",
+    "rect": [
+     764,
+     7146.9,
+     14,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "A short discovery call.",
+    "tag": "P",
+    "rect": [
+     759.5,
+     7180.4,
+     313.8,
+     21
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Thirty minutes to understand your goals, audience, and what's not working.",
+    "tag": "P",
+    "rect": [
+     759.5,
+     7208.4,
+     240,
+     36.4
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   },
+   {
+    "t": "03",
+    "tag": "P",
+    "rect": [
+     1097.6,
+     7146.9,
+     14.2,
+     18
+    ],
+    "font": "\"Mona Sans Variable\" 400 15px/18px ls=-0.15px tt=uppercase c=rgb(13, 13, 13)",
+    "fvs": "\"wdth\" 80, \"wght\" 700"
+   },
+   {
+    "t": "A fixed-quote proposal.",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     7180.4,
+     313.8,
+     21
+    ],
+    "font": "Switzer 600 15px/21px ls=-0.45px tt=none c=rgb(255, 255, 255)",
+    "fvs": "normal"
+   },
+   {
+    "t": "Clear scope, clear timeline, clear price. No surprises later.",
+    "tag": "P",
+    "rect": [
+     1093.3,
+     7208.4,
+     240,
+     36.4
+    ],
+    "font": "Switzer 600 13px/18.2px ls=-0.26px tt=none c=rgb(188, 188, 188)",
+    "fvs": "normal"
+   }
+  ],
+  "media": [
+   {
+    "tag": "VIDEO",
+    "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+    "alt": null,
+    "rect": [
+     62,
+     3,
+     1375,
+     894
+    ],
+    "fit": "cover",
+    "name": "Uploaded Video"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/h3icUTnWizQdQsVQGnkVb5Z3l8o.jpg?width=1440&height=1800",
+    "alt": "Model in silver sunglasses with wet hair",
+    "rect": [
+     62,
+     1520.4,
+     686,
+     857.5
+    ],
+    "fit": "cover",
+    "name": "1"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/0WiQ2gVQdA7SXFYMVwJfrQjc6sc.jpg?width=1440&height=1800",
+    "alt": "Model in wraparound sunglasses with water splashing around her face",
+    "rect": [
+     751,
+     1520.4,
+     686,
+     857.5
+    ],
+    "fit": "cover",
+    "name": "1"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/LhL3rQBqjBSuTVI4j8fZ98TMz8.jpg?width=1600&height=1070",
+    "alt": "Stack of kraft shipping boxes on a white surface",
+    "rect": [
+     62,
+     2847.9,
+     686,
+     458.8
+    ],
+    "fit": "cover",
+    "name": "1"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/cjIzGb0vpxH9qirVkdq3Jxwew.webp?width=1600&height=1070",
+    "alt": "Overhead view of rows of kraft shipping boxes",
+    "rect": [
+     751,
+     2847.9,
+     686,
+     458.8
+    ],
+    "fit": "cover",
+    "name": "1"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/29UyMzSDohFSQILssUMmUdYWbrc.webp?width=1600&height=1070",
+    "alt": "Kraft shipping boxes scattered on a white floor",
+    "rect": [
+     62,
+     3309.7,
+     686,
+     458.8
+    ],
+    "fit": "cover",
+    "name": "1"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/7rrGQ6Ge1y1mkQ6b5OhhcbQqCrA.jpg?width=1600&height=1070",
+    "alt": "Three tall kraft boxes standing in a row",
+    "rect": [
+     751,
+     3309.7,
+     686,
+     458.8
+    ],
+    "fit": "cover",
+    "name": "1"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?width=640&height=640",
+    "alt": "Portrait of Chiara Bellini",
+    "rect": [
+     426.8,
+     4810,
+     200,
+     200
+    ],
+    "fit": "cover",
+    "name": "Author Card"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?scale-down-to=512&width=2040&height=1148",
+    "alt": "Model applying face cream to her cheek against a pale background",
+    "rect": [
+     1094.8,
+     5370,
+     315.3,
+     177.4
+    ],
+    "fit": "cover",
+    "name": "Image / Video"
+   },
+   {
+    "tag": "VIDEO",
+    "src": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4",
+    "alt": null,
+    "rect": [
+     1094.8,
+     5228.4,
+     315.3,
+     394.1
+    ],
+    "fit": "cover",
+    "name": "Uploaded Video"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=512&width=2400&height=1350",
+    "alt": "Close-up of a tennis player with braids looking over her racket",
+    "rect": [
+     1094.8,
+     5520.1,
+     315.3,
+     177.3
+    ],
+    "fit": "cover",
+    "name": "Image / Video"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?scale-down-to=512&width=2040&height=1148",
+    "alt": "Athlete lacing orange and white running shoes on a stadium track",
+    "rect": [
+     1094.8,
+     5595,
+     315.3,
+     177.4
+    ],
+    "fit": "cover",
+    "name": "Image / Video"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?scale-down-to=512&width=2040&height=1148",
+    "alt": "Smiling athlete in a black tank top after a workout",
+    "rect": [
+     1094.8,
+     5670,
+     315.3,
+     177.4
+    ],
+    "fit": "cover",
+    "name": "Image / Video"
+   },
+   {
+    "tag": "VIDEO",
+    "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+    "alt": null,
+    "rect": [
+     62,
+     6075.4,
+     1375,
+     1289.3
+    ],
+    "fit": "cover",
+    "name": "Uploaded Video"
+   },
+   {
+    "tag": "IMG",
+    "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+    "alt": "Portrait of Jin Yuen",
+    "rect": [
+     1093.3,
+     6107.6,
+     32,
+     32
+    ],
+    "fit": "cover",
+    "name": "Author"
+   }
+  ],
+  "links": [
+   {
+    "href": "../projects",
+    "abs": "https://mirastudio.framer.website/projects",
+    "target": "",
+    "text": "Back to projectsBack to projects",
+    "rect": [
+     92,
+     33,
+     129.3,
+     20.4
+    ]
+   },
+   {
+    "href": "../",
+    "abs": "https://mirastudio.framer.website/",
+    "target": "",
+    "text": "",
+    "rect": [
+     759.5,
+     33.5,
+     70,
+     19.4
+    ]
+   },
+   {
+    "href": "https://launchnow.design?utm_source=miratemplate",
+    "abs": "https://launchnow.design/?utm_source=miratemplate",
+    "target": "_blank",
+    "text": "View liveView live",
+    "rect": [
+     759.5,
+     1377,
+     80.1,
+     20.4
+    ]
+   },
+   {
+    "href": "./chanel",
+    "abs": "https://mirastudio.framer.website/projects/chanel",
+    "target": "",
+    "text": "ChanelChanel'24©",
+    "rect": [
+     424.3,
+     5457.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "href": "./puma",
+    "abs": "https://mirastudio.framer.website/projects/puma",
+    "target": "",
+    "text": "PumaPuma'25©",
+    "rect": [
+     424.3,
+     5532.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "href": "./adidas",
+    "abs": "https://mirastudio.framer.website/projects/adidas",
+    "target": "",
+    "text": "AdidasAdidas'25©",
+    "rect": [
+     424.3,
+     5607.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "href": "./nike",
+    "abs": "https://mirastudio.framer.website/projects/nike",
+    "target": "",
+    "text": "NikeNike'25©",
+    "rect": [
+     424.3,
+     5682.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "href": "./under-armour",
+    "abs": "https://mirastudio.framer.website/projects/under-armour",
+    "target": "",
+    "text": "Under ArmourUnder Armour'23©",
+    "rect": [
+     424.3,
+     5757.4,
+     985.8,
+     60
+    ]
+   },
+   {
+    "href": "../terms-conditions",
+    "abs": "https://mirastudio.framer.website/terms-conditions",
+    "target": "",
+    "text": "terms",
+    "rect": [
+     447.4,
+     7006.2,
+     34.1,
+     16
+    ]
+   },
+   {
+    "href": "../privacy-policy",
+    "abs": "https://mirastudio.framer.website/privacy-policy",
+    "target": "",
+    "text": "privacy policy.",
+    "rect": [
+     508,
+     7006.2,
+     81.4,
+     16
+    ]
+   },
+   {
+    "href": "tel:+18054501432",
+    "abs": "tel:+18054501432",
+    "target": "_blank",
+    "text": "+1 (805) 450 1432",
+    "rect": [
+     1093.3,
+     6563.8,
+     174.6,
+     43
+    ]
+   },
+   {
+    "href": "mailto:hello@mira.studio",
+    "abs": "mailto:hello@mira.studio",
+    "target": "_blank",
+    "text": "hello@mira.studio",
+    "rect": [
+     1093.3,
+     6612.3,
+     118.6,
+     19
+    ]
+   }
+  ]
+ }
+}

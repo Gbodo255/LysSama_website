@@ -1,0 +1,526 @@
+{
+ "slug": "cookie-policy",
+ "head": {
+  "h1": "Cookies.",
+  "lastUpdatedLabel": "Last updated",
+  "lastUpdated": "7/10/26"
+ },
+ "bodyClass": "framer-104pdxd",
+ "blocks": [
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Types of Cookies We Use",
+   "text": "Types of Cookies We Use"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Essential Cookies",
+   "text": "Essential Cookies"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "These are required for the site to function properly:",
+   "text": "These are required for the site to function properly:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Session cookies to maintain your current visit</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Security cookies to protect against fraud</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Preference cookies to remember your cookie choices</p></li>",
+   "text": "Session cookies to maintain your current visitSecurity cookies to protect against fraudPreference cookies to remember your cookie choices",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Session cookies to maintain your current visit</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Security cookies to protect against fraud</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Preference cookies to remember your cookie choices</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Analytics Cookies",
+   "text": "Analytics Cookies"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "With your consent, we use analytics cookies to understand how the site is used:",
+   "text": "With your consent, we use analytics cookies to understand how the site is used:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Which pages are viewed most often</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">How long visitors stay on each page</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Which links and CTAs get clicked</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Which projects and articles get the most attention</p></li>",
+   "text": "Which pages are viewed most oftenHow long visitors stay on each pageWhich links and CTAs get clickedWhich projects and articles get the most attention",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Which pages are viewed most often</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">How long visitors stay on each page</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Which links and CTAs get clicked</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Which projects and articles get the most attention</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Third-Party Cookies",
+   "text": "Third-Party Cookies"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "A small number of trusted third-party services set cookies on our site:",
+   "text": "A small number of trusted third-party services set cookies on our site:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Framer for hosting and performance</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Google Analytics for anonymous usage analytics</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Vimeo or YouTube if a project page includes embedded video</p></li>",
+   "text": "Framer for hosting and performanceGoogle Analytics for anonymous usage analyticsVimeo or YouTube if a project page includes embedded video",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Framer for hosting and performance</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Google Analytics for anonymous usage analytics</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Vimeo or YouTube if a project page includes embedded video</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "What We Do Not Use",
+   "text": "What We Do Not Use"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We do not use:",
+   "text": "We do not use:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Advertising or retargeting cookies</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Cross-site tracking pixels</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Social media tracking cookies</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Third-party marketing cookies</p></li>",
+   "text": "Advertising or retargeting cookiesCross-site tracking pixelsSocial media tracking cookiesThird-party marketing cookies",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Advertising or retargeting cookies</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Cross-site tracking pixels</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Social media tracking cookies</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Third-party marketing cookies</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Managing Cookie Preferences",
+   "text": "Managing Cookie Preferences"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Our Cookie Banner",
+   "text": "Our Cookie Banner"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "The first time you visit the site, you will see a banner asking you to accept or decline non-essential cookies. You can change your preferences at any time via the \"Cookie preferences\" link in the footer.",
+   "text": "The first time you visit the site, you will see a banner asking you to accept or decline non-essential cookies. You can change your preferences at any time via the \"Cookie preferences\" link in the footer."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Browser Settings",
+   "text": "Browser Settings"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "You can also control cookies through your browser settings:",
+   "text": "You can also control cookies through your browser settings:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Block all cookies (may affect site functionality)</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Block third-party cookies only</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Clear existing cookies from your device</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Set preferences for future cookie acceptance</p></li>",
+   "text": "Block all cookies (may affect site functionality)Block third-party cookies onlyClear existing cookies from your deviceSet preferences for future cookie acceptance",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Block all cookies (may affect site functionality)</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Block third-party cookies only</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Clear existing cookies from your device</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Set preferences for future cookie acceptance</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Cookie Retention",
+   "text": "Cookie Retention"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "Different cookies are stored for different lengths of time:",
+   "text": "Different cookies are stored for different lengths of time:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Session cookies: Deleted when you close your browser</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Preference cookies: Stored for up to 12 months</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Analytics cookies: Stored for up to 24 months</p></li>",
+   "text": "Session cookies: Deleted when you close your browserPreference cookies: Stored for up to 12 monthsAnalytics cookies: Stored for up to 24 months",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Session cookies: Deleted when you close your browser</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Preference cookies: Stored for up to 12 months</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Analytics cookies: Stored for up to 24 months</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Updates to This Policy",
+   "text": "Updates to This Policy"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We may update this Cookie Policy to reflect changes in how we use cookies or new legal requirements. Material changes will be reflected in the \"Last Updated\" date at the top of the page.",
+   "text": "We may update this Cookie Policy to reflect changes in how we use cookies or new legal requirements. Material changes will be reflected in the \"Last Updated\" date at the top of the page."
+  }
+ ],
+ "otherRichText": [
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-15xc10m",
+   "text": "Last updated"
+  },
+  {
+   "cls": "framer-1hck9yt",
+   "text": "7/10/26"
+  },
+  {
+   "cls": "framer-1p9fj0l",
+   "text": "Cookies."
+  },
+  {
+   "cls": "framer-4itqln",
+   "text": "                           COOKIES ARE SMALL TEXT FILES STORED ON YOUR DEVICE WHEN YOU VISIT OUR WEBSITE. THIS POLICY EXPLAINS WHICH COOKIES MIRA STUDIO USES, WHY WE USE THEM, AND HOW YOU CAN CONTROL THEM. WE KEEP COOKIE USE TO A MINIMUM."
+  },
+  {
+   "cls": "framer-4itqln",
+   "text": "                           COOKIES ARE SMALL TEXT FILES STORED ON YOUR DEVICE WHEN YOU VISIT OUR WEBSITE. THIS POLICY EXPLAINS WHICH COOKIES MIRA STUDIO USES, WHY WE USE THEM, AND HOW YOU CAN CONTROL THEM. WE KEEP COOKIE USE TO A MINIMUM."
+  },
+  {
+   "cls": "framer-19p5zwk",
+   "text": " EST. 2012"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-19p5zwk",
+   "text": " EST. 2012"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-23fpvw",
+   "text": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW."
+  },
+  {
+   "cls": "framer-1gm2ya6",
+   "text": "Join Now"
+  },
+  {
+   "cls": "framer-l29hgm",
+   "text": "Join Now"
+  },
+  {
+   "cls": "framer-1rl9j96",
+   "text": "By signing up, you’re agreeing to our privacy policy."
+  },
+  {
+   "cls": "framer-s03u8i",
+   "text": "legal"
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Privacy Policy."
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Terms & Conditions."
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Cookies."
+  },
+  {
+   "cls": "framer-yzm327",
+   "text": "let’s talk"
+  },
+  {
+   "cls": "framer-pm8azj",
+   "text": "Unlock from $129"
+  },
+  {
+   "cls": "framer-41at20",
+   "text": "Get Template"
+  },
+  {
+   "cls": "framer-1whkkok",
+   "text": "Secured By"
+  },
+  {
+   "cls": "framer-1f1q597",
+   "text": "/"
+  },
+  {
+   "cls": "framer-pm8azj",
+   "text": "Unlock from $129"
+  },
+  {
+   "cls": "framer-41at20",
+   "text": "All Access"
+  },
+  {
+   "cls": "framer-1whkkok",
+   "text": "Secured By"
+  },
+  {
+   "cls": "framer-1f1q597",
+   "text": "/"
+  }
+ ]
+}

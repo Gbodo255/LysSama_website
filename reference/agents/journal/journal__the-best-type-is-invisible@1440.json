@@ -1,0 +1,4010 @@
+{
+ "title": "The best type is invisible.",
+ "metaDesc": "Typography choices we make so you do not have to notice them.",
+ "scrollHeight": 4124,
+ "texts": [
+  {
+   "tag": "p",
+   "text": "Back to the journal",
+   "html": "Back to the journal",
+   "rect": [
+    118,
+    33,
+    121.13,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Back"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Back to the journal",
+   "html": "Back to the journal",
+   "rect": [
+    118,
+    53,
+    121.13,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Back"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Mar 20, 2026",
+   "html": "<time datetime=\"2026-03-20T00:00:00.000Z\">Mar 20, 2026</time>",
+   "rect": [
+    1332.41,
+    33.67,
+    74.59,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Mar"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "Mar 20, 2026",
+   "html": "Mar 20, 2026",
+   "rect": [
+    1332.41,
+    31.67,
+    74.59,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Mar"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Craft)",
+   "rect": [
+    1081.23,
+    324.48,
+    43.53,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Craft)"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "The best type is invisible.",
+   "html": "The best type is invisible.",
+   "rect": [
+    878,
+    352.48,
+    450,
+    144
+   ],
+   "font": "\"Mona Sans Variable\"|400|80px|72px|-1.6px|rgb(13, 13, 13)|center|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "The",
+    "is"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Typography choices we make so you do not have to notice them.",
+   "rect": [
+    943,
+    516.48,
+    320,
+    42
+   ],
+   "font": "Switzer|600|15px|21px|-0.45px|rgb(104, 104, 104)|center|normal",
+   "lines": [
+    "Typography",
+    "you"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Sarah Park",
+   "html": "Sarah Park",
+   "rect": [
+    1083.11,
+    830.59,
+    63.61,
+    18.2
+   ],
+   "font": "Switzer|600|13px|18.2px|-0.26px|rgb(13, 13, 13)|left|normal",
+   "lines": [
+    "Sarah"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Designer, Mira",
+   "html": "Designer, Mira",
+   "rect": [
+    1083.11,
+    848.8,
+    82.78,
+    18.2
+   ],
+   "font": "Switzer|600|13px|18.2px|-0.26px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Designer,"
+   ]
+  },
+  {
+   "tag": "h2",
+   "text": "                           If someone reads your website and remembers the fonts you used, you failed. Typography should carry the voice of a brand without ever asking to be looked at. Here is how we think about type on every Mira project, and why restraint at this layer lets us be louder everywhere else on the page.",
+   "rect": [
+    853,
+    975,
+    500,
+    158.72
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|justify|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "If",
+    "the",
+    "the",
+    "Here",
+    "why",
+    "else"
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "Two faces, no more",
+   "html": "Two faces, no more",
+   "rect": [
+    853,
+    1173.72,
+    500,
+    27.5
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Two"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Every Mira project starts with the same type decision: one workhorse for body copy that reads for hours without effort, and one display face with enough personality to hold a headline. That is the whole system. No third face for accents. No decorative flourishes borrowed from moodboards. No condensed variant just because it looked good on Pinterest.",
+   "html": "Every Mira project starts with the same type decision: one workhorse for body copy that reads for hours without effort, and one display face with enough personality to hold a headline. That is the whole system. No third face for accents. No decorative flourishes borrowed from moodboards. No condensed variant just because it looked good on Pinterest.",
+   "rect": [
+    853,
+    1221.22,
+    500,
+    108.75
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Every",
+    "body",
+    "enough",
+    "for",
+    "condensed"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Two faces is not a rule of taste. It is a rule of maintenance. Buyers of design templates and clients handing off brand systems always drift toward complexity. Every extra face is one more thing to police, one more chance for the system to break the moment a junior designer picks a heading style.",
+   "html": "Two faces is not a rule of taste. It is a rule of maintenance. Buyers of design templates and clients handing off brand systems always drift toward complexity. Every extra face is one more thing to police, one more chance for the system to break the moment a junior designer picks a heading style.",
+   "rect": [
+    853,
+    1349.97,
+    500,
+    87
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Two",
+    "templates",
+    "complexity.",
+    "the"
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "Restraint at the type layer earns loudness everywhere else",
+   "html": "Restraint at the type layer earns loudness everywhere else",
+   "rect": [
+    853,
+    1476.97,
+    500,
+    55
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Restraint",
+    "earns"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "When type stays quiet, everything around it gets to be loud. Bigger images. Bolder statements. More confident whitespace. This is the trade we make on every project. The typography is doing the invisible work of holding voice, so the rest of the design can push harder in the visible directions.",
+   "html": "When type stays quiet, everything around it gets to be loud. Bigger images. Bolder statements. More confident whitespace. This is the trade we make on every project. The typography is doing the invisible work of holding voice, so the rest of the design can push harder in the visible directions.",
+   "rect": [
+    853,
+    1551.97,
+    500,
+    87
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "When",
+    "Bolder",
+    "every",
+    "the"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "The best sites we have shipped are the ones where the reader could not name the typeface if you asked them. They only remember how the site felt. That is type doing its job.",
+   "html": "The best sites we have shipped are the ones where the reader could not name the typeface if you asked them. They only remember how the site felt. That is type doing its job.",
+   "rect": [
+    853,
+    1658.97,
+    500,
+    65.25
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "The",
+    "name",
+    "That"
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "Where most brands go wrong",
+   "html": "Where most brands go wrong",
+   "rect": [
+    853,
+    1764.22,
+    500,
+    27.5
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Where"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Most brands over-select type. They pick a wordmark font, a headline font, a subheading font, a body font, and a monospace accent, and they think the layered specificity is a strength. It is not. It is a system with five points of failure and no single voice.",
+   "html": "Most brands over-select type. They pick a wordmark font, a headline font, a subheading font, a body font, and a monospace accent, and they think the layered specificity is a strength. It is not. It is a system with five points of failure and no single voice.",
+   "rect": [
+    853,
+    1811.72,
+    500,
+    87
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Most",
+    "subheading",
+    "layered",
+    "and"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Restraint is the harder move. Pick two. Use them everywhere. Let the tone come from what you write and where you place it, not from how many typefaces you rotated through.",
+   "html": "Restraint is the harder move. Pick two. Use them everywhere. Let the tone come from what you write and where you place it, not from how many typefaces you rotated through.",
+   "rect": [
+    853,
+    1918.72,
+    500,
+    65.25
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Restraint",
+    "come",
+    "typefaces"
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "What invisible looks like",
+   "html": "What invisible looks like",
+   "rect": [
+    853,
+    2023.97,
+    500,
+    27.5
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "What"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Invisible does not mean bland. It means legible, distinctive, and unremarkable in the right places. Good typography feels natural. You feel it before you see it. If a client asks us why we chose a particular font, we usually answer by asking them how the site felt to read. That is the whole test.",
+   "html": "Invisible does not mean bland. It means legible, distinctive, and unremarkable in the right places. Good typography feels natural. You feel it before you see it. If a client asks us why we chose a particular font, we usually answer by asking them how the site felt to read. That is the whole test.",
+   "rect": [
+    853,
+    2071.47,
+    500,
+    87
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Invisible",
+    "in",
+    "If",
+    "them"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Share",
+   "html": "Share",
+   "rect": [
+    853,
+    2219.77,
+    377,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(104, 104, 104)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Share"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "From the journal",
+   "html": "From the journal",
+   "rect": [
+    425.75,
+    2360.47,
+    105.33,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "From"
+   ]
+  },
+  {
+   "tag": "h2",
+   "text": "More articles.",
+   "rect": [
+    425.75,
+    2398.47,
+    647.5,
+    72
+   ],
+   "font": "\"Mona Sans Variable\"|400|80px|72px|-1.6px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "More"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "View All",
+   "html": "View All",
+   "rect": [
+    1330.64,
+    2450.06,
+    50.36,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "View"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "View All",
+   "html": "View All",
+   "rect": [
+    1330.64,
+    2470.06,
+    50.36,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "View"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Studio Notes)",
+   "html": "(Studio Notes)",
+   "rect": [
+    92,
+    2550.47,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Fewer projects, more attention.",
+   "html": "Fewer projects, more attention.",
+   "rect": [
+    92,
+    2812.31,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Fewer"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "6/15/26",
+   "html": "<time datetime=\"2026-06-15T00:00:00.000Z\">6/15/26</time>",
+   "rect": [
+    92,
+    2843.77,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "6/15/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "6/15/26",
+   "html": "6/15/26",
+   "rect": [
+    92,
+    2841.77,
+    42.44,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "6/15/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Opinion)",
+   "html": "(Opinion)",
+   "rect": [
+    425.75,
+    2550.47,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Opinion)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Awards don't build brands.",
+   "html": "Awards don't build brands.",
+   "rect": [
+    425.75,
+    3009.94,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Awards"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "5/5/26",
+   "html": "<time datetime=\"2026-05-05T00:00:00.000Z\">5/5/26</time>",
+   "rect": [
+    425.75,
+    3041.39,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "5/5/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "5/5/26",
+   "html": "5/5/26",
+   "rect": [
+    425.75,
+    3039.39,
+    37.38,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "5/5/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Process)",
+   "html": "(Process)",
+   "rect": [
+    759.5,
+    2550.47,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Process)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Why we quote fixed.",
+   "html": "Why we quote fixed.",
+   "rect": [
+    759.5,
+    2770.02,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Why"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "4/3/26",
+   "html": "<time datetime=\"2026-04-03T00:00:00.000Z\">4/3/26</time>",
+   "rect": [
+    759.5,
+    2801.47,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "4/3/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "4/3/26",
+   "html": "4/3/26",
+   "rect": [
+    759.5,
+    2799.47,
+    37.64,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "4/3/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Studio Notes)",
+   "html": "(Studio Notes)",
+   "rect": [
+    1093.25,
+    2550.47,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "On saying no.",
+   "html": "On saying no.",
+   "rect": [
+    1093.25,
+    2875.3,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "On"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "2/18/26",
+   "html": "<time datetime=\"2026-02-18T00:00:00.000Z\">2/18/26</time>",
+   "rect": [
+    1093.25,
+    2906.75,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "2/18/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "2/18/26",
+   "html": "2/18/26",
+   "rect": [
+    1093.25,
+    2904.75,
+    42.17,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "2/18/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": " EST. 2012",
+   "html": " EST. 2012",
+   "rect": [
+    22,
+    775.7,
+    18,
+    51.59
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(255, 255, 255)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "EST."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    89,
+    132.36,
+    73.05,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    89,
+    177.36,
+    73.05,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    89,
+    183.36,
+    122.33,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    89,
+    228.36,
+    122.33,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(6)",
+   "html": "(6)",
+   "rect": [
+    213.33,
+    183.36,
+    13.98,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(245, 45, 15)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(6)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    89,
+    234.36,
+    92.14,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    89,
+    279.36,
+    92.14,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    89,
+    285.36,
+    111.16,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    89,
+    330.36,
+    111.16,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "let's talk",
+   "html": "let's talk",
+   "rect": [
+    89,
+    369.36,
+    56.33,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(188, 188, 188)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "let's"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    425.75,
+    3219.39,
+    72.19,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    425.75,
+    3244.39,
+    72.19,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(6)",
+   "html": "(6)",
+   "rect": [
+    501.94,
+    3219.39,
+    13.98,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(245, 45, 15)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(6)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    901.52,
+    3219.39,
+    54.36,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    901.52,
+    3244.39,
+    54.36,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    1341.47,
+    3219.39,
+    65.53,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    1341.47,
+    3244.39,
+    65.53,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "mira",
+   "html": "mira",
+   "rect": [
+    430.76,
+    3417.03,
+    549.97,
+    259.36
+   ],
+   "font": "\"Mona Sans Variable\"|400|231.436px|185.149px|-4.62872px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "mira"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "®",
+   "html": "®",
+   "rect": [
+    950.5,
+    3435.95,
+    27.5,
+    39.49
+   ],
+   "font": "\"Mona Sans Variable\"|400|41.0244px|28.7171px|normal|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "®"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    733.25,
+    3607.97,
+    247.5,
+    67.83
+   ],
+   "font": "Smooch|400|77.7897px|48.2296px|normal|rgb(245, 45, 15)|start|normal",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW.",
+   "rect": [
+    430.75,
+    3706.17,
+    550,
+    79.36
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(104, 104, 104)|justify|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "A",
+    "fresh",
+    "filler."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Join Now",
+   "html": "Join Now",
+   "rect": [
+    750.78,
+    3838.53,
+    53.97,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Join"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Join Now",
+   "html": "Join Now",
+   "rect": [
+    750.78,
+    3858.53,
+    53.97,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Join"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "By signing up, you’re agreeing to our privacy policy.",
+   "html": "By signing up, you’re agreeing to our <!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../privacy-policy\">privacy policy.</a><!--/$-->",
+   "rect": [
+    450.75,
+    3883.94,
+    371,
+    18.2
+   ],
+   "font": "Switzer|600|13px|18.2px|-0.26px|rgb(104, 104, 104)|start|normal",
+   "lines": [
+    "By"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "legal",
+   "html": "legal",
+   "rect": [
+    425.75,
+    4066.14,
+    32.91,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "legal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Privacy Policy.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../privacy-policy\">Privacy Policy.</a><!--/$-->",
+   "rect": [
+    488.66,
+    4022.14,
+    250.84,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Privacy"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Terms & Conditions.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../terms-conditions\">Terms &amp; Conditions.</a><!--/$-->",
+   "rect": [
+    488.66,
+    4044.14,
+    250.84,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Terms"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Cookies.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../cookie-policy\">Cookies.</a><!--/$-->",
+   "rect": [
+    488.66,
+    4066.14,
+    250.84,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Cookies."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "let’s talk",
+   "html": "let’s talk",
+   "rect": [
+    1170.44,
+    4066.14,
+    56.56,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "let’s"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "text": "Back to the journalBack to the journal",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    92,
+    33,
+    147.13,
+    20.41
+   ]
+  },
+  {
+   "text": "",
+   "href": "../",
+   "target": null,
+   "rect": [
+    799,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "text": "View AllView All",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    1330.64,
+    2450.06,
+    76.36,
+    20.41
+   ]
+  },
+  {
+   "text": "(Studio Notes)Fewer projects, more attention.6/15/26",
+   "href": "./fewer-projects-more-attention",
+   "target": null,
+   "rect": [
+    92,
+    2550.47,
+    313.75,
+    311.3
+   ]
+  },
+  {
+   "text": "(Opinion)Awards don't build brands.5/5/26",
+   "href": "./awards-dont-build-brands",
+   "target": null,
+   "rect": [
+    425.75,
+    2550.47,
+    313.75,
+    508.92
+   ]
+  },
+  {
+   "text": "(Process)Why we quote fixed.4/3/26",
+   "href": "./why-we-quote-fixed",
+   "target": null,
+   "rect": [
+    759.5,
+    2550.47,
+    313.75,
+    269
+   ]
+  },
+  {
+   "text": "(Studio Notes)On saying no.2/18/26",
+   "href": "./on-saying-no",
+   "target": null,
+   "rect": [
+    1093.25,
+    2550.47,
+    313.75,
+    374.28
+   ]
+  },
+  {
+   "text": "",
+   "href": "../",
+   "target": null,
+   "rect": [
+    89,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "text": "HomeHome",
+   "href": "../",
+   "target": null,
+   "rect": [
+    89,
+    132.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "projectsprojects(6)",
+   "href": "../projects",
+   "target": null,
+   "rect": [
+    89,
+    183.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "StudioStudio",
+   "href": "../studio",
+   "target": null,
+   "rect": [
+    89,
+    234.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "JournalJournal",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    89,
+    285.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "",
+   "href": "../contact",
+   "target": null,
+   "rect": [
+    89,
+    402.36,
+    150,
+    42
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "../",
+   "target": null,
+   "rect": [
+    92,
+    3222.94,
+    70,
+    19.36
+   ]
+  },
+  {
+   "text": "projectsprojects(6)",
+   "href": "../projects",
+   "target": null,
+   "rect": [
+    425.75,
+    3219.39,
+    90.17,
+    26.45
+   ]
+  },
+  {
+   "text": "StudioStudio",
+   "href": "../studio",
+   "target": null,
+   "rect": [
+    901.52,
+    3219.39,
+    54.36,
+    26.45
+   ]
+  },
+  {
+   "text": "JournalJournal",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    1341.47,
+    3219.39,
+    65.53,
+    26.45
+   ]
+  },
+  {
+   "text": "privacy policy.",
+   "href": "../privacy-policy",
+   "target": null,
+   "rect": [
+    659.47,
+    3884.94,
+    81.41,
+    16
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "rect": [
+    92,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "rect": [
+    124,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "rect": [
+    156,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "rect": [
+    188,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "Privacy Policy.",
+   "href": "../privacy-policy",
+   "target": null,
+   "rect": [
+    488.66,
+    4020.14,
+    90.09,
+    21
+   ]
+  },
+  {
+   "text": "Terms & Conditions.",
+   "href": "../terms-conditions",
+   "target": null,
+   "rect": [
+    488.66,
+    4042.14,
+    120.8,
+    21
+   ]
+  },
+  {
+   "text": "Cookies.",
+   "href": "../cookie-policy",
+   "target": null,
+   "rect": [
+    488.66,
+    4064.14,
+    50.36,
+    21
+   ]
+  },
+  {
+   "text": "",
+   "href": "../contact",
+   "target": null,
+   "rect": [
+    1257,
+    4042.14,
+    150,
+    42
+   ]
+  }
+ ],
+ "imgs": [
+  {
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "sizes": "(min-width: 1200px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw, (max-width: 809.98px) max(calc(max(max(100vw, 1px) - 6px, 1px) / 2), calc(max(max(100vw, 1px) - 6px, 1px) + 0.5px))",
+   "rect": [
+    237.25,
+    217.29,
+    350.5,
+    465.42
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "sizes": "(min-width: 1200px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw, (max-width: 809.98px) max(calc(max(max(100vw, 1px) - 6px, 1px) / 2), calc(max(max(100vw, 1px) - 6px, 1px) + 0.5px))",
+   "rect": [
+    54.99,
+    -5.94,
+    715.02,
+    911.88
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg?width=528&height=701",
+   "alt": "Portrait of Sarah Park",
+   "sizes": "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+   "rect": [
+    1040.11,
+    832.8,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    92,
+    2578.47,
+    313.75,
+    218.84
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    92,
+    2578.47,
+    313.75,
+    218.84
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    425.75,
+    2578.47,
+    313.75,
+    416.47
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    425.75,
+    2578.47,
+    313.75,
+    416.47
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    759.5,
+    2578.47,
+    313.75,
+    176.55
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    759.5,
+    2578.46,
+    313.75,
+    176.55
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg?width=1278&height=1148",
+   "alt": "Figure in a white hood sitting cross-legged with a red light across the eyes",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    1093.25,
+    2578.47,
+    313.75,
+    281.83
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg?width=1278&height=1148",
+   "alt": "Figure in a white hood sitting cross-legged with a red light across the eyes",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    1093.25,
+    2578.46,
+    313.75,
+    281.83
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px",
+   "rect": [
+    94,
+    407.36,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px",
+   "rect": [
+    1262,
+    4047.14,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  }
+ ],
+ "buttons": [
+  {
+   "aria": "Share on Twitter",
+   "rect": [
+    1246,
+    2220.47,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": "Share on LinkedIn",
+   "rect": [
+    1275,
+    2220.47,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": "Share on Email",
+   "rect": [
+    1304,
+    2220.47,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": "Copy URL to clipboard",
+   "rect": [
+    1333,
+    2220.47,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": null,
+   "rect": [
+    737.78,
+    3829.53,
+    79.97,
+    38.41
+   ],
+   "style": "opacity:0.75"
+  }
+ ],
+ "body": [
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "Two faces, no more"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "Every Mira project starts with the same type decision: one workhorse for body copy that reads for hours without effort, and one display face with enough personality to hold a headline. That is the whole system. No third face for accents. No decorative flourishes borrowed from moodboards. No condensed variant just because it looked good on Pinterest."
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "Two faces is not a rule of taste. It is a rule of maintenance. Buyers of design templates and clients handing off brand systems always drift toward complexity. Every extra face is one more thing to police, one more chance for the system to break the moment a junior designer picks a heading style."
+  },
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "Restraint at the type layer earns loudness everywhere else"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "When type stays quiet, everything around it gets to be loud. Bigger images. Bolder statements. More confident whitespace. This is the trade we make on every project. The typography is doing the invisible work of holding voice, so the rest of the design can push harder in the visible directions."
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "The best sites we have shipped are the ones where the reader could not name the typeface if you asked them. They only remember how the site felt. That is type doing its job."
+  },
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "Where most brands go wrong"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "Most brands over-select type. They pick a wordmark font, a headline font, a subheading font, a body font, and a monospace accent, and they think the layered specificity is a strength. It is not. It is a system with five points of failure and no single voice."
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "Restraint is the harder move. Pick two. Use them everywhere. Let the tone come from what you write and where you place it, not from how many typefaces you rotated through."
+  },
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "What invisible looks like"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "Invisible does not mean bland. It means legible, distinctive, and unremarkable in the right places. Good typography feels natural. You feel it before you see it. If a client asks us why we chose a particular font, we usually answer by asking them how the site felt to read. That is the whole test."
+  }
+ ],
+ "cardLinks": [],
+ "named": [
+  {
+   "name": "Main",
+   "tag": "main",
+   "cls": "framer-1vg7lwo",
+   "rect": [
+    0,
+    0,
+    1440,
+    3179.39
+   ]
+  },
+  {
+   "name": "Spacer",
+   "tag": "div",
+   "cls": "framer-yXQrW.framer-gmtdri.framer-v-gmtdri",
+   "rect": [
+    0,
+    0,
+    59,
+    800
+   ]
+  },
+  {
+   "name": "Content",
+   "tag": "div",
+   "cls": "framer-1qf3ckv",
+   "rect": [
+    59,
+    0,
+    1381,
+    3179.39
+   ]
+  },
+  {
+   "name": "Article",
+   "tag": "div",
+   "cls": "framer-h6sr5n",
+   "rect": [
+    59,
+    0,
+    1381,
+    2240.47
+   ]
+  },
+  {
+   "name": "Article Image Container",
+   "tag": "div",
+   "cls": "framer-l5ij9y",
+   "rect": [
+    59,
+    0,
+    707,
+    900
+   ]
+  },
+  {
+   "name": "BG Outer Container",
+   "tag": "div",
+   "cls": "framer-1r2jzgf",
+   "rect": [
+    59,
+    0,
+    707,
+    900
+   ]
+  },
+  {
+   "name": "BG",
+   "tag": "div",
+   "cls": "framer-1tq3yyt",
+   "rect": [
+    62,
+    3,
+    701,
+    894
+   ]
+  },
+  {
+   "name": "Dark overlay",
+   "tag": "div",
+   "cls": "framer-1auuop6",
+   "rect": [
+    62,
+    3,
+    701,
+    894
+   ]
+  },
+  {
+   "name": "Middle Image",
+   "tag": "div",
+   "cls": "framer-1pw0cc0",
+   "rect": [
+    237.25,
+    217.29,
+    350.5,
+    465.42
+   ]
+  },
+  {
+   "name": "BG Image",
+   "tag": "div",
+   "cls": "framer-54cq2o",
+   "rect": [
+    54.99,
+    -5.94,
+    715.02,
+    911.88
+   ]
+  },
+  {
+   "name": "Desktop - Left",
+   "tag": "a",
+   "cls": "framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-ra0to2.framer-ghew07",
+   "rect": [
+    92,
+    33,
+    147.13,
+    20.41
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-1dzfdpz",
+   "rect": [
+    118,
+    33,
+    121.13,
+    20.41
+   ]
+  },
+  {
+   "name": "Top Text",
+   "tag": "div",
+   "cls": "framer-zixbhw",
+   "rect": [
+    118,
+    33,
+    121.13,
+    20.41
+   ]
+  },
+  {
+   "name": "Chevron",
+   "tag": "div",
+   "cls": "framer-73np5u",
+   "rect": [
+    92,
+    34.7,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Right",
+   "tag": "div",
+   "cls": "framer-k3jgni",
+   "rect": [
+    766,
+    0,
+    674,
+    2240.47
+   ]
+  },
+  {
+   "name": "Article Info",
+   "tag": "section",
+   "cls": "framer-12itxgr",
+   "rect": [
+    766,
+    0,
+    674,
+    900
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-10eegt",
+   "rect": [
+    766,
+    0,
+    674,
+    900
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "header",
+   "cls": "framer-oboj65",
+   "rect": [
+    799,
+    33,
+    608,
+    69.36
+   ]
+  },
+  {
+   "name": "Link Container",
+   "tag": "a",
+   "cls": "framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1",
+   "rect": [
+    799,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-SHtMX.framer-7h3po8",
+   "rect": [
+    799,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Article Info",
+   "tag": "div",
+   "cls": "framer-1dg35ov",
+   "rect": [
+    799,
+    324.48,
+    608,
+    234
+   ]
+  },
+  {
+   "name": "Title / Category",
+   "tag": "div",
+   "cls": "framer-1o27bn4",
+   "rect": [
+    799,
+    324.48,
+    608,
+    172
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-12cy8up",
+   "rect": [
+    1081.23,
+    324.48,
+    43.53,
+    18
+   ]
+  },
+  {
+   "name": "Title",
+   "tag": "div",
+   "cls": "framer-ust23z",
+   "rect": [
+    878,
+    352.48,
+    450,
+    144
+   ]
+  },
+  {
+   "name": "Description",
+   "tag": "div",
+   "cls": "framer-1sun04h",
+   "rect": [
+    943,
+    516.48,
+    320,
+    42
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-1vgsstc",
+   "rect": [
+    799,
+    780.59,
+    608,
+    86.41
+   ]
+  },
+  {
+   "name": "Author",
+   "tag": "div",
+   "cls": "framer-QRwP7.framer-QoPvp.framer-1kijlsy.framer-v-1kijlsy",
+   "rect": [
+    1040.11,
+    830.59,
+    125.78,
+    36.41
+   ]
+  },
+  {
+   "name": "Name / Role",
+   "tag": "div",
+   "cls": "framer-lpw2kj",
+   "rect": [
+    1083.11,
+    830.59,
+    82.78,
+    36.41
+   ]
+  },
+  {
+   "name": "Article Content",
+   "tag": "article",
+   "cls": "framer-1q4xdhe",
+   "rect": [
+    766,
+    915,
+    674,
+    1325.47
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-4d8yer",
+   "rect": [
+    766,
+    975,
+    674,
+    1265.47
+   ]
+  },
+  {
+   "name": "Intro Header",
+   "tag": "div",
+   "cls": "framer-2y3bst",
+   "rect": [
+    853,
+    975,
+    500,
+    158.72
+   ]
+  },
+  {
+   "name": "Content / Share",
+   "tag": "div",
+   "cls": "framer-kwv38q",
+   "rect": [
+    853,
+    1173.72,
+    500,
+    1066.75
+   ]
+  },
+  {
+   "name": "Content",
+   "tag": "div",
+   "cls": "framer-1tn62t5",
+   "rect": [
+    853,
+    1173.72,
+    500,
+    984.75
+   ]
+  },
+  {
+   "name": "Divider",
+   "tag": "div",
+   "cls": "framer-18wmlps",
+   "rect": [
+    853,
+    2188.47,
+    500,
+    1
+   ]
+  },
+  {
+   "name": "Share",
+   "tag": "div",
+   "cls": "framer-1gay0sq",
+   "rect": [
+    853,
+    2219.47,
+    500,
+    21
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-fxu2zp",
+   "rect": [
+    853,
+    2219.77,
+    377,
+    20.41
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "section",
+   "cls": "framer-azsrl.framer-LubW4.framer-1m7l3gw.framer-v-1m7l3gw",
+   "rect": [
+    59,
+    2240.47,
+    1381,
+    938.92
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-1fq9aj0",
+   "rect": [
+    59,
+    2360.47,
+    1381,
+    698.92
+   ]
+  },
+  {
+   "name": "Label / Heading",
+   "tag": "div",
+   "cls": "framer-t0gxtr",
+   "rect": [
+    92,
+    2360.47,
+    1315,
+    110
+   ]
+  },
+  {
+   "name": "Filler",
+   "tag": "div",
+   "cls": "framer-nqgxp3",
+   "rect": [
+    92,
+    2360.47,
+    313.75,
+    1
+   ]
+  },
+  {
+   "name": "Label / Heading",
+   "tag": "div",
+   "cls": "framer-srsset",
+   "rect": [
+    425.75,
+    2360.47,
+    647.5,
+    110
+   ]
+  },
+  {
+   "name": "Label",
+   "tag": "div",
+   "cls": "framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4",
+   "rect": [
+    425.75,
+    2360.47,
+    105.33,
+    18
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-moe5to",
+   "rect": [
+    425.75,
+    2360.47,
+    105.33,
+    18
+   ]
+  },
+  {
+   "name": "Desktop - Right",
+   "tag": "a",
+   "cls": "framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-q8hg74.framer-ghew07",
+   "rect": [
+    1330.64,
+    2450.06,
+    76.36,
+    20.41
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-1dzfdpz",
+   "rect": [
+    1330.64,
+    2450.06,
+    50.36,
+    20.41
+   ]
+  },
+  {
+   "name": "Top Text",
+   "tag": "div",
+   "cls": "framer-zixbhw",
+   "rect": [
+    1330.64,
+    2450.06,
+    50.36,
+    20.41
+   ]
+  },
+  {
+   "name": "Chevron",
+   "tag": "div",
+   "cls": "framer-73np5u",
+   "rect": [
+    1390,
+    2451.77,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    92,
+    2550.47,
+    313.75,
+    311.3
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    92,
+    2550.47,
+    313.75,
+    246.84
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    92,
+    2550.47,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    92,
+    2578.47,
+    313.75,
+    218.84
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    92,
+    2578.47,
+    313.75,
+    218.84
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    92,
+    2812.31,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    92,
+    2843.77,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    425.75,
+    2550.47,
+    313.75,
+    508.92
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    425.75,
+    2550.47,
+    313.75,
+    444.47
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    425.75,
+    2550.47,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    425.75,
+    2578.47,
+    313.75,
+    416.47
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    425.75,
+    2578.47,
+    313.75,
+    416.47
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    425.75,
+    3009.94,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    425.75,
+    3041.39,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    759.5,
+    2550.47,
+    313.75,
+    269
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    759.5,
+    2550.47,
+    313.75,
+    204.55
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    759.5,
+    2550.47,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    759.5,
+    2578.47,
+    313.75,
+    176.55
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    759.5,
+    2578.47,
+    313.75,
+    176.55
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    759.5,
+    2770.02,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    759.5,
+    2801.47,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    1093.25,
+    2550.47,
+    313.75,
+    374.28
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    1093.25,
+    2550.47,
+    313.75,
+    309.83
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    1093.25,
+    2550.47,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    1093.25,
+    2578.47,
+    313.75,
+    281.83
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    1093.25,
+    2578.47,
+    313.75,
+    281.83
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    1093.25,
+    2875.3,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    1093.25,
+    2906.75,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Shared Navigation",
+   "tag": "div",
+   "cls": "framer-9ihltw-container",
+   "rect": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  {
+   "name": "Desktop - Closed",
+   "tag": "div",
+   "cls": "framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-l44v03",
+   "rect": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  {
+   "name": "Side Nav",
+   "tag": "nav",
+   "cls": "framer-3der5",
+   "rect": [
+    3,
+    3,
+    56,
+    894
+   ]
+  },
+  {
+   "name": "SideBar",
+   "tag": "div",
+   "cls": "framer-1wba9e6",
+   "rect": [
+    3,
+    3,
+    56,
+    894
+   ]
+  },
+  {
+   "name": "Closed",
+   "tag": "div",
+   "cls": "framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn",
+   "rect": [
+    23,
+    33,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Hamburger",
+   "tag": "div",
+   "cls": "framer-t6cidc",
+   "rect": [
+    23,
+    33,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-19kq29j",
+   "rect": [
+    23,
+    33,
+    16,
+    7
+   ]
+  },
+  {
+   "name": "1",
+   "tag": "div",
+   "cls": "framer-ij8d5t",
+   "rect": [
+    23,
+    33,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "2",
+   "tag": "div",
+   "cls": "framer-1oucckw",
+   "rect": [
+    32,
+    33,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-17en59d",
+   "rect": [
+    23,
+    42,
+    16,
+    7
+   ]
+  },
+  {
+   "name": "3",
+   "tag": "div",
+   "cls": "framer-1ihbq2i",
+   "rect": [
+    23,
+    42,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "4",
+   "tag": "div",
+   "cls": "framer-xca395",
+   "rect": [
+    32,
+    42,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "Variant 1",
+   "tag": "div",
+   "cls": "framer-D1HnP.framer-Me6vv.framer-1875b8x.framer-v-1875b8x",
+   "rect": [
+    15,
+    768.7,
+    32,
+    96.59
+   ]
+  },
+  {
+   "name": "Globe",
+   "tag": "div",
+   "cls": "framer-x2q9so",
+   "rect": [
+    15,
+    834.3,
+    32,
+    31
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-6xha2i",
+   "rect": [
+    15,
+    768.7,
+    32,
+    65.59
+   ]
+  },
+  {
+   "name": "Menu",
+   "tag": "div",
+   "cls": "framer-tk3v71",
+   "rect": [
+    59,
+    3,
+    437,
+    894
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-19orxsl",
+   "rect": [
+    89,
+    33,
+    377,
+    411.36
+   ]
+  },
+  {
+   "name": "Link Container",
+   "tag": "a",
+   "cls": "framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1",
+   "rect": [
+    89,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-1xjrc.framer-7h3po8",
+   "rect": [
+    89,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Nav. Items",
+   "tag": "div",
+   "cls": "framer-c5vrme",
+   "rect": [
+    89,
+    132.36,
+    377,
+    312
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-Z2aNj.framer-fvp1dl.framer-v-fvp1dl",
+   "rect": [
+    89,
+    132.36,
+    377,
+    197
+   ]
+  },
+  {
+   "name": "Home",
+   "tag": "div",
+   "cls": "framer-ade1jf-container",
+   "rect": [
+    89,
+    132.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    132.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Projects",
+   "tag": "div",
+   "cls": "framer-f4luyz-container",
+   "rect": [
+    89,
+    183.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    183.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Count Text",
+   "tag": "div",
+   "cls": "framer-12mewa9",
+   "rect": [
+    213.33,
+    183.36,
+    13.98,
+    18
+   ]
+  },
+  {
+   "name": "Studio",
+   "tag": "div",
+   "cls": "framer-1kxedq2-container",
+   "rect": [
+    89,
+    234.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    234.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Journal",
+   "tag": "div",
+   "cls": "framer-9r7k9d-container",
+   "rect": [
+    89,
+    285.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    285.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Contact",
+   "tag": "div",
+   "cls": "framer-3g7ymn",
+   "rect": [
+    89,
+    369.36,
+    377,
+    75
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug",
+   "rect": [
+    89,
+    402.36,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Button",
+   "tag": "div",
+   "cls": "framer-dczzwc",
+   "rect": [
+    89,
+    402.36,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Picture",
+   "tag": "div",
+   "cls": "framer-154bepi",
+   "rect": [
+    94,
+    407.36,
+    32,
+    32
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-5dotip",
+   "rect": [
+    89,
+    758.81,
+    377,
+    108.19
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-shGv8.framer-4tnhfa.framer-v-4tnhfa",
+   "rect": [
+    89,
+    798.81,
+    377,
+    17
+   ]
+  },
+  {
+   "name": "X",
+   "tag": "div",
+   "cls": "framer-17kf78c-container",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-LAEqS.framer-1fo7tgr",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "IG",
+   "tag": "div",
+   "cls": "framer-1smje0b-container",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-uZnUQ.framer-1fo7tgr",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Dribbble",
+   "tag": "div",
+   "cls": "framer-t1kefs-container",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-K6Gdb.framer-1fo7tgr",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Behance",
+   "tag": "div",
+   "cls": "framer-1cdugcb-container",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-lYLYO.framer-1fo7tgr",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Left Border",
+   "tag": "div",
+   "cls": "framer-1sxc0wu",
+   "rect": [
+    59,
+    3,
+    1,
+    894
+   ]
+  },
+  {
+   "name": "Footer",
+   "tag": "div",
+   "cls": "framer-ubdqd9",
+   "rect": [
+    0,
+    3179.39,
+    1440,
+    944.75
+   ]
+  },
+  {
+   "name": "Navigation Spacer",
+   "tag": "div",
+   "cls": "framer-fhqei7-container",
+   "rect": [
+    0,
+    3179.39,
+    59,
+    944.75
+   ]
+  },
+  {
+   "name": "Spacer",
+   "tag": "div",
+   "cls": "framer-yXQrW.framer-gmtdri.framer-v-gmtdri",
+   "rect": [
+    0,
+    3179.39,
+    59,
+    944.75
+   ]
+  },
+  {
+   "name": "Footer",
+   "tag": "section",
+   "cls": "framer-1064shm",
+   "rect": [
+    59,
+    3179.39,
+    1381,
+    944.75
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-aqqavh",
+   "rect": [
+    59,
+    3219.39,
+    1381,
+    864.75
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-112av23",
+   "rect": [
+    92,
+    3219.39,
+    1315,
+    26.45
+   ]
+  },
+  {
+   "name": "Shared Navigation Logo",
+   "tag": "div",
+   "cls": "framer-1e616zs-container",
+   "rect": [
+    92,
+    3222.94,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Link Container",
+   "tag": "a",
+   "cls": "framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1",
+   "rect": [
+    92,
+    3222.94,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-SHtMX.framer-7h3po8",
+   "rect": [
+    92,
+    3222.94,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Shared Navigation Links",
+   "tag": "div",
+   "cls": "framer-3m3d8l-container",
+   "rect": [
+    425.75,
+    3219.39,
+    981.25,
+    26.45
+   ]
+  },
+  {
+   "name": "Desktop - Top",
+   "tag": "div",
+   "cls": "framer-Z2aNj.framer-fvp1dl.framer-v-1fd22pg",
+   "rect": [
+    425.75,
+    3219.39,
+    981.25,
+    26.45
+   ]
+  },
+  {
+   "name": "Projects",
+   "tag": "div",
+   "cls": "framer-f4luyz-container",
+   "rect": [
+    425.75,
+    3219.39,
+    90.17,
+    26.45
+   ]
+  },
+  {
+   "name": "Small",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077",
+   "rect": [
+    425.75,
+    3219.39,
+    90.17,
+    26.45
+   ]
+  },
+  {
+   "name": "Count Text",
+   "tag": "div",
+   "cls": "framer-12mewa9",
+   "rect": [
+    501.94,
+    3219.39,
+    13.98,
+    18
+   ]
+  },
+  {
+   "name": "Studio",
+   "tag": "div",
+   "cls": "framer-1kxedq2-container",
+   "rect": [
+    901.52,
+    3219.39,
+    54.36,
+    26.45
+   ]
+  },
+  {
+   "name": "Small",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077",
+   "rect": [
+    901.52,
+    3219.39,
+    54.36,
+    26.45
+   ]
+  },
+  {
+   "name": "Journal",
+   "tag": "div",
+   "cls": "framer-9r7k9d-container",
+   "rect": [
+    1341.47,
+    3219.39,
+    65.53,
+    26.45
+   ]
+  },
+  {
+   "name": "Small",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077",
+   "rect": [
+    1341.47,
+    3219.39,
+    65.53,
+    26.45
+   ]
+  },
+  {
+   "name": "Middle",
+   "tag": "div",
+   "cls": "framer-10uqj7m",
+   "rect": [
+    92,
+    3365.84,
+    1315,
+    536.3
+   ]
+  },
+  {
+   "name": "Filler",
+   "tag": "div",
+   "cls": "framer-11fuqsj",
+   "rect": [
+    92,
+    3365.84,
+    298.75,
+    74
+   ]
+  },
+  {
+   "name": "Text Container",
+   "tag": "div",
+   "cls": "framer-10tu5xj",
+   "rect": [
+    430.75,
+    3365.84,
+    976.25,
+    536.3
+   ]
+  },
+  {
+   "name": "Copyright Notice",
+   "tag": "div",
+   "cls": "framer-1j72mo7-container",
+   "rect": [
+    430.75,
+    3365.84,
+    96.94,
+    31.19
+   ]
+  },
+  {
+   "name": "Name / Description",
+   "tag": "div",
+   "cls": "framer-odwucj",
+   "rect": [
+    430.75,
+    3417.03,
+    550,
+    485.11
+   ]
+  },
+  {
+   "name": "Name",
+   "tag": "div",
+   "cls": "framer-ab2qu1",
+   "rect": [
+    430.75,
+    3417.03,
+    550,
+    259.14
+   ]
+  },
+  {
+   "name": "Name / R Symbol",
+   "tag": "div",
+   "cls": "framer-g8f7gt",
+   "rect": [
+    430.75,
+    3417.03,
+    550,
+    259.14
+   ]
+  },
+  {
+   "name": "Footer Logo Name",
+   "tag": "svg",
+   "cls": "framer-ibnepj",
+   "rect": [
+    430.75,
+    3417.03,
+    550,
+    259.14
+   ]
+  },
+  {
+   "name": "R Symbol",
+   "tag": "div",
+   "cls": "framer-grnsur",
+   "rect": [
+    950.5,
+    3435.95,
+    27.5,
+    39.88
+   ]
+  },
+  {
+   "name": "Footer Logo Trademark",
+   "tag": "svg",
+   "cls": "framer-hhlsu5",
+   "rect": [
+    950.5,
+    3435.95,
+    27.5,
+    39.88
+   ]
+  },
+  {
+   "name": "Footer Logo Descriptor",
+   "tag": "svg",
+   "cls": "framer-1xn72o7",
+   "rect": [
+    733.25,
+    3607.97,
+    247.5,
+    68.2
+   ]
+  },
+  {
+   "name": "Description / Newsletter",
+   "tag": "div",
+   "cls": "framer-tr2r27",
+   "rect": [
+    430.75,
+    3706.17,
+    550,
+    195.97
+   ]
+  },
+  {
+   "name": "Newsletter Introduction",
+   "tag": "div",
+   "cls": "framer-23fpvw",
+   "rect": [
+    430.75,
+    3706.17,
+    550,
+    79.36
+   ]
+  },
+  {
+   "name": "Newsletter Signup",
+   "tag": "form",
+   "cls": "framer-1lnl6jg",
+   "rect": [
+    430.75,
+    3825.53,
+    391,
+    76.61
+   ]
+  },
+  {
+   "name": "Input / Button",
+   "tag": "div",
+   "cls": "framer-199g2yg",
+   "rect": [
+    430.75,
+    3825.53,
+    391,
+    46.41
+   ]
+  },
+  {
+   "name": "Newsletter Form Group",
+   "tag": "label",
+   "cls": "framer-1t2u8aq",
+   "rect": [
+    434.75,
+    3829.53,
+    293.03,
+    38.41
+   ]
+  },
+  {
+   "name": "Newsletter Email Input",
+   "tag": "div",
+   "cls": "framer-form-text-input.framer-form-input-wrapper.framer-1dpa36t",
+   "rect": [
+    434.75,
+    3829.53,
+    293.03,
+    38.41
+   ]
+  },
+  {
+   "name": "Newsletter Submit Button",
+   "tag": "div",
+   "cls": "framer-s7u2da-container",
+   "rect": [
+    737.78,
+    3829.53,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "Incomplete",
+   "tag": "button",
+   "cls": "framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw",
+   "rect": [
+    737.78,
+    3829.53,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "BG Color",
+   "tag": "div",
+   "cls": "framer-17skh7b",
+   "rect": [
+    737.78,
+    3829.53,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "btn text",
+   "tag": "div",
+   "cls": "framer-71e8ti",
+   "rect": [
+    750.78,
+    3838.53,
+    53.97,
+    20.41
+   ]
+  },
+  {
+   "name": "top",
+   "tag": "div",
+   "cls": "framer-1gm2ya6",
+   "rect": [
+    750.78,
+    3838.53,
+    53.97,
+    20.41
+   ]
+  },
+  {
+   "name": "Spinner",
+   "tag": "div",
+   "cls": "framer-pEZXs.framer-7sj87n.framer-v-7sj87n",
+   "rect": [
+    769.77,
+    3841.11,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Spinner",
+   "tag": "div",
+   "cls": "framer-1yqlm52",
+   "rect": [
+    769.77,
+    3841.11,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Agree to terms",
+   "tag": "label",
+   "cls": "framer-169r9xi",
+   "rect": [
+    430.75,
+    3883.94,
+    391,
+    18.2
+   ]
+  },
+  {
+   "name": "Newsletter Consent Checkbox",
+   "tag": "input",
+   "cls": "framer-form-boolean-input.framer-1qlsdo5",
+   "rect": [
+    430.75,
+    3886.53,
+    13,
+    13
+   ]
+  },
+  {
+   "name": "Newsletter Consent Copy",
+   "tag": "div",
+   "cls": "framer-1rl9j96",
+   "rect": [
+    450.75,
+    3883.94,
+    371,
+    18.2
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-1nbmjrz",
+   "rect": [
+    92,
+    4022.14,
+    1315,
+    62
+   ]
+  },
+  {
+   "name": "Footer Social Links",
+   "tag": "div",
+   "cls": "framer-sfsj97-container",
+   "rect": [
+    92,
+    4067.14,
+    113,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-shGv8.framer-4tnhfa.framer-v-4tnhfa",
+   "rect": [
+    92,
+    4067.14,
+    113,
+    17
+   ]
+  },
+  {
+   "name": "X",
+   "tag": "div",
+   "cls": "framer-17kf78c-container",
+   "rect": [
+    92,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    92,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    92,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-LAEqS.framer-1fo7tgr",
+   "rect": [
+    92,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "IG",
+   "tag": "div",
+   "cls": "framer-1smje0b-container",
+   "rect": [
+    124,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    124,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    124,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-uZnUQ.framer-1fo7tgr",
+   "rect": [
+    124,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Dribbble",
+   "tag": "div",
+   "cls": "framer-t1kefs-container",
+   "rect": [
+    156,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    156,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    156,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-K6Gdb.framer-1fo7tgr",
+   "rect": [
+    156,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Behance",
+   "tag": "div",
+   "cls": "framer-1cdugcb-container",
+   "rect": [
+    188,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    188,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    188,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-lYLYO.framer-1fo7tgr",
+   "rect": [
+    188,
+    4067.14,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Legal",
+   "tag": "div",
+   "cls": "framer-18r9k2i",
+   "rect": [
+    425.75,
+    4022.14,
+    313.75,
+    62
+   ]
+  },
+  {
+   "name": "Legal Navigation Link",
+   "tag": "div",
+   "cls": "framer-s03u8i",
+   "rect": [
+    425.75,
+    4066.14,
+    32.91,
+    18
+   ]
+  },
+  {
+   "name": "Footer Contact Link Group",
+   "tag": "div",
+   "cls": "framer-14oqxd3",
+   "rect": [
+    488.66,
+    4022.14,
+    250.84,
+    62
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    488.66,
+    4022.14,
+    250.84,
+    18
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    488.66,
+    4044.14,
+    250.84,
+    18
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    488.66,
+    4066.14,
+    250.84,
+    18
+   ]
+  },
+  {
+   "name": "Contact",
+   "tag": "div",
+   "cls": "framer-1eth1vs",
+   "rect": [
+    1170.44,
+    4042.14,
+    236.56,
+    42
+   ]
+  },
+  {
+   "name": "Footer Contact Link",
+   "tag": "div",
+   "cls": "framer-yzm327",
+   "rect": [
+    1170.44,
+    4066.14,
+    56.56,
+    18
+   ]
+  },
+  {
+   "name": "Footer Contact Button",
+   "tag": "div",
+   "cls": "framer-9685jw-container",
+   "rect": [
+    1257,
+    4042.14,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug",
+   "rect": [
+    1257,
+    4042.14,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Button",
+   "tag": "div",
+   "cls": "framer-dczzwc",
+   "rect": [
+    1257,
+    4042.14,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Picture",
+   "tag": "div",
+   "cls": "framer-154bepi",
+   "rect": [
+    1262,
+    4047.14,
+    32,
+    32
+   ]
+  }
+ ]
+}

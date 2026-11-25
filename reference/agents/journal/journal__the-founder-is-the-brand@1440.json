@@ -1,0 +1,4029 @@
+{
+ "title": "The founder is the brand.",
+ "metaDesc": "For small studios and small brands, the founder's presence is the most under-used asset.",
+ "scrollHeight": 4139,
+ "texts": [
+  {
+   "tag": "p",
+   "text": "Back to the journal",
+   "html": "Back to the journal",
+   "rect": [
+    118,
+    33,
+    121.13,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Back"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Back to the journal",
+   "html": "Back to the journal",
+   "rect": [
+    118,
+    53,
+    121.13,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Back"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Nov 4, 2025",
+   "html": "<time datetime=\"2025-11-04T00:00:00.000Z\">Nov 4, 2025</time>",
+   "rect": [
+    1340.98,
+    33.67,
+    66.02,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Nov"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "Nov 4, 2025",
+   "html": "Nov 4, 2025",
+   "rect": [
+    1340.98,
+    31.67,
+    66.02,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Nov"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Opinion)",
+   "rect": [
+    1075.89,
+    324.48,
+    54.22,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Opinion)"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "The founder is the brand.",
+   "html": "The founder is the brand.",
+   "rect": [
+    878,
+    352.48,
+    450,
+    144
+   ],
+   "font": "\"Mona Sans Variable\"|400|80px|72px|-1.6px|rgb(13, 13, 13)|center|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "The",
+    "is"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "For small studios and small brands, the founder's presence is the most under-used asset.",
+   "rect": [
+    943,
+    516.48,
+    320,
+    42
+   ],
+   "font": "Switzer|600|15px|21px|-0.45px|rgb(104, 104, 104)|center|normal",
+   "lines": [
+    "For",
+    "presence"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Jin Yuen",
+   "html": "Jin Yuen",
+   "rect": [
+    1085.22,
+    830.59,
+    48.38,
+    18.2
+   ],
+   "font": "Switzer|600|13px|18.2px|-0.26px|rgb(13, 13, 13)|left|normal",
+   "lines": [
+    "Jin"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Founder, Mira",
+   "html": "Founder, Mira",
+   "rect": [
+    1085.22,
+    848.8,
+    78.55,
+    18.2
+   ],
+   "font": "Switzer|600|13px|18.2px|-0.26px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Founder,"
+   ]
+  },
+  {
+   "tag": "h2",
+   "text": "                           Every small brand under-uses its founder. Every small studio does too. Here is why the founder's presence, story, and voice are the most under-leveraged asset in most emerging brands, and what we do on every Mira project to bring the founder back to the surface of the work.",
+   "rect": [
+    853,
+    975,
+    500,
+    158.72
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|justify|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Every",
+    "Every",
+    "presence,",
+    "asset",
+    "Mira",
+    "the"
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "The invisible founder problem",
+   "html": "The invisible founder problem",
+   "rect": [
+    853,
+    1173.72,
+    500,
+    27.5
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "The"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "We work with founders who spend six figures on a rebrand and then refuse to appear anywhere on the site. Their story is the reason the business exists. Their point of view is what the customer is actually buying. And yet the About page shows a stock photo of a laptop on a wooden desk and a paragraph of corporate we-language.",
+   "html": "We work with founders who spend six figures on a rebrand and then refuse to appear anywhere on the site. Their story is the reason the business exists. Their point of view is what the customer is actually buying. And yet the About page shows a stock photo of a laptop on a wooden desk and a paragraph of corporate we-language.",
+   "rect": [
+    853,
+    1221.22,
+    500,
+    108.75
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "We",
+    "appear",
+    "Their",
+    "page",
+    "corporate"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "The pattern is so common we now expect it. Founders are trained by decades of corporate culture to remove themselves from the brand as it grows. That instinct is the opposite of what a small brand actually needs.",
+   "html": "The pattern is so common we now expect it. Founders are trained by decades of corporate culture to remove themselves from the brand as it grows. That instinct is the opposite of what a small brand actually needs.",
+   "rect": [
+    853,
+    1349.97,
+    500,
+    65.25
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "The",
+    "of",
+    "instinct"
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "What the buyer is actually buying",
+   "html": "What the buyer is actually buying",
+   "rect": [
+    853,
+    1455.22,
+    500,
+    27.5
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "What"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "For small brands, the buyer is not just buying the product. They are buying the reason the product exists, and reason has a face. The founder's story is not filler on the About page. It is the credibility engine of the whole brand.",
+   "html": "For small brands, the buyer is not just buying the product. They are buying the reason the product exists, and reason has a face. The founder's story is not filler on the About page. It is the credibility engine of the whole brand.",
+   "rect": [
+    853,
+    1502.72,
+    500,
+    65.25
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "For",
+    "reason",
+    "filler"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "A candle brand from Savannah is more compelling because a real person in Savannah is pouring the candles. A leather workshop in Milan is more compelling because a family in Milan is cutting the leather. Anonymise either brand and the value proposition weakens. Put the founder back in and it strengthens immediately.",
+   "html": "A candle brand from Savannah is more compelling because a real person in Savannah is pouring the candles. A leather workshop in Milan is more compelling because a family in Milan is cutting the leather. Anonymise either brand and the value proposition weakens. Put the founder back in and it strengthens immediately.",
+   "rect": [
+    853,
+    1587.97,
+    500,
+    108.75
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "A",
+    "Savannah",
+    "compelling",
+    "brand",
+    "strengthens"
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "How we surface the founder",
+   "html": "How we surface the founder",
+   "rect": [
+    853,
+    1736.72,
+    500,
+    27.5
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "How"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "On every Mira project, we push for a founder moment near the top of the homepage. A photo, a short story, a signed statement. Not a full About page relocated to the top. Just enough presence to establish that a real person is behind the brand. It changes the emotional register of everything below it.",
+   "html": "On every Mira project, we push for a founder moment near the top of the homepage. A photo, a short story, a signed statement. Not a full About page relocated to the top. Just enough presence to establish that a real person is behind the brand. It changes the emotional register of everything below it.",
+   "rect": [
+    853,
+    1784.22,
+    500,
+    87
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "On",
+    "homepage.",
+    "relocated",
+    "behind"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Some founders resist this at first. They worry it looks unprofessional. It does not. What looks unprofessional is a small brand pretending to be a big one.",
+   "html": "Some founders resist this at first. They worry it looks unprofessional. It does not. What looks unprofessional is a small brand pretending to be a big one.",
+   "rect": [
+    853,
+    1891.22,
+    500,
+    43.5
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Some",
+    "not."
+   ]
+  },
+  {
+   "tag": "h3",
+   "text": "Why this is the unfair advantage",
+   "html": "Why this is the unfair advantage",
+   "rect": [
+    853,
+    1974.72,
+    500,
+    27.5
+   ],
+   "font": "\"Mona Sans Variable\"|400|25px|27.5px|-0.5px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Why"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "The competition is well-funded, well-designed, and personality-free. Big brands cannot use their founders because their founders are usually a board of directors. Small brands can, and most refuse to. That refusal is the single biggest gift small brands hand to their competitors every day.",
+   "html": "The competition is well-funded, well-designed, and personality-free. Big brands cannot use their founders because their founders are usually a board of directors. Small brands can, and most refuse to. That refusal is the single biggest gift small brands hand to their competitors every day.",
+   "rect": [
+    853,
+    2022.22,
+    500,
+    87
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "The",
+    "brands",
+    "of",
+    "biggest"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Show up. Say what you believe. Sign your name. The founder is your unfair advantage. Use them.",
+   "html": "Show up. Say what you believe. Sign your name. The founder is your unfair advantage. Use them.",
+   "rect": [
+    853,
+    2129.22,
+    500,
+    43.5
+   ],
+   "font": "Switzer|600|15px|21.75px|-0.45px|rgb(104, 104, 104)|left|normal",
+   "lines": [
+    "Show",
+    "advantage."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Share",
+   "html": "Share",
+   "rect": [
+    853,
+    2234.02,
+    377,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(104, 104, 104)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Share"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "From the journal",
+   "html": "From the journal",
+   "rect": [
+    425.75,
+    2374.72,
+    105.33,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "From"
+   ]
+  },
+  {
+   "tag": "h2",
+   "text": "More articles.",
+   "rect": [
+    425.75,
+    2412.72,
+    647.5,
+    72
+   ],
+   "font": "\"Mona Sans Variable\"|400|80px|72px|-1.6px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "More"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "View All",
+   "html": "View All",
+   "rect": [
+    1330.64,
+    2464.31,
+    50.36,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "View"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "View All",
+   "html": "View All",
+   "rect": [
+    1330.64,
+    2484.31,
+    50.36,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "View"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Studio Notes)",
+   "html": "(Studio Notes)",
+   "rect": [
+    92,
+    2564.72,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Fewer projects, more attention.",
+   "html": "Fewer projects, more attention.",
+   "rect": [
+    92,
+    2826.56,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Fewer"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "6/15/26",
+   "html": "<time datetime=\"2026-06-15T00:00:00.000Z\">6/15/26</time>",
+   "rect": [
+    92,
+    2858.02,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "6/15/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "6/15/26",
+   "html": "6/15/26",
+   "rect": [
+    92,
+    2856.02,
+    42.44,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "6/15/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Opinion)",
+   "html": "(Opinion)",
+   "rect": [
+    425.75,
+    2564.72,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Opinion)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Awards don't build brands.",
+   "html": "Awards don't build brands.",
+   "rect": [
+    425.75,
+    3024.19,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Awards"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "5/5/26",
+   "html": "<time datetime=\"2026-05-05T00:00:00.000Z\">5/5/26</time>",
+   "rect": [
+    425.75,
+    3055.64,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "5/5/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "5/5/26",
+   "html": "5/5/26",
+   "rect": [
+    425.75,
+    3053.64,
+    37.38,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "5/5/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Process)",
+   "html": "(Process)",
+   "rect": [
+    759.5,
+    2564.72,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Process)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Why we quote fixed.",
+   "html": "Why we quote fixed.",
+   "rect": [
+    759.5,
+    2784.27,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Why"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "4/3/26",
+   "html": "<time datetime=\"2026-04-03T00:00:00.000Z\">4/3/26</time>",
+   "rect": [
+    759.5,
+    2815.72,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "4/3/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "4/3/26",
+   "html": "4/3/26",
+   "rect": [
+    759.5,
+    2813.72,
+    37.64,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "4/3/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Craft)",
+   "html": "(Craft)",
+   "rect": [
+    1093.25,
+    2564.72,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Craft)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "The best type is invisible.",
+   "html": "The best type is invisible.",
+   "rect": [
+    1093.25,
+    3024.34,
+    313.75,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "The"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "3/20/26",
+   "html": "<time datetime=\"2026-03-20T00:00:00.000Z\">3/20/26</time>",
+   "rect": [
+    1093.25,
+    3055.8,
+    313.75,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "3/20/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "3/20/26",
+   "html": "3/20/26",
+   "rect": [
+    1093.25,
+    3053.8,
+    44.11,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "3/20/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": " EST. 2012",
+   "html": " EST. 2012",
+   "rect": [
+    22,
+    775.7,
+    18,
+    51.59
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(255, 255, 255)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "EST."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    89,
+    132.36,
+    73.05,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    89,
+    177.36,
+    73.05,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    89,
+    183.36,
+    122.33,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    89,
+    228.36,
+    122.33,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(6)",
+   "html": "(6)",
+   "rect": [
+    213.33,
+    183.36,
+    13.98,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(245, 45, 15)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(6)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    89,
+    234.36,
+    92.14,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    89,
+    279.36,
+    92.14,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    89,
+    285.36,
+    111.16,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    89,
+    330.36,
+    111.16,
+    44
+   ],
+   "font": "\"Mona Sans Variable\"|400|40px|44px|-0.8px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "let's talk",
+   "html": "let's talk",
+   "rect": [
+    89,
+    369.36,
+    56.33,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(188, 188, 188)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "let's"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    425.75,
+    3233.8,
+    72.19,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    425.75,
+    3258.8,
+    72.19,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(6)",
+   "html": "(6)",
+   "rect": [
+    501.94,
+    3233.8,
+    13.98,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(245, 45, 15)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(6)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    901.52,
+    3233.8,
+    54.36,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    901.52,
+    3258.8,
+    54.36,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    1341.47,
+    3233.8,
+    65.53,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    1341.47,
+    3258.8,
+    65.53,
+    26.45
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "mira",
+   "html": "mira",
+   "rect": [
+    430.76,
+    3431.44,
+    549.97,
+    259.36
+   ],
+   "font": "\"Mona Sans Variable\"|400|231.436px|185.149px|-4.62872px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "mira"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "®",
+   "html": "®",
+   "rect": [
+    950.5,
+    3450.36,
+    27.5,
+    39.49
+   ],
+   "font": "\"Mona Sans Variable\"|400|41.0244px|28.7171px|normal|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "®"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    733.25,
+    3622.38,
+    247.5,
+    67.83
+   ],
+   "font": "Smooch|400|77.7897px|48.2296px|normal|rgb(245, 45, 15)|start|normal",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW.",
+   "rect": [
+    430.75,
+    3720.58,
+    550,
+    79.36
+   ],
+   "font": "\"Mona Sans Variable\"|400|23px|26.45px|-0.23px|rgb(104, 104, 104)|justify|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "A",
+    "fresh",
+    "filler."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Join Now",
+   "html": "Join Now",
+   "rect": [
+    750.78,
+    3852.94,
+    53.97,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Join"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Join Now",
+   "html": "Join Now",
+   "rect": [
+    750.78,
+    3872.94,
+    53.97,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Join"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "By signing up, you’re agreeing to our privacy policy.",
+   "html": "By signing up, you’re agreeing to our <!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../privacy-policy\">privacy policy.</a><!--/$-->",
+   "rect": [
+    450.75,
+    3898.34,
+    371,
+    18.2
+   ],
+   "font": "Switzer|600|13px|18.2px|-0.26px|rgb(104, 104, 104)|start|normal",
+   "lines": [
+    "By"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "legal",
+   "html": "legal",
+   "rect": [
+    425.75,
+    4080.55,
+    32.91,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "legal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Privacy Policy.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../privacy-policy\">Privacy Policy.</a><!--/$-->",
+   "rect": [
+    488.66,
+    4036.55,
+    250.84,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Privacy"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Terms & Conditions.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../terms-conditions\">Terms &amp; Conditions.</a><!--/$-->",
+   "rect": [
+    488.66,
+    4058.55,
+    250.84,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Terms"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Cookies.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"../cookie-policy\">Cookies.</a><!--/$-->",
+   "rect": [
+    488.66,
+    4080.55,
+    250.84,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Cookies."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "let’s talk",
+   "html": "let’s talk",
+   "rect": [
+    1170.44,
+    4080.55,
+    56.56,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "let’s"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "text": "Back to the journalBack to the journal",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    92,
+    33,
+    147.13,
+    20.41
+   ]
+  },
+  {
+   "text": "",
+   "href": "../",
+   "target": null,
+   "rect": [
+    799,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "text": "View AllView All",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    1330.64,
+    2464.31,
+    76.36,
+    20.41
+   ]
+  },
+  {
+   "text": "(Studio Notes)Fewer projects, more attention.6/15/26",
+   "href": "./fewer-projects-more-attention",
+   "target": null,
+   "rect": [
+    92,
+    2564.72,
+    313.75,
+    311.3
+   ]
+  },
+  {
+   "text": "(Opinion)Awards don't build brands.5/5/26",
+   "href": "./awards-dont-build-brands",
+   "target": null,
+   "rect": [
+    425.75,
+    2564.72,
+    313.75,
+    508.92
+   ]
+  },
+  {
+   "text": "(Process)Why we quote fixed.4/3/26",
+   "href": "./why-we-quote-fixed",
+   "target": null,
+   "rect": [
+    759.5,
+    2564.72,
+    313.75,
+    269
+   ]
+  },
+  {
+   "text": "(Craft)The best type is invisible.3/20/26",
+   "href": "./the-best-type-is-invisible",
+   "target": null,
+   "rect": [
+    1093.25,
+    2564.72,
+    313.75,
+    509.08
+   ]
+  },
+  {
+   "text": "",
+   "href": "../",
+   "target": null,
+   "rect": [
+    89,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "text": "HomeHome",
+   "href": "../",
+   "target": null,
+   "rect": [
+    89,
+    132.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "projectsprojects(6)",
+   "href": "../projects",
+   "target": null,
+   "rect": [
+    89,
+    183.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "StudioStudio",
+   "href": "../studio",
+   "target": null,
+   "rect": [
+    89,
+    234.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "JournalJournal",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    89,
+    285.36,
+    377,
+    44
+   ]
+  },
+  {
+   "text": "",
+   "href": "../contact",
+   "target": null,
+   "rect": [
+    89,
+    402.36,
+    150,
+    42
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "../",
+   "target": null,
+   "rect": [
+    92,
+    3237.34,
+    70,
+    19.36
+   ]
+  },
+  {
+   "text": "projectsprojects(6)",
+   "href": "../projects",
+   "target": null,
+   "rect": [
+    425.75,
+    3233.8,
+    90.17,
+    26.45
+   ]
+  },
+  {
+   "text": "StudioStudio",
+   "href": "../studio",
+   "target": null,
+   "rect": [
+    901.52,
+    3233.8,
+    54.36,
+    26.45
+   ]
+  },
+  {
+   "text": "JournalJournal",
+   "href": "../journal",
+   "target": null,
+   "rect": [
+    1341.47,
+    3233.8,
+    65.53,
+    26.45
+   ]
+  },
+  {
+   "text": "privacy policy.",
+   "href": "../privacy-policy",
+   "target": null,
+   "rect": [
+    659.47,
+    3899.34,
+    81.41,
+    16
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "rect": [
+    92,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "rect": [
+    124,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "rect": [
+    156,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "rect": [
+    188,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "Privacy Policy.",
+   "href": "../privacy-policy",
+   "target": null,
+   "rect": [
+    488.66,
+    4034.55,
+    90.09,
+    21
+   ]
+  },
+  {
+   "text": "Terms & Conditions.",
+   "href": "../terms-conditions",
+   "target": null,
+   "rect": [
+    488.66,
+    4056.55,
+    120.8,
+    21
+   ]
+  },
+  {
+   "text": "Cookies.",
+   "href": "../cookie-policy",
+   "target": null,
+   "rect": [
+    488.66,
+    4078.55,
+    50.36,
+    21
+   ]
+  },
+  {
+   "text": "",
+   "href": "../contact",
+   "target": null,
+   "rect": [
+    1257,
+    4056.55,
+    150,
+    42
+   ]
+  }
+ ],
+ "imgs": [
+  {
+   "src": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg?width=1360&height=2040",
+   "alt": "Blurred colorful flower against a grey background",
+   "sizes": "(min-width: 1200px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw, (max-width: 809.98px) max(calc(max(max(100vw, 1px) - 6px, 1px) / 2), calc(max(max(100vw, 1px) - 6px, 1px) + 0.5px))",
+   "rect": [
+    237.25,
+    187.13,
+    350.5,
+    525.75
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg?width=1360&height=2040",
+   "alt": "Blurred colorful flower against a grey background",
+   "sizes": "(min-width: 1200px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw, (max-width: 809.98px) max(calc(max(max(100vw, 1px) - 6px, 1px) / 2), calc(max(max(100vw, 1px) - 6px, 1px) + 0.5px))",
+   "rect": [
+    54.99,
+    -5.94,
+    715.02,
+    911.88
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg?width=655&height=872",
+   "alt": "Portrait of Jin Yuen",
+   "sizes": "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+   "rect": [
+    1042.22,
+    832.8,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    92,
+    2592.72,
+    313.75,
+    218.84
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    92,
+    2592.72,
+    313.75,
+    218.84
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    425.75,
+    2592.72,
+    313.75,
+    416.47
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    425.75,
+    2592.72,
+    313.75,
+    416.47
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    759.5,
+    2592.72,
+    313.75,
+    176.55
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    759.5,
+    2592.71,
+    313.75,
+    176.55
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    1093.25,
+    2592.72,
+    313.75,
+    416.63
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))",
+   "rect": [
+    1093.25,
+    2592.72,
+    313.75,
+    416.63
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px",
+   "rect": [
+    94,
+    407.36,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px",
+   "rect": [
+    1262,
+    4061.55,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  }
+ ],
+ "buttons": [
+  {
+   "aria": "Share on Twitter",
+   "rect": [
+    1246,
+    2234.72,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": "Share on LinkedIn",
+   "rect": [
+    1275,
+    2234.72,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": "Share on Email",
+   "rect": [
+    1304,
+    2234.72,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": "Copy URL to clipboard",
+   "rect": [
+    1333,
+    2234.72,
+    19,
+    19
+   ],
+   "style": "display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0;padding:0px;border-radius:0px;cursor:pointer;transition:all 0.2s ease;background-color:rgba(18, 18, 18, 0);border:1px solid rgba(43, 43, 43, 0);min-width:17px;min-height:17px"
+  },
+  {
+   "aria": null,
+   "rect": [
+    737.78,
+    3843.94,
+    79.97,
+    38.41
+   ],
+   "style": "opacity:0.75"
+  }
+ ],
+ "body": [
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "The invisible founder problem"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "We work with founders who spend six figures on a rebrand and then refuse to appear anywhere on the site. Their story is the reason the business exists. Their point of view is what the customer is actually buying. And yet the About page shows a stock photo of a laptop on a wooden desk and a paragraph of corporate we-language."
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "The pattern is so common we now expect it. Founders are trained by decades of corporate culture to remove themselves from the brand as it grows. That instinct is the opposite of what a small brand actually needs."
+  },
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "What the buyer is actually buying"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "For small brands, the buyer is not just buying the product. They are buying the reason the product exists, and reason has a face. The founder's story is not filler on the About page. It is the credibility engine of the whole brand."
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "A candle brand from Savannah is more compelling because a real person in Savannah is pouring the candles. A leather workshop in Milan is more compelling because a family in Milan is cutting the leather. Anonymise either brand and the value proposition weakens. Put the founder back in and it strengthens immediately."
+  },
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "How we surface the founder"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "On every Mira project, we push for a founder moment near the top of the homepage. A photo, a short story, a signed statement. Not a full About page relocated to the top. Just enough presence to establish that a real person is behind the brand. It changes the emotional register of everything below it."
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "Some founders resist this at first. They worry it looks unprofessional. It does not. What looks unprofessional is a small brand pretending to be a big one."
+  },
+  {
+   "tag": "h3",
+   "cls": "framer-text framer-styles-preset-lrueyv",
+   "html": "Why this is the unfair advantage"
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "The competition is well-funded, well-designed, and personality-free. Big brands cannot use their founders because their founders are usually a board of directors. Small brands can, and most refuse to. That refusal is the single biggest gift small brands hand to their competitors every day."
+  },
+  {
+   "tag": "p",
+   "cls": "framer-text framer-styles-preset-zesxvw",
+   "html": "Show up. Say what you believe. Sign your name. The founder is your unfair advantage. Use them."
+  }
+ ],
+ "cardLinks": [],
+ "named": [
+  {
+   "name": "Main",
+   "tag": "main",
+   "cls": "framer-1vg7lwo",
+   "rect": [
+    0,
+    0,
+    1440,
+    3193.8
+   ]
+  },
+  {
+   "name": "Spacer",
+   "tag": "div",
+   "cls": "framer-yXQrW.framer-gmtdri.framer-v-gmtdri",
+   "rect": [
+    0,
+    0,
+    59,
+    800
+   ]
+  },
+  {
+   "name": "Content",
+   "tag": "div",
+   "cls": "framer-1qf3ckv",
+   "rect": [
+    59,
+    0,
+    1381,
+    3193.8
+   ]
+  },
+  {
+   "name": "Article",
+   "tag": "div",
+   "cls": "framer-h6sr5n",
+   "rect": [
+    59,
+    0,
+    1381,
+    2254.72
+   ]
+  },
+  {
+   "name": "Article Image Container",
+   "tag": "div",
+   "cls": "framer-l5ij9y",
+   "rect": [
+    59,
+    0,
+    707,
+    900
+   ]
+  },
+  {
+   "name": "BG Outer Container",
+   "tag": "div",
+   "cls": "framer-1r2jzgf",
+   "rect": [
+    59,
+    0,
+    707,
+    900
+   ]
+  },
+  {
+   "name": "BG",
+   "tag": "div",
+   "cls": "framer-1tq3yyt",
+   "rect": [
+    62,
+    3,
+    701,
+    894
+   ]
+  },
+  {
+   "name": "Dark overlay",
+   "tag": "div",
+   "cls": "framer-1auuop6",
+   "rect": [
+    62,
+    3,
+    701,
+    894
+   ]
+  },
+  {
+   "name": "Middle Image",
+   "tag": "div",
+   "cls": "framer-1pw0cc0",
+   "rect": [
+    237.25,
+    187.13,
+    350.5,
+    525.75
+   ]
+  },
+  {
+   "name": "BG Image",
+   "tag": "div",
+   "cls": "framer-54cq2o",
+   "rect": [
+    54.99,
+    -5.94,
+    715.02,
+    911.88
+   ]
+  },
+  {
+   "name": "Desktop - Left",
+   "tag": "a",
+   "cls": "framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-ra0to2.framer-ghew07",
+   "rect": [
+    92,
+    33,
+    147.13,
+    20.41
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-1dzfdpz",
+   "rect": [
+    118,
+    33,
+    121.13,
+    20.41
+   ]
+  },
+  {
+   "name": "Top Text",
+   "tag": "div",
+   "cls": "framer-zixbhw",
+   "rect": [
+    118,
+    33,
+    121.13,
+    20.41
+   ]
+  },
+  {
+   "name": "Chevron",
+   "tag": "div",
+   "cls": "framer-73np5u",
+   "rect": [
+    92,
+    34.7,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Right",
+   "tag": "div",
+   "cls": "framer-k3jgni",
+   "rect": [
+    766,
+    0,
+    674,
+    2254.72
+   ]
+  },
+  {
+   "name": "Article Info",
+   "tag": "section",
+   "cls": "framer-12itxgr",
+   "rect": [
+    766,
+    0,
+    674,
+    900
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-10eegt",
+   "rect": [
+    766,
+    0,
+    674,
+    900
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "header",
+   "cls": "framer-oboj65",
+   "rect": [
+    799,
+    33,
+    608,
+    69.36
+   ]
+  },
+  {
+   "name": "Link Container",
+   "tag": "a",
+   "cls": "framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1",
+   "rect": [
+    799,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-SHtMX.framer-7h3po8",
+   "rect": [
+    799,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Article Info",
+   "tag": "div",
+   "cls": "framer-1dg35ov",
+   "rect": [
+    799,
+    324.48,
+    608,
+    234
+   ]
+  },
+  {
+   "name": "Title / Category",
+   "tag": "div",
+   "cls": "framer-1o27bn4",
+   "rect": [
+    799,
+    324.48,
+    608,
+    172
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-12cy8up",
+   "rect": [
+    1075.89,
+    324.48,
+    54.22,
+    18
+   ]
+  },
+  {
+   "name": "Title",
+   "tag": "div",
+   "cls": "framer-ust23z",
+   "rect": [
+    878,
+    352.48,
+    450,
+    144
+   ]
+  },
+  {
+   "name": "Description",
+   "tag": "div",
+   "cls": "framer-1sun04h",
+   "rect": [
+    943,
+    516.48,
+    320,
+    42
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-1vgsstc",
+   "rect": [
+    799,
+    780.59,
+    608,
+    86.41
+   ]
+  },
+  {
+   "name": "Author",
+   "tag": "div",
+   "cls": "framer-QRwP7.framer-QoPvp.framer-1kijlsy.framer-v-1kijlsy",
+   "rect": [
+    1042.22,
+    830.59,
+    121.55,
+    36.41
+   ]
+  },
+  {
+   "name": "Name / Role",
+   "tag": "div",
+   "cls": "framer-lpw2kj",
+   "rect": [
+    1085.22,
+    830.59,
+    78.55,
+    36.41
+   ]
+  },
+  {
+   "name": "Article Content",
+   "tag": "article",
+   "cls": "framer-1q4xdhe",
+   "rect": [
+    766,
+    915,
+    674,
+    1339.72
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-4d8yer",
+   "rect": [
+    766,
+    975,
+    674,
+    1279.72
+   ]
+  },
+  {
+   "name": "Intro Header",
+   "tag": "div",
+   "cls": "framer-2y3bst",
+   "rect": [
+    853,
+    975,
+    500,
+    158.72
+   ]
+  },
+  {
+   "name": "Content / Share",
+   "tag": "div",
+   "cls": "framer-kwv38q",
+   "rect": [
+    853,
+    1173.72,
+    500,
+    1081
+   ]
+  },
+  {
+   "name": "Content",
+   "tag": "div",
+   "cls": "framer-1tn62t5",
+   "rect": [
+    853,
+    1173.72,
+    500,
+    999
+   ]
+  },
+  {
+   "name": "Divider",
+   "tag": "div",
+   "cls": "framer-18wmlps",
+   "rect": [
+    853,
+    2202.72,
+    500,
+    1
+   ]
+  },
+  {
+   "name": "Share",
+   "tag": "div",
+   "cls": "framer-1gay0sq",
+   "rect": [
+    853,
+    2233.72,
+    500,
+    21
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-fxu2zp",
+   "rect": [
+    853,
+    2234.02,
+    377,
+    20.41
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "section",
+   "cls": "framer-azsrl.framer-LubW4.framer-1m7l3gw.framer-v-1m7l3gw",
+   "rect": [
+    59,
+    2254.72,
+    1381,
+    939.08
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-1fq9aj0",
+   "rect": [
+    59,
+    2374.72,
+    1381,
+    699.08
+   ]
+  },
+  {
+   "name": "Label / Heading",
+   "tag": "div",
+   "cls": "framer-t0gxtr",
+   "rect": [
+    92,
+    2374.72,
+    1315,
+    110
+   ]
+  },
+  {
+   "name": "Filler",
+   "tag": "div",
+   "cls": "framer-nqgxp3",
+   "rect": [
+    92,
+    2374.72,
+    313.75,
+    1
+   ]
+  },
+  {
+   "name": "Label / Heading",
+   "tag": "div",
+   "cls": "framer-srsset",
+   "rect": [
+    425.75,
+    2374.72,
+    647.5,
+    110
+   ]
+  },
+  {
+   "name": "Label",
+   "tag": "div",
+   "cls": "framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4",
+   "rect": [
+    425.75,
+    2374.72,
+    105.33,
+    18
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-moe5to",
+   "rect": [
+    425.75,
+    2374.72,
+    105.33,
+    18
+   ]
+  },
+  {
+   "name": "Desktop - Right",
+   "tag": "a",
+   "cls": "framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-q8hg74.framer-ghew07",
+   "rect": [
+    1330.64,
+    2464.31,
+    76.36,
+    20.41
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-1dzfdpz",
+   "rect": [
+    1330.64,
+    2464.31,
+    50.36,
+    20.41
+   ]
+  },
+  {
+   "name": "Top Text",
+   "tag": "div",
+   "cls": "framer-zixbhw",
+   "rect": [
+    1330.64,
+    2464.31,
+    50.36,
+    20.41
+   ]
+  },
+  {
+   "name": "Chevron",
+   "tag": "div",
+   "cls": "framer-73np5u",
+   "rect": [
+    1390,
+    2466.02,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    92,
+    2564.72,
+    313.75,
+    311.3
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    92,
+    2564.72,
+    313.75,
+    246.84
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    92,
+    2564.72,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    92,
+    2592.72,
+    313.75,
+    218.84
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    92,
+    2592.72,
+    313.75,
+    218.84
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    92,
+    2826.56,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    92,
+    2858.02,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    425.75,
+    2564.72,
+    313.75,
+    508.92
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    425.75,
+    2564.72,
+    313.75,
+    444.47
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    425.75,
+    2564.72,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    425.75,
+    2592.72,
+    313.75,
+    416.47
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    425.75,
+    2592.72,
+    313.75,
+    416.47
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    425.75,
+    3024.19,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    425.75,
+    3055.64,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    759.5,
+    2564.72,
+    313.75,
+    269
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    759.5,
+    2564.72,
+    313.75,
+    204.55
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    759.5,
+    2564.72,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    759.5,
+    2592.72,
+    313.75,
+    176.55
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    759.5,
+    2592.72,
+    313.75,
+    176.55
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    759.5,
+    2784.27,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    759.5,
+    2815.72,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23",
+   "rect": [
+    1093.25,
+    2564.72,
+    313.75,
+    509.08
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    1093.25,
+    2564.72,
+    313.75,
+    444.63
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    1093.25,
+    2564.72,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    1093.25,
+    2592.72,
+    313.75,
+    416.63
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    1093.25,
+    2592.72,
+    313.75,
+    416.63
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    1093.25,
+    3024.34,
+    313.75,
+    49.45
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    1093.25,
+    3055.8,
+    313.75,
+    18
+   ]
+  },
+  {
+   "name": "Shared Navigation",
+   "tag": "div",
+   "cls": "framer-9ihltw-container",
+   "rect": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  {
+   "name": "Desktop - Closed",
+   "tag": "div",
+   "cls": "framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-l44v03",
+   "rect": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  {
+   "name": "Side Nav",
+   "tag": "nav",
+   "cls": "framer-3der5",
+   "rect": [
+    3,
+    3,
+    56,
+    894
+   ]
+  },
+  {
+   "name": "SideBar",
+   "tag": "div",
+   "cls": "framer-1wba9e6",
+   "rect": [
+    3,
+    3,
+    56,
+    894
+   ]
+  },
+  {
+   "name": "Closed",
+   "tag": "div",
+   "cls": "framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn",
+   "rect": [
+    23,
+    33,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Hamburger",
+   "tag": "div",
+   "cls": "framer-t6cidc",
+   "rect": [
+    23,
+    33,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-19kq29j",
+   "rect": [
+    23,
+    33,
+    16,
+    7
+   ]
+  },
+  {
+   "name": "1",
+   "tag": "div",
+   "cls": "framer-ij8d5t",
+   "rect": [
+    23,
+    33,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "2",
+   "tag": "div",
+   "cls": "framer-1oucckw",
+   "rect": [
+    32,
+    33,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-17en59d",
+   "rect": [
+    23,
+    42,
+    16,
+    7
+   ]
+  },
+  {
+   "name": "3",
+   "tag": "div",
+   "cls": "framer-1ihbq2i",
+   "rect": [
+    23,
+    42,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "4",
+   "tag": "div",
+   "cls": "framer-xca395",
+   "rect": [
+    32,
+    42,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "Variant 1",
+   "tag": "div",
+   "cls": "framer-D1HnP.framer-Me6vv.framer-1875b8x.framer-v-1875b8x",
+   "rect": [
+    15,
+    768.7,
+    32,
+    96.59
+   ]
+  },
+  {
+   "name": "Globe",
+   "tag": "div",
+   "cls": "framer-x2q9so",
+   "rect": [
+    15,
+    834.3,
+    32,
+    31
+   ]
+  },
+  {
+   "name": "Text",
+   "tag": "div",
+   "cls": "framer-6xha2i",
+   "rect": [
+    15,
+    768.7,
+    32,
+    65.59
+   ]
+  },
+  {
+   "name": "Menu",
+   "tag": "div",
+   "cls": "framer-tk3v71",
+   "rect": [
+    59,
+    3,
+    437,
+    894
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-19orxsl",
+   "rect": [
+    89,
+    33,
+    377,
+    411.36
+   ]
+  },
+  {
+   "name": "Link Container",
+   "tag": "a",
+   "cls": "framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1",
+   "rect": [
+    89,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-1xjrc.framer-7h3po8",
+   "rect": [
+    89,
+    33,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Nav. Items",
+   "tag": "div",
+   "cls": "framer-c5vrme",
+   "rect": [
+    89,
+    132.36,
+    377,
+    312
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-Z2aNj.framer-fvp1dl.framer-v-fvp1dl",
+   "rect": [
+    89,
+    132.36,
+    377,
+    197
+   ]
+  },
+  {
+   "name": "Home",
+   "tag": "div",
+   "cls": "framer-ade1jf-container",
+   "rect": [
+    89,
+    132.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    132.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Projects",
+   "tag": "div",
+   "cls": "framer-f4luyz-container",
+   "rect": [
+    89,
+    183.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    183.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Count Text",
+   "tag": "div",
+   "cls": "framer-12mewa9",
+   "rect": [
+    213.33,
+    183.36,
+    13.98,
+    18
+   ]
+  },
+  {
+   "name": "Studio",
+   "tag": "div",
+   "cls": "framer-1kxedq2-container",
+   "rect": [
+    89,
+    234.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    234.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Journal",
+   "tag": "div",
+   "cls": "framer-9r7k9d-container",
+   "rect": [
+    89,
+    285.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Large",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077",
+   "rect": [
+    89,
+    285.36,
+    377,
+    44
+   ]
+  },
+  {
+   "name": "Contact",
+   "tag": "div",
+   "cls": "framer-3g7ymn",
+   "rect": [
+    89,
+    369.36,
+    377,
+    75
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug",
+   "rect": [
+    89,
+    402.36,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Button",
+   "tag": "div",
+   "cls": "framer-dczzwc",
+   "rect": [
+    89,
+    402.36,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Picture",
+   "tag": "div",
+   "cls": "framer-154bepi",
+   "rect": [
+    94,
+    407.36,
+    32,
+    32
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-5dotip",
+   "rect": [
+    89,
+    758.81,
+    377,
+    108.19
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-shGv8.framer-4tnhfa.framer-v-4tnhfa",
+   "rect": [
+    89,
+    798.81,
+    377,
+    17
+   ]
+  },
+  {
+   "name": "X",
+   "tag": "div",
+   "cls": "framer-17kf78c-container",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-LAEqS.framer-1fo7tgr",
+   "rect": [
+    89,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "IG",
+   "tag": "div",
+   "cls": "framer-1smje0b-container",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-uZnUQ.framer-1fo7tgr",
+   "rect": [
+    121,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Dribbble",
+   "tag": "div",
+   "cls": "framer-t1kefs-container",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-K6Gdb.framer-1fo7tgr",
+   "rect": [
+    153,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Behance",
+   "tag": "div",
+   "cls": "framer-1cdugcb-container",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-lYLYO.framer-1fo7tgr",
+   "rect": [
+    185,
+    798.81,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Left Border",
+   "tag": "div",
+   "cls": "framer-1sxc0wu",
+   "rect": [
+    59,
+    3,
+    1,
+    894
+   ]
+  },
+  {
+   "name": "Footer",
+   "tag": "div",
+   "cls": "framer-ubdqd9",
+   "rect": [
+    0,
+    3193.8,
+    1440,
+    944.75
+   ]
+  },
+  {
+   "name": "Navigation Spacer",
+   "tag": "div",
+   "cls": "framer-fhqei7-container",
+   "rect": [
+    0,
+    3193.8,
+    59,
+    944.75
+   ]
+  },
+  {
+   "name": "Spacer",
+   "tag": "div",
+   "cls": "framer-yXQrW.framer-gmtdri.framer-v-gmtdri",
+   "rect": [
+    0,
+    3193.8,
+    59,
+    944.75
+   ]
+  },
+  {
+   "name": "Footer",
+   "tag": "section",
+   "cls": "framer-1064shm",
+   "rect": [
+    59,
+    3193.8,
+    1381,
+    944.75
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-aqqavh",
+   "rect": [
+    59,
+    3233.8,
+    1381,
+    864.75
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-112av23",
+   "rect": [
+    92,
+    3233.8,
+    1315,
+    26.45
+   ]
+  },
+  {
+   "name": "Shared Navigation Logo",
+   "tag": "div",
+   "cls": "framer-1e616zs-container",
+   "rect": [
+    92,
+    3237.34,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Link Container",
+   "tag": "a",
+   "cls": "framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1",
+   "rect": [
+    92,
+    3237.34,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-SHtMX.framer-7h3po8",
+   "rect": [
+    92,
+    3237.34,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Shared Navigation Links",
+   "tag": "div",
+   "cls": "framer-3m3d8l-container",
+   "rect": [
+    425.75,
+    3233.8,
+    981.25,
+    26.45
+   ]
+  },
+  {
+   "name": "Desktop - Top",
+   "tag": "div",
+   "cls": "framer-Z2aNj.framer-fvp1dl.framer-v-1fd22pg",
+   "rect": [
+    425.75,
+    3233.8,
+    981.25,
+    26.45
+   ]
+  },
+  {
+   "name": "Projects",
+   "tag": "div",
+   "cls": "framer-f4luyz-container",
+   "rect": [
+    425.75,
+    3233.8,
+    90.17,
+    26.45
+   ]
+  },
+  {
+   "name": "Small",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077",
+   "rect": [
+    425.75,
+    3233.8,
+    90.17,
+    26.45
+   ]
+  },
+  {
+   "name": "Count Text",
+   "tag": "div",
+   "cls": "framer-12mewa9",
+   "rect": [
+    501.94,
+    3233.8,
+    13.98,
+    18
+   ]
+  },
+  {
+   "name": "Studio",
+   "tag": "div",
+   "cls": "framer-1kxedq2-container",
+   "rect": [
+    901.52,
+    3233.8,
+    54.36,
+    26.45
+   ]
+  },
+  {
+   "name": "Small",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077",
+   "rect": [
+    901.52,
+    3233.8,
+    54.36,
+    26.45
+   ]
+  },
+  {
+   "name": "Journal",
+   "tag": "div",
+   "cls": "framer-9r7k9d-container",
+   "rect": [
+    1341.47,
+    3233.8,
+    65.53,
+    26.45
+   ]
+  },
+  {
+   "name": "Small",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077",
+   "rect": [
+    1341.47,
+    3233.8,
+    65.53,
+    26.45
+   ]
+  },
+  {
+   "name": "Middle",
+   "tag": "div",
+   "cls": "framer-10uqj7m",
+   "rect": [
+    92,
+    3380.25,
+    1315,
+    536.3
+   ]
+  },
+  {
+   "name": "Filler",
+   "tag": "div",
+   "cls": "framer-11fuqsj",
+   "rect": [
+    92,
+    3380.25,
+    298.75,
+    74
+   ]
+  },
+  {
+   "name": "Text Container",
+   "tag": "div",
+   "cls": "framer-10tu5xj",
+   "rect": [
+    430.75,
+    3380.25,
+    976.25,
+    536.3
+   ]
+  },
+  {
+   "name": "Copyright Notice",
+   "tag": "div",
+   "cls": "framer-1j72mo7-container",
+   "rect": [
+    430.75,
+    3380.25,
+    96.94,
+    31.19
+   ]
+  },
+  {
+   "name": "Name / Description",
+   "tag": "div",
+   "cls": "framer-odwucj",
+   "rect": [
+    430.75,
+    3431.44,
+    550,
+    485.11
+   ]
+  },
+  {
+   "name": "Name",
+   "tag": "div",
+   "cls": "framer-ab2qu1",
+   "rect": [
+    430.75,
+    3431.44,
+    550,
+    259.14
+   ]
+  },
+  {
+   "name": "Name / R Symbol",
+   "tag": "div",
+   "cls": "framer-g8f7gt",
+   "rect": [
+    430.75,
+    3431.44,
+    550,
+    259.14
+   ]
+  },
+  {
+   "name": "Footer Logo Name",
+   "tag": "svg",
+   "cls": "framer-ibnepj",
+   "rect": [
+    430.75,
+    3431.44,
+    550,
+    259.14
+   ]
+  },
+  {
+   "name": "R Symbol",
+   "tag": "div",
+   "cls": "framer-grnsur",
+   "rect": [
+    950.5,
+    3450.36,
+    27.5,
+    39.88
+   ]
+  },
+  {
+   "name": "Footer Logo Trademark",
+   "tag": "svg",
+   "cls": "framer-hhlsu5",
+   "rect": [
+    950.5,
+    3450.36,
+    27.5,
+    39.88
+   ]
+  },
+  {
+   "name": "Footer Logo Descriptor",
+   "tag": "svg",
+   "cls": "framer-1xn72o7",
+   "rect": [
+    733.25,
+    3622.38,
+    247.5,
+    68.2
+   ]
+  },
+  {
+   "name": "Description / Newsletter",
+   "tag": "div",
+   "cls": "framer-tr2r27",
+   "rect": [
+    430.75,
+    3720.58,
+    550,
+    195.97
+   ]
+  },
+  {
+   "name": "Newsletter Introduction",
+   "tag": "div",
+   "cls": "framer-23fpvw",
+   "rect": [
+    430.75,
+    3720.58,
+    550,
+    79.36
+   ]
+  },
+  {
+   "name": "Newsletter Signup",
+   "tag": "form",
+   "cls": "framer-1lnl6jg",
+   "rect": [
+    430.75,
+    3839.94,
+    391,
+    76.61
+   ]
+  },
+  {
+   "name": "Input / Button",
+   "tag": "div",
+   "cls": "framer-199g2yg",
+   "rect": [
+    430.75,
+    3839.94,
+    391,
+    46.41
+   ]
+  },
+  {
+   "name": "Newsletter Form Group",
+   "tag": "label",
+   "cls": "framer-1t2u8aq",
+   "rect": [
+    434.75,
+    3843.94,
+    293.03,
+    38.41
+   ]
+  },
+  {
+   "name": "Newsletter Email Input",
+   "tag": "div",
+   "cls": "framer-form-text-input.framer-form-input-wrapper.framer-1dpa36t",
+   "rect": [
+    434.75,
+    3843.94,
+    293.03,
+    38.41
+   ]
+  },
+  {
+   "name": "Newsletter Submit Button",
+   "tag": "div",
+   "cls": "framer-s7u2da-container",
+   "rect": [
+    737.78,
+    3843.94,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "Incomplete",
+   "tag": "button",
+   "cls": "framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw",
+   "rect": [
+    737.78,
+    3843.94,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "BG Color",
+   "tag": "div",
+   "cls": "framer-17skh7b",
+   "rect": [
+    737.78,
+    3843.94,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "btn text",
+   "tag": "div",
+   "cls": "framer-71e8ti",
+   "rect": [
+    750.78,
+    3852.94,
+    53.97,
+    20.41
+   ]
+  },
+  {
+   "name": "top",
+   "tag": "div",
+   "cls": "framer-1gm2ya6",
+   "rect": [
+    750.78,
+    3852.94,
+    53.97,
+    20.41
+   ]
+  },
+  {
+   "name": "Spinner",
+   "tag": "div",
+   "cls": "framer-pEZXs.framer-7sj87n.framer-v-7sj87n",
+   "rect": [
+    769.77,
+    3855.52,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Spinner",
+   "tag": "div",
+   "cls": "framer-1yqlm52",
+   "rect": [
+    769.77,
+    3855.52,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Agree to terms",
+   "tag": "label",
+   "cls": "framer-169r9xi",
+   "rect": [
+    430.75,
+    3898.34,
+    391,
+    18.2
+   ]
+  },
+  {
+   "name": "Newsletter Consent Checkbox",
+   "tag": "input",
+   "cls": "framer-form-boolean-input.framer-1qlsdo5",
+   "rect": [
+    430.75,
+    3900.94,
+    13,
+    13
+   ]
+  },
+  {
+   "name": "Newsletter Consent Copy",
+   "tag": "div",
+   "cls": "framer-1rl9j96",
+   "rect": [
+    450.75,
+    3898.34,
+    371,
+    18.2
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-1nbmjrz",
+   "rect": [
+    92,
+    4036.55,
+    1315,
+    62
+   ]
+  },
+  {
+   "name": "Footer Social Links",
+   "tag": "div",
+   "cls": "framer-sfsj97-container",
+   "rect": [
+    92,
+    4081.55,
+    113,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-shGv8.framer-4tnhfa.framer-v-4tnhfa",
+   "rect": [
+    92,
+    4081.55,
+    113,
+    17
+   ]
+  },
+  {
+   "name": "X",
+   "tag": "div",
+   "cls": "framer-17kf78c-container",
+   "rect": [
+    92,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    92,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    92,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-LAEqS.framer-1fo7tgr",
+   "rect": [
+    92,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "IG",
+   "tag": "div",
+   "cls": "framer-1smje0b-container",
+   "rect": [
+    124,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    124,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    124,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-uZnUQ.framer-1fo7tgr",
+   "rect": [
+    124,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Dribbble",
+   "tag": "div",
+   "cls": "framer-t1kefs-container",
+   "rect": [
+    156,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    156,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    156,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-K6Gdb.framer-1fo7tgr",
+   "rect": [
+    156,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Behance",
+   "tag": "div",
+   "cls": "framer-1cdugcb-container",
+   "rect": [
+    188,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    188,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    188,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-lYLYO.framer-1fo7tgr",
+   "rect": [
+    188,
+    4081.55,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Legal",
+   "tag": "div",
+   "cls": "framer-18r9k2i",
+   "rect": [
+    425.75,
+    4036.55,
+    313.75,
+    62
+   ]
+  },
+  {
+   "name": "Legal Navigation Link",
+   "tag": "div",
+   "cls": "framer-s03u8i",
+   "rect": [
+    425.75,
+    4080.55,
+    32.91,
+    18
+   ]
+  },
+  {
+   "name": "Footer Contact Link Group",
+   "tag": "div",
+   "cls": "framer-14oqxd3",
+   "rect": [
+    488.66,
+    4036.55,
+    250.84,
+    62
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    488.66,
+    4036.55,
+    250.84,
+    18
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    488.66,
+    4058.55,
+    250.84,
+    18
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    488.66,
+    4080.55,
+    250.84,
+    18
+   ]
+  },
+  {
+   "name": "Contact",
+   "tag": "div",
+   "cls": "framer-1eth1vs",
+   "rect": [
+    1170.44,
+    4056.55,
+    236.56,
+    42
+   ]
+  },
+  {
+   "name": "Footer Contact Link",
+   "tag": "div",
+   "cls": "framer-yzm327",
+   "rect": [
+    1170.44,
+    4080.55,
+    56.56,
+    18
+   ]
+  },
+  {
+   "name": "Footer Contact Button",
+   "tag": "div",
+   "cls": "framer-9685jw-container",
+   "rect": [
+    1257,
+    4056.55,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "a",
+   "cls": "framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug",
+   "rect": [
+    1257,
+    4056.55,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Button",
+   "tag": "div",
+   "cls": "framer-dczzwc",
+   "rect": [
+    1257,
+    4056.55,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Picture",
+   "tag": "div",
+   "cls": "framer-154bepi",
+   "rect": [
+    1262,
+    4061.55,
+    32,
+    32
+   ]
+  }
+ ]
+}

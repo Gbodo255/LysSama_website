@@ -1,0 +1,1343 @@
+<div . [id=main]
+  <div .framer-eYdsD.framer-yTVl5.framer-QoPvp.framer-UVrHC.framer-Me6vv.framer-1e6htkk [data-framer-cursor=19wcnfu]
+    <div .framer-eegra.framer-Me6vv.framer-0dCId.framer-laVYw.framer-yTVl5.framer-v0AwH.framer-2idDo.framer-xYkzt.framer-UVrHC.framer-bH6LT.framer-uLP0Q.framer-LlsZh.framer-khCxy.framer-163lh2b
+      <div "Lenis Smooth Scroll" .framer-1177xuw-container
+      <main "Main" .framer-1vg7lwo
+        <div .framer-3xbfd8-container.hidden-1dpavhp
+          <div "Spacer" .framer-yXQrW.framer-gmtdri.framer-v-gmtdri
+        <div "Content" .framer-1qf3ckv
+          <div "Article" .framer-h6sr5n
+            <div "Article Image Container" .framer-l5ij9y
+              <div "BG Outer Container" .framer-1r2jzgf
+                <div "BG" .framer-1tq3yyt
+                  <div "Dark overlay" .framer-1auuop6
+                  <div .ssr-variant.hidden-1dpavhp
+                    <div "Middle Image" .framer-1pw0cc0
+                      <div .
+                        <img .
+                  <div .ssr-variant.hidden-163lh2b.hidden-1atwfmo
+                    <div "Middle Image" .framer-1pw0cc0
+                      <div .
+                        <img .
+                  <div .ssr-variant.hidden-1dpavhp
+                    <div "BG Image" .framer-54cq2o
+                      <div .
+                        <img .
+                  <div .ssr-variant.hidden-163lh2b.hidden-1atwfmo
+                    <div "BG Image" .framer-54cq2o
+                      <div .
+                        <img .
+              <div .ssr-variant.hidden-1dpavhp
+                <div .framer-vd6m2l-container
+                  <div .ssr-variant.hidden-1atwfmo
+                    <a "Desktop - Left" .framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-ra0to2.framer-ghew07 [href=../journal]
+                      <div "Text" .framer-1dzfdpz
+                        <div "Top Text" .framer-zixbhw
+                          <p .framer-text.framer-styles-preset-k5mxv3 :: "Back to the journal"
+                        <div "Bottom Text" .framer-1396mtp
+                          <p .framer-text.framer-styles-preset-k5mxv3 :: "Back to the journal"
+                      <div "Chevron" .framer-73np5u
+                  <div .ssr-variant.hidden-163lh2b
+                    <a "Phone Left" .framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-8wbf3d.framer-ghew07 [href=../journal]
+                      <div "Text" .framer-1dzfdpz
+                        <div "Top Text" .framer-zixbhw
+                          <p .framer-text.framer-styles-preset-k5mxv3 :: "Back to the journal"
+                        <div "Bottom Text" .framer-1396mtp
+                          <p .framer-text.framer-styles-preset-k5mxv3 :: "Back to the journal"
+                      <div "Chevron" .framer-73np5u
+              <div .ssr-variant.hidden-163lh2b.hidden-1atwfmo
+                <div .framer-vd6m2l-container
+                  <a "Phone Left" .framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-8wbf3d.framer-ghew07 [href=../journal]
+                    <div "Text" .framer-1dzfdpz
+                      <div "Top Text" .framer-zixbhw
+                        <p .framer-text.framer-styles-preset-k5mxv3 :: "Back to the journal"
+                      <div "Bottom Text" .framer-1396mtp
+                        <p .framer-text.framer-styles-preset-k5mxv3 :: "Back to the journal"
+                    <div "Chevron" .framer-73np5u
+            <div "Right" .framer-k3jgni
+              <section "Article Info" .framer-12itxgr
+                <div "Inside Container" .framer-10eegt
+                  <header "Top" .framer-oboj65
+                    <div .framer-1hsgk09-container.hidden-1dpavhp
+                      <a "Link Container" .framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [href=../ aria-label=home]
+                        <div "Logo" .framer-SHtMX.framer-7h3po8
+                    <div .ssr-variant.hidden-1dpavhp
+                      <div .framer-mxg65r
+                        <p .framer-text.framer-styles-preset-c95aba
+                          <time . :: "Feb 18, 2026"
+                    <div .ssr-variant.hidden-163lh2b.hidden-1atwfmo
+                      <div .framer-mxg65r
+                        <p .framer-text.framer-styles-preset-c95aba
+                          <time . :: "Feb 18, 2026"
+                  <div "Article Info" .framer-1dg35ov
+                    <div "Title / Category" .framer-1o27bn4
+                      <div .ssr-variant
+                        <div "Category" .framer-12cy8up
+                          <p .framer-text.framer-styles-preset-c95aba
+                            <span .
+                              <span . :: "("
+                              <span . :: "S"
+                              <span . :: "t"
+                              <span . :: "u"
+                              <span . :: "d"
+                              <span . :: "i"
+                              <span . :: "o"
+                            <span .
+                              <span . :: "N"
+                              <span . :: "o"
+                              <span . :: "t"
+                              <span . :: "e"
+                              <span . :: "s"
+                              <span . :: ")"
+                      <div .ssr-variant.hidden-1dpavhp
+                        <div "Title" .framer-ust23z
+                          <h1 .framer-text.framer-styles-preset-ax8na9 :: "On saying no."
+                      <div .ssr-variant.hidden-163lh2b.hidden-1atwfmo
+                        <div "Title" .framer-ust23z
+                          <h1 .framer-text.framer-styles-preset-ax8na9 :: "On saying no."
+                    <div .ssr-variant
+                      <div "Description" .framer-1sun04h
+                        <p .framer-text.framer-styles-preset-10r2g7l
+                          <span .
+                            <span . :: "T"
+                            <span . :: "h"
+                            <span . :: "e"
+                          <span .
+                            <span . :: "p"
+                            <span . :: "r"
+                            <span . :: "o"
+                            <span . :: "j"
+                            <span . :: "e"
+                            <span . :: "c"
+                            <span . :: "t"
+                            <span . :: "s"
+                          <span .
+                            <span . :: "M"
+                            <span . :: "i"
+                            <span . :: "r"
+                            <span . :: "a"
+                          <span .
+                            <span . :: "t"
+                            <span . :: "u"
+                            <span . :: "r"
+                            <span . :: "n"
+                            <span . :: "s"
+                          <span .
+                            <span . :: "d"
+                            <span . :: "o"
+                            <span . :: "w"
+                            <span . :: "n"
+                            <span . :: ","
+                          <span .
+                            <span . :: "a"
+                            <span . :: "n"
+                            <span . :: "d"
+                          <span .
+                            <span . :: "w"
+                            <span . :: "h"
+                            <span . :: "y"
+                          <span .
+                            <span . :: "w"
+                            <span . :: "e"
+                          <span .
+                            <span . :: "a"
+                            <span . :: "r"
+                            <span . :: "e"
+                          <span .
+                            <span . :: "b"
+                            <span . :: "e"
+                            <span . :: "t"
+                            <span . :: "t"
+                            <span . :: "e"
+                            <span . :: "r"
+                          <span .
+                            <span . :: "f"
+                            <span . :: "o"
+                            <span . :: "r"
+                          <span .
+                            <span . :: "i"
+                            <span . :: "t"
+                            <span . :: "."
+                  <div "Bottom" .framer-1vgsstc
+                    <div .ssr-variant.hidden-1dpavhp
+                      <div .framer-1r9wpld-container
+                        <div "Author" .framer-QRwP7.framer-QoPvp.framer-1kijlsy.framer-v-1kijlsy
+                          <div .framer-1ldgocu
+                            <div .
+                              <img .
+                          <div "Name / Role" .framer-lpw2kj
+                            <div .framer-1mvw4z9
+                              <p .framer-text.framer-styles-preset-lu6cf5 :: "Jin Yuen"
+                            <div .framer-t6pkcg
+                              <p .framer-text.framer-styles-preset-lu6cf5 :: "Founder, Mira"
+                    <div .ssr-variant.hidden-163lh2b.hidden-1atwfmo
+                      <div .framer-1r9wpld-container
+                        <div "Author" .framer-QRwP7.framer-QoPvp.framer-1kijlsy.framer-v-1kijlsy
+                          <div .framer-1ldgocu
+                            <div .
+                              <img .
+                          <div "Name / Role" .framer-lpw2kj
+                            <div .framer-1mvw4z9
+                              <p .framer-text.framer-styles-preset-lu6cf5 :: "Jin Yuen"
+                            <div .framer-t6pkcg
+                              <p .framer-text.framer-styles-preset-lu6cf5 :: "Founder, Mira"
+              <article "Article Content" .framer-1q4xdhe
+                <div "Inside Container" .framer-4d8yer
+                  <div "Intro Header" .framer-2y3bst
+                    <h2 .framer-text.framer-styles-preset-1l3tbw0
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                      <span .
+                        <span . :: "W"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "t"
+                        <span . :: "u"
+                        <span . :: "r"
+                        <span . :: "n"
+                      <span .
+                        <span . :: "d"
+                        <span . :: "o"
+                        <span . :: "w"
+                        <span . :: "n"
+                      <span .
+                        <span . :: "m"
+                        <span . :: "o"
+                        <span . :: "r"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "w"
+                        <span . :: "o"
+                        <span . :: "r"
+                        <span . :: "k"
+                      <span .
+                        <span . :: "t"
+                        <span . :: "h"
+                        <span . :: "a"
+                        <span . :: "n"
+                      <span .
+                        <span . :: "w"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "a"
+                        <span . :: "c"
+                        <span . :: "c"
+                        <span . :: "e"
+                        <span . :: "p"
+                        <span . :: "t"
+                        <span . :: "."
+                      <span .
+                        <span . :: "T"
+                        <span . :: "h"
+                        <span . :: "i"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "y"
+                        <span . :: "e"
+                        <span . :: "a"
+                        <span . :: "r"
+                      <span .
+                        <span . :: "a"
+                        <span . :: "l"
+                        <span . :: "o"
+                        <span . :: "n"
+                        <span . :: "e"
+                        <span . :: ","
+                      <span .
+                        <span . :: "t"
+                        <span . :: "h"
+                        <span . :: "r"
+                        <span . :: "e"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "g"
+                        <span . :: "o"
+                        <span . :: "o"
+                        <span . :: "d"
+                      <span .
+                        <span . :: "o"
+                        <span . :: "p"
+                        <span . :: "p"
+                        <span . :: "o"
+                        <span . :: "r"
+                        <span . :: "t"
+                        <span . :: "u"
+                        <span . :: "n"
+                        <span . :: "i"
+                        <span . :: "t"
+                        <span . :: "i"
+                        <span . :: "e"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "w"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "w"
+                        <span . :: "a"
+                        <span . :: "l"
+                        <span . :: "k"
+                        <span . :: "e"
+                        <span . :: "d"
+                      <span .
+                        <span . :: "a"
+                        <span . :: "w"
+                        <span . :: "a"
+                        <span . :: "y"
+                      <span .
+                        <span . :: "f"
+                        <span . :: "r"
+                        <span . :: "o"
+                        <span . :: "m"
+                        <span . :: "."
+                      <span .
+                        <span . :: "H"
+                        <span . :: "e"
+                        <span . :: "r"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "i"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "w"
+                        <span . :: "h"
+                        <span . :: "y"
+                      <span .
+                        <span . :: "s"
+                        <span . :: "a"
+                        <span . :: "y"
+                        <span . :: "i"
+                        <span . :: "n"
+                        <span . :: "g"
+                      <span .
+                        <span . :: "n"
+                        <span . :: "o"
+                      <span .
+                        <span . :: "i"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "a"
+                      <span .
+                        <span . :: "s"
+                        <span . :: "t"
+                        <span . :: "u"
+                        <span . :: "d"
+                        <span . :: "i"
+                        <span . :: "o"
+                      <span .
+                        <span . :: "s"
+                        <span . :: "k"
+                        <span . :: "i"
+                        <span . :: "l"
+                        <span . :: "l"
+                      <span .
+                        <span . :: "w"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "h"
+                        <span . :: "a"
+                        <span . :: "v"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "p"
+                        <span . :: "r"
+                        <span . :: "a"
+                        <span . :: "c"
+                        <span . :: "t"
+                        <span . :: "i"
+                        <span . :: "s"
+                        <span . :: "e"
+                        <span . :: "d"
+                      <span .
+                        <span . :: "d"
+                        <span . :: "e"
+                        <span . :: "l"
+                        <span . :: "i"
+                        <span . :: "b"
+                        <span . :: "e"
+                        <span . :: "r"
+                        <span . :: "a"
+                        <span . :: "t"
+                        <span . :: "e"
+                        <span . :: "l"
+                        <span . :: "y"
+                        <span . :: ","
+                      <span .
+                        <span . :: "w"
+                        <span . :: "h"
+                        <span . :: "a"
+                        <span . :: "t"
+                      <span .
+                        <span . :: "i"
+                        <span . :: "t"
+                      <span .
+                        <span . :: "c"
+                        <span . :: "o"
+                        <span . :: "s"
+                        <span . :: "t"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "u"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "i"
+                        <span . :: "n"
+                      <span .
+                        <span . :: "s"
+                        <span . :: "h"
+                        <span . :: "o"
+                        <span . :: "r"
+                        <span . :: "t"
+                        <span . :: "-"
+                        <span . :: "t"
+                        <span . :: "e"
+                        <span . :: "r"
+                        <span . :: "m"
+                      <span .
+                        <span . :: "r"
+                        <span . :: "e"
+                        <span . :: "v"
+                        <span . :: "e"
+                        <span . :: "n"
+                        <span . :: "u"
+                        <span . :: "e"
+                        <span . :: ","
+                      <span .
+                        <span . :: "a"
+                        <span . :: "n"
+                        <span . :: "d"
+                      <span .
+                        <span . :: "w"
+                        <span . :: "h"
+                        <span . :: "a"
+                        <span . :: "t"
+                      <span .
+                        <span . :: "i"
+                        <span . :: "t"
+                      <span .
+                        <span . :: "p"
+                        <span . :: "r"
+                        <span . :: "o"
+                        <span . :: "t"
+                        <span . :: "e"
+                        <span . :: "c"
+                        <span . :: "t"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "o"
+                        <span . :: "n"
+                      <span .
+                        <span . :: "t"
+                        <span . :: "h"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "y"
+                        <span . :: "e"
+                        <span . :: "s"
+                      <span .
+                        <span . :: "s"
+                        <span . :: "i"
+                        <span . :: "d"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "o"
+                        <span . :: "f"
+                      <span .
+                        <span . :: "t"
+                        <span . :: "h"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "l"
+                        <span . :: "e"
+                        <span . :: "d"
+                        <span . :: "g"
+                        <span . :: "e"
+                        <span . :: "r"
+                      <span .
+                        <span . :: "o"
+                        <span . :: "v"
+                        <span . :: "e"
+                        <span . :: "r"
+                      <span .
+                        <span . :: "t"
+                        <span . :: "h"
+                        <span . :: "e"
+                      <span .
+                        <span . :: "l"
+                        <span . :: "o"
+                        <span . :: "n"
+                        <span . :: "g"
+                      <span .
+                        <span . :: "r"
+                        <span . :: "u"
+                        <span . :: "n"
+                        <span . :: "."
+                  <div "Content / Share" .framer-kwv38q
+                    <div "Content" .framer-1tn62t5
+                      <h3 .framer-text.framer-styles-preset-lrueyv :: "The three we turned down this year"
+                      <p .framer-text.framer-styles-preset-zesxvw :: "A Series B SaaS that wanted us to speed up their sales cycle"
+                      <p .framer-text.framer-styles-preset-zesxvw :: "Each of those was a real revenue opportunity. Each of them w"
+                      <h3 .framer-text.framer-styles-preset-lrueyv :: "What every no protects"
+                      <p .framer-text.framer-styles-preset-zesxvw :: "The maths of a small studio is unforgiving. If we take on th"
+                      <p .framer-text.framer-styles-preset-zesxvw :: "Studios that say yes to everything eventually stop being goo"
+                      <h3 .framer-text.framer-styles-preset-lrueyv :: "The habit is harder than it sounds"
+                      <p .framer-text.framer-styles-preset-zesxvw :: "Saying no is not a skill studios teach. Every referral feels"
+                      <p .framer-text.framer-styles-preset-zesxvw :: "Getting comfortable with no took us years. We had to learn t"
+                      <h3 .framer-text.framer-styles-preset-lrueyv :: "Why the work is better for it"
+                      <p .framer-text.framer-styles-preset-zesxvw :: "The projects on our site now are the ones we said yes to for"
+                    <div "Divider" .framer-18wmlps
+                    <div "Share" .framer-1gay0sq
+                      <div "Category" .framer-fxu2zp
+                        <p .framer-text.framer-styles-preset-k5mxv3 :: "Share"
+                      <div .framer-16w2iyz-container
+                        <div .
+                          <button . [aria-label=Share on Twitter]
+                          <button . [aria-label=Share on LinkedIn]
+                          <button . [aria-label=Share on Email]
+                          <button . [aria-label=Copy URL to clipboard]
+          <div .ssr-variant.hidden-1dpavhp
+            <div .framer-1nqy1fo-container
+              <div .ssr-variant.hidden-1atwfmo
+                <section "Desktop" .framer-azsrl.framer-LubW4.framer-1m7l3gw.framer-v-1m7l3gw
+                  <div "Inside Container" .framer-1fq9aj0
+                    <div "Label / Heading" .framer-t0gxtr
+                      <div "Filler" .framer-nqgxp3
+                      <div "Label / Heading" .framer-srsset
+                        <div .framer-17ouwp8-container
+                          <div "Label" .framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4
+                            <div "Text" .framer-moe5to
+                              <p .framer-text.framer-styles-preset-c95aba :: "From the journal"
+                        <div .framer-3j1snh
+                          <h2 .framer-text.framer-styles-preset-1c0t51l
+                            <span .
+                              <span . :: "M"
+                              <span . :: "o"
+                              <span . :: "r"
+                              <span . :: "e"
+                            <span .
+                              <span . :: "a"
+                              <span . :: "r"
+                              <span . :: "t"
+                              <span . :: "i"
+                              <span . :: "c"
+                              <span . :: "l"
+                              <span . :: "e"
+                              <span . :: "s"
+                              <span . :: "."
+                      <div .framer-151hr3l-container
+                        <a "Desktop - Right" .framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-q8hg74.framer-ghew07 [href=../journal]
+                          <div "Text" .framer-1dzfdpz
+                            <div "Top Text" .framer-zixbhw
+                              <p .framer-text.framer-styles-preset-k5mxv3 :: "View All"
+                            <div "Bottom Text" .framer-1396mtp
+                              <p .framer-text.framer-styles-preset-k5mxv3 :: "View All"
+                          <div "Chevron" .framer-73np5u
+                    <div .framer-10d2acw
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Desktop" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23 [href=./fewer-projects-more-attention]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Studio Notes)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "Fewer projects, more attention."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "6/15/26"
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Desktop" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23 [href=./awards-dont-build-brands]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Opinion)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "Awards don't build brands."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "5/5/26"
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Desktop" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23 [href=./why-we-quote-fixed]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Process)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "Why we quote fixed."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "4/3/26"
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Desktop" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-n8zo7t.framer-1e4az23 [href=./the-best-type-is-invisible]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Craft)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "The best type is invisible."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "3/20/26"
+              <div .ssr-variant.hidden-163lh2b
+                <section "Tablet" .framer-azsrl.framer-LubW4.framer-1m7l3gw.framer-v-ld2pkr
+                  <div "Inside Container" .framer-1fq9aj0
+                    <div "Label / Heading" .framer-t0gxtr
+                      <div "Filler" .framer-nqgxp3
+                      <div "Label / Heading" .framer-srsset
+                        <div .framer-17ouwp8-container
+                          <div "Label" .framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4
+                            <div "Text" .framer-moe5to
+                              <p .framer-text.framer-styles-preset-c95aba :: "From the journal"
+                        <div .framer-3j1snh
+                          <h2 .framer-text.framer-styles-preset-1c0t51l
+                            <span .
+                              <span . :: "M"
+                              <span . :: "o"
+                              <span . :: "r"
+                              <span . :: "e"
+                            <span .
+                              <span . :: "a"
+                              <span . :: "r"
+                              <span . :: "t"
+                              <span . :: "i"
+                              <span . :: "c"
+                              <span . :: "l"
+                              <span . :: "e"
+                              <span . :: "s"
+                              <span . :: "."
+                      <div .framer-151hr3l-container
+                        <a "Desktop - Right" .framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-q8hg74.framer-ghew07 [href=../journal]
+                          <div "Text" .framer-1dzfdpz
+                            <div "Top Text" .framer-zixbhw
+                              <p .framer-text.framer-styles-preset-k5mxv3 :: "View All"
+                            <div "Bottom Text" .framer-1396mtp
+                              <p .framer-text.framer-styles-preset-k5mxv3 :: "View All"
+                          <div "Chevron" .framer-73np5u
+                    <div .framer-10d2acw
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./fewer-projects-more-attention]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Studio Notes)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "Fewer projects, more attention."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "6/15/26"
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./awards-dont-build-brands]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Opinion)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "Awards don't build brands."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "5/5/26"
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./why-we-quote-fixed]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Process)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "Why we quote fixed."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "4/3/26"
+                      <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                        <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./the-best-type-is-invisible]
+                          <div "Category / Image" .framer-1mffi2y
+                            <div "Category" .framer-kdqgfg
+                              <p .framer-text.framer-styles-preset-c95aba :: "(Craft)"
+                            <div "Image Container" .framer-v9hp8k
+                              <div "Bg Image" .framer-yme2qk
+                                <div .
+                              <div .framer-oqgboy
+                                <div .
+                          <div "Title / Date" .framer-3pqa2g
+                            <div .framer-1fg44cf
+                              <p .framer-text.framer-styles-preset-1l3tbw0 :: "The best type is invisible."
+                            <div "Date" .framer-1kgjso1
+                              <p .framer-text.framer-styles-preset-c95aba
+                                <time . :: "3/20/26"
+          <div .ssr-variant.hidden-163lh2b.hidden-1atwfmo
+            <div .framer-1nqy1fo-container
+              <section "Phone" .framer-azsrl.framer-LubW4.framer-1m7l3gw.framer-v-so4lz9
+                <div "Inside Container" .framer-1fq9aj0
+                  <div "Label / Heading" .framer-t0gxtr
+                    <div "Label / Heading" .framer-srsset
+                      <div .framer-17ouwp8-container
+                        <div "Label" .framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4
+                          <div "Text" .framer-moe5to
+                            <p .framer-text.framer-styles-preset-c95aba :: "From the journal"
+                      <div .framer-3j1snh
+                        <h2 .framer-text.framer-styles-preset-1c0t51l
+                          <span .
+                            <span . :: "M"
+                            <span . :: "o"
+                            <span . :: "r"
+                            <span . :: "e"
+                          <span .
+                            <span . :: "a"
+                            <span . :: "r"
+                            <span . :: "t"
+                            <span . :: "i"
+                            <span . :: "c"
+                            <span . :: "l"
+                            <span . :: "e"
+                            <span . :: "s"
+                            <span . :: "."
+                    <div .framer-151hr3l-container
+                      <a "Desktop - Right" .framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-q8hg74.framer-ghew07 [href=../journal]
+                        <div "Text" .framer-1dzfdpz
+                          <div "Top Text" .framer-zixbhw
+                            <p .framer-text.framer-styles-preset-k5mxv3 :: "View All"
+                          <div "Bottom Text" .framer-1396mtp
+                            <p .framer-text.framer-styles-preset-k5mxv3 :: "View All"
+                        <div "Chevron" .framer-73np5u
+                  <div .framer-10d2acw
+                    <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                      <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./fewer-projects-more-attention]
+                        <div "Category / Image" .framer-1mffi2y
+                          <div "Category" .framer-kdqgfg
+                            <p .framer-text.framer-styles-preset-c95aba :: "(Studio Notes)"
+                          <div "Image Container" .framer-v9hp8k
+                            <div "Bg Image" .framer-yme2qk
+                              <div .
+                                <img .
+                            <div .framer-oqgboy
+                              <div .
+                                <img .
+                        <div "Title / Date" .framer-3pqa2g
+                          <div .framer-1fg44cf
+                            <p .framer-text.framer-styles-preset-1l3tbw0 :: "Fewer projects, more attention."
+                          <div "Date" .framer-1kgjso1
+                            <p .framer-text.framer-styles-preset-c95aba
+                              <time . :: "6/15/26"
+                    <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                      <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./awards-dont-build-brands]
+                        <div "Category / Image" .framer-1mffi2y
+                          <div "Category" .framer-kdqgfg
+                            <p .framer-text.framer-styles-preset-c95aba :: "(Opinion)"
+                          <div "Image Container" .framer-v9hp8k
+                            <div "Bg Image" .framer-yme2qk
+                              <div .
+                                <img .
+                            <div .framer-oqgboy
+                              <div .
+                                <img .
+                        <div "Title / Date" .framer-3pqa2g
+                          <div .framer-1fg44cf
+                            <p .framer-text.framer-styles-preset-1l3tbw0 :: "Awards don't build brands."
+                          <div "Date" .framer-1kgjso1
+                            <p .framer-text.framer-styles-preset-c95aba
+                              <time . :: "5/5/26"
+                    <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                      <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./why-we-quote-fixed]
+                        <div "Category / Image" .framer-1mffi2y
+                          <div "Category" .framer-kdqgfg
+                            <p .framer-text.framer-styles-preset-c95aba :: "(Process)"
+                          <div "Image Container" .framer-v9hp8k
+                            <div "Bg Image" .framer-yme2qk
+                              <div .
+                                <img .
+                            <div .framer-oqgboy
+                              <div .
+                                <img .
+                        <div "Title / Date" .framer-3pqa2g
+                          <div .framer-1fg44cf
+                            <p .framer-text.framer-styles-preset-1l3tbw0 :: "Why we quote fixed."
+                          <div "Date" .framer-1kgjso1
+                            <p .framer-text.framer-styles-preset-c95aba
+                              <time . :: "4/3/26"
+                    <div .framer-ggx1b3-container [data-framer-cursor=a8ccln]
+                      <a "Phone" .framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23 [href=./the-best-type-is-invisible]
+                        <div "Category / Image" .framer-1mffi2y
+                          <div "Category" .framer-kdqgfg
+                            <p .framer-text.framer-styles-preset-c95aba :: "(Craft)"
+                          <div "Image Container" .framer-v9hp8k
+                            <div "Bg Image" .framer-yme2qk
+                              <div .
+                                <img .
+                            <div .framer-oqgboy
+                              <div .
+                                <img .
+                        <div "Title / Date" .framer-3pqa2g
+                          <div .framer-1fg44cf
+                            <p .framer-text.framer-styles-preset-1l3tbw0 :: "The best type is invisible."
+                          <div "Date" .framer-1kgjso1
+                            <p .framer-text.framer-styles-preset-c95aba
+                              <time . :: "3/20/26"
+    <div . [id=overlay]
+    <div .framer-1ce8pqa
+    <div "Shared Navigation" .framer-9ihltw-container
+      <div .ssr-variant.hidden-1pvmz1y.hidden-1wjgfnr
+        <div "Desktop - Closed" .framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-l44v03
+          <div "Overlay BG" .framer-1f8xv28
+          <nav "Side Nav" .framer-3der5
+            <div "SideBar" .framer-1wba9e6
+              <div .framer-gupk0y-container
+                <div "Closed" .framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn
+                  <div "Hamburger" .framer-t6cidc
+                    <div "Top" .framer-19kq29j
+                      <div "1" .framer-ij8d5t
+                      <div "2" .framer-1oucckw
+                    <div "Bottom" .framer-17en59d
+                      <div "3" .framer-1ihbq2i
+                      <div "4" .framer-xca395
+              <div .framer-ybstj0-container
+                <div "Variant 1" .framer-D1HnP.framer-Me6vv.framer-1875b8x.framer-v-1875b8x
+                  <div "Globe" .framer-x2q9so
+                    <div .framer-186e1em
+                      <div .svgContainer
+                  <div "Text" .framer-6xha2i
+                    <div .framer-19p5zwk
+                      <p .framer-text.framer-styles-preset-c95aba :: "EST. 2012"
+            <div "Menu" .framer-tk3v71
+              <div "Top" .framer-19orxsl
+                <div .framer-dhb6tt-container
+                  <a "Link Container" .framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [href=../ aria-label=home]
+                    <div "Logo" .framer-1xjrc.framer-7h3po8
+                <div "Nav. Items" .framer-c5vrme
+                  <div .framer-hxeh5m-container
+                    <div "Desktop" .framer-Z2aNj.framer-fvp1dl.framer-v-fvp1dl
+                      <div "Home" .framer-ade1jf-container
+                        <a "Large" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [href=../]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                      <div "Projects" .framer-f4luyz-container
+                        <a "Large" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [href=../projects]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                          <div .framer-171qo2h-container
+                            <div .
+                              <div "Count Text" .framer-12mewa9
+                                <div .framer-283ip9
+                      <div "Studio" .framer-1kxedq2-container
+                        <a "Large" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [href=../studio]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                      <div "Journal" .framer-9r7k9d-container
+                        <a "Large" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-h4zf60.framer-5e3077 [href=../journal]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+                  <div "Contact" .framer-3g7ymn
+                    <div .framer-f81h7k
+                      <p .framer-text.framer-styles-preset-c95aba :: "let's talk"
+                    <div .framer-18pfxug-container
+                      <a "Desktop" .framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug [href=../contact aria-label=contact]
+                        <div "Button" .framer-dczzwc
+                          <div "Picture" .framer-154bepi
+                            <div .
+                              <img .
+              <div "Bottom" .framer-5dotip
+                <div .framer-18x49sy-container
+                  <div "Desktop" .framer-shGv8.framer-4tnhfa.framer-v-4tnhfa
+                    <div "X" .framer-17kf78c-container
+                      <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://x.com aria-label=X Link]
+                          <div "Top Icon" .framer-LAEqS.framer-1fo7tgr
+                    <div "IG" .framer-1smje0b-container
+                      <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://instagram.com aria-label=Instagram Link]
+                          <div "Top Icon" .framer-uZnUQ.framer-1fo7tgr
+                    <div "Dribbble" .framer-t1kefs-container
+                      <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://dribbble.com aria-label=Dribbble Link]
+                          <div "Top Icon" .framer-K6Gdb.framer-1fo7tgr
+                    <div "Behance" .framer-1cdugcb-container
+                      <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://behance.com aria-label=Behance Link]
+                          <div "Top Icon" .framer-lYLYO.framer-1fo7tgr
+                <div .framer-a5c6mb-container
+                  <span .
+                    <span . :: "2026 MIRA"
+                      <span . :: "®"
+                    <span . :: "All rights reserved."
+              <div "Left Border" .framer-1sxc0wu
+      <div .ssr-variant.hidden-1e6htkk.hidden-1wjgfnr
+        <div "Phone Closed" .framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-1s6eirn
+          <div "Overlay BG" .framer-1f8xv28
+          <nav "Side Nav" .framer-3der5
+            <div "SideBar" .framer-1wba9e6
+              <a "Phone Logo Container" .framer-ij0712.framer-1naqc9k [href=../ aria-label=home]
+                <div "Logo" .framer-1xjrc.framer-1fcg7o3
+              <div .framer-gupk0y-container
+                <div "Closed" .framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn
+                  <div "Hamburger" .framer-t6cidc
+                    <div "Top" .framer-19kq29j
+                      <div "1" .framer-ij8d5t
+                      <div "2" .framer-1oucckw
+                    <div "Bottom" .framer-17en59d
+                      <div "3" .framer-1ihbq2i
+                      <div "4" .framer-xca395
+            <div "Menu" .framer-tk3v71
+              <div "Top" .framer-19orxsl
+                <div "Nav. Items" .framer-c5vrme
+                  <div .framer-hxeh5m-container
+                    <div "Phone" .framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6
+                      <div "Home" .framer-ade1jf-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                      <div "Projects" .framer-f4luyz-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../projects]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                          <div .framer-171qo2h-container
+                            <div .
+                              <div "Count Text" .framer-12mewa9
+                                <div .framer-283ip9
+                      <div "Studio" .framer-1kxedq2-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../studio]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                      <div "Journal" .framer-9r7k9d-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../journal]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+                  <div "Contact" .framer-3g7ymn
+                    <div .framer-f81h7k
+                      <p .framer-text.framer-styles-preset-c95aba :: "let's talk"
+                    <div .framer-18pfxug-container
+                      <a "Phone" .framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [href=../contact aria-label=contact]
+                        <div "Button" .framer-dczzwc
+                          <div "Picture" .framer-154bepi
+                            <div .
+                              <img .
+              <div "Bottom" .framer-5dotip
+                <div .framer-18x49sy-container
+                  <div "Phone" .framer-shGv8.framer-4tnhfa.framer-v-5pv308
+                    <div "X" .framer-17kf78c-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://x.com aria-label=X Link]
+                          <div "Top Icon" .framer-LAEqS.framer-1fo7tgr
+                    <div "IG" .framer-1smje0b-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://instagram.com aria-label=Instagram Link]
+                          <div "Top Icon" .framer-uZnUQ.framer-1fo7tgr
+                    <div "Dribbble" .framer-t1kefs-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://dribbble.com aria-label=Dribbble Link]
+                          <div "Top Icon" .framer-K6Gdb.framer-1fo7tgr
+                    <div "Behance" .framer-1cdugcb-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://behance.com aria-label=Behance Link]
+                          <div "Top Icon" .framer-lYLYO.framer-1fo7tgr
+                <div .framer-a5c6mb-container
+                  <span .
+                    <span . :: "2026 MIRA"
+                      <span . :: "®"
+                    <span . :: "All rights reserved."
+      <div .ssr-variant.hidden-1e6htkk.hidden-1pvmz1y
+        <div "Tablet - Closed" .framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-164awg0
+          <div "Overlay BG" .framer-1f8xv28
+          <nav "Side Nav" .framer-3der5
+            <div "SideBar" .framer-1wba9e6
+              <div .framer-gupk0y-container
+                <div "Closed" .framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn
+                  <div "Hamburger" .framer-t6cidc
+                    <div "Top" .framer-19kq29j
+                      <div "1" .framer-ij8d5t
+                      <div "2" .framer-1oucckw
+                    <div "Bottom" .framer-17en59d
+                      <div "3" .framer-1ihbq2i
+                      <div "4" .framer-xca395
+              <div .framer-ybstj0-container
+                <div "Variant 1" .framer-D1HnP.framer-Me6vv.framer-1875b8x.framer-v-1875b8x
+                  <div "Globe" .framer-x2q9so
+                    <div .framer-186e1em
+                      <div .svgContainer
+                  <div "Text" .framer-6xha2i
+                    <div .framer-19p5zwk
+                      <p .framer-text.framer-styles-preset-c95aba :: "EST. 2012"
+            <div "Menu" .framer-tk3v71
+              <div "Top" .framer-19orxsl
+                <div .framer-dhb6tt-container
+                  <a "Link Container" .framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [href=../ aria-label=home]
+                    <div "Logo" .framer-1xjrc.framer-7h3po8
+                <div "Nav. Items" .framer-c5vrme
+                  <div .framer-hxeh5m-container
+                    <div "Phone" .framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6
+                      <div "Home" .framer-ade1jf-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                      <div "Projects" .framer-f4luyz-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../projects]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                          <div .framer-171qo2h-container
+                            <div .
+                              <div "Count Text" .framer-12mewa9
+                                <div .framer-283ip9
+                      <div "Studio" .framer-1kxedq2-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../studio]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                      <div "Journal" .framer-9r7k9d-container
+                        <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../journal]
+                          <div .framer-kdnc6p
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+                          <div .framer-105crdb
+                            <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+                  <div "Contact" .framer-3g7ymn
+                    <div .framer-f81h7k
+                      <p .framer-text.framer-styles-preset-c95aba :: "let's talk"
+                    <div .framer-18pfxug-container
+                      <a "Phone" .framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [href=../contact aria-label=contact]
+                        <div "Button" .framer-dczzwc
+                          <div "Picture" .framer-154bepi
+                            <div .
+                              <img .
+              <div "Bottom" .framer-5dotip
+                <div .framer-18x49sy-container
+                  <div "Phone" .framer-shGv8.framer-4tnhfa.framer-v-5pv308
+                    <div "X" .framer-17kf78c-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://x.com aria-label=X Link]
+                          <div "Top Icon" .framer-LAEqS.framer-1fo7tgr
+                    <div "IG" .framer-1smje0b-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://instagram.com aria-label=Instagram Link]
+                          <div "Top Icon" .framer-uZnUQ.framer-1fo7tgr
+                    <div "Dribbble" .framer-t1kefs-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://dribbble.com aria-label=Dribbble Link]
+                          <div "Top Icon" .framer-K6Gdb.framer-1fo7tgr
+                    <div "Behance" .framer-1cdugcb-container
+                      <div "Phone" .framer-BF4Of.framer-oxml7j.framer-v-1qy02dt
+                        <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://behance.com aria-label=Behance Link]
+                          <div "Top Icon" .framer-lYLYO.framer-1fo7tgr
+                <div .framer-a5c6mb-container
+                  <span .
+                    <span . :: "2026 MIRA"
+                      <span . :: "®"
+                    <span . :: "All rights reserved."
+              <div "Left Border" .framer-1sxc0wu
+    <div "Footer" .framer-ubdqd9
+      <div "Navigation Spacer" .framer-fhqei7-container.hidden-1pvmz1y
+        <div "Spacer" .framer-yXQrW.framer-gmtdri.framer-v-gmtdri
+      <section "Footer" .framer-1064shm
+        <div "Inside Container" .framer-aqqavh
+          <div "Top" .framer-112av23
+            <div "Shared Navigation Logo" .framer-1e616zs-container
+              <div .ssr-variant.hidden-1pvmz1y
+                <a "Link Container" .framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [href=../ aria-label=home]
+                  <div "Logo" .framer-SHtMX.framer-7h3po8
+              <div .ssr-variant.hidden-1e6htkk.hidden-1wjgfnr
+                <a "Link Container" .framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [href=../ aria-label=home]
+                  <div "Logo" .framer-SHtMX.framer-7h3po8
+            <div .ssr-variant.hidden-1pvmz1y
+              <div "Shared Navigation Links" .framer-3m3d8l-container
+                <div "Desktop - Top" .framer-Z2aNj.framer-fvp1dl.framer-v-1fd22pg
+                  <div "Projects" .framer-f4luyz-container
+                    <a "Small" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [href=../projects]
+                      <div .framer-kdnc6p
+                        <p .framer-text.framer-styles-preset-1l3tbw0 :: "projects"
+                      <div .framer-105crdb
+                        <p .framer-text.framer-styles-preset-1l3tbw0 :: "projects"
+                      <div .framer-171qo2h-container
+                        <div .
+                          <div "Count Text" .framer-12mewa9
+                            <div .framer-283ip9
+                              <p .framer-text.framer-styles-preset-c95aba :: "6"
+                  <div "Studio" .framer-1kxedq2-container
+                    <a "Small" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [href=../studio]
+                      <div .framer-kdnc6p
+                        <p .framer-text.framer-styles-preset-1l3tbw0 :: "Studio"
+                      <div .framer-105crdb
+                        <p .framer-text.framer-styles-preset-1l3tbw0 :: "Studio"
+                  <div "Journal" .framer-9r7k9d-container
+                    <a "Small" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [href=../journal]
+                      <div .framer-kdnc6p
+                        <p .framer-text.framer-styles-preset-1l3tbw0 :: "Journal"
+                      <div .framer-105crdb
+                        <p .framer-text.framer-styles-preset-1l3tbw0 :: "Journal"
+            <div .ssr-variant.hidden-1e6htkk.hidden-1wjgfnr
+              <div "Shared Navigation Links" .framer-3m3d8l-container
+                <div "Phone" .framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6
+                  <div "Home" .framer-ade1jf-container
+                    <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../]
+                      <div .framer-kdnc6p
+                        <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                      <div .framer-105crdb
+                        <p .framer-text.framer-styles-preset-t83dbl :: "Home"
+                  <div "Projects" .framer-f4luyz-container
+                    <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../projects]
+                      <div .framer-kdnc6p
+                        <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                      <div .framer-105crdb
+                        <p .framer-text.framer-styles-preset-t83dbl :: "projects"
+                      <div .framer-171qo2h-container
+                        <div .
+                          <div "Count Text" .framer-12mewa9
+                            <div .framer-283ip9
+                              <p .framer-text.framer-styles-preset-c95aba :: "6"
+                  <div "Studio" .framer-1kxedq2-container
+                    <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../studio]
+                      <div .framer-kdnc6p
+                        <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                      <div .framer-105crdb
+                        <p .framer-text.framer-styles-preset-t83dbl :: "Studio"
+                  <div "Journal" .framer-9r7k9d-container
+                    <a "Large Phone" .framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077 [href=../journal]
+                      <div .framer-kdnc6p
+                        <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+                      <div .framer-105crdb
+                        <p .framer-text.framer-styles-preset-t83dbl :: "Journal"
+          <div "Middle" .framer-10uqj7m
+            <div "Filler" .framer-11fuqsj.hidden-1pvmz1y
+            <div "Text Container" .framer-10tu5xj
+              <div "Copyright Notice" .framer-1j72mo7-container
+                <span .
+                  <span . :: "2026 MIRA"
+                    <span . :: "®"
+                  <span . :: "All rights reserved."
+              <div "Name / Description" .framer-odwucj
+                <div "Name" .framer-ab2qu1
+                  <div "Name / R Symbol" .framer-g8f7gt
+                    <div "R Symbol" .framer-grnsur
+                <div "Description / Newsletter" .framer-tr2r27
+                  <div "Newsletter Introduction" .framer-23fpvw
+                    <p .framer-text.framer-styles-preset-1l3tbw0 :: "New work from the studio, fresh thinking from the founder, t"
+                      <span .framer-text :: "A LETTER, ONCE A MONTH."
+                      <span .framer-text :: "No filler. SUBSCRIBE BELOW."
+                  <form "Newsletter Signup" .framer-1lnl6jg
+                    <div "Input / Button" .framer-199g2yg
+                      <label "Newsletter Form Group" .framer-1t2u8aq
+                        <div "Newsletter Email Input" .framer-form-text-input.framer-form-input-wrapper.framer-1dpa36t
+                          <input .framer-form-input.framer-form-input-empty
+                      <div "Newsletter Submit Button" .framer-s7u2da-container
+                        <button "Incomplete" .framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw
+                          <div "BG Color" .framer-17skh7b
+                          <div "btn text" .framer-71e8ti
+                            <div "top" .framer-1gm2ya6
+                              <p .framer-text.framer-styles-preset-k5mxv3 :: "Join Now"
+                            <div "bottom" .framer-l29hgm
+                              <p .framer-text.framer-styles-preset-k5mxv3 :: "Join Now"
+                          <div .framer-ek5kqb-container
+                            <div "Spinner" .framer-pEZXs.framer-7sj87n.framer-v-7sj87n
+                              <div "Spinner" .framer-1yqlm52
+                                <div .framer-1m1l9lh
+                    <label "Agree to terms" .framer-169r9xi
+                      <input "Newsletter Consent Checkbox" .framer-form-boolean-input.framer-1qlsdo5
+                      <div "Newsletter Consent Copy" .framer-1rl9j96
+                        <p .framer-text.framer-styles-preset-lu6cf5 :: "By signing up, you’re agreeing to our"
+                          <a .framer-text.framer-styles-preset-7b2rcp [href=../privacy-policy] :: "privacy policy."
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+                    <input .
+          <div "Bottom" .framer-1nbmjrz
+            <div "Footer Social Links" .framer-sfsj97-container
+              <div "Desktop" .framer-shGv8.framer-4tnhfa.framer-v-4tnhfa
+                <div "X" .framer-17kf78c-container
+                  <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                    <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://x.com aria-label=X Link]
+                      <div "Top Icon" .framer-LAEqS.framer-1fo7tgr
+                <div "IG" .framer-1smje0b-container
+                  <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                    <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://instagram.com aria-label=Instagram Link]
+                      <div "Top Icon" .framer-uZnUQ.framer-1fo7tgr
+                <div "Dribbble" .framer-t1kefs-container
+                  <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                    <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://dribbble.com aria-label=Dribbble Link]
+                      <div "Top Icon" .framer-K6Gdb.framer-1fo7tgr
+                <div "Behance" .framer-1cdugcb-container
+                  <div "Desktop" .framer-BF4Of.framer-oxml7j.framer-v-oxml7j
+                    <a "Icon" .framer-10b7uxf.framer-na8c8c [href=https://behance.com aria-label=Behance Link]
+                      <div "Top Icon" .framer-lYLYO.framer-1fo7tgr
+            <div "Legal" .framer-18r9k2i
+              <div "Legal Navigation Link" .framer-s03u8i
+                <p .framer-text.framer-styles-preset-c95aba :: "legal"
+              <div "Footer Contact Link Group" .framer-14oqxd3
+                <div "Footer Dynamic Label" .framer-1f81en6
+                  <p .framer-text.framer-styles-preset-c95aba
+                    <a .framer-text.framer-styles-preset-7b2rcp [href=../privacy-policy] :: "Privacy Policy."
+                <div "Footer Dynamic Label" .framer-1f81en6
+                  <p .framer-text.framer-styles-preset-c95aba
+                    <a .framer-text.framer-styles-preset-7b2rcp [href=../terms-conditions] :: "Terms & Conditions."
+                <div "Footer Dynamic Label" .framer-1f81en6
+                  <p .framer-text.framer-styles-preset-c95aba
+                    <a .framer-text.framer-styles-preset-7b2rcp [href=../cookie-policy] :: "Cookies."
+            <div "Contact" .framer-1eth1vs
+              <div "Footer Contact Link" .framer-yzm327
+                <p .framer-text.framer-styles-preset-c95aba :: "let’s talk"
+              <div "Footer Contact Button" .framer-9685jw-container
+                <div .ssr-variant.hidden-1pvmz1y.hidden-1wjgfnr
+                  <a "Desktop" .framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug [href=../contact aria-label=contact]
+                    <div "Button" .framer-dczzwc
+                      <div "Picture" .framer-154bepi
+                        <div .
+                          <img .
+                <div .ssr-variant.hidden-1e6htkk.hidden-1wjgfnr
+                  <a "Phone" .framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [href=../contact aria-label=contact]
+                    <div "Button" .framer-dczzwc
+                      <div "Picture" .framer-154bepi
+                        <div .
+                          <img .
+                <div .ssr-variant.hidden-1e6htkk.hidden-1pvmz1y
+                  <a "Phone" .framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug [href=../contact aria-label=contact]
+                    <div "Button" .framer-dczzwc
+                      <div "Picture" .framer-154bepi
+                        <div .
+                          <img .
+    <div "Template Buy Button" .framer-1y4qiiy-container
+      <div .ssr-variant.hidden-1pvmz1y
+        <div "Buy Button" .framer-h9lrK.framer-j8ytx.framer-ydlgfe.framer-v-ydlgfe
+          <div "Outer" .framer-10iwdjj
+            <div "Inner" .framer-bypx4w
+              <div "Image / Btn" .framer-1o7lt08
+                <div "Template Image" .framer-36dbuc
+                  <div .
+                    <img .
+                <div .framer-1fi22sh-container
+                  <a "Dark" .framer-XzoKs.framer-j8ytx.framer-ZL2OU.framer-1v7hx6y.framer-v-1v7hx6y.framer-thy7w1
+                    <div "Text" .framer-leshrs
+                      <div "Top text" .framer-pm8azj
+                        <p .framer-text.framer-styles-preset-455vy9 :: "Unlock from $129"
+                      <div "Bottom text" .framer-41at20
+                        <p .framer-text.framer-styles-preset-455vy9 :: "Get Template"
+                    <div .framer-1opi6m6
+                      <div .framer-11r03s7-container
+                        <div "Variant 1" .framer-1Fjxh.framer-10c2ln6.framer-v-10c2ln6
+                          <div "Orange" .framer-14g45mj-container
+                            <div "Default" .framer-OtBkq.framer-1ye5gzy.framer-v-1ye5gzy
+                              <div .framer-1rx7maj
+                                <div .svgContainer
+                          <div "White" .framer-d818a2-container
+                            <div "White" .framer-OtBkq.framer-1ye5gzy.framer-v-mkwthb
+                              <div .framer-1rx7maj
+              <div "Payments Secured By" .framer-12u7vvz
+                <div "Icon / Text" .framer-u6y71q
+                  <div "Payments Secured By" .framer-1whkkok
+                    <p .framer-text :: "Secured By"
+                <div .framer-1f1q597
+                  <p .framer-text.framer-styles-preset-455vy9 :: "/"
+                <div "Polar" .framer-11umyip
+                  <div "Logotype white" .framer-10j5rga
+      <div .ssr-variant.hidden-1e6htkk.hidden-1wjgfnr
+        <div "Phone" .framer-h9lrK.framer-j8ytx.framer-ydlgfe.framer-v-op1meb
+          <div "Outer" .framer-10iwdjj
+            <div "Inner" .framer-bypx4w
+              <div "Image / Btn" .framer-1o7lt08
+                <div "Template Image" .framer-36dbuc
+                  <div .
+                    <img .
+                <div .framer-1fi22sh-container
+                  <a "Phone" .framer-XzoKs.framer-j8ytx.framer-ZL2OU.framer-1v7hx6y.framer-v-1cr4oj7.framer-thy7w1 [href=https://launchnow.design/checkout/mira?utm_medium=phonebtn]
+                    <div "Text" .framer-leshrs
+                      <div "Top text" .framer-pm8azj
+                        <p .framer-text.framer-styles-preset-455vy9 :: "Unlock from $129"
+                      <div "Bottom text" .framer-41at20
+                        <p .framer-text.framer-styles-preset-4e019n :: "All Access"
+                    <div .framer-1opi6m6
+                      <div .framer-11r03s7-container
+                        <div "Variant 1" .framer-1Fjxh.framer-10c2ln6.framer-v-10c2ln6
+                          <div "Orange" .framer-14g45mj-container
+                            <div "Default" .framer-OtBkq.framer-1ye5gzy.framer-v-1ye5gzy
+                              <div .framer-1rx7maj
+                                <div .svgContainer
+                          <div "White" .framer-d818a2-container
+                            <div "White" .framer-OtBkq.framer-1ye5gzy.framer-v-mkwthb
+                              <div .framer-1rx7maj
+              <div "Payments Secured By" .framer-12u7vvz
+                <div "Icon / Text" .framer-u6y71q
+                  <div "Payments Secured By" .framer-1whkkok
+                    <p .framer-text :: "Secured By"
+                <div .framer-1f1q597
+                  <p .framer-text.framer-styles-preset-455vy9 :: "/"
+                <div "Polar" .framer-11umyip
+                  <div "Logotype white" .framer-10j5rga
+  <div . [id=template-overlay]

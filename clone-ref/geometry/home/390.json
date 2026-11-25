@@ -6,7 +6,7 @@
  ],
  "scrollHeight": 18365,
  "scrollWidth": 390,
- "title": "Mira Studio",
+ "title": "Mira - Agency & Portfolio Framer Template",
  "items": [
   {
    "sel": "div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(1)>main[data-framer-name=\"Main\"]",
@@ -77909,10 +77909,10 @@
    "tag": "div",
    "name": "Video / Image Thumbnail",
    "rect": {
-    "x": 79.8,
-    "y": 11322.77,
-    "width": 230.4,
-    "height": 266.4
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -77945,7 +77945,7 @@
     "paddingLeft": "0px",
     "gap": "normal",
     "opacity": "1",
-    "transform": "matrix3d(0.6, 0, 0, 0, 0, 0.6, 0, 0, 0, 0, 1, -0.000833333, 0, 0, 0, 1)",
+    "transform": "matrix3d(0.57853, -0.0370286, -0.257834, 0.000214862, 0.0520945, 0.595442, 0.0871557, -7.26298e-05, 0.150298, -0.0638539, 0.96225, -0.000801875, 0, 0, 0, 1)",
     "objectFit": "fill",
     "objectPosition": "50% 50%",
     "position": "absolute",
@@ -77960,10 +77960,10 @@
    "tag": "div",
    "name": "End",
    "rect": {
-    "x": 79.8,
-    "y": 11322.77,
-    "width": 230.4,
-    "height": 266.4
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78011,10 +78011,10 @@
    "tag": "div",
    "name": "BG",
    "rect": {
-    "x": 79.8,
-    "y": 11322.77,
-    "width": 230.4,
-    "height": 266.4
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78062,10 +78062,10 @@
    "tag": "div",
    "name": "Dark overlay",
    "rect": {
-    "x": 79.8,
-    "y": 11322.77,
-    "width": 230.4,
-    "height": 266.4
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78113,10 +78113,10 @@
    "tag": "div",
    "name": "Uploaded Video",
    "rect": {
-    "x": 79.8,
-    "y": 11322.77,
-    "width": 230.4,
-    "height": 266.4
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78164,10 +78164,10 @@
    "tag": "video",
    "name": null,
    "rect": {
-    "x": 79.8,
-    "y": 11322.77,
-    "width": 230.4,
-    "height": 266.4
+    "x": 69.2,
+    "y": 11324.23,
+    "width": 245.44,
+    "height": 279.52
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78321,10 +78321,10 @@
    "tag": "div",
    "name": "Play Reel",
    "rect": {
-    "x": 9.63,
-    "y": 11415.47,
-    "width": 370.72,
-    "height": 81
+    "x": 14.33,
+    "y": 11409.89,
+    "width": 351.77,
+    "height": 95.58
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78357,7 +78357,7 @@
     "paddingLeft": "0px",
     "gap": "5px",
     "opacity": "1",
-    "transform": "matrix3d(2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, -0.000833333, 0, 0, 0, 1)",
+    "transform": "matrix3d(1.82307, -0.0993176, -0.408218, 0.000340182, 0.335463, 1.9025, 0.258819, -0.000215683, 0.75093, -0.608786, 0.875426, -0.000729522, 0, 0, 0, 1)",
     "objectFit": "fill",
     "objectPosition": "50% 50%",
     "position": "relative",
@@ -78372,10 +78372,10 @@
    "tag": "div",
    "name": "Play Button",
    "rect": {
-    "x": 161.63,
-    "y": 11415.97,
-    "width": 80,
-    "height": 80
+    "x": 157.82,
+    "y": 11416.09,
+    "width": 86.21,
+    "height": 79.99
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78423,10 +78423,10 @@
    "tag": "div",
    "name": "Play Icon",
    "rect": {
-    "x": 181.63,
-    "y": 11435.97,
-    "width": 40,
-    "height": 40
+    "x": 179.46,
+    "y": 11435.76,
+    "width": 43.11,
+    "height": 39.99
    },
    "style": {
     "fontFamily": "sans-serif",
@@ -78474,10 +78474,10 @@
    "tag": "svg",
    "name": null,
    "rect": {
-    "x": 181.63,
-    "y": 11435.97,
-    "width": 40,
-    "height": 40
+    "x": 179.46,
+    "y": 11435.76,
+    "width": 43.11,
+    "height": 39.99
    },
    "style": {
     "fontFamily": "sans-serif",

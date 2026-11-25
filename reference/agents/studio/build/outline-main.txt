@@ -1,0 +1,43 @@
+<div #main
+  <div .framer-eYdsD.framer-yTVl5.framer-QoPvp.framer-UVrHC.framer-Me6vv.framer-1e6htkk
+    <div .framer-Ur11b.framer-yTVl5.framer-Me6vv.framer-2Ps8M.framer-LubW4.framer-ynarf2
+      <div "Lenis Smooth Scroll" .framer-1mn4ta-container
+      <main "Main" .framer-es8rs7
+        <div .framer-1i9wie5-container.hidden-n4shxz
+          <div "Spacer" .framer-yXQrW.framer-gmtdri.framer-v-gmtdri
+        <div "Content" .framer-1n70wml
+          <div .ssr-variant.hidden-n4shxz.hidden-o8ajoo
+          <div .ssr-variant.hidden-o8ajoo.hidden-ynarf2
+          <div .ssr-variant.hidden-n4shxz.hidden-ynarf2
+          <div "Studio" .framer-c2l0bx
+    <div #overlay
+    <div .framer-1ce8pqa
+    <div "Shared Navigation" .framer-9ihltw-container
+      <div .ssr-variant.hidden-1pvmz1y.hidden-1wjgfnr
+        <div "Desktop - Closed" .framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-l44v03
+          <div "Overlay BG" .framer-1f8xv28
+          <nav "Side Nav" .framer-3der5
+      <div .ssr-variant.hidden-1e6htkk.hidden-1wjgfnr
+        <div "Phone Closed" .framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-1s6eirn
+          <div "Overlay BG" .framer-1f8xv28
+          <nav "Side Nav" .framer-3der5
+      <div .ssr-variant.hidden-1e6htkk.hidden-1pvmz1y
+        <div "Tablet - Closed" .framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-164awg0
+          <div "Overlay BG" .framer-1f8xv28
+          <nav "Side Nav" .framer-3der5
+    <div "Footer" .framer-ubdqd9
+      <div "Navigation Spacer" .framer-fhqei7-container.hidden-1pvmz1y
+        <div "Spacer" .framer-yXQrW.framer-gmtdri.framer-v-gmtdri
+      <section "Footer" .framer-1064shm
+        <div "Inside Container" .framer-aqqavh
+          <div "Top" .framer-112av23
+          <div "Middle" .framer-10uqj7m
+          <div "Bottom" .framer-1nbmjrz
+    <div "Template Buy Button" .framer-1y4qiiy-container
+      <div .ssr-variant.hidden-1pvmz1y
+        <div "Buy Button" .framer-h9lrK.framer-j8ytx.framer-ydlgfe.framer-v-ydlgfe
+          <div "Outer" .framer-10iwdjj
+      <div .ssr-variant.hidden-1e6htkk.hidden-1wjgfnr
+        <div "Phone" .framer-h9lrK.framer-j8ytx.framer-ydlgfe.framer-v-op1meb
+          <div "Outer" .framer-10iwdjj
+  <div #template-overlay

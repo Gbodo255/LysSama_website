@@ -1,0 +1,641 @@
+{
+ "slug": "privacy-policy",
+ "head": {
+  "h1": "Privacy Policy.",
+  "lastUpdatedLabel": "Last updated",
+  "lastUpdated": "7/28/26"
+ },
+ "bodyClass": "framer-104pdxd",
+ "blocks": [
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Information We Collect",
+   "text": "Information We Collect"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Information You Provide",
+   "text": "Information You Provide"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We only collect information you give us directly, including:",
+   "text": "We only collect information you give us directly, including:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Contact form submissions (name, email, company, project details)</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Newsletter signups (email address)</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Enquiries sent via email or scheduling links</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Information shared during discovery calls and project engagements</p></li>",
+   "text": "Contact form submissions (name, email, company, project details)Newsletter signups (email address)Enquiries sent via email or scheduling linksInformation shared during discovery calls and project engagements",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Contact form submissions (name, email, company, project details)</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Newsletter signups (email address)</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Enquiries sent via email or scheduling links</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Information shared during discovery calls and project engagements</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Automatic Information",
+   "text": "Automatic Information"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "When you visit our site, we automatically collect limited technical data:",
+   "text": "When you visit our site, we automatically collect limited technical data:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">IP address and general location</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Browser type and device information</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Pages visited and time spent on site</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Referring website</p></li>",
+   "text": "IP address and general locationBrowser type and device informationPages visited and time spent on siteReferring website",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">IP address and general location</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Browser type and device information</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Pages visited and time spent on site</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Referring website</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "How We Use Your Information",
+   "text": "How We Use Your Information"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Studio Operations",
+   "text": "Studio Operations"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Respond to project enquiries and support requests</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Send project updates and communications</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Deliver project work and share progress</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Invoice for services rendered</p></li>",
+   "text": "Respond to project enquiries and support requestsSend project updates and communicationsDeliver project work and share progressInvoice for services rendered",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Respond to project enquiries and support requests</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Send project updates and communications</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Deliver project work and share progress</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Invoice for services rendered</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Newsletter and Journal",
+   "text": "Newsletter and Journal"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Send occasional emails about new work, essays, and studio updates</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">You can unsubscribe at any time using the link in every email</p></li>",
+   "text": "Send occasional emails about new work, essays, and studio updatesYou can unsubscribe at any time using the link in every email",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Send occasional emails about new work, essays, and studio updates</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">You can unsubscribe at any time using the link in every email</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Site Improvement",
+   "text": "Site Improvement"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Understand which pages are most useful to visitors</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Identify and fix issues on the site</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Improve the site's structure and content</p></li>",
+   "text": "Understand which pages are most useful to visitorsIdentify and fix issues on the siteImprove the site's structure and content",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Understand which pages are most useful to visitors</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Identify and fix issues on the site</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Improve the site's structure and content</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Data Sharing",
+   "text": "Data Sharing"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Service Providers",
+   "text": "Service Providers"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We use a small number of trusted third parties to run the studio:",
+   "text": "We use a small number of trusted third parties to run the studio:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Framer for website hosting and CMS</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Google Workspace for email and calendar</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Stripe for payment processing</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Notion for project management</p></li>",
+   "text": "Framer for website hosting and CMSGoogle Workspace for email and calendarStripe for payment processingNotion for project management",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Framer for website hosting and CMS</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Google Workspace for email and calendar</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Stripe for payment processing</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Notion for project management</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Legal Requirements",
+   "text": "Legal Requirements"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We may disclose information if required by law, court order, or to protect the rights, property, or safety of Mira Studio, our clients, or the public.",
+   "text": "We may disclose information if required by law, court order, or to protect the rights, property, or safety of Mira Studio, our clients, or the public."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "We Do Not Sell Data",
+   "text": "We Do Not Sell Data"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We do not sell, rent, or trade your personal information to third parties for marketing purposes. Ever.",
+   "text": "We do not sell, rent, or trade your personal information to third parties for marketing purposes. Ever."
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Data Security",
+   "text": "Data Security"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Security Measures",
+   "text": "Security Measures"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We take reasonable steps to protect the information you share:",
+   "text": "We take reasonable steps to protect the information you share:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Encryption in transit and at rest</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Access limited to studio staff who need the data</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Regular security reviews of the tools we use</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Two-factor authentication on all studio accounts</p></li>",
+   "text": "Encryption in transit and at restAccess limited to studio staff who need the dataRegular security reviews of the tools we useTwo-factor authentication on all studio accounts",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Encryption in transit and at rest</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Access limited to studio staff who need the data</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Regular security reviews of the tools we use</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Two-factor authentication on all studio accounts</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Data Retention",
+   "text": "Data Retention"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Contact form data: Retained while a project is active, then archived for 24 months</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Newsletter subscribers: Retained until you unsubscribe</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Analytics data: Retained for 24 months</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Project files: Retained for 5 years after project close, then deleted</p></li>",
+   "text": "Contact form data: Retained while a project is active, then archived for 24 monthsNewsletter subscribers: Retained until you unsubscribeAnalytics data: Retained for 24 monthsProject files: Retained for 5 years after project close, then deleted",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Contact form data: Retained while a project is active, then archived for 24 months</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Newsletter subscribers: Retained until you unsubscribe</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Analytics data: Retained for 24 months</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Project files: Retained for 5 years after project close, then deleted</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Your Rights and Choices",
+   "text": "Your Rights and Choices"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Access and Control",
+   "text": "Access and Control"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "You have the right to:",
+   "text": "You have the right to:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Ask what personal information we hold about you</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Correct information that is inaccurate</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Ask us to delete your information</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Export your data in a portable format</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Object to certain uses of your data</p></li>",
+   "text": "Ask what personal information we hold about youCorrect information that is inaccurateAsk us to delete your informationExport your data in a portable formatObject to certain uses of your data",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Ask what personal information we hold about you</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Correct information that is inaccurate</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Ask us to delete your information</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Export your data in a portable format</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Object to certain uses of your data</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Contact Us",
+   "text": "Contact Us"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "To exercise any of these rights, email us at <!--$--><a class=\"framer-text framer-styles-preset-vu1xf3\" href=\"mailto:hello@mirastudio.com\" target=\"_blank\" rel>hello@mirastudio.com</a><!--/$-->. We respond to every request within seven business days.",
+   "text": "To exercise any of these rights, email us at hello@mirastudio.com. We respond to every request within seven business days."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "International Transfers",
+   "text": "International Transfers"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "Some of our service providers are based outside your country. When we transfer data internationally, we rely on standard contractual clauses and other legally recognised safeguards to protect it.",
+   "text": "Some of our service providers are based outside your country. When we transfer data internationally, we rely on standard contractual clauses and other legally recognised safeguards to protect it."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Children",
+   "text": "Children"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "Our services are not intended for anyone under 18. We do not knowingly collect information from children.",
+   "text": "Our services are not intended for anyone under 18. We do not knowingly collect information from children."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Changes to This Policy",
+   "text": "Changes to This Policy"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We may update this Privacy Policy from time to time. Material changes will be reflected in the \"Last Updated\" date at the top of the page and, where appropriate, notified via email.",
+   "text": "We may update this Privacy Policy from time to time. Material changes will be reflected in the \"Last Updated\" date at the top of the page and, where appropriate, notified via email."
+  }
+ ],
+ "otherRichText": [
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-15xc10m",
+   "text": "Last updated"
+  },
+  {
+   "cls": "framer-1hck9yt",
+   "text": "7/28/26"
+  },
+  {
+   "cls": "framer-1p9fj0l",
+   "text": "Privacy Policy."
+  },
+  {
+   "cls": "framer-4itqln",
+   "text": "                           MIRA STUDIO (\"WE,\" \"OUR,\" OR \"US\") RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO."
+  },
+  {
+   "cls": "framer-4itqln",
+   "text": "                           MIRA STUDIO (\"WE,\" \"OUR,\" OR \"US\") RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO."
+  },
+  {
+   "cls": "framer-19p5zwk",
+   "text": " EST. 2012"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-19p5zwk",
+   "text": " EST. 2012"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-23fpvw",
+   "text": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW."
+  },
+  {
+   "cls": "framer-1gm2ya6",
+   "text": "Join Now"
+  },
+  {
+   "cls": "framer-l29hgm",
+   "text": "Join Now"
+  },
+  {
+   "cls": "framer-1rl9j96",
+   "text": "By signing up, you’re agreeing to our privacy policy."
+  },
+  {
+   "cls": "framer-s03u8i",
+   "text": "legal"
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Privacy Policy."
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Terms & Conditions."
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Cookies."
+  },
+  {
+   "cls": "framer-yzm327",
+   "text": "let’s talk"
+  },
+  {
+   "cls": "framer-pm8azj",
+   "text": "Unlock from $129"
+  },
+  {
+   "cls": "framer-41at20",
+   "text": "Get Template"
+  },
+  {
+   "cls": "framer-1whkkok",
+   "text": "Secured By"
+  },
+  {
+   "cls": "framer-1f1q597",
+   "text": "/"
+  },
+  {
+   "cls": "framer-pm8azj",
+   "text": "Unlock from $129"
+  },
+  {
+   "cls": "framer-41at20",
+   "text": "All Access"
+  },
+  {
+   "cls": "framer-1whkkok",
+   "text": "Secured By"
+  },
+  {
+   "cls": "framer-1f1q597",
+   "text": "/"
+  }
+ ]
+}

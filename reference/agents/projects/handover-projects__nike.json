@@ -1,0 +1,874 @@
+{
+ "0": {
+  "{\"from\":\"785b5533-fee6-4119-a2d2-fb59937e5710\",\"limit\":{\"type\":\"LiteralValue\",\"value\":10},\"select\":[{\"collection\":\"yi3ySacj2\",\"name\":\"UxQzAcVgo\",\"type\":\"Identifier\"},{\"collection\":\"yi3ySacj2\",\"name\":\"motPAdhqw\",\"type\":\"Identifier\"},{\"collection\":\"yi3ySacj2\",\"name\":\"Q2VN_FZXh\",\"type\":\"Identifier\"},{\"collection\":\"yi3ySacj2\",\"name\":\"id\",\"type\":\"Identifier\"}]}default": [
+   {
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "gucci"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+      "srcSet": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=512&width=2400&height=1350 512w,https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=1024&width=2400&height=1350 1024w,https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=2048&width=2400&height=1350 2048w,https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350 2400w",
+      "pixelWidth": 2400,
+      "pixelHeight": 1350,
+      "alt": "Close-up of a model wearing wraparound sunglasses covered in water droplets"
+     }
+    },
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Gucci"
+    },
+    "id": {
+     "type": "string",
+     "value": "JaJsP6Vfq"
+    }
+   },
+   {
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "chanel"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148",
+      "srcSet": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?scale-down-to=512&width=2040&height=1148 512w,https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?scale-down-to=1024&width=2040&height=1148 1024w,https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148 2040w",
+      "pixelWidth": 2040,
+      "pixelHeight": 1148,
+      "alt": "Model applying face cream to her cheek against a pale background"
+     }
+    },
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Chanel"
+    },
+    "id": {
+     "type": "string",
+     "value": "XXvOVH12x"
+    }
+   },
+   {
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "puma"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+      "srcSet": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?scale-down-to=1024&width=1152&height=1440 819w,https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440 1152w",
+      "pixelWidth": 1152,
+      "pixelHeight": 1440,
+      "alt": "Runner in a red rain jacket and black cap on a misty coastline"
+     }
+    },
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Puma"
+    },
+    "id": {
+     "type": "string",
+     "value": "KpWC_82bc"
+    }
+   },
+   {
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "adidas"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350",
+      "srcSet": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=512&width=2400&height=1350 512w,https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=1024&width=2400&height=1350 1024w,https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=2048&width=2400&height=1350 2048w,https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350 2400w",
+      "pixelWidth": 2400,
+      "pixelHeight": 1350,
+      "alt": "Close-up of a tennis player with braids looking over her racket"
+     }
+    },
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Adidas"
+    },
+    "id": {
+     "type": "string",
+     "value": "W_nBWqIt8"
+    }
+   },
+   {
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "nike"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148",
+      "srcSet": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?scale-down-to=512&width=2040&height=1148 512w,https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?scale-down-to=1024&width=2040&height=1148 1024w,https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148 2040w",
+      "pixelWidth": 2040,
+      "pixelHeight": 1148,
+      "alt": "Athlete lacing orange and white running shoes on a stadium track"
+     }
+    },
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Nike"
+    },
+    "id": {
+     "type": "string",
+     "value": "WcIjdR3cQ"
+    }
+   },
+   {
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "under-armour"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148",
+      "srcSet": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?scale-down-to=512&width=2040&height=1148 512w,https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?scale-down-to=1024&width=2040&height=1148 1024w,https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 2040w",
+      "pixelWidth": 2040,
+      "pixelHeight": 1148,
+      "alt": "Smiling athlete in a black tank top after a workout"
+     }
+    },
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Under Armour"
+    },
+    "id": {
+     "type": "string",
+     "value": "O2EfykTfl"
+    }
+   }
+  ],
+  "{\"from\":\"0c4b3079-c43e-48ed-82fc-1b4a0ae928c7\",\"select\":[{\"collection\":\"xOMQ5lquU\",\"name\":\"aCbHn1BzF\",\"type\":\"Identifier\"},{\"collection\":\"xOMQ5lquU\",\"name\":\"Q9VnKU85y\",\"type\":\"Identifier\"},{\"collection\":\"xOMQ5lquU\",\"name\":\"id\",\"type\":\"Identifier\"}]}default": [
+   {
+    "aCbHn1BzF": {
+     "type": "string",
+     "value": "privacy-policy"
+    },
+    "Q9VnKU85y": {
+     "type": "string",
+     "value": "Privacy Policy."
+    },
+    "id": {
+     "type": "string",
+     "value": "TDgCjrbwG"
+    }
+   },
+   {
+    "aCbHn1BzF": {
+     "type": "string",
+     "value": "terms-conditions"
+    },
+    "Q9VnKU85y": {
+     "type": "string",
+     "value": "Terms & Conditions."
+    },
+    "id": {
+     "type": "string",
+     "value": "cZ_NV0J45"
+    }
+   },
+   {
+    "aCbHn1BzF": {
+     "type": "string",
+     "value": "cookie-policy"
+    },
+    "Q9VnKU85y": {
+     "type": "string",
+     "value": "Cookies."
+    },
+    "id": {
+     "type": "string",
+     "value": "QG_1fkKMx"
+    }
+   }
+  ],
+  "{\"from\":\"f45444af-348d-4456-85f4-05c222b05fec\",\"limit\":{\"type\":\"LiteralValue\",\"value\":1},\"select\":[{\"collection\":\"Ew3tuZPDE\",\"name\":\"vthCLYfzB\",\"type\":\"Identifier\"},{\"collection\":\"Ew3tuZPDE\",\"name\":\"qaAp9AEx5\",\"type\":\"Identifier\"},{\"collection\":\"Ew3tuZPDE\",\"name\":\"dfxBl8eYO\",\"type\":\"Identifier\"},{\"collection\":\"Ew3tuZPDE\",\"name\":\"id\",\"type\":\"Identifier\"}],\"where\":{\"left\":{\"collection\":\"Ew3tuZPDE\",\"name\":\"id\",\"type\":\"Identifier\"},\"operator\":\"==\",\"right\":{\"type\":\"LiteralValue\",\"value\":\"uFdAPa5qS\"},\"type\":\"BinaryOperation\"}}default": [
+   {
+    "vthCLYfzB": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/5lPREXUGyAFz8HUN76gYMzCPPfc.jpg?width=1600&height=1200",
+      "srcSet": "https://framerusercontent.com/images/5lPREXUGyAFz8HUN76gYMzCPPfc.jpg?scale-down-to=512&width=1600&height=1200 512w,https://framerusercontent.com/images/5lPREXUGyAFz8HUN76gYMzCPPfc.jpg?scale-down-to=1024&width=1600&height=1200 1024w,https://framerusercontent.com/images/5lPREXUGyAFz8HUN76gYMzCPPfc.jpg?width=1600&height=1200 1600w",
+      "pixelWidth": 1600,
+      "pixelHeight": 1200,
+      "alt": "Mira Framer template fullscreen hero slider for a creative studio"
+     }
+    },
+    "qaAp9AEx5": {
+     "type": "number",
+     "value": 129
+    },
+    "dfxBl8eYO": {
+     "type": "string",
+     "value": "mira"
+    },
+    "id": {
+     "type": "string",
+     "value": "uFdAPa5qS"
+    }
+   }
+  ],
+  "{\"from\":\"785b5533-fee6-4119-a2d2-fb59937e5710\",\"select\":[{\"collection\":\"dcN8jq2Gu\",\"name\":\"motPAdhqw\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"lqxb5gqxK\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"AO3U_VSSA\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"iRUlzL14O\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"vkVXFuZrL\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"Q2VN_FZXh\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"XdZ8EYmm9\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"wIuMDe0hy\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"PcbIEPCaR\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"bvpPdoiPt\",\"type\":\"Identifier\"},{\"alias\":\"vqgKsb_pP\",\"arguments\":[{\"from\":\"725586fd-46aa-43cb-af0f-9dc1ec6b1424\",\"orderBy\":[{\"arguments\":[{\"collection\":\"dcN8jq2Gu\",\"name\":\"vqgKsb_pP\",\"type\":\"Identifier\"},{\"collection\":\"vqgKsb_pP\",\"name\":\"id\",\"type\":\"Identifier\"}],\"functionName\":\"INDEX_OF\",\"type\":\"FunctionCall\"}],\"select\":[{\"collection\":\"vqgKsb_pP\",\"name\":\"id\",\"type\":\"Identifier\"}],\"type\":\"Select\",\"where\":{\"left\":{\"collection\":\"vqgKsb_pP\",\"name\":\"id\",\"type\":\"Identifier\"},\"operator\":\"in\",\"right\":{\"collection\":\"dcN8jq2Gu\",\"name\":\"vqgKsb_pP\",\"type\":\"Identifier\"},\"type\":\"BinaryOperation\"}}],\"functionName\":\"FLAT_ARRAY\",\"type\":\"FunctionCall\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"dqAPAmEvi\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"Usl1EzDAE\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"jyTIAHrZM\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"paMDsE_W9\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"IKIECD6Us\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"LYsGN5UeN\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"hmCznUGgv\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"hJGB7xex2\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"XQKxVkYWk\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"bx3Ej5cqO\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"qecbb7JIU\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"Fda4gII6i\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"L6jVTThCQ\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"cAF6SIeDV\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"upYF7jAES\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"VWv6rEQ3s\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"FAbuGm6q1\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"m5tVX6dkp\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"tvoTyTZNo\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"RyRTzO3ND\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"FzliK3Vxu\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"DS3aFwMAX\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"JuRuMI9B_\",\"type\":\"Identifier\"},{\"collection\":\"dcN8jq2Gu\",\"name\":\"id\",\"type\":\"Identifier\"}],\"where\":{\"type\":\"BinaryOperation\",\"operator\":\"==\",\"left\":{\"type\":\"TypeCast\",\"value\":{\"type\":\"Identifier\",\"name\":\"UxQzAcVgo\",\"collection\":\"dcN8jq2Gu\"},\"dataType\":\"STRING\"},\"right\":{\"type\":\"LiteralValue\",\"value\":\"nike\"}}}default": [
+   {
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148",
+      "srcSet": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?scale-down-to=512&width=2040&height=1148 512w,https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?scale-down-to=1024&width=2040&height=1148 1024w,https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148 2040w",
+      "pixelWidth": 2040,
+      "pixelHeight": 1148,
+      "alt": "Athlete lacing orange and white running shoes on a stadium track"
+     }
+    },
+    "lqxb5gqxK": {
+     "type": "boolean",
+     "value": false
+    },
+    "AO3U_VSSA": null,
+    "iRUlzL14O": {
+     "type": "string",
+     "value": ""
+    },
+    "vkVXFuZrL": {
+     "type": "string",
+     "value": ""
+    },
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Nike"
+    },
+    "XdZ8EYmm9": {
+     "type": "date",
+     "value": "2025-01-01T00:00:00.000Z"
+    },
+    "wIuMDe0hy": {
+     "type": "string",
+     "value": "Nike wanted a drop page that moves like the sport does. On the track, on the court, and on the street."
+    },
+    "PcbIEPCaR": {
+     "type": "string",
+     "value": "6 weeks"
+    },
+    "bvpPdoiPt": {
+     "type": "link",
+     "value": "https://launchnow.design?utm_source=miratemplate"
+    },
+    "vqgKsb_pP": {
+     "type": "array",
+     "value": [
+      {
+       "type": "string",
+       "value": "AFgc3CQ2g"
+      },
+      {
+       "type": "string",
+       "value": "KpjCYOZ23"
+      },
+      {
+       "type": "string",
+       "value": "n_hDkwhwk"
+      },
+      {
+       "type": "string",
+       "value": "kiSSB1L5o"
+      }
+     ]
+    },
+    "dqAPAmEvi": {
+     "type": "vectorsetitem",
+     "value": {
+      "collectionId": "785b5533-fee6-4119-a2d2-fb59937e5710default",
+      "pointer": 4
+     }
+    },
+    "Usl1EzDAE": {
+     "type": "string",
+     "value": "The American sportswear company. This engagement covered the digital launch of a sport-style capsule."
+    },
+    "jyTIAHrZM": {
+     "type": "string",
+     "value": "The Brief"
+    },
+    "paMDsE_W9": {
+     "type": "string",
+     "value": "Signal the game without shouting it."
+    },
+    "IKIECD6Us": {
+     "type": "string",
+     "value": "Every campaign within a mile of the sport looks the same. Same shot, same crop, same hoodie on the same wall. This capsule had to carry the game from the track to the street without repeating the vocabulary."
+    },
+    "LYsGN5UeN": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/uuHYE7vgUVx4UIn6HdeHEtH4TOY.jpg?width=1800&height=1500",
+      "srcSet": "https://framerusercontent.com/images/uuHYE7vgUVx4UIn6HdeHEtH4TOY.jpg?scale-down-to=512&width=1800&height=1500 512w,https://framerusercontent.com/images/uuHYE7vgUVx4UIn6HdeHEtH4TOY.jpg?scale-down-to=1024&width=1800&height=1500 1024w,https://framerusercontent.com/images/uuHYE7vgUVx4UIn6HdeHEtH4TOY.jpg?width=1800&height=1500 1800w",
+      "pixelWidth": 1800,
+      "pixelHeight": 1500,
+      "alt": "Basketball player in a varsity jacket and checkered socks crouching with a ball on a red backdrop"
+     }
+    },
+    "hmCznUGgv": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/mdsEuPaeYjfpZmPN0NdSKpCL4.jpg?width=1350&height=1800",
+      "srcSet": "https://framerusercontent.com/images/mdsEuPaeYjfpZmPN0NdSKpCL4.jpg?scale-down-to=1024&width=1350&height=1800 768w,https://framerusercontent.com/images/mdsEuPaeYjfpZmPN0NdSKpCL4.jpg?width=1350&height=1800 1350w",
+      "pixelWidth": 1350,
+      "pixelHeight": 1800,
+      "alt": "Basketball player in a patterned jersey and denim shorts posing on a red backdrop"
+     }
+    },
+    "hJGB7xex2": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/2TVTG9dQO7LJ72x2VIUn7VzLV4.jpg?width=1350&height=1800",
+      "srcSet": "https://framerusercontent.com/images/2TVTG9dQO7LJ72x2VIUn7VzLV4.jpg?scale-down-to=1024&width=1350&height=1800 768w,https://framerusercontent.com/images/2TVTG9dQO7LJ72x2VIUn7VzLV4.jpg?width=1350&height=1800 1350w",
+      "pixelWidth": 1350,
+      "pixelHeight": 1800,
+      "alt": "Basketball player in a black bomber jacket kneeling next to a basketball on a red backdrop"
+     }
+    },
+    "XQKxVkYWk": {
+     "type": "string",
+     "value": "The Approach"
+    },
+    "bx3Ej5cqO": {
+     "type": "string",
+     "value": "Full studio, one drop."
+    },
+    "qecbb7JIU": {
+     "type": "string",
+     "value": "One studio, one photographer, one afternoon. The whole drop was shot in three hours, from starting blocks to street fits. The page follows the same energy. Fast, saturated, moving."
+    },
+    "Fda4gII6i": {
+     "type": "enum",
+     "value": "ldIMQY7_d"
+    },
+    "L6jVTThCQ": {
+     "type": "array",
+     "value": [
+      {
+       "type": "object",
+       "value": {
+        "mRgTbxzpP": {
+         "type": "responsiveimage",
+         "value": {
+          "src": "https://framerusercontent.com/images/hm8br9ppRM8ERCQpuw5WVS7bY.jpg?width=1350&height=1800",
+          "srcSet": "https://framerusercontent.com/images/hm8br9ppRM8ERCQpuw5WVS7bY.jpg?scale-down-to=1024&width=1350&height=1800 768w,https://framerusercontent.com/images/hm8br9ppRM8ERCQpuw5WVS7bY.jpg?width=1350&height=1800 1350w",
+          "pixelWidth": 1350,
+          "pixelHeight": 1800,
+          "alt": "Basketball player in a patterned jersey reaching toward the camera on a red backdrop"
+         }
+        },
+        "id": {
+         "type": "string",
+         "value": "hUeBBPi_B"
+        }
+       }
+      },
+      {
+       "type": "object",
+       "value": {
+        "mRgTbxzpP": {
+         "type": "responsiveimage",
+         "value": {
+          "src": "https://framerusercontent.com/images/vYkZKfVlTI2OpUJtQqk7JUKF8.jpg?width=1350&height=1800",
+          "srcSet": "https://framerusercontent.com/images/vYkZKfVlTI2OpUJtQqk7JUKF8.jpg?scale-down-to=1024&width=1350&height=1800 768w,https://framerusercontent.com/images/vYkZKfVlTI2OpUJtQqk7JUKF8.jpg?width=1350&height=1800 1350w",
+          "pixelWidth": 1350,
+          "pixelHeight": 1800,
+          "alt": "Basketball player crouching with his hands out on a red backdrop"
+         }
+        },
+        "id": {
+         "type": "string",
+         "value": "sjZy7HLru"
+        }
+       }
+      },
+      {
+       "type": "object",
+       "value": {
+        "mRgTbxzpP": {
+         "type": "responsiveimage",
+         "value": {
+          "src": "https://framerusercontent.com/images/ZqBtGmrGoovwEbANFKk2HODU0PA.jpg?width=1350&height=1800",
+          "srcSet": "https://framerusercontent.com/images/ZqBtGmrGoovwEbANFKk2HODU0PA.jpg?scale-down-to=1024&width=1350&height=1800 768w,https://framerusercontent.com/images/ZqBtGmrGoovwEbANFKk2HODU0PA.jpg?width=1350&height=1800 1350w",
+          "pixelWidth": 1350,
+          "pixelHeight": 1800,
+          "alt": "Basketball player kneeling and smiling on a red backdrop"
+         }
+        },
+        "id": {
+         "type": "string",
+         "value": "kP38GMwug"
+        }
+       }
+      },
+      {
+       "type": "object",
+       "value": {
+        "mRgTbxzpP": {
+         "type": "responsiveimage",
+         "value": {
+          "src": "https://framerusercontent.com/images/WzkIu8sGLZztBhJ1gSBTrWwzI.jpg?width=1800&height=1500",
+          "srcSet": "https://framerusercontent.com/images/WzkIu8sGLZztBhJ1gSBTrWwzI.jpg?scale-down-to=512&width=1800&height=1500 512w,https://framerusercontent.com/images/WzkIu8sGLZztBhJ1gSBTrWwzI.jpg?scale-down-to=1024&width=1800&height=1500 1024w,https://framerusercontent.com/images/WzkIu8sGLZztBhJ1gSBTrWwzI.jpg?width=1800&height=1500 1800w",
+          "pixelWidth": 1800,
+          "pixelHeight": 1500,
+          "alt": "Basketball player in a varsity jacket holding a ball on a red backdrop"
+         }
+        },
+        "id": {
+         "type": "string",
+         "value": "mo3efn4MD"
+        }
+       }
+      },
+      {
+       "type": "object",
+       "value": {
+        "mRgTbxzpP": {
+         "type": "responsiveimage",
+         "value": {
+          "src": "https://framerusercontent.com/images/C6bwpul41clWAlGAceZHD1HQPjA.jpg?width=1440&height=1800",
+          "srcSet": "https://framerusercontent.com/images/C6bwpul41clWAlGAceZHD1HQPjA.jpg?scale-down-to=1024&width=1440&height=1800 819w,https://framerusercontent.com/images/C6bwpul41clWAlGAceZHD1HQPjA.jpg?width=1440&height=1800 1440w",
+          "pixelWidth": 1440,
+          "pixelHeight": 1800,
+          "alt": "Basketball player in a black bomber jacket sitting on a red backdrop"
+         }
+        },
+        "id": {
+         "type": "string",
+         "value": "eAPKZLFIP"
+        }
+       }
+      },
+      {
+       "type": "object",
+       "value": {
+        "mRgTbxzpP": {
+         "type": "responsiveimage",
+         "value": {
+          "src": "https://framerusercontent.com/images/lRjUmmTomkvk0AJhRiaKSHsNU.jpg?width=1350&height=1800",
+          "srcSet": "https://framerusercontent.com/images/lRjUmmTomkvk0AJhRiaKSHsNU.jpg?scale-down-to=1024&width=1350&height=1800 768w,https://framerusercontent.com/images/lRjUmmTomkvk0AJhRiaKSHsNU.jpg?width=1350&height=1800 1350w",
+          "pixelWidth": 1350,
+          "pixelHeight": 1800,
+          "alt": "Basketball player crouching in a bomber jacket and checkered socks on a red backdrop"
+         }
+        },
+        "id": {
+         "type": "string",
+         "value": "zgUA7KURK"
+        }
+       }
+      }
+     ]
+    },
+    "cAF6SIeDV": {
+     "type": "string",
+     "value": "Outcomes"
+    },
+    "upYF7jAES": {
+     "type": "string",
+     "value": "Sold out. Restocked. Sold out again."
+    },
+    "VWv6rEQ3s": {
+     "type": "string",
+     "value": "The drop cleared in six days. The restock cleared in four. Two flagship city stores asked for the capsule before the page had been live a month."
+    },
+    "FAbuGm6q1": {
+     "type": "array",
+     "value": [
+      {
+       "type": "object",
+       "value": {
+        "dkvW8ALXd": {
+         "type": "string",
+         "value": "6 days"
+        },
+        "eZNgU_zYG": {
+         "type": "string",
+         "value": "first drop cleared"
+        },
+        "lHRlmhtZ1": {
+         "type": "string",
+         "value": "Full inventory sold through the drop page alone."
+        },
+        "jEPMksr4i": {
+         "type": "number",
+         "value": 1
+        },
+        "id": {
+         "type": "string",
+         "value": "kvXJAtPfx"
+        }
+       }
+      },
+      {
+       "type": "object",
+       "value": {
+        "dkvW8ALXd": {
+         "type": "string",
+         "value": "2 restocks"
+        },
+        "eZNgU_zYG": {
+         "type": "string",
+         "value": "in first month"
+        },
+        "lHRlmhtZ1": {
+         "type": "string",
+         "value": "Both restocks cleared inside a week."
+        },
+        "jEPMksr4i": {
+         "type": "number",
+         "value": 2
+        },
+        "id": {
+         "type": "string",
+         "value": "FzBZwhX4j"
+        }
+       }
+      }
+     ]
+    },
+    "m5tVX6dkp": {
+     "type": "string",
+     "value": "The Word"
+    },
+    "tvoTyTZNo": {
+     "type": "string",
+     "value": "Mira built us a page that looks like the game feels."
+    },
+    "RyRTzO3ND": {
+     "type": "string",
+     "value": "We did not want a drop page that looked like every other drop page. Jin got that in the first call. What we shipped feels like a mixtape, not a lookbook."
+    },
+    "FzliK3Vxu": {
+     "type": "string",
+     "value": "Devin Cross"
+    },
+    "DS3aFwMAX": {
+     "type": "string",
+     "value": "Brand Director, Nike Sportswear"
+    },
+    "JuRuMI9B_": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/Kq8enNytXAX3WWNLXgfNsBs3C1M.jpg?width=640&height=640",
+      "srcSet": "https://framerusercontent.com/images/Kq8enNytXAX3WWNLXgfNsBs3C1M.jpg?scale-down-to=512&width=640&height=640 512w,https://framerusercontent.com/images/Kq8enNytXAX3WWNLXgfNsBs3C1M.jpg?width=640&height=640 640w",
+      "pixelWidth": 640,
+      "pixelHeight": 640,
+      "alt": "Portrait of Devin Cross"
+     }
+    },
+    "id": {
+     "type": "string",
+     "value": "WcIjdR3cQ"
+    }
+   }
+  ],
+  "{\"from\":\"785b5533-fee6-4119-a2d2-fb59937e5710\",\"select\":[],\"where\":{\"operator\":\"not\",\"type\":\"UnaryOperation\",\"value\":{\"left\":{\"collection\":\"yi328nlYk\",\"name\":\"id\",\"type\":\"Identifier\"},\"operator\":\"==\",\"right\":{\"type\":\"LiteralValue\",\"value\":\"WcIjdR3cQ\"},\"type\":\"BinaryOperation\"}}}default": [
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "{\"from\":\"725586fd-46aa-43cb-af0f-9dc1ec6b1424\",\"orderBy\":[{\"arguments\":[{\"type\":\"LiteralValue\",\"value\":[\"AFgc3CQ2g\",\"KpjCYOZ23\",\"n_hDkwhwk\",\"kiSSB1L5o\"]},{\"collection\":\"eQ8ikULeq\",\"name\":\"id\",\"type\":\"Identifier\"}],\"direction\":\"asc\",\"functionName\":\"INDEX_OF\",\"type\":\"FunctionCall\"}],\"select\":[{\"collection\":\"eQ8ikULeq\",\"name\":\"daMMVtIRY\",\"type\":\"Identifier\"},{\"collection\":\"eQ8ikULeq\",\"name\":\"TDdrxis4e\",\"type\":\"Identifier\"},{\"collection\":\"eQ8ikULeq\",\"name\":\"id\",\"type\":\"Identifier\"}],\"where\":{\"left\":{\"collection\":\"eQ8ikULeq\",\"name\":\"id\",\"type\":\"Identifier\"},\"operator\":\"in\",\"right\":{\"type\":\"LiteralValue\",\"value\":[\"AFgc3CQ2g\",\"KpjCYOZ23\",\"n_hDkwhwk\",\"kiSSB1L5o\"]},\"type\":\"BinaryOperation\"}}default": [
+   {
+    "daMMVtIRY": {
+     "type": "string",
+     "value": "Brand Identity"
+    },
+    "TDdrxis4e": {
+     "type": "string",
+     "value": "brand-identity"
+    },
+    "id": {
+     "type": "string",
+     "value": "AFgc3CQ2g"
+    }
+   },
+   {
+    "daMMVtIRY": {
+     "type": "string",
+     "value": "Web Design"
+    },
+    "TDdrxis4e": {
+     "type": "string",
+     "value": "web-design"
+    },
+    "id": {
+     "type": "string",
+     "value": "KpjCYOZ23"
+    }
+   },
+   {
+    "daMMVtIRY": {
+     "type": "string",
+     "value": "Framer Dev"
+    },
+    "TDdrxis4e": {
+     "type": "string",
+     "value": "framer-dev"
+    },
+    "id": {
+     "type": "string",
+     "value": "n_hDkwhwk"
+    }
+   },
+   {
+    "daMMVtIRY": {
+     "type": "string",
+     "value": "Art Direction"
+    },
+    "TDdrxis4e": {
+     "type": "string",
+     "value": "art-direction"
+    },
+    "id": {
+     "type": "string",
+     "value": "kiSSB1L5o"
+    }
+   }
+  ],
+  "{\"from\":\"785b5533-fee6-4119-a2d2-fb59937e5710\",\"select\":[{\"collection\":\"yi328nlYk\",\"name\":\"Q2VN_FZXh\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"XdZ8EYmm9\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"motPAdhqw\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"lqxb5gqxK\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"iRUlzL14O\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"AO3U_VSSA\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"dqAPAmEvi\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"UxQzAcVgo\",\"type\":\"Identifier\"},{\"collection\":\"yi328nlYk\",\"name\":\"id\",\"type\":\"Identifier\"}],\"where\":{\"operator\":\"not\",\"type\":\"UnaryOperation\",\"value\":{\"left\":{\"collection\":\"yi328nlYk\",\"name\":\"id\",\"type\":\"Identifier\"},\"operator\":\"==\",\"right\":{\"type\":\"LiteralValue\",\"value\":\"WcIjdR3cQ\"},\"type\":\"BinaryOperation\"}},\"limit\":{\"type\":\"LiteralValue\",\"value\":6}}default": [
+   {
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Gucci"
+    },
+    "XdZ8EYmm9": {
+     "type": "date",
+     "value": "2026-07-08T00:00:00.000Z"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+      "srcSet": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=512&width=2400&height=1350 512w,https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=1024&width=2400&height=1350 1024w,https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=2048&width=2400&height=1350 2048w,https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350 2400w",
+      "pixelWidth": 2400,
+      "pixelHeight": 1350,
+      "alt": "Close-up of a model wearing wraparound sunglasses covered in water droplets"
+     }
+    },
+    "lqxb5gqxK": {
+     "type": "boolean",
+     "value": true
+    },
+    "iRUlzL14O": {
+     "type": "string",
+     "value": ""
+    },
+    "AO3U_VSSA": {
+     "type": "file",
+     "value": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4"
+    },
+    "dqAPAmEvi": {
+     "type": "vectorsetitem",
+     "value": {
+      "collectionId": "785b5533-fee6-4119-a2d2-fb59937e5710default",
+      "pointer": 0
+     }
+    },
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "gucci"
+    },
+    "id": {
+     "type": "string",
+     "value": "JaJsP6Vfq"
+    }
+   },
+   {
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Chanel"
+    },
+    "XdZ8EYmm9": {
+     "type": "date",
+     "value": "2024-07-10T00:00:00.000Z"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148",
+      "srcSet": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?scale-down-to=512&width=2040&height=1148 512w,https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?scale-down-to=1024&width=2040&height=1148 1024w,https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148 2040w",
+      "pixelWidth": 2040,
+      "pixelHeight": 1148,
+      "alt": "Model applying face cream to her cheek against a pale background"
+     }
+    },
+    "lqxb5gqxK": {
+     "type": "boolean",
+     "value": false
+    },
+    "iRUlzL14O": {
+     "type": "string",
+     "value": ""
+    },
+    "AO3U_VSSA": null,
+    "dqAPAmEvi": {
+     "type": "vectorsetitem",
+     "value": {
+      "collectionId": "785b5533-fee6-4119-a2d2-fb59937e5710default",
+      "pointer": 1
+     }
+    },
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "chanel"
+    },
+    "id": {
+     "type": "string",
+     "value": "XXvOVH12x"
+    }
+   },
+   {
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Puma"
+    },
+    "XdZ8EYmm9": {
+     "type": "date",
+     "value": "2025-05-05T00:00:00.000Z"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+      "srcSet": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?scale-down-to=1024&width=1152&height=1440 819w,https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440 1152w",
+      "pixelWidth": 1152,
+      "pixelHeight": 1440,
+      "alt": "Runner in a red rain jacket and black cap on a misty coastline"
+     }
+    },
+    "lqxb5gqxK": {
+     "type": "boolean",
+     "value": true
+    },
+    "iRUlzL14O": {
+     "type": "string",
+     "value": ""
+    },
+    "AO3U_VSSA": {
+     "type": "file",
+     "value": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4"
+    },
+    "dqAPAmEvi": {
+     "type": "vectorsetitem",
+     "value": {
+      "collectionId": "785b5533-fee6-4119-a2d2-fb59937e5710default",
+      "pointer": 2
+     }
+    },
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "puma"
+    },
+    "id": {
+     "type": "string",
+     "value": "KpWC_82bc"
+    }
+   },
+   {
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Adidas"
+    },
+    "XdZ8EYmm9": {
+     "type": "date",
+     "value": "2025-04-15T00:00:00.000Z"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350",
+      "srcSet": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=512&width=2400&height=1350 512w,https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=1024&width=2400&height=1350 1024w,https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=2048&width=2400&height=1350 2048w,https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350 2400w",
+      "pixelWidth": 2400,
+      "pixelHeight": 1350,
+      "alt": "Close-up of a tennis player with braids looking over her racket"
+     }
+    },
+    "lqxb5gqxK": {
+     "type": "boolean",
+     "value": false
+    },
+    "iRUlzL14O": {
+     "type": "string",
+     "value": ""
+    },
+    "AO3U_VSSA": null,
+    "dqAPAmEvi": {
+     "type": "vectorsetitem",
+     "value": {
+      "collectionId": "785b5533-fee6-4119-a2d2-fb59937e5710default",
+      "pointer": 3
+     }
+    },
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "adidas"
+    },
+    "id": {
+     "type": "string",
+     "value": "W_nBWqIt8"
+    }
+   },
+   {
+    "Q2VN_FZXh": {
+     "type": "string",
+     "value": "Under Armour"
+    },
+    "XdZ8EYmm9": {
+     "type": "date",
+     "value": "2023-02-01T00:00:00.000Z"
+    },
+    "motPAdhqw": {
+     "type": "responsiveimage",
+     "value": {
+      "src": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148",
+      "srcSet": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?scale-down-to=512&width=2040&height=1148 512w,https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?scale-down-to=1024&width=2040&height=1148 1024w,https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148 2040w",
+      "pixelWidth": 2040,
+      "pixelHeight": 1148,
+      "alt": "Smiling athlete in a black tank top after a workout"
+     }
+    },
+    "lqxb5gqxK": {
+     "type": "boolean",
+     "value": false
+    },
+    "iRUlzL14O": {
+     "type": "string",
+     "value": ""
+    },
+    "AO3U_VSSA": null,
+    "dqAPAmEvi": {
+     "type": "vectorsetitem",
+     "value": {
+      "collectionId": "785b5533-fee6-4119-a2d2-fb59937e5710default",
+      "pointer": 5
+     }
+    },
+    "UxQzAcVgo": {
+     "type": "string",
+     "value": "under-armour"
+    },
+    "id": {
+     "type": "string",
+     "value": "O2EfykTfl"
+    }
+   }
+  ]
+ },
+ "1": {
+  "getSlugByRecordId|JhREFF2RW|default|TDgCjrbwG": "privacy-policy",
+  "getSlugByRecordId|JhREFF2RW|default|cZ_NV0J45": "terms-conditions"
+ }
+}

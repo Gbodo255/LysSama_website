@@ -1,0 +1,47 @@
+<div "Content" .framer-545x8x
+  <div "Hero / About" .framer-188p22q
+    <div .ssr-variant.hidden-gw4wpc.hidden-1aemvzd
+    <div .ssr-variant.hidden-coh9ff.hidden-1aemvzd
+    <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+    <section "About" .framer-ycmhje
+  <div "Work Section" .framer-3iq6j8
+    <div "Work Reveal" .framer-12sj56n
+    <div "Trigger 1" .framer-4ctmxs
+    <div "Stop Scroll" .framer-21ym8m
+  <div .ssr-variant.hidden-1aemvzd
+    <div "Client Logo Marquee" .framer-hkp95f-container
+  <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+    <div "Client Logo Marquee" .framer-hkp95f-container
+  <section "Why us" .framer-1qtyeza
+    <div "Outer Container" .framer-1q01uzu
+  <section "Services" .framer-nb46is
+    <div "Label / Heading" .framer-1rtf8yx
+    <div "Service Cards" .framer-5ssu39
+  <div .ssr-variant.hidden-1aemvzd
+    <div "Services Team Module" .framer-hm4zv8-container
+  <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+    <div "Services Team Module" .framer-hm4zv8-container
+  <section "Process" .framer-q2r7co
+    <div "Label / Heading" .framer-16ed0oa
+    <div .ssr-variant.hidden-1aemvzd
+    <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+  <div "Play Reel" .framer-6t3cye
+    <div "Reel" .framer-m79k4k
+    <div "Play becomes active here" .framer-1llc9gt
+    <div "Briefly locks into place here." .framer-btgbkf.hidden-1aemvzd
+  <section "Testimonials" .framer-nky0l2
+    <div "Inside Container" .framer-d5o449
+  <section "Pricing" .framer-3z32tc
+    <div "Outer Container" .framer-1foj0ny
+  <div .ssr-variant.hidden-1aemvzd
+    <div "Pricing FAQ" .framer-1fypq4z-container
+  <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+    <div "Pricing FAQ" .framer-1fypq4z-container
+  <div .ssr-variant.hidden-1aemvzd
+    <div "Contact Callout" .framer-1i0v4tb-container
+  <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+    <div "Contact Callout" .framer-1i0v4tb-container
+  <div .ssr-variant.hidden-1aemvzd
+    <div "Articles Feed" .framer-ela0g7-container
+  <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+    <div "Articles Feed" .framer-ela0g7-container

@@ -1,0 +1,5 @@
+1200 ok 35s missing 0 errors 3 [
+  'Failed to load resource: net::ERR_FAILED',
+  'Failed to load resource: net::ERR_FAILED',
+  'TypeError: Failed to fetch dynamically imported module: https://framer.com/edit/init.mjs'
+]

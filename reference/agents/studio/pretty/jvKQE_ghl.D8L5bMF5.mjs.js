@@ -1,0 +1,3065 @@
+import {
+  t as e
+} from "./rolldown-runtime.Bi-D_2cA.mjs";
+import {
+  F as t,
+  M as n,
+  T as r,
+  _ as i,
+  b as a,
+  c as o,
+  j as s,
+  l as c,
+  o as l,
+  p as u,
+  s as d,
+  w as f
+} from "./react.DfujhmXs.mjs";
+import {
+  C as p,
+  a as m,
+  r as h,
+  t as g
+} from "./motion.CM2UIHal.mjs";
+import {
+  A as _,
+  F as v,
+  G as y,
+  K as b,
+  L as x,
+  Lt as S,
+  M as C,
+  N as w,
+  Nt as ee,
+  Pt as T,
+  Q as E,
+  Tt as D,
+  U as O,
+  a as k,
+  ct as A,
+  g as j,
+  ht as M,
+  it as te,
+  j as N,
+  k as P,
+  kt as ne,
+  lt as F,
+  n as I,
+  ot as L,
+  s as R,
+  v as re,
+  w as ie,
+  wt as ae
+} from "./framer.DdqHlrxM.mjs";
+import {
+  A as oe,
+  G as se,
+  J as ce,
+  K as z,
+  O as le,
+  W as ue,
+  X as de,
+  Y as B,
+  Z as fe,
+  at as pe,
+  it as me,
+  j as he,
+  k as ge,
+  nt as _e,
+  q as ve,
+  rt as ye
+} from "./toplevel-deps.BY2s547D.mjs";
+import {
+  i as be,
+  r as xe
+} from "./pgtQfyOCv.DMDfGpCr.mjs";
+import {
+  a as Se,
+  i as Ce,
+  n as we,
+  o as Te,
+  r as Ee,
+  t as De
+} from "./xDlnrOgAN.CxBxYKw0.mjs";
+import {
+  i as Oe,
+  n as ke,
+  r as Ae,
+  t as je
+} from "./LMUl9NNGN.CvLxB6jG.mjs";
+import {
+  c as Me,
+  s as V
+} from "./TJ9zZTo1g.BDr4QkyX.mjs";
+import {
+  n as Ne,
+  t as Pe
+} from "./v7Wd3N72W.Dzl5_5IZ.mjs";
+import {
+  i as Fe,
+  n as Ie,
+  r as Le,
+  t as Re
+} from "./aT6ueLJwl.BUfB4ZgH.mjs";
+import {
+  r as ze,
+  t as Be
+} from "./KKV4D4fLS.38afcr5G.mjs";
+import {
+  r as Ve,
+  t as He
+} from "./Rjhmk6xp7.3EBUhDcb.mjs";
+var Ue, We, Ge, H;
+
+function Ke() {
+  return (Ke = e((() => {
+    d(), E(), r(), Ue = `url('data:image/svg+xml,<svg display="block" id="115873233" role="presentation" viewBox="0 0 15 13" xmlns="http://www.w3.org/2000/svg"><g fill="transparent" height="13px" id="BKf6YnvjN" width="14.786929033227068px"><path d="M 7.707 6.621 L 7.704 6.629 L 7.701 6.638 C 7.636 6.839 7.565 7.038 7.487 7.234 L 7.478 7.256 L 7.471 7.28 C 7.371 7.648 7.358 8.016 7.442 8.377 L 7.443 8.381 L 7.444 8.384 C 7.547 8.795 7.82 9.081 8.186 9.253 L 8.195 9.257 L 8.205 9.261 C 8.516 9.387 8.837 9.402 9.155 9.298 C 9.397 9.219 9.637 9.131 9.874 9.035 C 11.403 8.46 12.925 7.863 14.439 7.244 L 14.446 7.241 L 14.453 7.238 C 14.563 7.188 14.674 7.142 14.787 7.1 L 14.787 11.617 C 14.787 12.381 14.206 13 13.49 13 L 1.297 13 C 0.581 13 0 12.381 0 11.617 L 0 11.194 C 0.21 11.168 0.406 11.079 0.582 10.933 L 0.583 10.932 L 0.584 10.931 C 0.925 10.644 1.237 10.319 1.515 9.962 L 1.518 9.958 L 1.521 9.954 C 1.78 9.603 2.048 9.271 2.322 8.958 L 2.326 8.953 L 3.743 7.288 C 3.707 7.782 3.812 8.281 4.247 8.529 L 4.252 8.532 L 4.257 8.534 C 4.633 8.735 5.039 8.702 5.431 8.516 L 5.431 8.516 C 5.797 8.35 6.139 8.128 6.446 7.86 L 6.452 7.855 L 6.457 7.85 C 6.742 7.582 7.019 7.314 7.288 7.046 L 7.298 7.037 L 7.307 7.027 C 7.427 6.889 7.551 6.756 7.68 6.627 L 7.716 6.595 Z M 13.49 0 C 14.206 0 14.787 0.619 14.787 1.383 L 14.787 5.37 C 14.566 5.461 14.346 5.554 14.127 5.649 C 13.915 5.742 13.696 5.835 13.468 5.928 C 12.937 6.135 12.398 6.343 11.851 6.551 L 11.849 6.552 L 11.848 6.553 L 10.261 7.174 L 9.078 7.595 L 8.981 7.623 C 8.993 7.588 9.003 7.556 9.011 7.528 L 9.011 7.528 C 9.093 7.268 9.182 7.01 9.277 6.756 L 9.279 6.751 L 9.281 6.747 C 9.376 6.474 9.475 6.202 9.576 5.932 L 9.576 5.932 C 9.664 5.711 9.741 5.487 9.808 5.258 C 9.868 5.085 9.889 4.9 9.851 4.711 C 9.813 4.519 9.72 4.354 9.599 4.216 L 9.59 4.206 L 9.581 4.197 L 9.54 4.158 C 9.332 3.97 9.079 3.888 8.804 3.916 L 8.802 3.916 L 8.8 3.917 C 8.581 3.942 8.363 4.015 8.148 4.126 C 7.934 4.238 7.734 4.379 7.552 4.544 C 7.391 4.673 7.256 4.788 7.148 4.89 C 6.775 5.218 6.417 5.568 6.077 5.935 C 5.877 6.14 5.665 6.329 5.442 6.503 L 5.927 4.609 L 5.928 4.605 L 5.929 4.602 C 5.968 4.439 5.975 4.253 5.906 4.072 C 5.839 3.898 5.718 3.775 5.583 3.692 C 5.455 3.601 5.294 3.538 5.111 3.563 C 4.922 3.588 4.775 3.698 4.67 3.818 L 4.668 3.82 L 4.666 3.823 L 1.9 7.06 L 0.711 8.415 C 0.775 8.153 0.843 7.892 0.914 7.632 C 1.11 6.981 1.323 6.337 1.554 5.7 L 1.556 5.694 C 1.772 5.069 2.017 4.456 2.289 3.856 L 2.29 3.854 L 2.291 3.852 L 2.49 3.397 L 2.494 3.389 L 2.497 3.381 C 2.557 3.227 2.624 3.083 2.698 2.948 L 2.703 2.939 L 2.707 2.93 C 2.794 2.752 2.866 2.575 2.894 2.417 L 2.896 2.405 C 2.917 2.26 2.926 2.074 2.926 1.858 C 2.926 1.753 2.902 1.642 2.842 1.539 C 2.791 1.455 2.722 1.384 2.64 1.334 C 2.558 1.276 2.461 1.245 2.362 1.245 C 2.262 1.245 2.165 1.277 2.082 1.335 C 1.882 1.461 1.706 1.604 1.582 1.774 L 1.579 1.777 L 1.577 1.78 C 1.49 1.904 1.395 2.082 1.293 2.295 L 1.29 2.301 L 1.287 2.307 L 0.764 3.5 L 0.762 3.504 L 0.76 3.508 C 0.61 3.87 0.466 4.235 0.33 4.603 C 0.218 4.907 0.108 5.211 0 5.516 L 0 1.383 C 0 0.619 0.581 0 1.297 0 L 13.49 0 Z M 7.851 8.377 L 7.846 8.362 M 7.836 8.333 L 7.833 8.326 L 7.832 8.321 L 7.836 8.333 Z M 13.775 6.246 L 13.602 6.317 C 13.681 6.285 13.759 6.253 13.836 6.221 C 13.815 6.229 13.795 6.238 13.775 6.246 Z M 5.071 4.004 M 5.073 4.003" fill="var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))" height="13px" id="eRwXS1i81" width="14.786929033227068px"/></g></svg>') alpha no-repeat center / auto var(--framer-icon-mask-mode, add), var(--framer-icon-mask, none)`, We = /*#__PURE__*/ u((e, t) => {
+      let {
+        animated: n,
+        layoutId: r,
+        children: i,
+        ...a
+      } = e;
+      return n ? /*#__PURE__*/ l(p.div, {
+        ...a,
+        layoutId: r,
+        ref: t
+      }) : /*#__PURE__*/ l(`div`, {
+        ...a,
+        ref: t
+      })
+    }), Ge = ({
+      height: e,
+      id: t,
+      width: n,
+      ...r
+    }) => ({
+      ...r
+    }), H = T( /* @__PURE__ */ u(function(e, t) {
+      let {
+        style: n,
+        className: r,
+        layoutId: i,
+        variant: a,
+        ...o
+      } = Ge(e);
+      return /*#__PURE__*/ l(We, {
+        ...o,
+        className: v(`framer-urcMH`, r),
+        layoutId: i,
+        ref: t,
+        style: {
+          ...n
+        }
+      })
+    }), [`.framer-urcMH { -webkit-mask: ${Ue}; aspect-ratio: 1.1538461538461537; background-color: var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, #ffffff); mask: ${Ue}; width: 15px; }`], `framer-urcMH`), H.displayName = `White Mark`
+  })))()
+}
+var qe, Je, Ye, Xe, Ze, Qe, $e, et, tt, nt, rt, it, U;
+
+function at() {
+  return (at = e((() => {
+    d(), E(), g(), r(), pe(), fe(), Ke(), qe = O(H), Je = `framer-ZmXTs`, Ye = {
+      cqy9B66RZ: `framer-v-1hwt7ic`
+    }, te(), Xe = {
+      delay: 0,
+      duration: .46,
+      ease: [.87, 0, .13, 1],
+      type: `tween`
+    }, Ze = e => typeof e == `object` && e && typeof e.src == `string` ? e : typeof e == `string` ? {
+      src: e
+    } : void 0, Qe = ({
+      value: e,
+      children: t
+    }) => {
+      let r = s(m),
+        i = e ?? r.transition,
+        a = n(() => ({
+          ...r,
+          transition: i
+        }), [JSON.stringify(i)]);
+      return /*#__PURE__*/ l(m.Provider, {
+        value: a,
+        children: t
+      })
+    }, $e = p.create(t), et = {
+      Horizontal: `row`,
+      Vertical: `column`
+    }, tt = ({
+      height: e,
+      id: t,
+      image: n,
+      name1: r,
+      role: i,
+      textColor: a,
+      textDirection: o,
+      width: s,
+      ...c
+    }) => ({
+      ...c,
+      aeXuFgKS4: a ?? c.aeXuFgKS4 ?? `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+      Rrx3QzjSj: i ?? c.Rrx3QzjSj ?? `Founder`,
+      SAoLSvoWP: et[o] ?? o ?? c.SAoLSvoWP ?? `row`,
+      UZ_3XOybz: r ?? c.UZ_3XOybz ?? `Jin Yuen`,
+      z_ous5hWy: n ?? c.z_ous5hWy ?? {
+        alt: ``,
+        pixelHeight: 1001,
+        pixelWidth: 655,
+        src: `https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg?width=655&height=1001`,
+        srcSet: `https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg?width=655&height=1001 655w`
+      }
+    }), nt = (e, t) => e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`), rt = /*#__PURE__*/ u(function(e, n) {
+      let r = a(null),
+        i = n ?? r,
+        o = f(),
+        {
+          activeLocale: s,
+          setLocale: u
+        } = D(),
+        d = M(),
+        {
+          style: m,
+          className: g,
+          layoutId: _,
+          variant: y,
+          z_ous5hWy: b,
+          aeXuFgKS4: x,
+          SAoLSvoWP: S,
+          UZ_3XOybz: C,
+          Rrx3QzjSj: w,
+          ...T
+        } = tt(e),
+        {
+          baseVariant: E,
+          classNames: O,
+          clearLoadingGesture: k,
+          gestureHandlers: A,
+          gestureVariant: te,
+          isLoading: N,
+          setGestureState: ne,
+          setVariant: F,
+          variants: I
+        } = ee({
+          defaultVariant: `cqy9B66RZ`,
+          ref: i,
+          variant: y,
+          variantClassNames: Ye
+        }),
+        L = nt(e, I),
+        R = v(Je, _e, ce);
+      return /*#__PURE__*/ l(h, {
+        id: _ ?? o,
+        children: /*#__PURE__*/ l($e, {
+          animate: I,
+          initial: !1,
+          children: /*#__PURE__*/ l(Qe, {
+            value: Xe,
+            children: /*#__PURE__*/ c(p.div, {
+              ...T,
+              ...A,
+              className: v(R, `framer-1hwt7ic`, g, O),
+              "data-framer-name": `Revealed`,
+              draggable: `false`,
+              layoutDependency: L,
+              layoutId: `cqy9B66RZ`,
+              ref: i,
+              style: {
+                "--corner-shape-fallback": .752,
+                borderBottomLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                borderBottomRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                borderTopLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                borderTopRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                cornerShape: `superellipse(1.5)`,
+                ...m
+              },
+              children: [ /*#__PURE__*/ l(p.div, {
+                className: `framer-1jw74wi`,
+                "data-framer-name": `Image Container`,
+                layoutDependency: L,
+                layoutId: `ZfzjD0498`,
+                style: {
+                  "--corner-shape-fallback": .752,
+                  borderBottomLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  borderBottomRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  borderTopLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  borderTopRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  cornerShape: `superellipse(1.5)`
+                },
+                children: /*#__PURE__*/ l(j, {
+                  background: {
+                    alt: ``,
+                    fit: `fill`,
+                    pixelHeight: 1001,
+                    pixelWidth: 655,
+                    sizes: `max(${d?.width||`100vw`}, 1px)`,
+                    ...Ze(b)
+                  },
+                  className: `framer-17tax9v`,
+                  "data-framer-name": `Image`,
+                  draggable: `false`,
+                  layoutDependency: L,
+                  layoutId: `eox8P1_JH`,
+                  style: {
+                    "--corner-shape-fallback": .752,
+                    borderBottomLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                    borderBottomRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                    borderTopLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                    borderTopRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                    cornerShape: `superellipse(1.5)`,
+                    mask: `linear-gradient(0deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add`,
+                    WebkitMask: `linear-gradient(0deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add`
+                  },
+                  children: /*#__PURE__*/ l(H, {
+                    animated: !0,
+                    className: `framer-h6mult`,
+                    "data-framer-name": `Logo`,
+                    layoutDependency: L,
+                    layoutId: `dFh5I2T1r`
+                  })
+                })
+              }), /*#__PURE__*/ c(p.div, {
+                className: `framer-3ohe8n`,
+                "data-framer-name": `Name / Role`,
+                layoutDependency: L,
+                layoutId: `B26jnspMb`,
+                style: {
+                  "--16tf3t7": S === `column` ? `100%` : `1px`,
+                  "--1hefes9": S === `column` ? void 0 : `1 0 0px`,
+                  "--1vmd1gw": S
+                },
+                children: [ /*#__PURE__*/ l(P, {
+                  __fromCanvasComponent: !0,
+                  children: /*#__PURE__*/ l(t, {
+                    children: /*#__PURE__*/ l(p.p, {
+                      className: `framer-styles-preset-1l3tbw0`,
+                      "data-styles-preset": `cZ7bby0gR`,
+                      dir: `auto`,
+                      style: {
+                        "--framer-text-color": `var(--extracted-r6o4lv, var(--variable-reference-aeXuFgKS4-Y2D0ZEXbl))`
+                      },
+                      children: `Jin Yuen`
+                    })
+                  }),
+                  className: `framer-1dxru2s`,
+                  fonts: [`Inter`],
+                  layoutDependency: L,
+                  layoutId: `NmejVuxvS`,
+                  style: {
+                    "--extracted-r6o4lv": `var(--variable-reference-aeXuFgKS4-Y2D0ZEXbl)`,
+                    "--framer-link-text-color": `rgb(0, 153, 255)`,
+                    "--framer-link-text-decoration": `underline`,
+                    "--variable-reference-aeXuFgKS4-Y2D0ZEXbl": x
+                  },
+                  text: C,
+                  verticalAlignment: `top`,
+                  withExternalLayout: !0
+                }), /*#__PURE__*/ l(P, {
+                  __fromCanvasComponent: !0,
+                  children: /*#__PURE__*/ l(t, {
+                    children: /*#__PURE__*/ l(p.p, {
+                      className: `framer-styles-preset-c95aba`,
+                      "data-styles-preset": `x8g4OBmQ1`,
+                      dir: `auto`,
+                      style: {
+                        "--framer-text-color": `var(--extracted-r6o4lv, var(--variable-reference-aeXuFgKS4-Y2D0ZEXbl))`
+                      },
+                      children: `Founder`
+                    })
+                  }),
+                  className: `framer-11j9ui1`,
+                  fonts: [`Inter`],
+                  layoutDependency: L,
+                  layoutId: `zb13nZEio`,
+                  style: {
+                    "--extracted-r6o4lv": `var(--variable-reference-aeXuFgKS4-Y2D0ZEXbl)`,
+                    "--framer-link-text-color": `rgb(0, 153, 255)`,
+                    "--framer-link-text-decoration": `underline`,
+                    "--variable-reference-aeXuFgKS4-Y2D0ZEXbl": x,
+                    opacity: .8
+                  },
+                  text: w,
+                  verticalAlignment: `top`,
+                  withExternalLayout: !0
+                })]
+              })]
+            })
+          })
+        })
+      })
+    }), it = [`.framer-ZmXTs.framer-1w0hrod, .framer-ZmXTs .framer-1w0hrod { display: block; }`, `.framer-ZmXTs.framer-1hwt7ic { align-content: flex-start; align-items: flex-start; cursor: default; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; image-rendering: auto; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 300px; will-change: var(--framer-will-change-override, transform); }`, `.framer-ZmXTs .framer-1jw74wi { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`, `.framer-ZmXTs .framer-17tax9v { aspect-ratio: 0.75 / 1; flex: 1 0 0px; height: auto; image-rendering: auto; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }`, `.framer-ZmXTs .framer-h6mult { flex: none; height: 20px; left: 12px; position: absolute; top: 12px; width: auto; }`, `.framer-ZmXTs .framer-3ohe8n { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: var(--1vmd1gw); flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px 12px 0px 12px; position: relative; width: 100%; }`, `.framer-ZmXTs .framer-1dxru2s { flex: var(--1hefes9); height: auto; position: relative; white-space: pre-wrap; width: var(--16tf3t7); word-break: break-word; word-wrap: break-word; }`, `.framer-ZmXTs .framer-11j9ui1 { flex: none; height: auto; position: relative; white-space: pre; width: auto; }`, ...ye, ...B], U = T(rt, it, `framer-ZmXTs`), U.displayName = `Team Card`, U.defaultProps = {
+      height: 436.5,
+      width: 300
+    }, w(U, {
+      z_ous5hWy: {
+        __defaultAssetReference: `data:framer/asset-reference,TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg?originalFilename=Contemplative+Portrait.jpeg&width=655&height=1001`,
+        __vekterDefault: {
+          alt: ``,
+          assetReference: `data:framer/asset-reference,TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg?originalFilename=Contemplative+Portrait.jpeg&width=655&height=1001`
+        },
+        description: `Choose the image displayed by this component.`,
+        title: `Image`,
+        type: R.ResponsiveImage
+      },
+      aeXuFgKS4: {
+        defaultValue: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+        description: `Sets the primary text color used by this component.`,
+        title: `Text Color`,
+        type: R.Color
+      },
+      SAoLSvoWP: {
+        defaultValue: `row`,
+        displaySegmentedControl: !0,
+        optionIcons: [`direction-horizontal`, `direction-vertical`],
+        options: [`row`, `column`],
+        optionTitles: [`Horizontal`, `Vertical`],
+        title: `Text Direction`,
+        type: R.Enum
+      },
+      UZ_3XOybz: {
+        defaultValue: `Jin Yuen`,
+        description: `Sets the person or client name displayed.`,
+        displayTextArea: !1,
+        title: `Name`,
+        type: R.String
+      },
+      onUZ_3XOybzChange: {
+        changes: `UZ_3XOybz`,
+        type: R.ChangeHandler
+      },
+      Rrx3QzjSj: {
+        defaultValue: `Founder`,
+        description: `Sets the role or position displayed below the name.`,
+        title: `Role`,
+        type: R.String
+      },
+      onRrx3QzjSjChange: {
+        changes: `Rrx3QzjSj`,
+        type: R.ChangeHandler
+      }
+    }), C(U, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }]
+    }, ...qe, ...y(me), ...y(de)], {
+      supportsExplicitInterCodegen: !0
+    })
+  })))()
+}
+
+function W(e, ...t) {
+  let n = {};
+  return t?.forEach(t => t && Object.assign(n, e[t])), n
+}
+var ot, st, ct, lt, ut, dt, ft, pt, mt, ht, gt, _t, vt, yt, bt, xt, St, Ct, wt, Tt, G, Et, Dt, Ot, kt, At, jt, Mt, Nt, Pt, Ft, It, Lt, Rt, zt, Bt, Vt, Ht, Ut, K;
+
+function Wt() {
+  return (Wt = e((() => {
+    d(), E(), g(), r(), xe(), Te(), Oe(), fe(), ve(), he(), Me(), ge(), Ne(), at(), ot = O(oe), st = O(le), ct = O(V), lt = O(U), ut = S(N), dt = S(P), ft = S(p.div), pt = O(Pe), mt = S(j), ht = [`nyB2hDezr`, `vmZ77DTLy`, `UU2nT8yjn`], gt = `framer-EGaJK`, _t = {
+      nyB2hDezr: `framer-v-s41k98`,
+      UU2nT8yjn: `framer-v-1j52xp1`,
+      vmZ77DTLy: `framer-v-1enjxj0`
+    }, vt = {
+      delay: 0,
+      duration: .46,
+      ease: [.87, 0, .13, 1],
+      type: `tween`
+    }, te(), yt = (e, t) => typeof e == `string` && typeof t == `string` ? e.toLowerCase() === t.toLowerCase() : e === t, bt = e => !e, xt = {
+      opacity: .001,
+      rotate: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 15
+    }, St = {
+      effect: xt,
+      repeat: !1,
+      startDelay: .2,
+      threshold: .5,
+      tokenization: `line`,
+      transition: {
+        delay: .1,
+        duration: 1.1,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, Ct = (e, t = {}, n) => {
+      let r = `en-US`,
+        i = t.locale || n || r,
+        {
+          useGrouping: a,
+          notation: o,
+          compactDisplay: s,
+          style: c,
+          currency: l,
+          currencyDisplay: u,
+          unit: d,
+          unitDisplay: f,
+          minimumFractionDigits: p,
+          maximumFractionDigits: m,
+          minimumIntegerDigits: h
+        } = t,
+        g = {
+          useGrouping: a,
+          notation: o,
+          compactDisplay: s,
+          style: c,
+          currency: l,
+          currencyDisplay: u,
+          unit: d,
+          unitDisplay: f,
+          minimumFractionDigits: p,
+          maximumFractionDigits: m,
+          minimumIntegerDigits: h
+        },
+        _ = Number(e);
+      try {
+        return _.toLocaleString(i, g)
+      } catch {
+        try {
+          return _.toLocaleString(r, g)
+        } catch {
+          return _.toLocaleString()
+        }
+      }
+    }, wt = (e, t) => typeof e == `string` && typeof t == `string` ? t + e : typeof e == `string` ? e : typeof t == `string` ? t : ``, Tt = (e, t) => typeof e == `string` && typeof t == `string` ? e + t : typeof e == `string` ? e : typeof t == `string` ? t : ``, G = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 0
+    }, Et = {
+      bounce: .1,
+      delay: .5,
+      duration: 1.2,
+      type: `spring`
+    }, Dt = (e, t) => ({
+      ...e,
+      delay: (e.delay ?? 0) + t
+    }), Ot = e => typeof e == `object` && e && typeof e.src == `string` ? e : typeof e == `string` ? {
+      src: e
+    } : void 0, kt = () => ({
+      from: {
+        alias: `EtcJbL_Rb`,
+        data: be,
+        type: `Collection`
+      },
+      limit: {
+        type: `LiteralValue`,
+        value: 5001
+      },
+      select: [{
+        collection: `EtcJbL_Rb`,
+        name: `hkQFS_ysL`,
+        type: `Identifier`
+      }, {
+        collection: `EtcJbL_Rb`,
+        name: `lZApwOqNQ`,
+        type: `Identifier`
+      }, {
+        collection: `EtcJbL_Rb`,
+        name: `CeVTjauwn`,
+        type: `Identifier`
+      }, {
+        collection: `EtcJbL_Rb`,
+        name: `mZoMxf326`,
+        type: `Identifier`
+      }, {
+        collection: `EtcJbL_Rb`,
+        name: `id`,
+        type: `Identifier`
+      }]
+    }), At = ({
+      query: e,
+      pageSize: t,
+      children: n
+    }) => n(ne(e)), jt = {
+      effect: xt,
+      repeat: !1,
+      startDelay: .2,
+      threshold: 0,
+      tokenization: `line`,
+      transition: {
+        delay: .1,
+        duration: .8,
+        ease: [.215, .61, .355, 1],
+        type: `tween`
+      },
+      trigger: `onInView`,
+      type: `appear`
+    }, Mt = {
+      bounce: .1,
+      delay: .3,
+      duration: 1.2,
+      type: `spring`
+    }, Nt = {
+      bounce: .1,
+      delay: .4,
+      duration: 1.2,
+      type: `spring`
+    }, Pt = (...e) => {
+      for (let t of e)
+        if (t && typeof t == `string`) return t
+    }, Ft = {
+      bounce: .1,
+      delay: .1,
+      duration: 1.2,
+      type: `spring`
+    }, It = ({
+      value: e,
+      children: t
+    }) => {
+      let r = s(m),
+        i = e ?? r.transition,
+        a = n(() => ({
+          ...r,
+          transition: i
+        }), [JSON.stringify(i)]);
+      return /*#__PURE__*/ l(m.Provider, {
+        value: a,
+        children: t
+      })
+    }, Lt = {
+      Desktop: `nyB2hDezr`,
+      Phone: `UU2nT8yjn`,
+      Tablet: `vmZ77DTLy`
+    }, Rt = p.create(t), zt = (e, t) => {
+      let [n, r] = i(e), [a, o] = i(e);
+      return t ? [e, t] : (e !== a && (r(e), o(e)), [n, r])
+    }, Bt = ({
+      count: e,
+      height: t,
+      id: n,
+      width: r,
+      ...i
+    }) => ({
+      ...i,
+      pxXb6ooTi: e ?? i.pxXb6ooTi ?? 1,
+      variant: Lt[i.variant] ?? i.variant ?? `nyB2hDezr`
+    }), Vt = (e, t) => e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`), Ht = /*#__PURE__*/ u(function(e, n) {
+      let r = a(null),
+        i = n ?? r,
+        s = f(),
+        {
+          activeLocale: u,
+          setLocale: d
+        } = D(),
+        m = M(),
+        {
+          style: g,
+          className: _,
+          layoutId: y,
+          variant: x,
+          pxXb6ooTi: S,
+          onpxXb6ooTiChange: C,
+          ...w
+        } = Bt(e),
+        [T, E] = zt(S, C),
+        {
+          baseVariant: O,
+          classNames: A,
+          clearLoadingGesture: te,
+          gestureHandlers: ne,
+          gestureVariant: F,
+          isLoading: L,
+          setGestureState: R,
+          setVariant: re,
+          variants: se
+        } = ee({
+          cycleOrder: ht,
+          defaultVariant: `nyB2hDezr`,
+          ref: i,
+          variant: x,
+          variantClassNames: _t
+        }),
+        z = Vt(e, se),
+        de = v(gt, je, ce, Ee, ue),
+        B = () => O !== `UU2nT8yjn`,
+        fe = ae();
+      return /*#__PURE__*/ l(h, {
+        id: y ?? s,
+        children: /*#__PURE__*/ l(Rt, {
+          animate: se,
+          initial: !1,
+          children: /*#__PURE__*/ l(It, {
+            value: vt,
+            children: /*#__PURE__*/ l(p.div, {
+              ...w,
+              ...ne,
+              className: v(de, `framer-s41k98`, _, A),
+              "data-framer-name": `Desktop`,
+              layoutDependency: z,
+              layoutId: `nyB2hDezr`,
+              ref: i,
+              style: {
+                ...g
+              },
+              ...W({
+                UU2nT8yjn: {
+                  "data-framer-name": `Phone`
+                },
+                vmZ77DTLy: {
+                  "data-framer-name": `Tablet`
+                }
+              }, O, F),
+              children: /*#__PURE__*/ c(p.div, {
+                className: `framer-1fgvo0o`,
+                "data-framer-name": `Outer Container`,
+                layoutDependency: z,
+                layoutId: `oSTZIP4JG`,
+                style: {
+                  "--corner-shape-fallback": .752,
+                  backgroundColor: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                  borderBottomLeftRadius: `calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  borderBottomRightRadius: `calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  borderTopLeftRadius: `calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  borderTopRightRadius: `calc(12px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                  cornerShape: `superellipse(1.5)`
+                },
+                children: [ /*#__PURE__*/ c(p.div, {
+                  className: `framer-1n75itp`,
+                  "data-framer-name": `Inside Container`,
+                  layoutDependency: z,
+                  layoutId: `WrabP4Aeo`,
+                  children: [ /*#__PURE__*/ c(p.div, {
+                    className: `framer-1ixs85r`,
+                    "data-framer-name": `Top`,
+                    layoutDependency: z,
+                    layoutId: `zPUi81Yxa`,
+                    children: [B() && /*#__PURE__*/ l(p.div, {
+                      className: `framer-247kte`,
+                      "data-framer-name": `Filler`,
+                      layoutDependency: z,
+                      layoutId: `xXtCixaXZ`
+                    }), /*#__PURE__*/ l(oe, {
+                      animated: !0,
+                      className: `framer-1mi7dag`,
+                      "data-framer-name": `Logo`,
+                      layoutDependency: z,
+                      layoutId: `ADrivEwLT`
+                    }), /*#__PURE__*/ l(k, {
+                      height: 32,
+                      y: (m?.y || 0) + 36 + ((m?.height || 200) - 1745) / 2,
+                      ...W({
+                        UU2nT8yjn: {
+                          y: (m?.y || 0) + 26 + ((m?.height || 200) - 2379) / 2
+                        },
+                        vmZ77DTLy: {
+                          y: (m?.y || 0) + 36 + ((m?.height || 200) - 2005) / 2
+                        }
+                      }, O, F),
+                      children: /*#__PURE__*/ l(N, {
+                        className: `framer-mf8ywh-container`,
+                        layoutDependency: z,
+                        layoutId: `DQjponeTJ-container`,
+                        nodeId: `DQjponeTJ`,
+                        rendersWithMotion: !0,
+                        scopeId: `cUdXW7WC4`,
+                        children: /*#__PURE__*/ l(le, {
+                          height: `100%`,
+                          id: `DQjponeTJ`,
+                          layoutId: `DQjponeTJ`,
+                          width: `100%`
+                        })
+                      })
+                    })]
+                  }), /*#__PURE__*/ c(p.div, {
+                    className: `framer-1bpmpdl`,
+                    "data-framer-name": `Team`,
+                    layoutDependency: z,
+                    layoutId: `qbFB5vsFw`,
+                    children: [ /*#__PURE__*/ c(p.div, {
+                      className: `framer-1np8gf2`,
+                      "data-framer-name": `Text`,
+                      layoutDependency: z,
+                      layoutId: `XzaHM2wSp`,
+                      children: [ /*#__PURE__*/ l(k, {
+                        height: 18,
+                        width: `max((min(${m?.width||`100vw`} - 6px, 1920px) - 126px) / 4, 50px)`,
+                        y: (m?.y || 0) + 188 + ((m?.height || 200) - 1745) / 2,
+                        ...W({
+                          UU2nT8yjn: {
+                            width: `max(min(${m?.width||`100vw`} - 6px, 1920px) - 46px, 50px)`,
+                            y: (m?.y || 0) + 118 + ((m?.height || 200) - 2379) / 2
+                          },
+                          vmZ77DTLy: {
+                            y: (m?.y || 0) + 158 + ((m?.height || 200) - 2005) / 2
+                          }
+                        }, O, F),
+                        children: /*#__PURE__*/ l(N, {
+                          className: `framer-1g8q1u1-container`,
+                          layoutDependency: z,
+                          layoutId: `L8MbsKvsv-container`,
+                          nodeId: `L8MbsKvsv`,
+                          rendersWithMotion: !0,
+                          scopeId: `cUdXW7WC4`,
+                          children: /*#__PURE__*/ l(V, {
+                            fgjj4TIuY: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                            fPCis9rUW: T,
+                            height: `100%`,
+                            id: `L8MbsKvsv`,
+                            layoutId: `L8MbsKvsv`,
+                            onfPCis9rUWChange: E,
+                            shBP9axEq: bt(yt(T, 0)),
+                            width: `100%`,
+                            xr4VRVrT5: `rgba(255, 255, 255, 0.75)`,
+                            z_3j3uyNQ: `Meet the team`
+                          })
+                        })
+                      }), /*#__PURE__*/ l(P, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ l(t, {
+                          children: /*#__PURE__*/ c(p.h2, {
+                            className: `framer-styles-preset-fvem1p`,
+                            "data-styles-preset": `LMUl9NNGN`,
+                            dir: `auto`,
+                            style: {
+                              "--framer-text-alignment": `justify`,
+                              "--framer-text-color": `var(--extracted-1of0zx5, rgba(13, 13, 13, 0.7))`
+                            },
+                            children: [`                 WE STAYED `, /*#__PURE__*/ l(p.span, {
+                              style: {
+                                "--framer-text-color": `var(--extracted-1qn201a, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))`
+                              },
+                              children: `SMALL`
+                            }), ` SO WE COULD `, /*#__PURE__*/ l(p.span, {
+                              style: {
+                                "--framer-text-color": `var(--extracted-1fiaymt, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))`
+                              },
+                              children: `STAY PICKY`
+                            }), `. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.`]
+                          })
+                        }),
+                        className: `framer-13ru9tt`,
+                        effect: St,
+                        fonts: [`Inter`],
+                        layoutDependency: z,
+                        layoutId: `NRRyl14J0`,
+                        style: {
+                          "--extracted-1fiaymt": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                          "--extracted-1of0zx5": `rgba(13, 13, 13, 0.7)`,
+                          "--extracted-1qn201a": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                          "--framer-link-text-color": `rgb(0, 153, 255)`,
+                          "--framer-link-text-decoration": `underline`
+                        },
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0
+                      })]
+                    }), /*#__PURE__*/ l(p.div, {
+                      className: `framer-1s5kewm`,
+                      layoutDependency: z,
+                      layoutId: `EtcJbL_Rb`,
+                      children: /*#__PURE__*/ l(I, {
+                        children: /*#__PURE__*/ l(At, {
+                          query: kt(),
+                          children: (e, n, r) => {
+                            let i = e?.length ?? 0,
+                              a = Tt(Tt(wt(Ct(i, {
+                                locale: ``,
+                                notation: `standard`,
+                                style: `decimal`
+                              }, fe), `(`), `)`), ` Team Members`);
+                            return /*#__PURE__*/ c(o, {
+                              children: [B() && /*#__PURE__*/ l(p.div, {
+                                className: `framer-18o87xw`,
+                                "data-framer-name": `Filler`,
+                                layoutDependency: z,
+                                layoutId: `HCOxSshH4`
+                              }), /*#__PURE__*/ l(P, {
+                                __fromCanvasComponent: !0,
+                                children: /*#__PURE__*/ l(t, {
+                                  children: /*#__PURE__*/ l(p.p, {
+                                    className: `framer-styles-preset-c95aba`,
+                                    "data-styles-preset": `x8g4OBmQ1`,
+                                    dir: `auto`,
+                                    style: {
+                                      "--framer-text-alignment": `justify`,
+                                      "--framer-text-color": `var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))`
+                                    },
+                                    children: `(4) Team Members`
+                                  })
+                                }),
+                                className: `framer-2myfj8`,
+                                fonts: [`Inter`],
+                                layoutDependency: z,
+                                layoutId: `f9iirLni0`,
+                                style: {
+                                  "--extracted-r6o4lv": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                  "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                  "--framer-link-text-decoration": `underline`
+                                },
+                                text: a,
+                                verticalAlignment: `top`,
+                                withExternalLayout: !0
+                              }), e?.map(({
+                                CeVTjauwn: e,
+                                hkQFS_ysL: t,
+                                id: n,
+                                lZApwOqNQ: r,
+                                mZoMxf326: i
+                              }, a) => (r ??= ``, e ??= ``, i ??= ``, /*#__PURE__*/ l(h, {
+                                id: `EtcJbL_Rb-${n}`,
+                                children: /*#__PURE__*/ l(ie.Provider, {
+                                  value: {
+                                    mZoMxf326: i
+                                  },
+                                  children: /*#__PURE__*/ l(k, {
+                                    height: 436,
+                                    width: `max((min(${m?.width||`100vw`} - 6px, 1920px) - 126px) / 4, 50px)`,
+                                    y: (m?.y || 0) + 784 + ((m?.height || 200) - 1745) / 2,
+                                    ...W({
+                                      UU2nT8yjn: {
+                                        width: `max((min(${m?.width||`100vw`} - 6px, 1920px) - 66px) / 2, 50px)`,
+                                        y: (m?.y || 0) + 752 + ((m?.height || 200) - 2379) / 2
+                                      },
+                                      vmZ77DTLy: {
+                                        y: (m?.y || 0) + 754 + ((m?.height || 200) - 2005) / 2
+                                      }
+                                    }, O, F),
+                                    children: /*#__PURE__*/ l(ut, {
+                                      __framer__animate: {
+                                        transition: Dt(Et, a * .1)
+                                      },
+                                      __framer__animateOnce: !0,
+                                      __framer__enter: G,
+                                      __framer__styleAppearEffectEnabled: !0,
+                                      __framer__threshold: 0,
+                                      __perspectiveFX: !1,
+                                      __smartComponentFX: !0,
+                                      __targetOpacity: 1,
+                                      className: `framer-1vyr7a1-container`,
+                                      layoutDependency: z,
+                                      layoutId: `Gxgslscn5-container`,
+                                      nodeId: `Gxgslscn5`,
+                                      rendersWithMotion: !0,
+                                      scopeId: `cUdXW7WC4`,
+                                      children: /*#__PURE__*/ l(U, {
+                                        aeXuFgKS4: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                                        height: `100%`,
+                                        id: `Gxgslscn5`,
+                                        layoutId: `Gxgslscn5`,
+                                        Rrx3QzjSj: e,
+                                        SAoLSvoWP: `row`,
+                                        style: {
+                                          width: `100%`
+                                        },
+                                        UZ_3XOybz: r,
+                                        width: `100%`,
+                                        z_ous5hWy: Ot(t),
+                                        ...W({
+                                          UU2nT8yjn: {
+                                            SAoLSvoWP: `column`
+                                          },
+                                          vmZ77DTLy: {
+                                            SAoLSvoWP: `column`
+                                          }
+                                        }, O, F)
+                                      })
+                                    })
+                                  })
+                                })
+                              }, n)))]
+                            })
+                          }
+                        })
+                      })
+                    })]
+                  }), /*#__PURE__*/ c(p.div, {
+                    className: `framer-1fqa5hs`,
+                    layoutDependency: z,
+                    layoutId: `OgtzezzUb`,
+                    children: [ /*#__PURE__*/ c(p.div, {
+                      className: `framer-1f3fres`,
+                      "data-framer-name": `Hiring Block`,
+                      layoutDependency: z,
+                      layoutId: `kDmkOz6cg`,
+                      children: [ /*#__PURE__*/ c(p.div, {
+                        className: `framer-ifuqey`,
+                        "data-framer-name": `Top`,
+                        layoutDependency: z,
+                        layoutId: `RCP2DfL8p`,
+                        children: [ /*#__PURE__*/ c(p.div, {
+                          className: `framer-3qoqaq`,
+                          layoutDependency: z,
+                          layoutId: `xbfv4_Yc9`,
+                          children: [ /*#__PURE__*/ l(P, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(p.h3, {
+                                className: `framer-styles-preset-s3qbre`,
+                                "data-styles-preset": `fXy3B9GKl`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--extracted-a0htzi, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))`
+                                },
+                                children: `join us, we're hiring.`
+                              })
+                            }),
+                            className: `framer-1wxdbf5`,
+                            effect: jt,
+                            fonts: [`Inter`],
+                            layoutDependency: z,
+                            layoutId: `kVlQXM4AR`,
+                            style: {
+                              "--extracted-a0htzi": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`
+                            },
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          }), /*#__PURE__*/ l(dt, {
+                            __framer__animate: {
+                              transition: Mt
+                            },
+                            __framer__animateOnce: !0,
+                            __framer__enter: G,
+                            __framer__styleAppearEffectEnabled: !0,
+                            __framer__threshold: 0,
+                            __fromCanvasComponent: !0,
+                            __perspectiveFX: !1,
+                            __smartComponentFX: !0,
+                            __targetOpacity: .8,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(p.p, {
+                                className: `framer-styles-preset-lu6cf5`,
+                                "data-styles-preset": `XKitmogp0`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-alignment": `start`,
+                                  "--framer-text-color": `var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))`
+                                },
+                                children: `We’re looking for highly ambitious and talented people to help us drive real growth.`
+                              })
+                            }),
+                            className: `framer-93quvr`,
+                            fonts: [`Inter`],
+                            layoutDependency: z,
+                            layoutId: `s3Ks9zkFx`,
+                            style: {
+                              "--extracted-r6o4lv": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                              opacity: .8
+                            },
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          })]
+                        }), /*#__PURE__*/ c(ft, {
+                          __framer__animate: {
+                            transition: Nt
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: G,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-1gw2wss`,
+                          "data-framer-name": `Open Positions`,
+                          layoutDependency: z,
+                          layoutId: `SGc3x811k`,
+                          children: [ /*#__PURE__*/ l(p.div, {
+                            className: `framer-1obh6ik`,
+                            "data-framer-name": `Number`,
+                            layoutDependency: z,
+                            layoutId: `w3E7RxO_D`,
+                            style: {
+                              "--corner-shape-fallback": .752,
+                              backgroundColor: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                              borderBottomLeftRadius: `calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                              borderBottomRightRadius: `calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                              borderTopLeftRadius: `calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                              borderTopRightRadius: `calc(4px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                              cornerShape: `superellipse(1.5)`
+                            },
+                            children: /*#__PURE__*/ l(P, {
+                              __fromCanvasComponent: !0,
+                              children: /*#__PURE__*/ l(t, {
+                                children: /*#__PURE__*/ l(p.p, {
+                                  className: `framer-styles-preset-c95aba`,
+                                  "data-styles-preset": `x8g4OBmQ1`,
+                                  dir: `auto`,
+                                  children: `02`
+                                })
+                              }),
+                              className: `framer-w43vs0`,
+                              fonts: [`Inter`],
+                              layoutDependency: z,
+                              layoutId: `y4NTcIq9L`,
+                              style: {
+                                "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                "--framer-link-text-decoration": `underline`
+                              },
+                              verticalAlignment: `top`,
+                              withExternalLayout: !0
+                            })
+                          }), /*#__PURE__*/ l(P, {
+                            __fromCanvasComponent: !0,
+                            children: /*#__PURE__*/ l(t, {
+                              children: /*#__PURE__*/ l(p.p, {
+                                className: `framer-styles-preset-c95aba`,
+                                "data-styles-preset": `x8g4OBmQ1`,
+                                dir: `auto`,
+                                style: {
+                                  "--framer-text-color": `var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))`
+                                },
+                                children: `Open Positions`
+                              })
+                            }),
+                            className: `framer-ucp2mh`,
+                            fonts: [`Inter`],
+                            layoutDependency: z,
+                            layoutId: `p6WRJB9hh`,
+                            style: {
+                              "--extracted-r6o4lv": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                              "--framer-link-text-color": `rgb(0, 153, 255)`,
+                              "--framer-link-text-decoration": `underline`
+                            },
+                            verticalAlignment: `top`,
+                            withExternalLayout: !0
+                          })]
+                        })]
+                      }), /*#__PURE__*/ l(k, {
+                        height: 20,
+                        y: (m?.y || 0) + 1560 + ((m?.height || 200) - 1745) / 2,
+                        ...W({
+                          UU2nT8yjn: {
+                            y: (m?.y || 0) + 1924 + ((m?.height || 200) - 2379) / 2
+                          },
+                          vmZ77DTLy: {
+                            y: (m?.y || 0) + 1520 + ((m?.height || 200) - 2005) / 2
+                          }
+                        }, O, F),
+                        children: /*#__PURE__*/ l(ut, {
+                          __framer__animate: {
+                            transition: Et
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: G,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-1k6hmdl-container`,
+                          layoutDependency: z,
+                          layoutId: `TUnCqCSEv-container`,
+                          nodeId: `TUnCqCSEv`,
+                          rendersWithMotion: !0,
+                          scopeId: `cUdXW7WC4`,
+                          children: /*#__PURE__*/ l(Pe, {
+                            A0yGAsltz: `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                            FxpTCec8q: `Email us`,
+                            height: `100%`,
+                            HVx8XMFQN: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                            id: `TUnCqCSEv`,
+                            layoutId: `TUnCqCSEv`,
+                            v2PkRDg7A: !1,
+                            variant: Pt(`jinEk1yag`),
+                            width: `100%`
+                          })
+                        })
+                      })]
+                    }), B() && /*#__PURE__*/ l(p.div, {
+                      className: `framer-13n93o6`,
+                      "data-framer-name": `Filler`,
+                      layoutDependency: z,
+                      layoutId: `YH0BQFiLH`
+                    }), /*#__PURE__*/ l(mt, {
+                      __framer__animate: {
+                        transition: Ft
+                      },
+                      __framer__animateOnce: !0,
+                      __framer__enter: G,
+                      __framer__styleAppearEffectEnabled: !0,
+                      __framer__threshold: 0,
+                      __perspectiveFX: !1,
+                      __smartComponentFX: !0,
+                      __targetOpacity: 1,
+                      background: {
+                        alt: `Studio team talking in a bright workshop`,
+                        fit: `fill`,
+                        intrinsicHeight: 1428,
+                        intrinsicWidth: 2040,
+                        loading: b((m?.y || 0) + 1340 + ((m?.height || 200) - 1745) / 2),
+                        pixelHeight: 1428,
+                        pixelWidth: 2040,
+                        sizes: `calc(max((min(${m?.width||`100vw`} - 6px, 1920px) - 126px) / 4, 50px) * 2 + 20px)`,
+                        src: `https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428`,
+                        srcSet: `https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=512&width=2040&height=1428 512w,https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=1024&width=2040&height=1428 1024w,https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428 2040w`
+                      },
+                      className: `framer-1yvrc4p`,
+                      "data-framer-name": `Team photo`,
+                      fitImageDimension: `height`,
+                      layoutDependency: z,
+                      layoutId: `WxcbiCvyz`,
+                      style: {
+                        "--corner-shape-fallback": .752,
+                        borderBottomLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderBottomRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderTopLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderTopRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        cornerShape: `superellipse(1.5)`
+                      },
+                      ...W({
+                        UU2nT8yjn: {
+                          background: {
+                            alt: `Studio team talking in a bright workshop`,
+                            fit: `fill`,
+                            intrinsicHeight: 1428,
+                            intrinsicWidth: 2040,
+                            loading: b((m?.y || 0) + 1984 + ((m?.height || 200) - 2379) / 2),
+                            pixelHeight: 1428,
+                            pixelWidth: 2040,
+                            sizes: `max(min(${m?.width||`100vw`} - 6px, 1920px) - 46px, 50px)`,
+                            src: `https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428`,
+                            srcSet: `https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=512&width=2040&height=1428 512w,https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=1024&width=2040&height=1428 1024w,https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428 2040w`
+                          }
+                        },
+                        vmZ77DTLy: {
+                          background: {
+                            alt: `Studio team talking in a bright workshop`,
+                            fit: `fill`,
+                            intrinsicHeight: 1428,
+                            intrinsicWidth: 2040,
+                            loading: b((m?.y || 0) + 1600 + ((m?.height || 200) - 2005) / 2),
+                            pixelHeight: 1428,
+                            pixelWidth: 2040,
+                            sizes: `calc(max((min(${m?.width||`100vw`} - 6px, 1920px) - 86px) / 2, 50px) * 2 + 20px)`,
+                            src: `https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428`,
+                            srcSet: `https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=512&width=2040&height=1428 512w,https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=1024&width=2040&height=1428 1024w,https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428 2040w`
+                          }
+                        }
+                      }, O, F)
+                    })]
+                  })]
+                }), /*#__PURE__*/ l(j, {
+                  background: {
+                    alt: ``,
+                    backgroundSize: 1,
+                    fit: `tile`,
+                    loading: b((m?.y || 0) + 3 + ((m?.height || 200) - 1745) / 2),
+                    pixelHeight: 360,
+                    pixelWidth: 480,
+                    positionX: `center`,
+                    positionY: `center`,
+                    sizes: `calc(${m?.width||`100vw`} - 6px)`,
+                    src: `https://framerusercontent.com/images/kelEr6s1qyt801dQcO45jKcaNkk.gif?width=480&height=360`
+                  },
+                  className: `framer-15xi4dy`,
+                  "data-framer-name": `Grain Overlay`,
+                  layoutDependency: z,
+                  layoutId: `tRynanKFu`,
+                  style: {
+                    opacity: .07
+                  },
+                  ...W({
+                    UU2nT8yjn: {
+                      background: {
+                        alt: ``,
+                        backgroundSize: 1,
+                        fit: `tile`,
+                        loading: b((m?.y || 0) + 3 + ((m?.height || 200) - 2379) / 2),
+                        pixelHeight: 360,
+                        pixelWidth: 480,
+                        positionX: `center`,
+                        positionY: `center`,
+                        sizes: `calc(${m?.width||`100vw`} - 6px)`,
+                        src: `https://framerusercontent.com/images/kelEr6s1qyt801dQcO45jKcaNkk.gif?width=480&height=360`
+                      }
+                    },
+                    vmZ77DTLy: {
+                      background: {
+                        alt: ``,
+                        backgroundSize: 1,
+                        fit: `tile`,
+                        loading: b((m?.y || 0) + 3 + ((m?.height || 200) - 2005) / 2),
+                        pixelHeight: 360,
+                        pixelWidth: 480,
+                        positionX: `center`,
+                        positionY: `center`,
+                        sizes: `calc(${m?.width||`100vw`} - 6px)`,
+                        src: `https://framerusercontent.com/images/kelEr6s1qyt801dQcO45jKcaNkk.gif?width=480&height=360`
+                      }
+                    }
+                  }, O, F)
+                })]
+              })
+            })
+          })
+        })
+      })
+    }), Ut = [`.framer-EGaJK.framer-1uqsrmh, .framer-EGaJK .framer-1uqsrmh { display: block; }`, `.framer-EGaJK.framer-s41k98 { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 3px; position: relative; width: 1200px; }`, `.framer-EGaJK .framer-1fgvo0o { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 33px 0px 33px 0px; position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`, `.framer-EGaJK .framer-1n75itp { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 120px; height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1ixs85r { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-247kte, .framer-EGaJK .framer-18o87xw, .framer-EGaJK .framer-13n93o6 { align-self: start; flex: none; height: 1px; justify-self: start; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; }`, `.framer-EGaJK .framer-1mi7dag { align-self: center; flex: none; grid-column: span 2; height: auto; justify-self: start; position: relative; width: 70px; }`, `.framer-EGaJK .framer-mf8ywh-container { align-self: start; flex: none; height: auto; justify-self: end; position: relative; width: fit-content; }`, `.framer-EGaJK .framer-1bpmpdl { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 80px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1np8gf2 { display: grid; flex: none; gap: 20px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1g8q1u1-container { align-self: start; flex: none; height: auto; justify-self: start; position: relative; width: 100%; z-index: 1; }`, `.framer-EGaJK .framer-13ru9tt { align-self: start; flex: none; grid-column: span 3; height: auto; justify-self: start; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-EGaJK .framer-1s5kewm { display: grid; flex: none; gap: 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); height: min-content; justify-content: center; padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-2myfj8 { align-self: start; flex: none; height: auto; justify-self: start; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-EGaJK .framer-1vyr7a1-container { align-self: start; flex: none; height: auto; justify-self: start; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1fqa5hs { display: grid; flex: none; gap: 40px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1f3fres { align-content: flex-end; align-items: flex-end; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-ifuqey { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-3qoqaq { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; max-width: 500px; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1wxdbf5 { --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 500px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-93quvr { --framer-text-wrap-override: balance; flex: none; height: auto; max-width: 340px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1gw2wss { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 7px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-EGaJK .framer-1obh6ik { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: 22px; justify-content: center; overflow: visible; padding: 4px; position: relative; width: min-content; }`, `.framer-EGaJK .framer-w43vs0, .framer-EGaJK .framer-ucp2mh { flex: none; height: auto; position: relative; white-space: pre; width: auto; }`, `.framer-EGaJK .framer-1k6hmdl-container { flex: none; height: auto; position: relative; width: auto; }`, `.framer-EGaJK .framer-1yvrc4p { align-self: start; flex: none; grid-column: span 2; height: auto; justify-self: start; overflow: var(--overflow-clip-fallback, clip); position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }`, `.framer-EGaJK .framer-15xi4dy { bottom: 0px; flex: none; left: 0px; overflow: hidden; pointer-events: none; position: absolute; right: 0px; top: 0px; will-change: var(--framer-will-change-filter-override, filter); }`, `.framer-EGaJK.framer-v-1enjxj0.framer-s41k98 { width: 810px; }`, `.framer-EGaJK.framer-v-1enjxj0 .framer-1n75itp { gap: 90px; }`, `.framer-EGaJK.framer-v-1enjxj0 .framer-1fqa5hs, .framer-EGaJK.framer-v-1j52xp1 .framer-1s5kewm { grid-template-columns: repeat(2, minmax(50px, 1fr)); }`, `.framer-EGaJK.framer-v-1enjxj0 .framer-1f3fres { order: 1; padding: 20px; }`, `.framer-EGaJK.framer-v-1enjxj0 .framer-13n93o6 { order: 0; }`, `.framer-EGaJK.framer-v-1enjxj0 .framer-1yvrc4p { order: 2; }`, `.framer-EGaJK.framer-v-1j52xp1.framer-s41k98 { width: 390px; }`, `.framer-EGaJK.framer-v-1j52xp1 .framer-1fgvo0o { padding: 23px 0px 23px 0px; }`, `.framer-EGaJK.framer-v-1j52xp1 .framer-1n75itp { gap: 60px; padding: 0px 23px 0px 23px; }`, `.framer-EGaJK.framer-v-1j52xp1 .framer-1ixs85r { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: unset; justify-content: space-between; }`, `.framer-EGaJK.framer-v-1j52xp1 .framer-1mi7dag { align-self: unset; }`, `.framer-EGaJK.framer-v-1j52xp1 .framer-mf8ywh-container { align-self: unset; width: auto; }`, `.framer-EGaJK.framer-v-1j52xp1 .framer-1np8gf2, .framer-EGaJK.framer-v-1j52xp1 .framer-1fqa5hs { grid-template-columns: repeat(1, minmax(50px, 1fr)); }`, `.framer-EGaJK.framer-v-1j52xp1 .framer-13ru9tt, .framer-EGaJK.framer-v-1j52xp1 .framer-1yvrc4p { grid-column: span 1; }`, ...ke, ...B, ...Ce, ...se], K = T(Ht, Ut, `framer-EGaJK`), K.displayName = `Team`, K.defaultProps = {
+      height: 1856,
+      width: 1200
+    }, w(K, {
+      variant: {
+        options: [`nyB2hDezr`, `vmZ77DTLy`, `UU2nT8yjn`],
+        optionTitles: [`Desktop`, `Tablet`, `Phone`],
+        title: `Variant`,
+        type: R.Enum
+      },
+      pxXb6ooTi: {
+        defaultValue: 1,
+        description: `Sets the displayed numeric count or order.`,
+        title: `Count`,
+        type: R.Number
+      },
+      onpxXb6ooTiChange: {
+        changes: `pxXb6ooTi`,
+        type: R.ChangeHandler
+      }
+    }), C(K, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }]
+    }, ...ot, ...st, ...ct, ...lt, ...pt, ...y(Ae), ...y(de), ...y(Se), ...y(z)], {
+      supportsExplicitInterCodegen: !0
+    }), K.loader = {
+      load: (e, t) => {
+        let n = t.locale,
+          r = t.priority,
+          i = L.get(kt(), n, r);
+        return A([() => i.preload(), () => x(le, {}, t), () => x(V, {}, t), () => x(Pe, {}, t), async () => {
+          let e = await F(() => i.readMaybeAsync(), t) ?? [];
+          return A(e.flatMap(e => () => x(U, {}, t)), t)
+        }], t)
+      }
+    }
+  })))()
+}
+var Gt, Kt, qt, Jt;
+
+function Yt() {
+  return (Yt = e((() => {
+    d(), E(), r(), Gt = `url('data:image/svg+xml,<svg display="block" id="2134404827" role="presentation" viewBox="0 0 40 34" xmlns="http://www.w3.org/2000/svg"><path d="M 28.738 2.483 C 32.182 2.483 34.975 17.007 34.975 34.947 L 40 34.947 C 40 15.633 34.93 0 28.723 0 C 25.178 0 22.045 4.683 19.977 12.045 C 17.908 4.685 14.775 0 11.258 0 C 5.052 0 0 15.62 0 34.933 L 5.023 34.933 C 5.023 16.995 7.787 2.483 11.23 2.483 C 14.673 2.483 17.465 15.9 17.465 32.45 L 22.46 32.45 C 22.46 15.9 25.267 2.483 28.71 2.483 Z" fill="var(--1mg0zwm, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" height="34.94666666666666px" id="dQniHBxay" transform="translate(0 0.025)" width="40px"/></svg>') alpha no-repeat center / auto var(--framer-icon-mask-mode, add), var(--framer-icon-mask, none)`, Kt = /*#__PURE__*/ u((e, t) => {
+      let {
+        animated: n,
+        layoutId: r,
+        children: i,
+        ...a
+      } = e;
+      return n ? /*#__PURE__*/ l(p.div, {
+        ...a,
+        layoutId: r,
+        ref: t
+      }) : /*#__PURE__*/ l(`div`, {
+        ...a,
+        ref: t
+      })
+    }), qt = ({
+      fill: e,
+      height: t,
+      id: n,
+      width: r,
+      ...i
+    }) => ({
+      ...i,
+      NO1JEkIaR: e ?? i.NO1JEkIaR ?? `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))`
+    }), Jt = T( /* @__PURE__ */ u(function(e, t) {
+      let {
+        style: n,
+        className: r,
+        layoutId: i,
+        variant: a,
+        NO1JEkIaR: o,
+        ...s
+      } = qt(e);
+      return /*#__PURE__*/ l(Kt, {
+        ...s,
+        className: v(`framer-azjUT`, r),
+        layoutId: i,
+        ref: t,
+        style: {
+          "--1mg0zwm": o,
+          ...n
+        }
+      })
+    }), [`.framer-azjUT { -webkit-mask: ${Gt}; aspect-ratio: 1.1764705882352942; background-color: var(--1mg0zwm); mask: ${Gt}; width: 40px; }`], `framer-azjUT`), Jt.displayName = `Mcdonalds`, w(Jt, {
+      NO1JEkIaR: {
+        defaultValue: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)) /* {"name":"Black"} */`,
+        hidden: !1,
+        title: `Fill`,
+        type: R.Color
+      }
+    })
+  })))()
+}
+var Xt, Zt, Qt, $t;
+
+function en() {
+  return (en = e((() => {
+    d(), E(), r(), Xt = `url('data:image/svg+xml,<svg display="block" id="526140854" role="presentation" viewBox="0 0 40 15" xmlns="http://www.w3.org/2000/svg"><path d="M 0 0 L 0 8.263 C 0 11.375 2.17 13.432 5 13.432 C 6.377 13.432 7.603 12.905 8.49 11.982 L 8.49 13.208 L 10.45 13.208 L 10.45 0 L 8.47 0 L 8.47 8.147 C 8.47 10.242 7.053 11.657 5.225 11.657 C 3.375 11.657 1.982 10.278 1.982 8.147 L 1.982 0.002 L 0 0.002 Z M 12.4 0 L 12.4 13.208 L 14.283 13.208 L 14.283 12 C 15.152 12.887 16.378 13.433 17.717 13.433 C 19.055 13.446 20.342 12.923 21.292 11.98 C 22.242 11.038 22.775 9.755 22.773 8.417 C 22.78 7.075 22.249 5.788 21.299 4.841 C 20.349 3.894 19.06 3.366 17.718 3.377 C 16.433 3.375 15.202 3.892 14.303 4.812 L 14.303 0.002 L 12.398 0.002 Z M 28.848 3.397 C 26.037 3.397 23.907 5.68 23.907 8.397 C 23.907 11.263 26.13 13.413 29.017 13.413 C 30.772 13.413 32.205 12.642 33.167 11.358 L 31.79 10.34 C 31.073 11.302 30.13 11.752 29.017 11.752 C 27.395 11.752 26.095 10.585 25.83 9.018 L 33.658 9.018 L 33.658 8.397 C 33.658 5.53 31.622 3.397 28.848 3.397 M 39.34 3.51 C 38.283 3.51 37.51 4 37.038 4.773 L 37.038 3.585 L 35.153 3.585 L 35.153 13.208 L 37.057 13.208 L 37.057 7.733 C 37.057 6.243 37.963 5.283 39.208 5.283 L 40 5.283 L 40 3.508 L 39.34 3.508 Z M 28.808 5.057 C 30.225 5.057 31.415 6.037 31.735 7.507 L 25.867 7.507 C 26.205 6.037 27.393 5.057 28.808 5.057 M 17.588 5.077 C 19.398 5.077 20.888 6.548 20.888 8.417 C 20.896 10.248 19.42 11.74 17.588 11.752 C 16.705 11.753 15.857 11.402 15.233 10.776 C 14.61 10.149 14.262 9.3 14.267 8.417 C 14.26 7.532 14.608 6.682 15.231 6.055 C 15.854 5.428 16.702 5.076 17.587 5.077 Z" fill="var(--1mg0zwm, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" height="13.433551563061561px" id="r52TCbpLH" transform="translate(0 0.785)" width="40.00000242900435px"/></svg>') alpha no-repeat center / auto var(--framer-icon-mask-mode, add), var(--framer-icon-mask, none)`, Zt = /*#__PURE__*/ u((e, t) => {
+      let {
+        animated: n,
+        layoutId: r,
+        children: i,
+        ...a
+      } = e;
+      return n ? /*#__PURE__*/ l(p.div, {
+        ...a,
+        layoutId: r,
+        ref: t
+      }) : /*#__PURE__*/ l(`div`, {
+        ...a,
+        ref: t
+      })
+    }), Qt = ({
+      fill: e,
+      height: t,
+      id: n,
+      width: r,
+      ...i
+    }) => ({
+      ...i,
+      NO1JEkIaR: e ?? i.NO1JEkIaR ?? `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))`
+    }), $t = T( /* @__PURE__ */ u(function(e, t) {
+      let {
+        style: n,
+        className: r,
+        layoutId: i,
+        variant: a,
+        NO1JEkIaR: o,
+        ...s
+      } = Qt(e);
+      return /*#__PURE__*/ l(Zt, {
+        ...s,
+        className: v(`framer-yh1m0`, r),
+        layoutId: i,
+        ref: t,
+        style: {
+          "--1mg0zwm": o,
+          ...n
+        }
+      })
+    }), [`.framer-yh1m0 { -webkit-mask: ${Xt}; aspect-ratio: 2.6666666666666665; background-color: var(--1mg0zwm); mask: ${Xt}; width: 40px; }`], `framer-yh1m0`), $t.displayName = `Uber`, w($t, {
+      NO1JEkIaR: {
+        defaultValue: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)) /* {"name":"Black"} */`,
+        hidden: !1,
+        title: `Fill`,
+        type: R.Color
+      }
+    })
+  })))()
+}
+var tn, nn, rn, q;
+
+function an() {
+  return (an = e((() => {
+    d(), E(), r(), tn = `url('data:image/svg+xml,<svg display="block" id="1841723865" role="presentation" viewBox="0 0 40 16" xmlns="http://www.w3.org/2000/svg"><path d="M 34.033 0 L 34.033 15.3 L 36.785 15.3 L 36.785 0 Z M 0 0.217 L 0 3.112 L 2.895 3.112 L 2.895 0.215 Z M 16.3 0.803 L 16.3 10.892 C 16.3 11.747 16.372 12.465 16.517 13.045 C 16.662 13.613 16.907 14.073 17.25 14.425 C 17.588 14.775 18.042 15.023 18.588 15.177 C 19.146 15.33 19.843 15.406 20.68 15.403 L 21.04 15.403 L 21.04 12.848 C 20.64 12.848 20.298 12.828 20.052 12.787 C 19.809 12.764 19.581 12.663 19.402 12.498 C 19.244 12.323 19.144 12.104 19.113 11.87 C 19.067 11.535 19.047 11.198 19.052 10.86 L 19.052 7.223 L 21.04 7.223 L 21.04 4.863 L 19.052 4.863 L 19.052 0.803 Z M 10.458 4.657 C 9.798 4.657 9.192 4.79 8.655 5.058 C 8.111 5.327 7.654 5.698 7.285 6.172 L 7.14 6.367 L 7.14 4.863 L 4.43 4.863 L 4.43 15.29 L 7.162 15.29 L 7.162 9.933 C 7.189 8.954 7.43 8.233 7.883 7.768 C 8.367 7.273 8.953 7.027 9.623 7.027 C 10.417 7.027 11.025 7.275 11.427 7.748 C 11.818 8.222 12.025 8.892 12.025 9.748 L 12.025 15.288 L 14.797 15.288 L 14.797 9.375 C 14.807 7.892 14.415 6.717 13.653 5.892 C 12.892 5.067 11.82 4.655 10.458 4.655 Z M 27.233 4.667 C 25.794 4.661 24.411 5.228 23.39 6.243 C 22.907 6.727 22.515 7.305 22.237 7.965 C 21.95 8.635 21.806 9.358 21.813 10.087 C 21.813 10.841 21.947 11.549 22.215 12.21 C 22.483 12.868 22.865 13.447 23.338 13.93 C 23.812 14.413 24.4 14.807 25.08 15.085 C 25.76 15.373 26.513 15.518 27.317 15.518 C 29.645 15.518 31.087 14.457 31.953 13.468 L 29.975 11.962 C 29.562 12.457 28.573 13.127 27.337 13.127 C 26.563 13.127 25.925 12.952 25.44 12.592 C 24.956 12.233 24.607 11.721 24.452 11.138 L 24.42 11.045 L 32.612 11.045 L 32.612 10.067 C 32.611 9.316 32.48 8.612 32.22 7.955 C 31.96 7.319 31.587 6.736 31.118 6.233 C 30.638 5.735 30.059 5.343 29.418 5.08 C 28.725 4.797 27.982 4.657 27.233 4.667 M 0.072 4.863 L 0.072 15.29 L 2.823 15.29 L 2.823 4.863 Z M 27.202 7.007 C 29.088 7.007 29.975 8.335 29.975 9.098 L 24.442 9.108 C 24.442 8.345 25.317 7.017 27.202 7.007 M 38.99 13.363 C 38.432 13.363 37.98 13.816 37.98 14.373 C 37.98 14.931 38.432 15.383 38.99 15.383 C 39.548 15.383 40 14.931 40 14.373 C 40 13.816 39.548 13.363 38.99 13.363 M 38.977 13.538 L 38.98 13.538 C 39.201 13.538 39.414 13.626 39.57 13.783 C 39.726 13.94 39.814 14.152 39.813 14.373 C 39.813 14.834 39.44 15.207 38.98 15.207 C 38.52 15.207 38.147 14.834 38.147 14.373 C 38.147 13.914 38.518 13.542 38.977 13.54 Z M 38.588 13.797 L 38.588 14.962 L 38.805 14.962 L 38.805 14.487 L 38.96 14.487 L 39.248 14.962 L 39.475 14.962 L 39.175 14.467 C 39.249 14.458 39.318 14.426 39.372 14.373 C 39.422 14.323 39.455 14.25 39.455 14.147 C 39.455 14.036 39.42 13.95 39.35 13.89 C 39.288 13.827 39.175 13.797 39.042 13.797 Z M 38.805 13.962 L 39.062 13.962 C 39.093 13.963 39.124 13.969 39.155 13.982 C 39.182 13.989 39.204 14.008 39.217 14.033 C 39.238 14.055 39.237 14.085 39.237 14.127 C 39.239 14.159 39.232 14.19 39.217 14.218 C 39.198 14.238 39.178 14.255 39.155 14.27 C 39.124 14.282 39.093 14.289 39.062 14.292 L 38.805 14.292 Z" fill="var(--1mg0zwm, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" height="15.518333402620506px" id="Od6RWeO8j" transform="translate(0 0.245)" width="39.99999961351393px"/></svg>') alpha no-repeat center / auto var(--framer-icon-mask-mode, add), var(--framer-icon-mask, none)`, nn = /*#__PURE__*/ u((e, t) => {
+      let {
+        animated: n,
+        layoutId: r,
+        children: i,
+        ...a
+      } = e;
+      return n ? /*#__PURE__*/ l(p.div, {
+        ...a,
+        layoutId: r,
+        ref: t
+      }) : /*#__PURE__*/ l(`div`, {
+        ...a,
+        ref: t
+      })
+    }), rn = ({
+      fill: e,
+      height: t,
+      id: n,
+      width: r,
+      ...i
+    }) => ({
+      ...i,
+      NO1JEkIaR: e ?? i.NO1JEkIaR ?? `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))`
+    }), q = T( /* @__PURE__ */ u(function(e, t) {
+      let {
+        style: n,
+        className: r,
+        layoutId: i,
+        variant: a,
+        NO1JEkIaR: o,
+        ...s
+      } = rn(e);
+      return /*#__PURE__*/ l(nn, {
+        ...s,
+        className: v(`framer-9SpMv`, r),
+        layoutId: i,
+        ref: t,
+        style: {
+          "--1mg0zwm": o,
+          ...n
+        }
+      })
+    }), [`.framer-9SpMv { -webkit-mask: ${tn}; aspect-ratio: 2.5; background-color: var(--1mg0zwm); mask: ${tn}; width: 40px; }`], `framer-9SpMv`), q.displayName = `Intel`, w(q, {
+      NO1JEkIaR: {
+        defaultValue: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)) /* {"name":"Black"} */`,
+        hidden: !1,
+        title: `Fill`,
+        type: R.Color
+      }
+    })
+  })))()
+}
+var on, sn, cn, ln;
+
+function un() {
+  return (un = e((() => {
+    d(), E(), r(), on = `url('data:image/svg+xml,<svg display="block" id="593840259" role="presentation" viewBox="0 0 16 20" xmlns="http://www.w3.org/2000/svg"><path d="M 13.226 10.337 C 13.255 13.277 15.81 14.267 15.838 14.28 C 15.81 14.35 15.425 15.684 14.491 17.044 C 13.68 18.227 12.841 19.407 11.508 19.435 C 10.203 19.462 9.791 18.665 8.291 18.665 C 6.808 18.665 6.341 19.407 5.103 19.462 C 3.84 19.504 2.863 18.17 2.04 16.989 C 0.376 14.57 -0.902 10.158 0.816 7.188 C 1.666 5.705 3.193 4.77 4.843 4.755 C 6.093 4.728 7.29 5.608 8.06 5.608 C 8.83 5.608 10.271 4.563 11.783 4.715 C 12.416 4.742 14.203 4.977 15.343 6.638 C 15.246 6.693 13.213 7.877 13.226 10.337 M 10.78 3.107 C 11.453 2.282 11.921 1.14 11.796 0 C 10.821 0.042 9.64 0.647 8.925 1.472 C 8.291 2.2 7.741 3.368 7.893 4.482 C 8.98 4.565 10.106 3.918 10.78 3.107" fill="var(--1mg0zwm, var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)))" height="19.462839199364414px" id="kY5OppKdd" transform="translate(0 0.205)" width="15.83805963295988px"/></svg>') alpha no-repeat center / auto var(--framer-icon-mask-mode, add), var(--framer-icon-mask, none)`, sn = /*#__PURE__*/ u((e, t) => {
+      let {
+        animated: n,
+        layoutId: r,
+        children: i,
+        ...a
+      } = e;
+      return n ? /*#__PURE__*/ l(p.div, {
+        ...a,
+        layoutId: r,
+        ref: t
+      }) : /*#__PURE__*/ l(`div`, {
+        ...a,
+        ref: t
+      })
+    }), cn = ({
+      fill: e,
+      height: t,
+      id: n,
+      width: r,
+      ...i
+    }) => ({
+      ...i,
+      NO1JEkIaR: e ?? i.NO1JEkIaR ?? `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))`
+    }), ln = T( /* @__PURE__ */ u(function(e, t) {
+      let {
+        style: n,
+        className: r,
+        layoutId: i,
+        variant: a,
+        NO1JEkIaR: o,
+        ...s
+      } = cn(e);
+      return /*#__PURE__*/ l(sn, {
+        ...s,
+        className: v(`framer-wSHP9`, r),
+        layoutId: i,
+        ref: t,
+        style: {
+          "--1mg0zwm": o,
+          ...n
+        }
+      })
+    }), [`.framer-wSHP9 { -webkit-mask: ${on}; aspect-ratio: 0.8; background-color: var(--1mg0zwm); mask: ${on}; width: 16px; }`], `framer-wSHP9`), ln.displayName = `Apple`, w(ln, {
+      NO1JEkIaR: {
+        defaultValue: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10)) /* {"name":"Black"} */`,
+        hidden: !1,
+        title: `Fill`,
+        type: R.Color
+      }
+    })
+  })))()
+}
+var dn, fn, pn, mn, hn, gn, _n, J;
+
+function vn() {
+  return (vn = e((() => {
+    d(), E(), g(), r(), an(), dn = `framer-rE6x2`, fn = {
+      VxhSjfuyP: `framer-v-1evdr1t`
+    }, te(), pn = {
+      delay: 0,
+      duration: .56,
+      ease: [.87, 0, .13, 1],
+      type: `tween`
+    }, mn = ({
+      value: e,
+      children: t
+    }) => {
+      let r = s(m),
+        i = e ?? r.transition,
+        a = n(() => ({
+          ...r,
+          transition: i
+        }), [JSON.stringify(i)]);
+      return /*#__PURE__*/ l(m.Provider, {
+        value: a,
+        children: t
+      })
+    }, hn = p.create(t), gn = ({
+      clientLogo: e,
+      height: t,
+      id: n,
+      width: r,
+      ...i
+    }) => ({
+      ...i,
+      vfFf9mmy1: e ?? i.vfFf9mmy1 ?? q
+    }), _n = (e, t) => e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`), J = T( /* @__PURE__ */ u(function(e, t) {
+      let n = a(null),
+        r = t ?? n,
+        i = f(),
+        {
+          activeLocale: o,
+          setLocale: s
+        } = D();
+      M();
+      let {
+        style: c,
+        className: u,
+        layoutId: d,
+        variant: m,
+        vfFf9mmy1: g,
+        ..._
+      } = gn(e), {
+        baseVariant: y,
+        classNames: b,
+        clearLoadingGesture: x,
+        gestureHandlers: S,
+        gestureVariant: C,
+        isLoading: w,
+        setGestureState: T,
+        setVariant: E,
+        variants: O
+      } = ee({
+        defaultVariant: `VxhSjfuyP`,
+        ref: r,
+        variant: m,
+        variantClassNames: fn
+      }), k = _n(e, O), A = v(dn);
+      return /*#__PURE__*/ l(h, {
+        id: d ?? i,
+        children: /*#__PURE__*/ l(hn, {
+          animate: O,
+          initial: !1,
+          children: /*#__PURE__*/ l(mn, {
+            value: pn,
+            children: /*#__PURE__*/ l(p.div, {
+              ..._,
+              ...S,
+              className: v(A, `framer-1evdr1t`, u, b),
+              "data-framer-name": `Case Study`,
+              layoutDependency: k,
+              layoutId: `VxhSjfuyP`,
+              ref: r,
+              style: {
+                "--corner-shape-fallback": .752,
+                backgroundColor: `var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))`,
+                borderBottomLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                borderBottomRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                borderTopLeftRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                borderTopRightRadius: `calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                cornerShape: `superellipse(1.5)`,
+                ...c
+              },
+              children: /*#__PURE__*/ l(re, {
+                animated: !0,
+                className: `framer-o7c73w`,
+                Component: g,
+                "data-framer-name": `Logo`,
+                layoutDependency: k,
+                layoutId: `Reg677CGt`,
+                style: {
+                  "--1mg0zwm": `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))`
+                }
+              })
+            })
+          })
+        })
+      })
+    }), [`.framer-rE6x2.framer-1sj0fas, .framer-rE6x2 .framer-1sj0fas { display: block; }`, `.framer-rE6x2.framer-1evdr1t { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 120px; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 30px; position: relative; width: 200px; will-change: var(--framer-will-change-override, transform); }`, `.framer-rE6x2 .framer-o7c73w { flex: none; height: 30px; position: relative; width: auto; }`], `framer-rE6x2`), J.displayName = `Client Logo`, J.defaultProps = {
+      height: 120,
+      width: 200
+    }, w(J, {
+      vfFf9mmy1: {
+        defaultValue: {
+          identifier: `local-module:vector/pJej1dFrl:default`,
+          moduleId: `VLdPUKXtWchGN20WirF6`
+        },
+        description: `Selects the client logo displayed in this instance.`,
+        setModuleId: `aKHbzmvnAXhRAfkNzAVN`,
+        title: `Client Logo`,
+        type: R.VectorSetItem
+      }
+    }), C(J, [{
+      explicitInter: !0,
+      fonts: []
+    }], {
+      supportsExplicitInterCodegen: !0
+    })
+  })))()
+}
+var yn, bn, xn, Sn, Cn, wn, Tn, En, Dn, On, kn, An, jn, Mn, Nn, Pn, Fn, In, Ln, Rn, Y;
+
+function zn() {
+  return (zn = e((() => {
+    d(), E(), g(), r(), Fe(), we(), yn = O(De), bn = S(N), xn = S(p.div), Sn = `framer-Vl2Hy`, Cn = {
+      o2KBgA18o: `framer-v-1apgf77`
+    }, wn = {
+      bounce: .2,
+      delay: 0,
+      duration: .4,
+      type: `spring`
+    }, Tn = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 15,
+      y: 0
+    }, En = {
+      damping: 32,
+      delay: .6,
+      mass: 1,
+      stiffness: 165,
+      type: `spring`
+    }, Dn = (e, t) => {
+      if (e && typeof e == `object`) return {
+        ...e,
+        alt: t
+      }
+    }, On = {
+      damping: 32,
+      delay: .7,
+      mass: 1,
+      stiffness: 165,
+      type: `spring`
+    }, kn = {
+      damping: 32,
+      delay: .8,
+      mass: 1,
+      stiffness: 165,
+      type: `spring`
+    }, An = {
+      damping: 32,
+      delay: .9,
+      mass: 1,
+      stiffness: 165,
+      type: `spring`
+    }, te(), jn = (e, t) => `translate(-50%, -50%) ${t}`, Mn = ({
+      value: e,
+      children: t
+    }) => {
+      let r = s(m),
+        i = e ?? r.transition,
+        a = n(() => ({
+          ...r,
+          transition: i
+        }), [JSON.stringify(i)]);
+      return /*#__PURE__*/ l(m.Provider, {
+        value: a,
+        children: t
+      })
+    }, Nn = p.create(t), Pn = {
+      Horizontal: `row`,
+      Vertical: `column`
+    }, Fn = ({
+      border: e,
+      direction: t,
+      height: n,
+      id: r,
+      showAvatars: i,
+      width: a,
+      ...o
+    }) => ({
+      ...o,
+      NQaHZIcVJ: i ?? o.NQaHZIcVJ ?? !0,
+      P07faGkx2: e ?? o.P07faGkx2 ?? `0px 0px 0px 1px var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247))`,
+      rKhxKJLLY: Pn[t] ?? t ?? o.rKhxKJLLY ?? `row`
+    }), In = (e, t) => e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`), Ln = /*#__PURE__*/ u(function(e, n) {
+      let r = a(null),
+        i = n ?? r,
+        o = f(),
+        {
+          activeLocale: s,
+          setLocale: u
+        } = D(),
+        d = M(),
+        {
+          style: m,
+          className: g,
+          layoutId: y,
+          variant: b,
+          P07faGkx2: x,
+          NQaHZIcVJ: S,
+          rKhxKJLLY: C,
+          ...w
+        } = Fn(e),
+        {
+          baseVariant: T,
+          classNames: E,
+          clearLoadingGesture: O,
+          gestureHandlers: A,
+          gestureVariant: j,
+          isLoading: te,
+          setGestureState: N,
+          setVariant: ne,
+          variants: F
+        } = ee({
+          defaultVariant: `o2KBgA18o`,
+          ref: i,
+          variant: b,
+          variantClassNames: Cn
+        }),
+        I = In(e, F),
+        L = v(Sn, Re);
+      return /*#__PURE__*/ l(h, {
+        id: y ?? o,
+        children: /*#__PURE__*/ l(Nn, {
+          animate: F,
+          initial: !1,
+          children: /*#__PURE__*/ l(Mn, {
+            value: wn,
+            children: /*#__PURE__*/ c(p.div, {
+              ...w,
+              ...A,
+              className: v(L, `framer-1apgf77`, g, E),
+              "data-framer-name": `Rating`,
+              layoutDependency: I,
+              layoutId: `o2KBgA18o`,
+              ref: i,
+              style: {
+                "--tilqha": C,
+                ...m
+              },
+              children: [S !== !1 && /*#__PURE__*/ l(p.div, {
+                className: `framer-15gtnew`,
+                "data-framer-name": `Stacked Avatars`,
+                layoutDependency: I,
+                layoutId: `SlzvamdlE`,
+                children: /*#__PURE__*/ c(p.div, {
+                  className: `framer-4rons3`,
+                  "data-framer-name": `Container`,
+                  layoutDependency: I,
+                  layoutId: `kR84ZJtf4`,
+                  children: [ /*#__PURE__*/ l(k, {
+                    height: 30,
+                    width: `1px`,
+                    y: (d?.y || 0) + 0 + 0 + 0,
+                    children: /*#__PURE__*/ l(bn, {
+                      __framer__animate: {
+                        transition: En
+                      },
+                      __framer__animateOnce: !0,
+                      __framer__enter: Tn,
+                      __framer__styleAppearEffectEnabled: !0,
+                      __framer__threshold: .5,
+                      __perspectiveFX: !1,
+                      __smartComponentFX: !0,
+                      __targetOpacity: 1,
+                      className: `framer-zsjmne-container`,
+                      "data-framer-name": `1`,
+                      layoutDependency: I,
+                      layoutId: `m8CeJGr4A-container`,
+                      name: `1`,
+                      nodeId: `m8CeJGr4A`,
+                      rendersWithMotion: !0,
+                      scopeId: `TIOuourJo`,
+                      children: /*#__PURE__*/ l(De, {
+                        height: `100%`,
+                        id: `m8CeJGr4A`,
+                        j50yDW9et: Dn({
+                          pixelHeight: 640,
+                          pixelWidth: 640,
+                          src: `https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?width=640&height=640`,
+                          srcSet: `https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?scale-down-to=512&width=640&height=640 512w,https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?width=640&height=640 640w`
+                        }, ``),
+                        layoutId: `m8CeJGr4A`,
+                        name: `1`,
+                        style: {
+                          width: `100%`
+                        },
+                        WGh2YA1ZG: x,
+                        width: `100%`
+                      })
+                    })
+                  }), /*#__PURE__*/ l(k, {
+                    height: 30,
+                    width: `1px`,
+                    y: (d?.y || 0) + 0 + 0 + 0,
+                    children: /*#__PURE__*/ l(bn, {
+                      __framer__animate: {
+                        transition: On
+                      },
+                      __framer__animateOnce: !0,
+                      __framer__enter: Tn,
+                      __framer__styleAppearEffectEnabled: !0,
+                      __framer__threshold: .5,
+                      __perspectiveFX: !1,
+                      __smartComponentFX: !0,
+                      __targetOpacity: 1,
+                      className: `framer-1ywp80p-container`,
+                      "data-framer-name": `2`,
+                      layoutDependency: I,
+                      layoutId: `iXSigC54q-container`,
+                      name: `2`,
+                      nodeId: `iXSigC54q`,
+                      rendersWithMotion: !0,
+                      scopeId: `TIOuourJo`,
+                      children: /*#__PURE__*/ l(De, {
+                        height: `100%`,
+                        id: `iXSigC54q`,
+                        j50yDW9et: Dn({
+                          pixelHeight: 640,
+                          pixelWidth: 640,
+                          src: `https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?width=640&height=640`,
+                          srcSet: `https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?scale-down-to=512&width=640&height=640 512w,https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?width=640&height=640 640w`
+                        }, ``),
+                        layoutId: `iXSigC54q`,
+                        name: `2`,
+                        style: {
+                          width: `100%`
+                        },
+                        WGh2YA1ZG: x,
+                        width: `100%`
+                      })
+                    })
+                  }), /*#__PURE__*/ l(k, {
+                    height: 30,
+                    width: `1px`,
+                    y: (d?.y || 0) + 0 + 0 + 0,
+                    children: /*#__PURE__*/ l(bn, {
+                      __framer__animate: {
+                        transition: kn
+                      },
+                      __framer__animateOnce: !0,
+                      __framer__enter: Tn,
+                      __framer__styleAppearEffectEnabled: !0,
+                      __framer__threshold: .5,
+                      __perspectiveFX: !1,
+                      __smartComponentFX: !0,
+                      __targetOpacity: 1,
+                      className: `framer-r3qz5f-container`,
+                      "data-framer-name": `3`,
+                      layoutDependency: I,
+                      layoutId: `Ug5ZKnZ2v-container`,
+                      name: `3`,
+                      nodeId: `Ug5ZKnZ2v`,
+                      rendersWithMotion: !0,
+                      scopeId: `TIOuourJo`,
+                      children: /*#__PURE__*/ l(De, {
+                        height: `100%`,
+                        id: `Ug5ZKnZ2v`,
+                        j50yDW9et: Dn({
+                          pixelHeight: 640,
+                          pixelWidth: 640,
+                          src: `https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640`,
+                          srcSet: `https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?scale-down-to=512&width=640&height=640 512w,https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640 640w`
+                        }, ``),
+                        layoutId: `Ug5ZKnZ2v`,
+                        name: `3`,
+                        style: {
+                          width: `100%`
+                        },
+                        WGh2YA1ZG: x,
+                        width: `100%`
+                      })
+                    })
+                  }), /*#__PURE__*/ l(xn, {
+                    __framer__animate: {
+                      transition: An
+                    },
+                    __framer__animateOnce: !0,
+                    __framer__enter: Tn,
+                    __framer__styleAppearEffectEnabled: !0,
+                    __framer__threshold: .5,
+                    __perspectiveFX: !1,
+                    __smartComponentFX: !0,
+                    __targetOpacity: 1,
+                    className: `framer-ac7ito`,
+                    "data-framer-name": `4`,
+                    layoutDependency: I,
+                    layoutId: `chgvv4m4m`,
+                    style: {
+                      borderBottomLeftRadius: `100%`,
+                      borderBottomRightRadius: `100%`,
+                      borderTopLeftRadius: `100%`,
+                      borderTopRightRadius: `100%`
+                    },
+                    children: /*#__PURE__*/ l(p.div, {
+                      className: `framer-1dm823p`,
+                      "data-framer-name": `Count`,
+                      layoutDependency: I,
+                      layoutId: `uvp6isUhm`,
+                      style: {
+                        "--1l3zk6x": x,
+                        "--corner-shape-fallback": .752,
+                        backgroundColor: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                        borderBottomLeftRadius: `calc(6px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderBottomRightRadius: `calc(6px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderTopLeftRadius: `calc(6px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        borderTopRightRadius: `calc(6px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))`,
+                        boxShadow: `var(--1l3zk6x)`,
+                        cornerShape: `superellipse(1.5)`
+                      },
+                      transformTemplate: jn,
+                      children: /*#__PURE__*/ l(P, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ l(t, {
+                          children: /*#__PURE__*/ l(p.p, {
+                            className: `framer-styles-preset-ss7lqy`,
+                            "data-styles-preset": `aT6ueLJwl`,
+                            dir: `auto`,
+                            style: {
+                              "--framer-text-color": `var(--extracted-r6o4lv, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))`
+                            },
+                            children: `+47`
+                          })
+                        }),
+                        className: `framer-c8d6lb`,
+                        fonts: [`Inter`],
+                        layoutDependency: I,
+                        layoutId: `jVfMrIo_R`,
+                        style: {
+                          "--extracted-r6o4lv": `var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                          "--framer-link-text-color": `rgb(0, 153, 255)`,
+                          "--framer-link-text-decoration": `underline`
+                        },
+                        transformTemplate: jn,
+                        verticalAlignment: `top`,
+                        withExternalLayout: !0
+                      })
+                    })
+                  })]
+                })
+              }), /*#__PURE__*/ c(p.div, {
+                className: `framer-1gj1j7j`,
+                "data-framer-name": `Rating`,
+                layoutDependency: I,
+                layoutId: `Jfor30xvE`,
+                children: [ /*#__PURE__*/ c(p.div, {
+                  className: `framer-o7y3w4`,
+                  "data-framer-name": `Rating / Stars`,
+                  layoutDependency: I,
+                  layoutId: `P0XrUqx6n`,
+                  children: [ /*#__PURE__*/ l(P, {
+                    __fromCanvasComponent: !0,
+                    children: /*#__PURE__*/ l(t, {
+                      children: /*#__PURE__*/ c(p.p, {
+                        className: `framer-styles-preset-ss7lqy`,
+                        "data-styles-preset": `aT6ueLJwl`,
+                        dir: `auto`,
+                        children: [ /*#__PURE__*/ l(p.strong, {
+                          children: `4.9`
+                        }), /*#__PURE__*/ l(p.span, {
+                          style: {
+                            "--framer-text-color": `var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))`
+                          },
+                          children: `/5`
+                        })]
+                      })
+                    }),
+                    className: `framer-1a07okb`,
+                    fonts: [`Inter`, `Inter-Bold`],
+                    layoutDependency: I,
+                    layoutId: `QLgKVhQb4`,
+                    style: {
+                      "--extracted-3sq8v0": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`,
+                      "--framer-link-text-color": `rgb(0, 153, 255)`,
+                      "--framer-link-text-decoration": `underline`
+                    },
+                    verticalAlignment: `top`,
+                    withExternalLayout: !0
+                  }), /*#__PURE__*/ c(p.div, {
+                    className: `framer-lhv1pj`,
+                    "data-framer-name": `Stars`,
+                    layoutDependency: I,
+                    layoutId: `iiU2k9bp7`,
+                    children: [ /*#__PURE__*/ l(_, {
+                      className: `framer-1kivror`,
+                      layoutDependency: I,
+                      layoutId: `tvDG0VvqG`,
+                      requiresOverflowVisible: !1,
+                      svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9 8.182" overflow="visible"><path d="M 4.5 6.576 L 7.281 8.182 L 6.543 5.155 L 9 3.118 L 5.764 2.855 L 4.5 0 L 3.236 2.855 L 0 3.118 L 2.457 5.155 L 1.719 8.182 Z" fill="var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)) /* {&quot;name&quot;:&quot;Highlight&quot;} */"></path></svg>`,
+                      withExternalLayout: !0
+                    }), /*#__PURE__*/ l(_, {
+                      className: `framer-1xh3cuf`,
+                      layoutDependency: I,
+                      layoutId: `z1ShNa0Qo`,
+                      requiresOverflowVisible: !1,
+                      svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9 8.182" overflow="visible"><path d="M 4.5 6.576 L 7.281 8.182 L 6.543 5.155 L 9 3.118 L 5.764 2.855 L 4.5 0 L 3.236 2.855 L 0 3.118 L 2.457 5.155 L 1.719 8.182 Z" fill="var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)) /* {&quot;name&quot;:&quot;Highlight&quot;} */"></path></svg>`,
+                      withExternalLayout: !0
+                    }), /*#__PURE__*/ l(_, {
+                      className: `framer-1379222`,
+                      layoutDependency: I,
+                      layoutId: `KQibQT1jE`,
+                      requiresOverflowVisible: !1,
+                      svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9 8.182" overflow="visible"><path d="M 4.5 6.576 L 7.281 8.182 L 6.543 5.155 L 9 3.118 L 5.764 2.855 L 4.5 0 L 3.236 2.855 L 0 3.118 L 2.457 5.155 L 1.719 8.182 Z" fill="var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)) /* {&quot;name&quot;:&quot;Highlight&quot;} */"></path></svg>`,
+                      withExternalLayout: !0
+                    }), /*#__PURE__*/ l(_, {
+                      className: `framer-ydpjnm`,
+                      layoutDependency: I,
+                      layoutId: `QLSMfNgX3`,
+                      requiresOverflowVisible: !1,
+                      svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9 8.182" overflow="visible"><path d="M 4.5 6.576 L 7.281 8.182 L 6.543 5.155 L 9 3.118 L 5.764 2.855 L 4.5 0 L 3.236 2.855 L 0 3.118 L 2.457 5.155 L 1.719 8.182 Z" fill="var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)) /* {&quot;name&quot;:&quot;Highlight&quot;} */"></path></svg>`,
+                      withExternalLayout: !0
+                    }), /*#__PURE__*/ l(_, {
+                      className: `framer-7174mc`,
+                      layoutDependency: I,
+                      layoutId: `L12zHJwQo`,
+                      requiresOverflowVisible: !1,
+                      svg: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9 8.182" overflow="visible"><path d="M 4.5 6.576 L 7.281 8.182 L 6.543 5.155 L 9 3.118 L 5.764 2.855 L 4.5 0 L 3.236 2.855 L 0 3.118 L 2.457 5.155 L 1.719 8.182 Z" fill="var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3)) /* {&quot;name&quot;:&quot;Highlight&quot;} */"></path></svg>`,
+                      withExternalLayout: !0
+                    })]
+                  })]
+                }), /*#__PURE__*/ l(P, {
+                  __fromCanvasComponent: !0,
+                  children: /*#__PURE__*/ l(t, {
+                    children: /*#__PURE__*/ c(p.p, {
+                      className: `framer-styles-preset-ss7lqy`,
+                      "data-styles-preset": `aT6ueLJwl`,
+                      dir: `auto`,
+                      children: [ /*#__PURE__*/ l(p.span, {
+                        style: {
+                          "--framer-text-color": `var(--extracted-1w3ko1f, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))`
+                        },
+                        children: `Trusted by`
+                      }), ` 50+ clients`]
+                    })
+                  }),
+                  className: `framer-194ds1e`,
+                  fonts: [`Inter`],
+                  layoutDependency: I,
+                  layoutId: `rnBNf6i41`,
+                  style: {
+                    "--extracted-1w3ko1f": `var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))`,
+                    "--framer-link-text-color": `rgb(0, 153, 255)`,
+                    "--framer-link-text-decoration": `underline`
+                  },
+                  verticalAlignment: `top`,
+                  withExternalLayout: !0
+                })]
+              })]
+            })
+          })
+        })
+      })
+    }), Rn = [`.framer-Vl2Hy.framer-1f86r3o, .framer-Vl2Hy .framer-1f86r3o { display: block; }`, `.framer-Vl2Hy.framer-1apgf77 { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: var(--tilqha); flex-wrap: nowrap; gap: 15px 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }`, `.framer-Vl2Hy .framer-15gtnew { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 16px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }`, `.framer-Vl2Hy .framer-4rons3 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 23px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px 17px 0px 17px; position: relative; width: min-content; }`, `.framer-Vl2Hy .framer-zsjmne-container, .framer-Vl2Hy .framer-1ywp80p-container, .framer-Vl2Hy .framer-r3qz5f-container { flex: none; height: auto; position: relative; width: 1px; }`, `.framer-Vl2Hy .framer-ac7ito { flex: none; height: 30px; overflow: visible; position: relative; width: 1px; }`, `.framer-Vl2Hy .framer-1dm823p { aspect-ratio: 1 / 1; flex: none; gap: 40px; height: 100%; left: 50%; overflow: hidden; position: absolute; top: 50%; width: auto; will-change: var(--framer-will-change-override, transform); }`, `.framer-Vl2Hy .framer-c8d6lb { flex: none; height: auto; left: 50%; position: absolute; top: 50%; white-space: pre; width: auto; }`, `.framer-Vl2Hy .framer-1gj1j7j { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 3px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: min-content; }`, `.framer-Vl2Hy .framer-o7y3w4 { align-content: center; align-items: center; align-self: stretch; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 7px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: auto; }`, `.framer-Vl2Hy .framer-1a07okb, .framer-Vl2Hy .framer-194ds1e { flex: none; height: auto; position: relative; white-space: pre; width: auto; }`, `.framer-Vl2Hy .framer-lhv1pj { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 2px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: min-content; }`, `.framer-Vl2Hy .framer-1kivror, .framer-Vl2Hy .framer-1xh3cuf, .framer-Vl2Hy .framer-1379222, .framer-Vl2Hy .framer-ydpjnm, .framer-Vl2Hy .framer-7174mc { height: 8px; position: relative; width: 9px; }`, ...Ie], Y = T(Ln, Rn, `framer-Vl2Hy`), Y.displayName = `Rating`, Y.defaultProps = {
+      height: 30.5,
+      width: 233
+    }, w(Y, {
+      P07faGkx2: {
+        defaultValue: [{
+          blur: 0,
+          color: `var(--token-52433e3c-3bdd-4e8f-b4eb-8bd6681644d3, rgb(247, 247, 247)) /* {"name":"Grey 10"} */`,
+          diffusion: .5,
+          focus: .5,
+          inset: !1,
+          spread: 1,
+          type: `box`,
+          x: 0,
+          y: 0
+        }],
+        description: `Sets the outline treatment around the component.`,
+        title: `Border`,
+        type: R.BoxShadow
+      },
+      NQaHZIcVJ: {
+        defaultValue: !0,
+        description: `Shows or hides the supporting avatar group.`,
+        title: `Show Avatars`,
+        type: R.Boolean
+      },
+      onNQaHZIcVJChange: {
+        changes: `NQaHZIcVJ`,
+        type: R.ChangeHandler
+      },
+      rKhxKJLLY: {
+        defaultValue: `row`,
+        displaySegmentedControl: !0,
+        optionIcons: [`direction-horizontal`, `direction-vertical`],
+        options: [`row`, `column`],
+        optionTitles: [`Horizontal`, `Vertical`],
+        title: `Direction`,
+        type: R.Enum
+      }
+    }), C(Y, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2`,
+        weight: `700`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2`,
+        weight: `700`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2`,
+        weight: `700`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2`,
+        weight: `700`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2`,
+        weight: `700`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2`,
+        weight: `700`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2`,
+        weight: `700`
+      }]
+    }, ...yn, ...y(Le)], {
+      supportsExplicitInterCodegen: !0
+    }), Y.loader = {
+      load: (e, t) => (t.locale, Promise.allSettled([x(De, {}, t)]))
+    }
+  })))()
+}
+
+function X(e, ...t) {
+  let n = {};
+  return t?.forEach(t => t && Object.assign(n, e[t])), n
+}
+var Bn, Vn, Z, Hn, Un, Wn, Gn, Kn, Q, qn, Jn, Yn, Xn, Zn, Qn, $n, er, tr, nr, rr, ir, ar, or, sr, cr, $;
+
+function lr() {
+  return (lr = e((() => {
+    d(), E(), g(), r(), fe(), Yt(), en(), ze(), an(), un(), Ve(), vn(), Me(), zn(), Bn = O(V), Vn = O(J), Z = S(N), Hn = O(Y), Un = [`FsjNXJSJN`, `kDO0BDS0T`, `uUtPUWNo6`], Wn = `framer-HIOH4`, Gn = {
+      FsjNXJSJN: `framer-v-1npuuv8`,
+      kDO0BDS0T: `framer-v-a12wje`,
+      uUtPUWNo6: `framer-v-kvuuzz`
+    }, Kn = {
+      bounce: .2,
+      delay: 0,
+      duration: .4,
+      type: `spring`
+    }, Q = {
+      opacity: 0,
+      rotate: 0,
+      rotateX: 0,
+      rotateY: 0,
+      scale: 1,
+      skewX: 0,
+      skewY: 0,
+      x: 0,
+      y: 0
+    }, qn = {
+      bounce: .1,
+      delay: .7,
+      duration: 1.2,
+      type: `spring`
+    }, Jn = {
+      bounce: .1,
+      delay: .1,
+      duration: 1.2,
+      type: `spring`
+    }, Yn = {
+      bounce: .1,
+      delay: .3,
+      duration: 1.2,
+      type: `spring`
+    }, Xn = {
+      bounce: .1,
+      delay: .2,
+      duration: 1.2,
+      type: `spring`
+    }, Zn = {
+      bounce: .1,
+      delay: .8,
+      duration: 1.2,
+      type: `spring`
+    }, Qn = {
+      bounce: .1,
+      delay: .4,
+      duration: 1.2,
+      type: `spring`
+    }, $n = {
+      bounce: .1,
+      delay: .6,
+      duration: 1.2,
+      type: `spring`
+    }, er = {
+      bounce: .1,
+      delay: .5,
+      duration: 1.2,
+      type: `spring`
+    }, tr = ({
+      value: e,
+      children: t
+    }) => {
+      let r = s(m),
+        i = e ?? r.transition,
+        a = n(() => ({
+          ...r,
+          transition: i
+        }), [JSON.stringify(i)]);
+      return /*#__PURE__*/ l(m.Provider, {
+        value: a,
+        children: t
+      })
+    }, nr = {
+      Desktop: `FsjNXJSJN`,
+      Phone: `uUtPUWNo6`,
+      Tablet: `kDO0BDS0T`
+    }, rr = p.create(t), ir = (e, t) => {
+      let [n, r] = i(e), [a, o] = i(e);
+      return t ? [e, t] : (e !== a && (r(e), o(e)), [n, r])
+    }, ar = ({
+      height: e,
+      id: t,
+      showCount: n,
+      width: r,
+      ...i
+    }) => ({
+      ...i,
+      rgI_E5L3j: n ?? i.rgI_E5L3j ?? !0,
+      variant: nr[i.variant] ?? i.variant ?? `FsjNXJSJN`
+    }), or = (e, t) => e.layoutDependency ? t.join(`-`) + e.layoutDependency : t.join(`-`), sr = /*#__PURE__*/ u(function(e, n) {
+      let r = a(null),
+        i = n ?? r,
+        o = f(),
+        {
+          activeLocale: s,
+          setLocale: u
+        } = D(),
+        d = M(),
+        {
+          style: m,
+          className: g,
+          layoutId: _,
+          variant: y,
+          rgI_E5L3j: b,
+          onrgI_E5L3jChange: x,
+          ...S
+        } = ar(e),
+        [C, w] = ir(b, x),
+        {
+          baseVariant: T,
+          classNames: E,
+          clearLoadingGesture: O,
+          gestureHandlers: A,
+          gestureVariant: j,
+          isLoading: te,
+          setGestureState: ne,
+          setVariant: F,
+          variants: I
+        } = ee({
+          cycleOrder: Un,
+          defaultVariant: `FsjNXJSJN`,
+          ref: i,
+          variant: y,
+          variantClassNames: Gn
+        }),
+        L = or(e, I),
+        R = v(Wn, ce);
+      return /*#__PURE__*/ l(h, {
+        id: _ ?? o,
+        children: /*#__PURE__*/ l(rr, {
+          animate: I,
+          initial: !1,
+          children: /*#__PURE__*/ l(tr, {
+            value: Kn,
+            children: /*#__PURE__*/ l(p.section, {
+              ...S,
+              ...A,
+              className: v(R, `framer-1npuuv8`, g, E),
+              "data-framer-name": `Desktop`,
+              layoutDependency: L,
+              layoutId: `FsjNXJSJN`,
+              ref: i,
+              style: {
+                ...m
+              },
+              ...X({
+                kDO0BDS0T: {
+                  "data-framer-name": `Tablet`
+                },
+                uUtPUWNo6: {
+                  "data-framer-name": `Phone`
+                }
+              }, T, j),
+              children: /*#__PURE__*/ l(p.div, {
+                className: `framer-10m73gh`,
+                "data-framer-name": `Inside Container`,
+                layoutDependency: L,
+                layoutId: `VTgVi4px5`,
+                children: /*#__PURE__*/ c(p.div, {
+                  className: `framer-eoqtb1`,
+                  layoutDependency: L,
+                  layoutId: `Zz41JoywI`,
+                  children: [ /*#__PURE__*/ l(k, {
+                    height: 18,
+                    y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0,
+                    ...X({
+                      kDO0BDS0T: {
+                        y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0
+                      },
+                      uUtPUWNo6: {
+                        y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 0
+                      }
+                    }, T, j),
+                    children: /*#__PURE__*/ l(N, {
+                      className: `framer-1hebv9i-container`,
+                      layoutDependency: L,
+                      layoutId: `OCyCo99ee-container`,
+                      nodeId: `OCyCo99ee`,
+                      rendersWithMotion: !0,
+                      scopeId: `jvKQE_ghl`,
+                      children: /*#__PURE__*/ l(V, {
+                        fgjj4TIuY: `var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(10, 10, 10))`,
+                        fPCis9rUW: 2,
+                        height: `100%`,
+                        id: `OCyCo99ee`,
+                        layoutId: `OCyCo99ee`,
+                        onshBP9axEqChange: w,
+                        shBP9axEq: C,
+                        width: `100%`,
+                        xr4VRVrT5: `var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))`,
+                        z_3j3uyNQ: `Our clients`
+                      })
+                    })
+                  }), /*#__PURE__*/ c(p.div, {
+                    className: `framer-v4fp35`,
+                    "data-framer-name": `Logo / Rating`,
+                    layoutDependency: L,
+                    layoutId: `UlMybyXRG`,
+                    children: [ /*#__PURE__*/ c(p.div, {
+                      className: `framer-1v6x4pk`,
+                      "data-framer-name": `Logos`,
+                      layoutDependency: L,
+                      layoutId: `BdvLh1JUv`,
+                      children: [ /*#__PURE__*/ l(k, {
+                        height: 120,
+                        width: `max((max((min(${d?.width||`100vw`}, 1920px) - 126px) / 4, 50px) * 3 + 30px) / 3, 1px)`,
+                        y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0,
+                        ...X({
+                          kDO0BDS0T: {
+                            y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0
+                          },
+                          uUtPUWNo6: {
+                            width: `max((max((min(${d?.width||`100vw`}, 1920px) - 66px) / 2, 50px) * 2 + 15px) / 2, 1px)`,
+                            y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 38 + 0 + 0 + 0 + 0
+                          }
+                        }, T, j),
+                        children: /*#__PURE__*/ l(Z, {
+                          __framer__animate: {
+                            transition: qn
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: Q,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-1e2gkk0-container`,
+                          layoutDependency: L,
+                          layoutId: `TxKVYICjC-container`,
+                          nodeId: `TxKVYICjC`,
+                          rendersWithMotion: !0,
+                          scopeId: `jvKQE_ghl`,
+                          ...X({
+                            uUtPUWNo6: {
+                              __framer__animate: {
+                                transition: Jn
+                              }
+                            }
+                          }, T, j),
+                          children: /*#__PURE__*/ l(J, {
+                            height: `100%`,
+                            id: `TxKVYICjC`,
+                            layoutId: `TxKVYICjC`,
+                            style: {
+                              width: `100%`
+                            },
+                            vfFf9mmy1: He,
+                            width: `100%`
+                          })
+                        })
+                      }), /*#__PURE__*/ l(k, {
+                        height: 120,
+                        width: `max((max((min(${d?.width||`100vw`}, 1920px) - 126px) / 4, 50px) * 3 + 30px) / 3, 1px)`,
+                        y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0,
+                        ...X({
+                          kDO0BDS0T: {
+                            y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0
+                          },
+                          uUtPUWNo6: {
+                            width: `max((max((min(${d?.width||`100vw`}, 1920px) - 66px) / 2, 50px) * 2 + 15px) / 2, 1px)`,
+                            y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 38 + 0 + 0 + 0 + 0
+                          }
+                        }, T, j),
+                        children: /*#__PURE__*/ l(Z, {
+                          __framer__animate: {
+                            transition: Yn
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: Q,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-w5jgsw-container`,
+                          layoutDependency: L,
+                          layoutId: `VkL6dPkie-container`,
+                          nodeId: `VkL6dPkie`,
+                          rendersWithMotion: !0,
+                          scopeId: `jvKQE_ghl`,
+                          ...X({
+                            uUtPUWNo6: {
+                              __framer__animate: {
+                                transition: Xn
+                              }
+                            }
+                          }, T, j),
+                          children: /*#__PURE__*/ l(J, {
+                            height: `100%`,
+                            id: `VkL6dPkie`,
+                            layoutId: `VkL6dPkie`,
+                            style: {
+                              width: `100%`
+                            },
+                            vfFf9mmy1: ln,
+                            width: `100%`
+                          })
+                        })
+                      }), /*#__PURE__*/ l(k, {
+                        height: 120,
+                        width: `max((max((min(${d?.width||`100vw`}, 1920px) - 126px) / 4, 50px) * 3 + 30px) / 3, 1px)`,
+                        y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0,
+                        ...X({
+                          kDO0BDS0T: {
+                            y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0
+                          },
+                          uUtPUWNo6: {
+                            width: `max((max((min(${d?.width||`100vw`}, 1920px) - 66px) / 2, 50px) * 2 + 15px) / 2, 1px)`,
+                            y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 38 + 0 + 0 + 0 + 125
+                          }
+                        }, T, j),
+                        children: /*#__PURE__*/ l(Z, {
+                          __framer__animate: {
+                            transition: Zn
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: Q,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-1b3ee75-container`,
+                          layoutDependency: L,
+                          layoutId: `nomtQZRT3-container`,
+                          nodeId: `nomtQZRT3`,
+                          rendersWithMotion: !0,
+                          scopeId: `jvKQE_ghl`,
+                          ...X({
+                            uUtPUWNo6: {
+                              __framer__animate: {
+                                transition: Yn
+                              }
+                            }
+                          }, T, j),
+                          children: /*#__PURE__*/ l(J, {
+                            height: `100%`,
+                            id: `nomtQZRT3`,
+                            layoutId: `nomtQZRT3`,
+                            style: {
+                              width: `100%`
+                            },
+                            vfFf9mmy1: $t,
+                            width: `100%`
+                          })
+                        })
+                      }), /*#__PURE__*/ l(k, {
+                        height: 120,
+                        width: `max((max((min(${d?.width||`100vw`}, 1920px) - 126px) / 4, 50px) * 3 + 30px) / 3, 1px)`,
+                        y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 125,
+                        ...X({
+                          kDO0BDS0T: {
+                            y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 125
+                          },
+                          uUtPUWNo6: {
+                            width: `max((max((min(${d?.width||`100vw`}, 1920px) - 66px) / 2, 50px) * 2 + 15px) / 2, 1px)`,
+                            y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 38 + 0 + 0 + 0 + 125
+                          }
+                        }, T, j),
+                        children: /*#__PURE__*/ l(Z, {
+                          __framer__animate: {
+                            transition: Qn
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: Q,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-1cx52vy-container`,
+                          layoutDependency: L,
+                          layoutId: `T131TvWYj-container`,
+                          nodeId: `T131TvWYj`,
+                          rendersWithMotion: !0,
+                          scopeId: `jvKQE_ghl`,
+                          children: /*#__PURE__*/ l(J, {
+                            height: `100%`,
+                            id: `T131TvWYj`,
+                            layoutId: `T131TvWYj`,
+                            style: {
+                              width: `100%`
+                            },
+                            vfFf9mmy1: q,
+                            width: `100%`
+                          })
+                        })
+                      }), /*#__PURE__*/ l(k, {
+                        height: 120,
+                        width: `max((max((min(${d?.width||`100vw`}, 1920px) - 126px) / 4, 50px) * 3 + 30px) / 3, 1px)`,
+                        y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 125,
+                        ...X({
+                          kDO0BDS0T: {
+                            y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 125
+                          },
+                          uUtPUWNo6: {
+                            width: `max((max((min(${d?.width||`100vw`}, 1920px) - 66px) / 2, 50px) * 2 + 15px) / 2, 1px)`,
+                            y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 38 + 0 + 0 + 0 + 250
+                          }
+                        }, T, j),
+                        children: /*#__PURE__*/ l(Z, {
+                          __framer__animate: {
+                            transition: $n
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: Q,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-1sk08w1-container`,
+                          layoutDependency: L,
+                          layoutId: `Gy9TEBPJn-container`,
+                          nodeId: `Gy9TEBPJn`,
+                          rendersWithMotion: !0,
+                          scopeId: `jvKQE_ghl`,
+                          ...X({
+                            uUtPUWNo6: {
+                              __framer__animate: {
+                                transition: er
+                              }
+                            }
+                          }, T, j),
+                          children: /*#__PURE__*/ l(J, {
+                            height: `100%`,
+                            id: `Gy9TEBPJn`,
+                            layoutId: `Gy9TEBPJn`,
+                            style: {
+                              width: `100%`
+                            },
+                            vfFf9mmy1: Be,
+                            width: `100%`
+                          })
+                        })
+                      }), /*#__PURE__*/ l(k, {
+                        height: 120,
+                        width: `max((max((min(${d?.width||`100vw`}, 1920px) - 126px) / 4, 50px) * 3 + 30px) / 3, 1px)`,
+                        y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 125,
+                        ...X({
+                          kDO0BDS0T: {
+                            y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 125
+                          },
+                          uUtPUWNo6: {
+                            width: `max((max((min(${d?.width||`100vw`}, 1920px) - 66px) / 2, 50px) * 2 + 15px) / 2, 1px)`,
+                            y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 38 + 0 + 0 + 0 + 250
+                          }
+                        }, T, j),
+                        children: /*#__PURE__*/ l(Z, {
+                          __framer__animate: {
+                            transition: er
+                          },
+                          __framer__animateOnce: !0,
+                          __framer__enter: Q,
+                          __framer__styleAppearEffectEnabled: !0,
+                          __framer__threshold: 0,
+                          __perspectiveFX: !1,
+                          __smartComponentFX: !0,
+                          __targetOpacity: 1,
+                          className: `framer-1rlkmsm-container`,
+                          layoutDependency: L,
+                          layoutId: `H9_5ppHLR-container`,
+                          nodeId: `H9_5ppHLR`,
+                          rendersWithMotion: !0,
+                          scopeId: `jvKQE_ghl`,
+                          ...X({
+                            uUtPUWNo6: {
+                              __framer__animate: {
+                                transition: $n
+                              }
+                            }
+                          }, T, j),
+                          children: /*#__PURE__*/ l(J, {
+                            height: `100%`,
+                            id: `H9_5ppHLR`,
+                            layoutId: `H9_5ppHLR`,
+                            style: {
+                              width: `100%`
+                            },
+                            vfFf9mmy1: Jt,
+                            width: `100%`
+                          })
+                        })
+                      })]
+                    }), /*#__PURE__*/ c(p.div, {
+                      className: `framer-11lsex1`,
+                      "data-framer-name": `Year / Rating`,
+                      layoutDependency: L,
+                      layoutId: `Snx9XlVyv`,
+                      children: [ /*#__PURE__*/ l(P, {
+                        __fromCanvasComponent: !0,
+                        children: /*#__PURE__*/ l(t, {
+                          children: /*#__PURE__*/ l(p.p, {
+                            className: `framer-styles-preset-c95aba`,
+                            "data-styles-preset": `x8g4OBmQ1`,
+                            dir: `auto`,
+                            children: `2012 2026©`
+                          })
+                        }),
+                        className: `framer-15sxxv5`,
+                        fonts: [`Inter`],
+                        layoutDependency: L,
+                        layoutId: `IghuaQhFp`,
+                        style: {
+                          "--framer-link-text-color": `rgb(0, 153, 255)`,
+                          "--framer-link-text-decoration": `underline`
+                        },
+                        verticalAlignment: `bottom`,
+                        withExternalLayout: !0
+                      }), /*#__PURE__*/ l(k, {
+                        height: 30,
+                        width: `calc(max((min(max((min(${d?.width||`100vw`}, 1920px) - 126px) / 4, 50px) * 3 + 40px, 1920px) - 40px) / 3, 50px) * 2 + 20px)`,
+                        y: (d?.y || 0) + 120 + (((d?.height || 561) - 240 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 285 + 0 + 0,
+                        ...X({
+                          kDO0BDS0T: {
+                            y: (d?.y || 0) + 90 + (((d?.height || 501) - 180 - 375) / 2 + 0 + 0) + 0 + 0 + 0 + 0 + 0 + 285 + 0 + 0
+                          },
+                          uUtPUWNo6: {
+                            width: `calc(max((min(max((min(${d?.width||`100vw`}, 1920px) - 66px) / 2, 50px) * 2 + 20px, 1920px) - 40px) / 3, 50px) * 2 + 20px)`,
+                            y: (d?.y || 0) + 60 + (((d?.height || 643.5) - 120 - 538) / 2 + 0 + 0) + 0 + 0 + 0 + 38 + 0 + 410 + 0 + 0
+                          }
+                        }, T, j),
+                        children: /*#__PURE__*/ l(N, {
+                          className: `framer-r9bnxq-container`,
+                          layoutDependency: L,
+                          layoutId: `PJ0SIs6tv-container`,
+                          nodeId: `PJ0SIs6tv`,
+                          rendersWithMotion: !0,
+                          scopeId: `jvKQE_ghl`,
+                          children: /*#__PURE__*/ l(Y, {
+                            height: `100%`,
+                            id: `PJ0SIs6tv`,
+                            layoutId: `PJ0SIs6tv`,
+                            NQaHZIcVJ: !0,
+                            P07faGkx2: `0px 0px 0px 2px var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))`,
+                            rKhxKJLLY: `row`,
+                            style: {
+                              width: `100%`
+                            },
+                            width: `100%`,
+                            ...X({
+                              uUtPUWNo6: {
+                                rKhxKJLLY: `column`
+                              }
+                            }, T, j)
+                          })
+                        })
+                      })]
+                    })]
+                  })]
+                })
+              })
+            })
+          })
+        })
+      })
+    }), cr = [`.framer-HIOH4.framer-1nod5i5, .framer-HIOH4 .framer-1nod5i5 { display: block; }`, `.framer-HIOH4.framer-1npuuv8 { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 60px; height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 120px 0px 120px 0px; position: relative; width: 1200px; }`, `.framer-HIOH4 .framer-10m73gh { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 60px; height: min-content; justify-content: center; max-width: 1920px; overflow: var(--overflow-clip-fallback, clip); padding: 0px 33px 0px 33px; position: relative; width: 100%; }`, `.framer-HIOH4 .framer-eoqtb1 { display: grid; flex: none; gap: 20px 20px; grid-auto-rows: min-content; grid-template-columns: repeat(4, minmax(50px, 1fr)); grid-template-rows: repeat(1, min-content); height: min-content; justify-content: center; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-HIOH4 .framer-1hebv9i-container { align-self: start; flex: none; height: auto; justify-self: start; position: relative; width: fit-content; }`, `.framer-HIOH4 .framer-v4fp35 { align-content: center; align-items: center; align-self: start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 40px; grid-column: span 3; height: min-content; justify-content: center; justify-self: start; overflow: var(--overflow-clip-fallback, clip); padding: 0px; position: relative; width: 100%; }`, `.framer-HIOH4 .framer-1v6x4pk { display: grid; flex: none; gap: 5px; grid-auto-rows: min-content; grid-template-columns: repeat(3, minmax(1px, 1fr)); grid-template-rows: repeat(2, min-content); height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }`, `.framer-HIOH4 .framer-1e2gkk0-container, .framer-HIOH4 .framer-w5jgsw-container, .framer-HIOH4 .framer-1b3ee75-container, .framer-HIOH4 .framer-1cx52vy-container, .framer-HIOH4 .framer-1sk08w1-container, .framer-HIOH4 .framer-1rlkmsm-container { align-self: start; flex: none; height: auto; justify-self: start; position: relative; width: 100%; }`, `.framer-HIOH4 .framer-11lsex1 { display: grid; flex: none; gap: 20px 20px; grid-auto-rows: minmax(0, 1fr); grid-template-columns: repeat(3, minmax(50px, 1fr)); grid-template-rows: repeat(1, minmax(0, 1fr)); height: min-content; justify-content: center; max-width: 1920px; overflow: visible; padding: 0px; position: relative; width: 100%; z-index: 1; }`, `.framer-HIOH4 .framer-15sxxv5 { align-self: start; flex: none; height: auto; justify-self: start; max-width: 50px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }`, `.framer-HIOH4 .framer-r9bnxq-container { align-self: center; flex: none; grid-column: span 2; height: auto; justify-self: start; position: relative; width: 100%; }`, `.framer-HIOH4.framer-v-a12wje.framer-1npuuv8 { gap: 40px; padding: 90px 0px 90px 0px; width: 810px; }`, `.framer-HIOH4.framer-v-kvuuzz.framer-1npuuv8 { gap: 40px; padding: 60px 0px 60px 0px; width: 390px; }`, `.framer-HIOH4.framer-v-kvuuzz .framer-10m73gh { gap: 40px; padding: 0px 23px 0px 23px; }`, `.framer-HIOH4.framer-v-kvuuzz .framer-eoqtb1 { grid-template-columns: repeat(2, minmax(50px, 1fr)); }`, `.framer-HIOH4.framer-v-kvuuzz .framer-v4fp35 { grid-column: span 2; }`, `.framer-HIOH4.framer-v-kvuuzz .framer-1v6x4pk { grid-template-columns: repeat(2, minmax(1px, 1fr)); }`, ...B], $ = T(sr, cr, `framer-HIOH4`), $.displayName = `Clients`, $.defaultProps = {
+      height: 561,
+      width: 1200
+    }, w($, {
+      variant: {
+        options: [`FsjNXJSJN`, `kDO0BDS0T`, `uUtPUWNo6`],
+        optionTitles: [`Desktop`, `Tablet`, `Phone`],
+        title: `Variant`,
+        type: R.Enum
+      },
+      rgI_E5L3j: {
+        defaultValue: !0,
+        description: `Turns the show count option on or off.`,
+        title: `Show Count`,
+        type: R.Boolean
+      },
+      onrgI_E5L3jChange: {
+        changes: `rgI_E5L3j`,
+        type: R.ChangeHandler
+      }
+    }), C($, [{
+      explicitInter: !0,
+      fonts: [{
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F`,
+        url: `https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116`,
+        url: `https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+1F00-1FFF`,
+        url: `https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0370-03FF`,
+        url: `https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF`,
+        url: `https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD`,
+        url: `https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2`,
+        weight: `400`
+      }, {
+        cssFamilyName: `Inter`,
+        source: `framer`,
+        style: `normal`,
+        uiFamilyName: `Inter`,
+        unicodeRange: `U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB`,
+        url: `https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2`,
+        weight: `400`
+      }]
+    }, ...Bn, ...Vn, ...Hn, ...y(de)], {
+      supportsExplicitInterCodegen: !0
+    }), $.loader = {
+      load: (e, t) => (t.locale, Promise.allSettled([x(V, {}, t), x(J, {}, t), x(Y, {}, t)]))
+    }
+  })))()
+}
+export {
+  J as a, an as c, U as d, at as f, zn as i, K as l, Ke as m, lr as n, vn as o, H as p, Y as r, q as s, $ as t, Wt as u
+};
+//# sourceMappingURL=jvKQE_ghl.D8L5bMF5.mjs.map

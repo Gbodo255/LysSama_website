@@ -1,0 +1,3034 @@
+{
+ "width": 1440,
+ "before": [
+  {
+   "tag": "DIV",
+   "cls": "framer-9ihltw-container",
+   "name": "Shared Navigation",
+   "bg": "rgba(0, 0, 0, 0)",
+   "op": "1",
+   "z": "9",
+   "r": [
+    0,
+    0,
+    1440,
+    900
+   ],
+   "img": [
+    [
+     "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+     "",
+     94,
+     407,
+     32,
+     32,
+     "1",
+     "none"
+    ]
+   ]
+  }
+ ],
+ "img1": {
+  "curve": [
+   [
+    32,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        92,
+        392,
+        117,
+        117,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    64,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        93,
+        390,
+        120,
+        120,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    96,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        96,
+        386,
+        128,
+        128,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    128,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        100,
+        378,
+        143,
+        143,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    160,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        107,
+        366,
+        169,
+        169,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    192,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        120,
+        344,
+        212,
+        212,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    224,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        146,
+        299,
+        303,
+        303,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    256,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        226,
+        159,
+        582,
+        582,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    288,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        265,
+        91,
+        719,
+        719,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    320,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        281,
+        63,
+        774,
+        774,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    352,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        290,
+        48,
+        805,
+        805,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    384,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        295,
+        38,
+        823,
+        823,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    416,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        298,
+        33,
+        834,
+        834,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    448,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        300,
+        31,
+        839,
+        839,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    480,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    512,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    544,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    576,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    608,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    640,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+        "Black and white photo of the s",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ]
+  ],
+  "open": [
+   {
+    "tag": "DIV",
+    "cls": "framer-9ihltw-container",
+    "name": "Shared Navigation",
+    "bg": "rgba(0, 0, 0, 0)",
+    "op": "1",
+    "z": "9",
+    "r": [
+     0,
+     0,
+     1440,
+     900
+    ],
+    "img": [
+     [
+      "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+      "",
+      94,
+      407,
+      32,
+      32,
+      "1",
+      "none"
+     ]
+    ]
+   },
+   {
+    "tag": "DIV",
+    "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+    "bg": "rgba(23, 22, 22, 0.75)",
+    "op": "1",
+    "z": "10",
+    "r": [
+     0,
+     0,
+     1440,
+     900
+    ],
+    "img": []
+   },
+   {
+    "tag": "DIV",
+    "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+    "bg": "rgba(0, 0, 0, 0)",
+    "op": "1",
+    "z": "10",
+    "r": [
+     30,
+     30,
+     1380,
+     840
+    ],
+    "img": [
+     [
+      "tH034kMtV4RIIQvLQWKUqNE.jpg?width=1920&height=2560",
+      "Black and white photo of the s",
+      300,
+      30,
+      840,
+      840,
+      "1",
+      "none"
+     ]
+    ]
+   }
+  ],
+  "afterEscape": [
+   {
+    "tag": "DIV",
+    "cls": "framer-9ihltw-container",
+    "name": "Shared Navigation",
+    "bg": "rgba(0, 0, 0, 0)",
+    "op": "1",
+    "z": "9",
+    "r": [
+     0,
+     0,
+     1440,
+     900
+    ],
+    "img": [
+     [
+      "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+      "",
+      94,
+      407,
+      32,
+      32,
+      "1",
+      "none"
+     ]
+    ]
+   }
+  ]
+ },
+ "img2": {
+  "curve": [
+   [
+    32,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        211,
+        392,
+        117,
+        117,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    64,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        212,
+        390,
+        120,
+        120,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    96,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        213,
+        386,
+        128,
+        128,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    128,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        214,
+        378,
+        143,
+        143,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    160,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        218,
+        366,
+        169,
+        169,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    192,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        223,
+        344,
+        212,
+        212,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    224,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        234,
+        299,
+        303,
+        303,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    256,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        268,
+        159,
+        582,
+        582,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    288,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        285,
+        91,
+        719,
+        719,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    320,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        292,
+        63,
+        774,
+        774,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    352,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        296,
+        48,
+        805,
+        805,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    384,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        298,
+        38,
+        823,
+        823,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    416,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        299,
+        33,
+        834,
+        834,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    448,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        300,
+        31,
+        839,
+        839,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    480,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    512,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    544,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    576,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    608,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ],
+   [
+    640,
+    [
+     {
+      "tag": "DIV",
+      "cls": "framer-9ihltw-container",
+      "name": "Shared Navigation",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "9",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": [
+       [
+        "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+        "",
+        94,
+        407,
+        32,
+        32,
+        "1",
+        "none"
+       ]
+      ]
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(23, 22, 22, 0.75)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       0,
+       0,
+       1440,
+       900
+      ],
+      "img": []
+     },
+     {
+      "tag": "DIV",
+      "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+      "bg": "rgba(0, 0, 0, 0)",
+      "op": "1",
+      "z": "10",
+      "r": [
+       30,
+       30,
+       1380,
+       840
+      ],
+      "img": [
+       [
+        "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+        "Black and white photo of the t",
+        300,
+        30,
+        840,
+        840,
+        "1",
+        "none"
+       ]
+      ]
+     }
+    ]
+   ]
+  ],
+  "open": [
+   {
+    "tag": "DIV",
+    "cls": "framer-9ihltw-container",
+    "name": "Shared Navigation",
+    "bg": "rgba(0, 0, 0, 0)",
+    "op": "1",
+    "z": "9",
+    "r": [
+     0,
+     0,
+     1440,
+     900
+    ],
+    "img": [
+     [
+      "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+      "",
+      94,
+      407,
+      32,
+      32,
+      "1",
+      "none"
+     ]
+    ]
+   },
+   {
+    "tag": "DIV",
+    "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+    "bg": "rgba(23, 22, 22, 0.75)",
+    "op": "1",
+    "z": "10",
+    "r": [
+     0,
+     0,
+     1440,
+     900
+    ],
+    "img": []
+   },
+   {
+    "tag": "DIV",
+    "cls": "framer-Ur11b framer-yTVl5 framer-Me6vv framer-2Ps8M framer-LubW4",
+    "bg": "rgba(0, 0, 0, 0)",
+    "op": "1",
+    "z": "10",
+    "r": [
+     30,
+     30,
+     1380,
+     840
+    ],
+    "img": [
+     [
+      "RfpcfGGwdXWT0Qp7kuUbdgo.png?width=1920&height=1280",
+      "Black and white photo of the t",
+      300,
+      30,
+      840,
+      840,
+      "1",
+      "none"
+     ]
+    ]
+   }
+  ],
+  "afterEscape": [
+   {
+    "tag": "DIV",
+    "cls": "framer-9ihltw-container",
+    "name": "Shared Navigation",
+    "bg": "rgba(0, 0, 0, 0)",
+    "op": "1",
+    "z": "9",
+    "r": [
+     0,
+     0,
+     1440,
+     900
+    ],
+    "img": [
+     [
+      "s0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+      "",
+      94,
+      407,
+      32,
+      32,
+      "1",
+      "none"
+     ]
+    ]
+   }
+  ]
+ },
+ "errors": [
+  "Failed to load resource: net::ERR_FAILED",
+  "Failed to load resource: net::ERR_FAILED",
+  "TypeError: Failed to fetch dynamically imported module: https://framer.com/edit/init.mjs"
+ ]
+}

@@ -1,0 +1,695 @@
+scrollHeight 22793
+
+## hero
+<section "Hero" framer-gdnth6 [59,0,1141,900] {gap=15px; overflow=clip; pos=sticky; flex column j=center a=center}
+  <div "Slider Container" framer-16qy4y3 [62,3,1135,894] {gap=20px; borderRadius=12px; overflow=clip; pos=absolute; flex row j=center a=center}
+    <div "Project Showcase Slider" framer-ey8enx-container [62,3,1135,894]
+      <div "Projects Source (Slot)" framer-1p6mac3 [-99937,3,1340,902] {gap=20px; flex row j=flow-start a=flow-start}
+        <a "Project Card" framer-1oyvw8h.framer-1ayeqj4 [-99937,3,320,902] {gap=8px; flex column j=flow-start a=flow-start} href=./projects/gucci
+          <div "Cover" framer-1e6y0i4 [-99937,3,320,420] {borderRadius=12px}
+            <img  [-99937,3,320,420] {borderRadius=12px; overflow=clip} src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350 alt=Close-up of a model wearing wraparound sunglasses covered in water droplets
+          <div "Uploaded Video" framer-160fj7z-container [-99937,431,320,420]
+            <video  [-99937,431,320,420] {overflow=clip} src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350 loop= muted=
+          <div "Guide Dynamic Label" framer-13m35m [-99937,859,320,46] {flex column j=flow-start a=normal}
+            <p  [-99937,859,320,46] font="Mona Sans Variable"/400/40px/46px/lsnormal/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "Gucci"
+        <a "Project Card" framer-1oyvw8h.framer-1ayeqj4 [-99597,3,320,474] {gap=8px; flex column j=flow-start a=flow-start} href=./projects/chanel
+          <div "Cover" framer-1e6y0i4 [-99597,3,320,420] {borderRadius=12px}
+            <img  [-99597,3,320,420] {borderRadius=12px; overflow=clip} src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148 alt=Model applying face cream to her cheek against a pale background
+          <div "Guide Dynamic Label" framer-13m35m [-99597,431,320,46] {flex column j=flow-start a=normal}
+            <p  [-99597,431,320,46] font="Mona Sans Variable"/400/40px/46px/lsnormal/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "Chanel"
+        <a "Project Card" framer-1oyvw8h.framer-1ayeqj4 [-99257,3,320,902] {gap=8px; flex column j=flow-start a=flow-start} href=./projects/puma
+          <div "Cover" framer-1e6y0i4 [-99257,3,320,420] {borderRadius=12px}
+            <img  [-99257,3,320,420] {borderRadius=12px; overflow=clip} src=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440 alt=Runner in a red rain jacket and black cap on a misty coastline
+          <div "Uploaded Video" framer-160fj7z-container [-99257,431,320,420]
+            <video  [-99257,431,320,420] {overflow=clip} src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440 loop= muted=
+          <div "Guide Dynamic Label" framer-13m35m [-99257,859,320,46] {flex column j=flow-start a=normal}
+            <p  [-99257,859,320,46] font="Mona Sans Variable"/400/40px/46px/lsnormal/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "Puma"
+        <a "Project Card" framer-1oyvw8h.framer-1ayeqj4 [-98917,3,320,474] {gap=8px; flex column j=flow-start a=flow-start} href=./projects/adidas
+          <div "Cover" framer-1e6y0i4 [-98917,3,320,420] {borderRadius=12px}
+            <img  [-98917,3,320,420] {borderRadius=12px; overflow=clip} src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350 alt=Close-up of a tennis player with braids looking over her racket
+          <div "Guide Dynamic Label" framer-13m35m [-98917,431,320,46] {flex column j=flow-start a=normal}
+            <p  [-98917,431,320,46] font="Mona Sans Variable"/400/40px/46px/lsnormal/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "Adidas"
+      <div  [62,3,1,1] font=sans-serif/400/12px/normal/lsnormal/none/rgb(0, 0, 0) {overflow=hidden; clipPath=inset(50%); pos=absolute} :: "Slide 1 of 4: GUCCI"
+      <img  [62,3,1135,894] {overflow=clip} src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=2048&width=2400&height=1350 alt=
+      <button  [1085,344,90,50] {borderRadius=8px; transform=matrix(1, 0, 0, 1, 8, 0); flex row j=center a=center} aria-label=Go to slide 1: GUCCI
+        <img  [1085,344,90,50] {overflow=clip; pos=absolute} src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?scale-down-to=512&width=2400&height=1350 alt=GUCCI
+        <canvas  [1085,344,90,50] {overflow=clip; pos=absolute}
+      <button  [1077,398,90,50] {borderRadius=8px; flex row j=center a=center} aria-label=Go to slide 2: CHANEL
+        <img  [1077,398,90,50] {opacity=0.3; overflow=clip} src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?scale-down-to=512&width=2040&height=1148 alt=CHANEL
+      <button  [1077,452,90,50] {borderRadius=8px; flex row j=center a=center} aria-label=Go to slide 3: PUMA
+        <img  [1077,452,90,50] {overflow=clip; pos=absolute} src=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?scale-down-to=1024&width=1152&height=1440 alt=PUMA
+        <canvas  [1077,452,90,50] {overflow=clip; pos=absolute}
+      <button  [1077,506,90,50] {borderRadius=8px; flex row j=center a=center} aria-label=Go to slide 4: ADIDAS
+        <img  [1077,506,90,50] {opacity=0.3; overflow=clip} src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?scale-down-to=512&width=2400&height=1350 alt=ADIDAS
+  <div "Inside Container" framer-1d50dfc [59,0,1141,900] {padding=33px; overflow=clip; flex column j=space-between a=center}
+    <header "Top" framer-x2u5i [92,33,1075,76.45] {padding=0px 0px 50px; gap=40px 20px}
+      <div "Navigation Logo" framer-1yyix1q-container [92,36.55,70,19.36]
+        <a "Link Container" framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1 [92,36.55,70,19.36] {gap=15px; overflow=clip; flex row j=center a=center} href=./ aria-label=home
+          <div "Logo" framer-1xjrc.framer-7h3po8 [92,36.55,70,19.36] {backgroundColor=rgb(255, 255, 255); maskImage=url("data:image/svg+xml,<svg display=\"block\" id=\"2948800472\" role=\"presentation\" viewBox=\"0 0 47 13\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"transparent\" height=\"13px\" id=\"UY0dLwJUd\" width=\"47.00000148731195px\"><path d=\"M 7.707 6.621 L 7.704 6.629 L 7.701 6.638 C 7.636 6.839 7.565 7.038 7.487 7.234 L 7.478 7.256 L 7.471 7.28 C 7.371 7.648 7.358 8.016 7.442 8.377 L 7.443 8.381 L 7.444 8.384 C 7.547 8.795 7.82 9.081 8.186 9.253 L 8.195 9.257 L 8.205 9.261 C 8.516 9.387 8.837 9.402 9.155 9.298 C 9.397 9.219 9.637 9.131 9.874 9.035 C 11.403 8.46 12.925 7.863 14.439 7.244 L 14.446 7.241 L 14.453 7.238 C 14.563 7.188 14.674 7.142 14.787 7.1 L 14.787 11.617 C 14.787 12.381 14.206 13 13.49 13 L 1.297 13 C 0.581 13 0 12.381 0 11.617 L 0 11.194 C 0.21 11.168 0.406 11.079 0.582 10.933 L 0.583 10.932 L 0.584 10.931 C 0.925 10.644 1.237 10.319 1.515 9.962 L 1.518 9.958 L 1.521 9.954 C 1.78 9.603 2.048 9.271 2.322 8.958 L 2.326 8.953 L 3.743 7.288 C 3.707 7.782 3.812 8.281 4.247 8.529 L 4.252 8.532 L 4.257 8.534 C 4.633 8.735 5.039 8.702 5.431 8.516 L 5.431 8.516 C 5.797 8.35 6.139 8.128 6.446 7.86 L 6.452 7.855 L 6.457 7.85 C 6.742 7.582 7.019 7.314 7.288 7.046 L 7.298 7.037 L 7.307 7.027 C 7.427 6.889 7.551 6.756 7.68 6.627 L 7.716 6.595 Z M 13.49 0 C 14.206 0 14.787 0.619 14.787 1.383 L 14.787 5.37 C 14.566 5.461 14.346 5.554 14.127 5.649 C 13.915 5.742 13.696 5.835 13.468 5.928 C 12.937 6.135 12.398 6.343 11.851 6.551 L 11.849 6.552 L 11.848 6.553 L 10.261 7.174 L 9.078 7.595 L 8.981 7.623 C 8.993 7.588 9.003 7.556 9.011 7.528 L 9.011 7.528 C 9.093 7.268 9.182 7.01 9.277 6.756 L 9.279 6.751 L 9.281 6.747 C 9.376 6.474 9.475 6.202 9.576 5.932 L 9.576 5.932 C 9.664 5.711 9.741 5.487 9.808 5.258 C 9.868 5.085 9.889 4.9 9.851 4.711 C 9.813 4.519 9.72 4.354 9.599 4.216 L 9.59 4.206 L 9.581 4.197 L 9.54 4.158 C 9.332 3.97 9.079 3.888 8.804 3.916 L 8.802 3.916 L 8.8 3.917 C 8.581 3.942 8.363 4.015 8.148 4.126 C 7.934 4.238 7.734 4.379 7.552 4.544 C 7.391 4.673 7.256 4.788 7.148 4.89 C 6.775 5.218 6.417 5.568 6.077 5.935 C 5.877 6.14 5.665 6.329 5.442 6.503 L 5.927 4.609 L 5.928 4.605 L 5.929 4.602 C 5.968 4.439 5.975 4.253 5.906 4.072 C 5.839 3.898 5.718 3.775 5.583 3.692 C 5.455 3.601 5.294 3.538 5.111 3.563 C 4.922 3.588 4.775 3.698 4.67 3.818 L 4.668 3.82 L 4.666 3.823 L 1.9 7.06 L 0.711 8.415 C 0.775 8.153 0.843 7.892 0.914 7.632 C 1.11 6.981 1.323 6.337 1.554 5.7 L 1.556 5.694 C 1.772 5.069 2.017 4.456 2.289 3.856 L 2.29 3.854 L 2.291 3.852 L 2.49 3.397 L 2.494 3.389 L 2.497 3.381 C 2.557 3.227 2.624 3.083 2.698 2.948 L 2.703 2.939 L 2.707 2.93 C 2.794 2.752 2.866 2.575 2.894 2.417 L 2.896 2.405 C 2.917 2.26 2.926 2.074 2.926 1.858 C 2.926 1.753 2.902 1.642 2.842 1.539 C 2.791 1.455 2.722 1.384 2.64 1.334 C 2.558 1.276 2.461 1.245 2.362 1.245 C 2.262 1.245 2.165 1.277 2.082 1.335 C 1.882 1.461 1.706 1.604 1.582 1.774 L 1.579 1.777 L 1.577 1.78 C 1.49 1.904 1.395 2.082 1.293 2.295 L 1.29 2.301 L 1.287 2.307 L 0.764 3.5 L 0.762 3.504 L 0.76 3.508 C 0.61 3.87 0.466 4.235 0.33 4.603 C 0.218 4.907 0.108 5.211 0 5.516 L 0 1.383 C 0 0.619 0.581 0 1.297 0 L 13.49 0 Z M 7.851 8.377 L 7.846 8.362 M 7.836 8.333 L 7.833 8.326 L 7.832 8.321 L 7.836 8.333 Z M 13.775 6.246 L 13.602 6.317 C 13.681 6.285 13.759 6.253 13.836 6.221 C 13.815 6.229 13.795 6.238 13.775 6.246 Z M 5.071 4.004 M 5.073 4.003 M 5.117 3.984 C 5.122 3.982 5.128 3.981 5.133 3.979 L 5.135 3.979 C 5.129 3.98 5.123 3.982 5.117 3.984 Z M 5.153 3.975 L 5.161 3.974 L 5.153 3.975 Z M 2.28 2.897 L 2.301 2.854 L 2.331 2.796 C 2.314 2.829 2.297 2.863 2.28 2.897 Z M 39.612 12.905 L 41.704 0 L 44.908 0 L 47 12.905 L 44.775 12.905 L 43.63 4.071 L 43.364 2 L 43.248 2 L 42.982 4.071 L 41.837 12.905 Z M 41.986 10.356 L 42.202 8.444 L 44.41 8.444 L 44.626 10.356 Z M 32.475 12.905 L 32.475 0 L 35.479 0 C 35.911 0 36.304 0.041 36.658 0.124 C 37.023 0.206 37.35 0.336 37.638 0.513 C 37.924 0.678 38.174 0.907 38.368 1.186 C 38.578 1.469 38.733 1.817 38.833 2.23 C 38.932 2.632 38.982 3.11 38.982 3.664 C 38.982 4.479 38.844 5.151 38.567 5.682 C 38.302 6.202 37.881 6.544 37.306 6.709 L 37.306 6.815 C 37.693 6.874 37.992 7.022 38.202 7.258 C 38.423 7.494 38.578 7.795 38.667 8.161 C 38.755 8.526 38.8 8.951 38.8 9.435 L 38.8 11.595 C 38.8 11.854 38.811 12.091 38.833 12.303 C 38.855 12.504 38.883 12.704 38.916 12.905 L 36.625 12.905 C 36.578 12.701 36.545 12.494 36.525 12.285 C 36.503 12.061 36.492 11.872 36.492 11.719 L 36.492 9.665 C 36.492 9.229 36.464 8.898 36.409 8.674 C 36.354 8.438 36.265 8.273 36.143 8.178 C 36.022 8.084 35.867 8.037 35.679 8.037 L 34.517 8.037 L 34.517 6.125 L 35.396 6.125 C 35.894 6.125 36.232 5.948 36.409 5.594 C 36.597 5.228 36.691 4.738 36.691 4.125 C 36.691 3.782 36.669 3.487 36.625 3.239 C 36.581 2.98 36.503 2.773 36.392 2.62 C 36.293 2.455 36.154 2.331 35.977 2.248 C 35.811 2.166 35.601 2.124 35.347 2.124 L 34.732 2.124 L 34.732 12.905 Z M 28.794 12.905 L 28.794 0 L 31.152 0 L 31.152 12.905 Z M 18.678 12.905 L 18.678 0 L 22.015 0 L 22.828 6.408 L 22.994 8.975 L 23.111 8.975 L 23.26 6.408 L 24.09 0 L 27.46 0 L 27.46 12.905 L 25.302 12.905 L 25.302 6.054 L 25.385 2.62 L 25.269 2.62 L 24.771 6.762 L 23.858 12.905 L 22.247 12.905 L 21.351 6.78 L 20.886 2.744 L 20.77 2.744 L 20.82 6.054 L 20.82 12.905 Z\" fill=\"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))\" height=\"13px\" id=\"eU0Y2yi8g\" width=\"47.00000148731195px\"/></g></svg>"), none}
+      <div "Navigation Links" framer-6ky6di-container [365.75,33,801.25,26.45]
+        <div "Desktop - Top" framer-Z2aNj.framer-fvp1dl.framer-v-1fd22pg [365.75,33,801.25,26.45] {flex row j=space-between a=flow-start}
+          <div "Projects" framer-f4luyz-container [365.75,33,90.17,26.45]
+            <a "Small" framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [365.75,33,90.17,26.45] {gap=4px; overflow=clip; flex row j=flow-start a=flow-start} href=./projects
+              <p framer-styles-preset-1l3tbw0 [365.75,33,72.19,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "projects"
+              <p framer-styles-preset-1l3tbw0 [365.75,58,72.19,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "projects"
+              <div "Count Text" framer-12mewa9 [441.94,33,13.98,18] {gap=15px; overflow=clip; flex row j=center a=center}
+                <p framer-styles-preset-c95aba [441.94,33,13.98,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(245, 45, 15)/fvs "wdth" 80, "wght" 700 :: "(6)"
+          <div "Studio" framer-1kxedq2-container [751.52,33,54.36,26.45]
+            <a "Small" framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [751.52,33,54.36,26.45] {gap=4px; overflow=clip; flex row j=flow-start a=flow-start} href=./studio
+              <p framer-styles-preset-1l3tbw0 [751.52,33,54.36,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "Studio"
+              <p framer-styles-preset-1l3tbw0 [751.52,58,54.36,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "Studio"
+          <div "Journal" framer-9r7k9d-container [1101.47,33,65.53,26.45]
+            <a "Small" framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-1xhybmy.framer-5e3077 [1101.47,33,65.53,26.45] {gap=4px; overflow=clip; flex row j=flow-start a=flow-start} href=./journal
+              <p framer-styles-preset-1l3tbw0 [1101.47,33,65.53,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "Journal"
+              <p framer-styles-preset-1l3tbw0 [1101.47,58,65.53,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "Journal"
+    <div "Middle" framer-13nv7w3 [92,241.98,1075,358.5] {gap=20px; overflow=hidden}
+      <div "Filler" framer-1en2rdx [92,241.98,253.75,1] {overflow=clip}
+      <div "Text Container" framer-aizpav [365.75,241.98,801.25,358.5] {gap=20px; overflow=hidden; flex column j=flow-start a=flow-start}
+        <div "Name" framer-7yj4as [365.75,241.98,550,259.14] {gap=16px; flex column j=center a=center}
+          <div "Name / R Symbol" framer-94s39g [365.75,241.98,550,259.14] {gap=20px; flex row j=center a=center}
+            <svg "Logo Name" framer-an17dl [365.75,241.98,550,259.14] {flex column j=flow-start a=normal}
+            <div "R Symbol" framer-wfnd21 [885.5,260.91,27.5,39.88] {gap=16px; transform=matrix(1, 0, 0, 1, -13.75, -19.9375); pos=absolute; flex column j=center a=center}
+              <svg "Logo Trademark" framer-1a8sdqn [885.5,260.91,27.5,39.88] {flex column j=flow-start a=normal}
+          <svg "Logo Descriptor" framer-15fhema [668.25,433.63,247.5,67.5] {pos=absolute; flex column j=flow-start a=normal}
+        <div "Studio Introduction" framer-1hlhch1 [365.75,521.13,550,79.36] {flex column j=flow-start a=normal}
+          <h1 framer-styles-preset-1l3tbw0 [365.75,521.13,550,79.36] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "                      Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look." LINES=Mira|seen.|and
+    <div "Bottom" framer-136tn1m [92,733,1075,134] {padding=50px 0px 0px; gap=40px 20px}
+      <div "Location" framer-1j09cxy [92,827,253.75,40] {gap=15px; overflow=clip; flex row j=center a=flow-end}
+        <div "Location Label" framer-10b2dqi [92,849,49.52,18] {flex column j=flow-end a=normal}
+          <p framer-styles-preset-c95aba [92,849,49.52,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(188, 188, 188)/fvs "wdth" 80, "wght" 700 :: "based in"
+        <div "Locations" framer-jn8mmr [156.52,827,189.23,40] {gap=4px; overflow=clip; flex column j=center a=flow-start}
+          <div "Los Angeles Location" framer-1g5xosj [156.52,827,189.23,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [156.52,827,189.23,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "los angeles"
+          <div "Tokyo Location" framer-15fm0sh [156.52,849,189.23,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [156.52,849,189.23,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "tokyo"
+      <div "Services" framer-868u5k [365.75,783,253.75,84] {gap=15px; overflow=clip; flex row j=center a=flow-end}
+        <div "Services Navigation Link" framer-tbs24v [365.75,849,52.06,18] {flex column j=flow-end a=normal}
+          <p framer-styles-preset-c95aba [365.75,849,52.06,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(188, 188, 188)/fvs "wdth" 80, "wght" 700 :: "Services"
+        <div "Navigation Link Group" framer-mpf3ht [432.81,783,186.69,84] {gap=4px; flex column j=center a=flow-start}
+          <div "Dynamic Navigation Label" framer-rwz1c2 [432.81,783,186.69,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [432.81,783,186.69,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "Brand Identity"
+          <div "Dynamic Navigation Label" framer-rwz1c2 [432.81,805,186.69,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [432.81,805,186.69,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "Web Design"
+          <div "Dynamic Navigation Label" framer-rwz1c2 [432.81,827,186.69,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [432.81,827,186.69,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "Framer Dev"
+          <div "Dynamic Navigation Label" framer-rwz1c2 [432.81,849,186.69,18] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-c95aba [432.81,849,186.69,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "Art Direction"
+      <div "Contact" framer-atlsp8 [639.5,825,527.5,42] {gap=15px; overflow=clip; flex row j=flow-end a=flow-end}
+        <div "Contact Navigation Link" framer-v1t4dw [945.44,849,56.56,18] {flex column j=flow-end a=normal}
+          <p framer-styles-preset-c95aba [945.44,849,56.56,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(188, 188, 188)/fvs "wdth" 80, "wght" 700 :: "let’s talk"
+        <div "Navigation Contact Button" framer-1jyh0tc-container [1017,825,150,42]
+          <a "Desktop" framer-U9l7N.framer-1973bho.framer-v-1973bho.framer-1w8xaug [1017,825,150,42] {gap=5px; borderRadius=8px; overflow=clip; flex row j=center a=center} href=./contact aria-label=contact
+            <div "Button" framer-dczzwc [1017,825,150,42] {padding=5px 15px 5px 5px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex row j=space-between a=center}
+              <div "Picture" framer-154bepi [1022,830,32,32] {borderRadius=4px; overflow=clip}
+                <img  [1022,830,32,32] {borderRadius=4px; overflow=clip} src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84 alt=
+              <svg framer-SYorz.framer-1acwqfj [1135,837.5,17,17] {overflow=hidden}
+
+## about
+<section "About" framer-ycmhje [59,900,1141,1054.78] {padding=120px 0px; gap=80px; backgroundColor=rgb(255, 255, 255); flex column j=flow-start a=center}
+  <div "Inside Container" framer-1lym5t5 [59,1020,1141,814.78] {padding=0px 33px; gap=80px; overflow=clip; flex column j=center a=center}
+    <div "Positioning Headline Group" framer-1x2zti6 [92,1020,1075,360] {gap=20px; overflow=clip}
+      <div "Positioning Headline" framer-5s3f7s [365.75,1020,801.25,360] {flex column j=flow-start a=normal}
+        <h2 framer-styles-preset-fvem1p [365.75,1020,801.25,360] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "                 WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK." LINES=W|W|P|S|Y|W
+          <span  [527.78,1020,41.11,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "W"
+          <span  [568.89,1020,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [598.89,1020,25.14,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "B"
+          <span  [624.03,1020,26.89,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "U"
+          <span  [650.92,1020,12.13,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "I"
+          <span  [663.05,1020,18.67,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "L"
+          <span  [681.72,1020,26.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "D"
+          <span  [718.2,1020,25.14,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "B"
+          <span  [743.34,1020,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [769.58,1020,26.7,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "A"
+          <span  [796.28,1020,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [823.59,1020,26.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "D"
+          <span  [850.55,1020,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [884.5,1020,19.92,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "F"
+          <span  [904.42,1020,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [931.61,1020,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [967.38,1020,19.92,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "F"
+          <span  [987.3,1020,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [1014.48,1020,26.89,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "U"
+          <span  [1041.38,1020,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [1068.69,1020,26.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "D"
+          <span  [1095.64,1020,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [1116.11,1020,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [1142.34,1020,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [365.75,1080,41.11,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "W"
+          <span  [406.86,1080,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "H"
+          <span  [434.17,1080,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [506.08,1080,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [532.31,1080,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [552.78,1080,19.92,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "F"
+          <span  [572.7,1080,26.89,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "U"
+          <span  [599.59,1080,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [624.02,1080,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [689.2,1080,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [710.16,1080,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [782.06,1080,25.14,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "B"
+          <span  [807.2,1080,18.67,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "L"
+          <span  [825.88,1080,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [846.34,1080,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [873.66,1080,26.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "D"
+          <span  [945.33,1080,12.13,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "I"
+          <span  [957.45,1080,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [984.77,1080,9.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "."
+          <span  [1038.8,1080,19.92,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "F"
+          <span  [1058.72,1080,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [1079.19,1080,41.11,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "W"
+          <span  [1120.3,1080,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [1140.77,1080,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [365.75,1140,25.45,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "P"
+          <span  [391.2,1140,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [417.44,1140,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [444.63,1140,14.34,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "J"
+          <span  [458.97,1140,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [479.44,1140,26.34,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "C"
+          <span  [505.78,1140,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [526.73,1140,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [551.16,1140,10.09,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: ","
+          <span  [604.94,1140,35.34,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "M"
+          <span  [640.28,1140,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [667.47,1140,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [693.7,1140,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [757.86,1140,26.7,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "A"
+          <span  [784.56,1140,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [805.52,1140,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [826.47,1140,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [846.94,1140,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [874.25,1140,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [895.2,1140,12.13,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "I"
+          <span  [907.33,1140,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [934.52,1140,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [961.83,1140,10.09,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: ","
+          <span  [1015.61,1140,26.7,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "A"
+          <span  [1042.31,1140,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [1069.63,1140,26.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "D"
+          <span  [1140.27,1140,26.7,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "A"
+          <span  [365.75,1200,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [390.17,1200,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [411.13,1200,26.89,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "U"
+          <span  [438.02,1200,26.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "D"
+          <span  [464.97,1200,12.13,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "I"
+          <span  [477.09,1200,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [517.72,1200,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [542.14,1200,35.34,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "M"
+          <span  [577.48,1200,26.7,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "A"
+          <span  [604.19,1200,18.67,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "L"
+          <span  [622.86,1200,18.67,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "L"
+          <span  [654.97,1200,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [675.44,1200,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [702.75,1200,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [729.94,1200,26.89,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "U"
+          <span  [756.83,1200,26.77,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "G"
+          <span  [783.59,1200,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "H"
+          <span  [824.34,1200,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [845.3,1200,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "H"
+          <span  [872.61,1200,26.7,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "A"
+          <span  [899.31,1200,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [933.7,1200,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [954.66,1200,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "H"
+          <span  [981.97,1200,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [1015.88,1200,25.45,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "P"
+          <span  [1041.33,1200,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [1061.8,1200,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [1088.03,1200,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [1112.45,1200,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [1139.64,1200,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [365.75,1260,26.28,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "Y"
+          <span  [392.03,1260,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [419.22,1260,26.89,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "U"
+          <span  [477.66,1260,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "H"
+          <span  [504.97,1260,12.13,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "I"
+          <span  [517.09,1260,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [543.33,1260,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [595.34,1260,12.13,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "I"
+          <span  [607.47,1260,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [663.44,1260,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [684.39,1260,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "H"
+          <span  [711.7,1260,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [763.72,1260,25.45,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "P"
+          <span  [789.17,1260,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [809.64,1260,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [835.88,1260,24.42,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "S"
+          <span  [860.3,1260,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [887.48,1260,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [946.34,1260,26.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "D"
+          <span  [973.3,1260,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [1000.48,1260,12.13,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "I"
+          <span  [1012.61,1260,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "N"
+          <span  [1039.92,1260,26.77,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "G"
+          <span  [1098.23,1260,20.95,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "T"
+          <span  [1119.19,1260,27.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "H"
+          <span  [1146.5,1260,20.47,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "E"
+          <span  [365.75,1320,41.11,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "W"
+          <span  [406.86,1320,27.19,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "O"
+          <span  [434.05,1320,26.23,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "R"
+          <span  [460.28,1320,26.53,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "K"
+          <span  [486.81,1320,9.31,60] font="Mona Sans Variable"/400/60px/60px/ls-1.2px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "."
+    <div "Philosophy" framer-qcr6nv [92,1460,1075,374.78] {gap=40px 20px}
+      <div "Card / Signature" framer-djt4hk [92,1460,253.75,374.78] {gap=15px; flex column j=center a=center}
+      <div "Philosophy Eyebrow" framer-ql5j4v [365.75,1460,97.98,18] {flex column j=flow-start a=normal}
+        <p framer-styles-preset-c95aba [365.75,1460,97.98,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(104, 104, 104)/fvs "wdth" 80, "wght" 700 :: "(My philosophy)"
+      <div "Quote / Primary Link" framer-luaw3f [639.5,1460,527.5,241.91] {gap=40px; flex column j=center a=flow-start}
+        <div "Quote" framer-1yax0v2 [639.5,1460,527.5,181.5] {gap=15px; overflow=clip; flex column j=center a=flow-start}
+          <div "Quote" framer-1vyjfpw [639.5,1460,527.5,103.5] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-ervepf [639.5,1460,527.5,103.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”" LINES=“|w|c
+              <span  [639.5,1460,11.08,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "“"
+              <span  [655.36,1460,5.98,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+              <span  [666.13,1460,12.16,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+              <span  [678.28,1460,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [688.7,1460,13.23,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "a"
+              <span  [701.94,1460,13.03,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+              <span  [714.97,1460,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [725.39,1460,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [735.53,1460,13.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "d"
+              <span  [753.73,1460,17.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "M"
+              <span  [771.27,1460,5.98,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "i"
+              <span  [777.25,1460,13.03,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+              <span  [790.28,1460,13.23,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "a"
+              <span  [808.3,1460,12.48,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "b"
+              <span  [820.78,1460,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [830.92,1460,13.09,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "c"
+              <span  [844.02,1460,13.23,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "a"
+              <span  [857.25,1460,13.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "u"
+              <span  [870.67,1460,12.16,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+              <span  [882.83,1460,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [897.75,1460,5.98,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+              <span  [908.52,1460,13.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "k"
+              <span  [921.66,1460,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [931.8,1460,12.61,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "p"
+              <span  [944.41,1460,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [639.5,1494.5,20.41,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "w"
+              <span  [659.91,1494.5,13.23,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "a"
+              <span  [673.14,1494.5,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [683.56,1494.5,13.09,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "c"
+              <span  [696.66,1494.5,13.59,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "h"
+              <span  [710.25,1494.5,5.98,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "i"
+              <span  [716.23,1494.5,13.63,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+              <span  [729.86,1494.5,13.3,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "g"
+              <span  [747.94,1494.5,13.3,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "g"
+              <span  [761.23,1494.5,13.03,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+              <span  [774.27,1494.5,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [784.41,1494.5,13.23,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "a"
+              <span  [797.64,1494.5,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [812.84,1494.5,12.61,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "p"
+              <span  [825.45,1494.5,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [835.59,1494.5,13.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+              <span  [849.13,1494.5,12.61,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "p"
+              <span  [861.73,1494.5,9.22,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "l"
+              <span  [870.95,1494.5,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [885.88,1494.5,9.22,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "l"
+              <span  [895.09,1494.5,13.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+              <span  [908.63,1494.5,12.16,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+              <span  [920.78,1494.5,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [935.7,1494.5,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [946.13,1494.5,13.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+              <span  [964.44,1494.5,20.41,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "w"
+              <span  [984.84,1494.5,13.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+              <span  [998.38,1494.5,13.03,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+              <span  [1011.41,1494.5,12.16,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+              <span  [1023.56,1494.5,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [639.5,1529,13.09,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "c"
+              <span  [652.59,1529,13.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+              <span  [666.13,1529,17.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "m"
+              <span  [683.66,1529,12.61,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "p"
+              <span  [696.27,1529,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [706.41,1529,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [716.83,1529,5.98,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "i"
+              <span  [722.81,1529,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [733.23,1529,13.53,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+              <span  [746.77,1529,13.03,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+              <span  [759.8,1529,12.16,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+              <span  [776.73,1529,20.41,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "w"
+              <span  [797.14,1529,5.98,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "i"
+              <span  [803.13,1529,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [813.55,1529,13.59,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "h"
+              <span  [831.92,1529,12.48,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "b"
+              <span  [844.41,1529,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [854.55,1529,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [864.97,1529,10.42,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+              <span  [875.39,1529,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [885.53,1529,13.03,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+              <span  [903.34,1529,12.61,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "p"
+              <span  [915.95,1529,13.03,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+              <span  [928.98,1529,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [939.13,1529,12.16,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+              <span  [951.28,1529,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [961.42,1529,13.63,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+              <span  [975.05,1529,13.09,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "c"
+              <span  [988.14,1529,10.14,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+              <span  [998.28,1529,4.59,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "."
+              <span  [1007.66,1529,11.08,34.5] font="Mona Sans Variable"/400/30px/34.5px/ls-0.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "”"
+          <div "Small Text" framer-vur5wz [639.5,1578.5,380,63] {flex column j=flow-start a=normal}
+            <p framer-styles-preset-10r2g7l [639.5,1578.5,380,63] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?" LINES=Design|understood.|does
+              <span  [639.5,1578.5,45.84,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "Design"
+              <span  [687.78,1578.5,26.77,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "isn't"
+              <span  [716.98,1578.5,70.81,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "decoration"
+              <span  [790.23,1578.5,14.56,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "—"
+              <span  [807.23,1578.5,18.44,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "it's"
+              <span  [828.11,1578.5,21.14,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "the"
+              <span  [851.69,1578.5,44.77,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "fastest"
+              <span  [898.89,1578.5,28.13,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "way"
+              <span  [929.45,1578.5,12.81,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "to"
+              <span  [944.7,1578.5,16.63,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "be"
+              <span  [639.5,1599.5,78.84,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "understood."
+              <span  [720.78,1599.5,37.67,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "Every"
+              <span  [760.89,1599.5,45.91,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "project"
+              <span  [809.23,1599.5,10.77,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "is"
+              <span  [822.44,1599.5,27.59,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "built"
+              <span  [852.47,1599.5,46.78,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "around"
+              <span  [901.69,1599.5,24.86,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "one"
+              <span  [928.98,1599.5,60,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(104, 104, 104) :: "question:"
+              <span  [639.5,1620.5,32.42,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "does"
+              <span  [674.36,1620.5,23.63,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "this"
+              <span  [700.42,1620.5,51.55,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "actually"
+              <span  [754.41,1620.5,36.75,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "move"
+              <span  [793.59,1620.5,21.14,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "the"
+              <span  [817.17,1620.5,59,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "business"
+              <span  [878.61,1620.5,59.63,21] font=Switzer/600/15px/21px/ls-0.45px/none/rgb(13, 13, 13) :: "forward?"
+        <div "Primary link" framer-k36hqa [639.5,1681.5,527.5,20.41] {gap=40px; overflow=clip}
+          <div "Filler" framer-1whhr62 [639.5,1681.5,243.75,1] {overflow=clip}
+          <div "Philosophy Link" framer-l6m7oy-container [923.25,1681.5,111.02,20.41]
+
+## clients
+<div "Client Logo Marquee" framer-hkp95f-container [59,5104.78,1141,561]
+
+## whyus
+<section "Why us" framer-1qtyeza [59,5665.78,1141,1539.05] {padding=3px; gap=0px; flex column j=center a=center}
+  <div "Outer Container" framer-1q01uzu [62,5668.78,1135,1533.05] {padding=120px 0px; gap=15px; borderRadius=12px; backgroundColor=rgb(247, 247, 247); overflow=clip; flex row j=center a=center}
+    <div "Inside Container" framer-1395npy [62,5788.78,1135,1293.05] {padding=0px 33px; gap=80px; overflow=clip; flex column j=center a=center}
+      <div "Label / Heading" framer-ddom1c [95,5788.78,1069,336.22] {gap=20px; overflow=clip}
+        <div "Impact Section Label" framer-15t8gb5-container [95,5788.78,252.25,18]
+          <div "Label" framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [95,5788.78,70.09,18] {gap=5px; flex row j=flow-start a=center}
+            <div "Count" framer-1qsszq [95,5788.78,20.97,18] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-c95aba [95,5788.78,20.97,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(245, 45, 15)/fvs "wdth" 80, "wght" 700 :: "(03)"
+            <div "Text" framer-moe5to [120.97,5788.78,44.13,18] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-c95aba [120.97,5788.78,44.13,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(13, 13, 13)/fvs "wdth" 80, "wght" 700 :: "Why us"
+        <div "Impact Headline Group" framer-1coydt8 [367.25,5788.78,796.75,336.22] {gap=30px; overflow=clip; flex column j=center a=flow-start}
+          <div "Impact Headline" framer-4mh2mt [367.25,5788.78,550,144] {flex column j=flow-start a=normal}
+            <h2 framer-styles-preset-1c0t51l [367.25,5788.78,550,144] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "why Mira® is your next choice." LINES=w|y
+              <span  [367.25,5788.78,54.81,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "w"
+              <span  [422.06,5788.78,36.41,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "h"
+              <span  [458.47,5788.78,35.05,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "y"
+              <span  [505.92,5788.78,47.13,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "M"
+              <span  [553.05,5788.78,16.17,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "i"
+              <span  [569.22,5788.78,34.97,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "r"
+              <span  [604.19,5788.78,35.61,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "a"
+              <span  [639.8,5788.78,37.61,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "®"
+              <span  [689.81,5788.78,16.17,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "i"
+              <span  [705.98,5788.78,32.56,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "s"
+              <span  [367.25,5860.78,35.05,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "y"
+              <span  [402.3,5860.78,36.25,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "o"
+              <span  [438.55,5860.78,35.84,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "u"
+              <span  [474.39,5860.78,34.97,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "r"
+              <span  [521.77,5860.78,36.41,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "n"
+              <span  [558.17,5860.78,27.28,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "e"
+              <span  [585.45,5860.78,35.13,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "x"
+              <span  [620.58,5860.78,27.92,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(245, 45, 15)/fvs "wdth" 75, "wght" 700 :: "t"
+              <span  [660.91,5860.78,35.13,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "c"
+              <span  [696.03,5860.78,36.41,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "h"
+              <span  [732.44,5860.78,36.25,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "o"
+              <span  [768.69,5860.78,16.17,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "i"
+              <span  [784.86,5860.78,35.13,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "c"
+              <span  [819.98,5860.78,27.28,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "e"
+              <span  [847.27,5860.78,12.41,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "."
+          <div "Description / Qualifier" framer-8xf3fa [367.25,5962.78,750,162.22] {gap=20px; flex column j=center a=flow-start}
+            <div "Impact Supporting Copy" framer-fan4ht [367.25,5962.78,400,105.81] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-1l3tbw0 [367.25,5962.78,400,105.81] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "                          WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE." LINES=W|C|I|P
+                <span  [518.78,5962.78,15.88,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "W"
+                <span  [534.66,5962.78,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [539.47,5962.78,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "T"
+                <span  [547.69,5962.78,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "H"
+                <span  [558.34,5962.78,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [563.16,5962.78,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [579.67,5962.78,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [589.22,5962.78,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [594.03,5962.78,10.25,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "X"
+                <span  [610.11,5962.78,13.67,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "M"
+                <span  [623.78,5962.78,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "O"
+                <span  [634.39,5962.78,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [645.08,5962.78,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "T"
+                <span  [653.3,5962.78,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "H"
+                <span  [663.95,5962.78,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [679.33,5962.78,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "O"
+                <span  [689.94,5962.78,7.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "F"
+                <span  [703.58,5962.78,7.3,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "L"
+                <span  [710.88,5962.78,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [721.25,5962.78,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "U"
+                <span  [731.77,5962.78,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [742.45,5962.78,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "C"
+                <span  [752.72,5962.78,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "H"
+                <span  [763.38,5962.78,4.03,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: ","
+                <span  [367.25,5989.23,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "C"
+                <span  [377.52,5989.23,7.3,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "L"
+                <span  [384.81,5989.23,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [389.63,5989.23,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [397.64,5989.23,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [408.33,5989.23,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "T"
+                <span  [416.55,5989.23,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [436.44,5989.23,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [445.98,5989.23,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [454,5989.23,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [472.36,5989.23,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [482.73,5989.23,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [503.77,5989.23,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [514.14,5989.23,9.98,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "V"
+                <span  [524.13,5989.23,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [532.14,5989.23,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "R"
+                <span  [542.36,5989.23,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [552.73,5989.23,10.42,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "G"
+                <span  [563.16,5989.23,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [581.52,5989.23,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "4"
+                <span  [592.03,5989.23,9.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "7"
+                <span  [601.84,5989.23,15.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "%"
+                <span  [627.7,5989.23,7.3,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "L"
+                <span  [635,5989.23,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [639.81,5989.23,7.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "F"
+                <span  [647.63,5989.23,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "T"
+                <span  [666.19,5989.23,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [671,5989.23,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [692.03,5989.23,11.09,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "Q"
+                <span  [703.13,5989.23,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "U"
+                <span  [713.64,5989.23,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [724.02,5989.23,7.3,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "L"
+                <span  [731.31,5989.23,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [736.13,5989.23,7.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "F"
+                <span  [743.94,5989.23,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [748.75,5989.23,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [756.77,5989.23,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "D"
+                <span  [367.25,6015.69,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "I"
+                <span  [372.06,6015.69,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [382.75,6015.69,9.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "B"
+                <span  [392.56,6015.69,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "O"
+                <span  [403.17,6015.69,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "U"
+                <span  [413.69,6015.69,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [424.38,6015.69,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "D"
+                <span  [434.89,6015.69,4.03,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: ","
+                <span  [443.3,6015.69,13.67,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "M"
+                <span  [456.97,6015.69,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [464.98,6015.69,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [475.36,6015.69,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [484.91,6015.69,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "U"
+                <span  [495.42,6015.69,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "R"
+                <span  [505.64,6015.69,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [513.66,6015.69,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "D"
+                <span  [528.55,6015.69,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [538.92,6015.69,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "C"
+                <span  [549.19,6015.69,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "R"
+                <span  [559.41,6015.69,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "O"
+                <span  [570.02,6015.69,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [579.56,6015.69,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [593.48,6015.69,9.89,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "P"
+                <span  [603.38,6015.69,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "R"
+                <span  [613.59,6015.69,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [625.98,6015.69,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [636.36,6015.69,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [647.05,6015.69,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "D"
+                <span  [661.94,6015.69,9.89,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "P"
+                <span  [671.83,6015.69,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "O"
+                <span  [682.44,6015.69,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "S"
+                <span  [691.98,6015.69,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "T"
+                <span  [700.2,6015.69,7.23,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "-"
+                <span  [707.44,6015.69,7.3,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "L"
+                <span  [714.73,6015.69,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [725.11,6015.69,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "U"
+                <span  [735.63,6015.69,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [746.31,6015.69,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "C"
+                <span  [756.58,6015.69,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "H"
+                <span  [367.25,6042.14,9.89,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "P"
+                <span  [377.14,6042.14,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [385.16,6042.14,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "R"
+                <span  [395.38,6042.14,7.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "F"
+                <span  [403.19,6042.14,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "O"
+                <span  [413.8,6042.14,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "R"
+                <span  [424.02,6042.14,13.67,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "M"
+                <span  [437.69,6042.14,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "A"
+                <span  [448.06,6042.14,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "N"
+                <span  [458.75,6042.14,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "C"
+                <span  [469.02,6042.14,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "E"
+                <span  [477.03,6042.14,3.75,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "."
+            <div "Impact Footnote" framer-o6avto [367.25,6088.59,350,36.41] {flex column j=flow-start a=normal}
+              <p framer-styles-preset-lu6cf5 [367.25,6088.59,350,36.41] font=Switzer/600/13px/18.2px/ls-0.26px/none/rgb(104, 104, 104) :: "*Across client launches from 2023 to 2026, measured over the first six months post-launch." LINES=*Across|measured
+      <div "Proof Points Group" framer-1km4gyt [95,6599.2,1069,482.63] {gap=40px 20px; overflow=clip}
+        <div "Company Card" framer-1gx5uo5 [95,6599.2,252.25,482.63] {padding=30px; borderRadius=10px; backgroundColor=rgb(245, 45, 15); flex column j=space-between a=flow-start}
+          <div "Logo / Slogan" framer-1eqaor8 [125,6629.2,192.25,208.63] {gap=30px; overflow=clip; flex column j=flow-start a=flow-start}
+            <div "Proof Points Icon" framer-urcMH.framer-533vj9 [125,6629.2,40,34.66] {backgroundColor=rgb(255, 255, 255); maskImage=url("data:image/svg+xml,<svg display=\"block\" id=\"115873233\" role=\"presentation\" viewBox=\"0 0 15 13\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"transparent\" height=\"13px\" id=\"BKf6YnvjN\" width=\"14.786929033227068px\"><path d=\"M 7.707 6.621 L 7.704 6.629 L 7.701 6.638 C 7.636 6.839 7.565 7.038 7.487 7.234 L 7.478 7.256 L 7.471 7.28 C 7.371 7.648 7.358 8.016 7.442 8.377 L 7.443 8.381 L 7.444 8.384 C 7.547 8.795 7.82 9.081 8.186 9.253 L 8.195 9.257 L 8.205 9.261 C 8.516 9.387 8.837 9.402 9.155 9.298 C 9.397 9.219 9.637 9.131 9.874 9.035 C 11.403 8.46 12.925 7.863 14.439 7.244 L 14.446 7.241 L 14.453 7.238 C 14.563 7.188 14.674 7.142 14.787 7.1 L 14.787 11.617 C 14.787 12.381 14.206 13 13.49 13 L 1.297 13 C 0.581 13 0 12.381 0 11.617 L 0 11.194 C 0.21 11.168 0.406 11.079 0.582 10.933 L 0.583 10.932 L 0.584 10.931 C 0.925 10.644 1.237 10.319 1.515 9.962 L 1.518 9.958 L 1.521 9.954 C 1.78 9.603 2.048 9.271 2.322 8.958 L 2.326 8.953 L 3.743 7.288 C 3.707 7.782 3.812 8.281 4.247 8.529 L 4.252 8.532 L 4.257 8.534 C 4.633 8.735 5.039 8.702 5.431 8.516 L 5.431 8.516 C 5.797 8.35 6.139 8.128 6.446 7.86 L 6.452 7.855 L 6.457 7.85 C 6.742 7.582 7.019 7.314 7.288 7.046 L 7.298 7.037 L 7.307 7.027 C 7.427 6.889 7.551 6.756 7.68 6.627 L 7.716 6.595 Z M 13.49 0 C 14.206 0 14.787 0.619 14.787 1.383 L 14.787 5.37 C 14.566 5.461 14.346 5.554 14.127 5.649 C 13.915 5.742 13.696 5.835 13.468 5.928 C 12.937 6.135 12.398 6.343 11.851 6.551 L 11.849 6.552 L 11.848 6.553 L 10.261 7.174 L 9.078 7.595 L 8.981 7.623 C 8.993 7.588 9.003 7.556 9.011 7.528 L 9.011 7.528 C 9.093 7.268 9.182 7.01 9.277 6.756 L 9.279 6.751 L 9.281 6.747 C 9.376 6.474 9.475 6.202 9.576 5.932 L 9.576 5.932 C 9.664 5.711 9.741 5.487 9.808 5.258 C 9.868 5.085 9.889 4.9 9.851 4.711 C 9.813 4.519 9.72 4.354 9.599 4.216 L 9.59 4.206 L 9.581 4.197 L 9.54 4.158 C 9.332 3.97 9.079 3.888 8.804 3.916 L 8.802 3.916 L 8.8 3.917 C 8.581 3.942 8.363 4.015 8.148 4.126 C 7.934 4.238 7.734 4.379 7.552 4.544 C 7.391 4.673 7.256 4.788 7.148 4.89 C 6.775 5.218 6.417 5.568 6.077 5.935 C 5.877 6.14 5.665 6.329 5.442 6.503 L 5.927 4.609 L 5.928 4.605 L 5.929 4.602 C 5.968 4.439 5.975 4.253 5.906 4.072 C 5.839 3.898 5.718 3.775 5.583 3.692 C 5.455 3.601 5.294 3.538 5.111 3.563 C 4.922 3.588 4.775 3.698 4.67 3.818 L 4.668 3.82 L 4.666 3.823 L 1.9 7.06 L 0.711 8.415 C 0.775 8.153 0.843 7.892 0.914 7.632 C 1.11 6.981 1.323 6.337 1.554 5.7 L 1.556 5.694 C 1.772 5.069 2.017 4.456 2.289 3.856 L 2.29 3.854 L 2.291 3.852 L 2.49 3.397 L 2.494 3.389 L 2.497 3.381 C 2.557 3.227 2.624 3.083 2.698 2.948 L 2.703 2.939 L 2.707 2.93 C 2.794 2.752 2.866 2.575 2.894 2.417 L 2.896 2.405 C 2.917 2.26 2.926 2.074 2.926 1.858 C 2.926 1.753 2.902 1.642 2.842 1.539 C 2.791 1.455 2.722 1.384 2.64 1.334 C 2.558 1.276 2.461 1.245 2.362 1.245 C 2.262 1.245 2.165 1.277 2.082 1.335 C 1.882 1.461 1.706 1.604 1.582 1.774 L 1.579 1.777 L 1.577 1.78 C 1.49 1.904 1.395 2.082 1.293 2.295 L 1.29 2.301 L 1.287 2.307 L 0.764 3.5 L 0.762 3.504 L 0.76 3.508 C 0.61 3.87 0.466 4.235 0.33 4.603 C 0.218 4.907 0.108 5.211 0 5.516 L 0 1.383 C 0 0.619 0.581 0 1.297 0 L 13.49 0 Z M 7.851 8.377 L 7.846 8.362 M 7.836 8.333 L 7.833 8.326 L 7.832 8.321 L 7.836 8.333 Z M 13.775 6.246 L 13.602 6.317 C 13.681 6.285 13.759 6.253 13.836 6.221 C 13.815 6.229 13.795 6.238 13.775 6.246 Z M 5.071 4.004 M 5.073 4.003\" fill=\"var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))\" height=\"13px\" id=\"eRwXS1i81\" width=\"14.786929033227068px\"/></g></svg>"), none}
+            <div "Slogan" framer-zry8b9 [125,6693.86,192.25,143.97] {gap=10px; overflow=clip; flex column j=center a=flow-start}
+              <div "Proof Points Heading" framer-1r5x61w [125,6693.86,192.25,79.36] {flex column j=flow-start a=normal}
+                <p framer-styles-preset-1l3tbw0 [125,6693.86,192.25,79.36] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS." LINES=REAL|REAL|ZERO
+                  <strong  [125,6690.86,123.66,84.91] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 675 :: "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS."
+              <div "Proof Points Description" framer-qof2k3 [125,6783.22,192.25,54.61] {opacity=0.85; flex column j=flow-start a=normal}
+                <p framer-styles-preset-lu6cf5 [125,6783.22,192.25,54.61] font=Switzer/600/13px/18.2px/ls-0.26px/none/rgb(255, 255, 255) :: "Most clients come back for the next project. The rest send referrals." LINES=Most|for|The
+          <div "Stats" framer-140sspa [125,6837.83,192.25,214] {padding=50px 0px 0px; gap=30px; overflow=clip; flex column j=flow-start a=flow-start}
+            <div "Companies Automated" framer-eolegq [125,6887.83,106.02,67] {gap=7px; flex column j=flow-start a=flow-start}
+              <div "Brands Launched Value" framer-yu2e2v [125,6887.83,53.56,42] {flex column j=flow-start a=normal}
+                <h3 framer-styles-preset-s3qbre [125,6887.83,53.56,42] font="Mona Sans Variable"/400/40px/42px/ls-0.8px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 700 :: "50+"
+              <div "Brands Launched Label" framer-1xkeben [125,6936.83,106.02,18] {opacity=0.85; flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [125,6936.83,106.02,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "brands launched"
+            <div "Satisfaction Rate" framer-1dga4qu [125,6984.83,93.17,67] {gap=7px; flex column j=flow-start a=flow-start}
+              <div "On-Time Delivery Value" framer-2f19st [125,6984.83,74.69,42] {flex column j=flow-start a=normal}
+                <h3 framer-styles-preset-s3qbre [125,6984.83,74.69,42] font="Mona Sans Variable"/400/40px/42px/ls-0.8px/uppercase/rgb(255, 255, 255)/fvs "wdth" 75, "wght" 700 :: "100%"
+              <div "On-Time Delivery Label" framer-1por1vl [125,7033.83,93.17,18] {opacity=0.85; flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [125,7033.83,93.17,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(255, 255, 255)/fvs "wdth" 80, "wght" 700 :: "shipped on time"
+        <div "Filler" framer-pykcut [367.25,6599.2,252.25,1] {overflow=clip}
+        <div "Project Metrics Group" framer-x0xz02 [639.5,6599.2,524.5,482.03] {gap=40px; overflow=clip; flex column j=center a=center}
+          <div "Stats" framer-1gw2692 [639.5,6599.2,524.5,331.63] {gap=30px 20px; overflow=clip; flex column j=flow-start a=center}
+          <div "Services Introduction Group" framer-1ckw0ru [639.5,6970.83,524.5,110.41] {gap=40px 20px; overflow=clip}
+            <div "Team Quote" framer-u7488v [639.5,6970.83,252.25,110.41] {gap=20px; overflow=clip; flex column j=center a=flow-start}
+              <div "Quote" framer-1p1yh5e [639.5,6970.83,240,54] {flex column j=flow-start a=normal}
+                <p framer-styles-preset-c95aba [639.5,6970.83,240,54] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(13, 13, 13)/fvs "wdth" 80, "wght" 700 :: "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU." LINES=NOT|WORK|PROBLEM.
+                  <span  [639.5,6968.83,210.88,57] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(104, 104, 104)/fvs "wdth" 80, "wght" 700 :: "WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. " LINES=WE|WORK|PROBLEM.
+            <div "Services Introduction Link" framer-1y26ven-container [1044.11,7060.83,119.89,20.41]
+              <a "Desktop - Right" framer-St8Ub.framer-khCxy.framer-q8hg74.framer-v-q8hg74.framer-ghew07 [1044.11,7060.83,119.89,20.41] {gap=9px; overflow=clip; flex row j=center a=center} href=./contact
+                <div "Text" framer-1dzfdpz [1044.11,7060.83,93.89,20.41] {gap=15px; flex row j=center a=center}
+                  <div "Top Text" framer-zixbhw [1044.11,7060.83,93.89,20.41] {flex column j=flow-start a=normal}
+                    <p framer-styles-preset-k5mxv3 [1044.11,7060.83,93.89,20.41] font="Mona Sans Variable"/400/17px/20.4px/ls-0.17px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "Start a project"
+                  <div "Bottom Text" framer-1396mtp [1044.11,7080.83,93.89,20.41] {opacity=0; pos=absolute; flex column j=flow-start a=normal}
+                    <p framer-styles-preset-k5mxv3 [1044.11,7080.83,93.89,20.41] font="Mona Sans Variable"/400/17px/20.4px/ls-0.17px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "Start a project"
+                <div "Chevron" framer-73np5u [1147,7062.53,17,17] {padding=2px; gap=15px; borderRadius=4px; backgroundColor=rgb(245, 45, 15); flex column j=center a=center}
+                  <svg framer-ab47M.framer-19pf2gr [1149,7064.53,13,13] {overflow=hidden}
+
+## services
+<section "Services" framer-nb46is [59,7204.83,1141,1311.61] {padding=120px 0px; gap=80px; flex column j=center a=center}
+  <div "Label / Heading" framer-1rtf8yx [59,7324.83,1141,181.36] {padding=0px 30px; gap=40px 20px; overflow=clip}
+    <div "Filler" framer-15bxga8 [89,7324.83,255.25,1] {gap=30px; overflow=clip}
+    <div "Services Section Label" framer-khit0z-container [364.25,7324.83,255.25,18]
+      <div "Label" framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4 [364.25,7324.83,115.89,18] {gap=5px; flex row j=flow-start a=center}
+        <div "Count" framer-1qsszq [364.25,7324.83,21.77,18] {flex column j=flow-start a=normal}
+          <p framer-styles-preset-c95aba [364.25,7324.83,21.77,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(245, 45, 15)/fvs "wdth" 80, "wght" 700 :: "(04)"
+        <div "Text" framer-moe5to [391.02,7324.83,89.13,18] {flex column j=flow-start a=normal}
+          <p framer-styles-preset-c95aba [391.02,7324.83,89.13,18] font="Mona Sans Variable"/400/15px/18px/ls-0.15px/uppercase/rgb(13, 13, 13)/fvs "wdth" 80, "wght" 700 :: "What we bring"
+    <div "Heading / Description" framer-1s9hlkd [639.5,7324.83,530.5,181.36] {gap=30px; overflow=clip; flex column j=center a=flow-start}
+      <div "Services Heading" framer-5fp2uh [639.5,7324.83,530.5,72] {flex column j=flow-start a=normal}
+        <h2 framer-styles-preset-1c0t51l [639.5,7324.83,530.5,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "services."
+          <span  [639.5,7324.83,32.56,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "s"
+          <span  [672.06,7324.83,27.28,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "e"
+          <span  [699.34,7324.83,34.97,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "r"
+          <span  [734.31,7324.83,34.09,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "v"
+          <span  [768.41,7324.83,16.17,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "i"
+          <span  [784.58,7324.83,35.13,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "c"
+          <span  [819.7,7324.83,27.28,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "e"
+          <span  [846.98,7324.83,32.56,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "s"
+          <span  [879.55,7324.83,12.41,72] font="Mona Sans Variable"/400/80px/72px/ls-1.6px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 700 :: "."
+      <div "Services Description" framer-1as0e7n [639.5,7426.83,400,79.36] {flex column j=flow-start a=normal}
+        <p framer-styles-preset-1l3tbw0 [639.5,7426.83,400,79.36] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "                          Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start." LINES=E|e|s
+          <span  [797.94,7426.83,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "E"
+          <span  [805.95,7426.83,9.98,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "v"
+          <span  [815.94,7426.83,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [823.95,7426.83,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "r"
+          <span  [834.17,7426.83,10.2,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "y"
+          <span  [844.38,7426.83,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+          <span  [852.59,7426.83,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "h"
+          <span  [863.25,7426.83,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "i"
+          <span  [868.06,7426.83,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+          <span  [878.75,7426.83,10.42,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "g"
+          <span  [895.27,7426.83,10.2,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "y"
+          <span  [905.47,7426.83,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [916.08,7426.83,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "u"
+          <span  [932.69,7426.83,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+          <span  [943.38,7426.83,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [951.39,7426.83,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [959.41,7426.83,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "d"
+          <span  [976.02,7426.83,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+          <span  [984.23,7426.83,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [1000.94,7426.83,7.3,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "l"
+          <span  [1008.23,7426.83,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [1018.84,7426.83,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [1029.45,7426.83,10.31,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "k"
+          <span  [639.5,7453.28,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [647.52,7453.28,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+          <span  [657.06,7453.28,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+          <span  [665.28,7453.28,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "a"
+          <span  [675.66,7453.28,9.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "b"
+          <span  [685.47,7453.28,7.3,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "l"
+          <span  [692.77,7453.28,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "i"
+          <span  [697.58,7453.28,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "s"
+          <span  [707.13,7453.28,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "h"
+          <span  [717.78,7453.28,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [725.8,7453.28,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "d"
+          <span  [736.31,7453.28,4.03,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: ","
+          <span  [756.95,7453.28,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "a"
+          <span  [767.33,7453.28,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+          <span  [778.02,7453.28,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "d"
+          <span  [805.14,7453.28,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+          <span  [815.83,7453.28,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [826.44,7453.28,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+          <span  [834.66,7453.28,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "h"
+          <span  [845.31,7453.28,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "i"
+          <span  [850.13,7453.28,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+          <span  [860.81,7453.28,10.42,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "g"
+          <span  [887.84,7453.28,10.2,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "y"
+          <span  [898.05,7453.28,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [908.66,7453.28,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "u"
+          <span  [935.78,7453.28,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "d"
+          <span  [946.3,7453.28,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [956.91,7453.28,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "n"
+          <span  [967.59,7453.28,4.03,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "’"
+          <span  [971.63,7453.28,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "t"
+          <span  [979.84,7453.28,3.75,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(13, 13, 13)/fvs "wdth" 75, "wght" 675 :: "."
+          <span  [1000.2,7453.28,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "E"
+          <span  [1008.22,7453.28,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "a"
+          <span  [1018.59,7453.28,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "c"
+          <span  [1028.86,7453.28,10.66,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "h"
+          <span  [639.5,7479.73,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "s"
+          <span  [649.05,7479.73,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [657.06,7479.73,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "r"
+          <span  [667.28,7479.73,9.98,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "v"
+          <span  [677.27,7479.73,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "i"
+          <span  [682.08,7479.73,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "c"
+          <span  [692.34,7479.73,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [704.25,7479.73,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "i"
+          <span  [709.06,7479.73,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "s"
+          <span  [722.5,7479.73,9.89,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "p"
+          <span  [732.39,7479.73,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "r"
+          <span  [742.61,7479.73,4.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "i"
+          <span  [747.42,7479.73,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "c"
+          <span  [757.69,7479.73,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [765.7,7479.73,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "d"
+          <span  [780.11,7479.73,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "a"
+          <span  [790.48,7479.73,10.69,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "n"
+          <span  [801.17,7479.73,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "d"
+          <span  [815.58,7479.73,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "s"
+          <span  [825.13,7479.73,10.27,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "c"
+          <span  [835.39,7479.73,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [846,7479.73,9.89,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "p"
+          <span  [855.89,7479.73,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [863.91,7479.73,10.52,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "d"
+          <span  [878.31,7479.73,9.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "b"
+          <span  [888.13,7479.73,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [896.14,7479.73,7.81,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "f"
+          <span  [903.95,7479.73,10.61,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "o"
+          <span  [914.56,7479.73,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "r"
+          <span  [924.78,7479.73,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [936.69,7479.73,15.88,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "w"
+          <span  [952.56,7479.73,8.02,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "e"
+          <span  [964.47,7479.73,9.55,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "s"
+          <span  [974.02,7479.73,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "t"
+          <span  [982.23,7479.73,10.38,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "a"
+          <span  [992.61,7479.73,10.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "r"
+          <span  [1002.83,7479.73,8.22,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "t"
+          <span  [1011.05,7479.73,3.75,26.45] font="Mona Sans Variable"/400/23px/26.45px/ls-0.23px/uppercase/rgb(104, 104, 104)/fvs "wdth" 75, "wght" 675 :: "."
+  <div "Service Cards" framer-5ssu39 [59,7586.19,1141,810.25] {padding=0px 3px; gap=3px; flex column j=flow-start a=center}
+
+## team
+<div "Services Team Module" framer-hm4zv8-container [59,8516.44,1141,1856.7]

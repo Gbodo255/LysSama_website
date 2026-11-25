@@ -1,0 +1,1992 @@
+{
+ "width": 1440,
+ "testimonials": [
+  {
+   "action": "initial",
+   "text": "01 / 03 Ines Costa Founder, Gucci “GUCCI FINALLY HAS A SITE THAT SHOWS THE FRAMES THE WAY OUR CUSTOMERS ALREADY SAW THEM. ” We used to explain what we were making. Mira built us a site that doesn't need explanation. It just shows what the frames are, and lets people fall for them. SOLD OUT 10 DAYS WAITLIST GROWTH +240%",
+   "slide": "Testimonial 1"
+  },
+  {
+   "action": "after 15 s sans action",
+   "text": "01 / 03 Ines Costa Founder, Gucci “GUCCI FINALLY HAS A SITE THAT SHOWS THE FRAMES THE WAY OUR CUSTOMERS ALREADY SAW THEM. ” We used to explain what we were making. Mira built us a site that doesn't need explanation. It just shows what the frames are, and lets people fall for them. SOLD OUT 10 DAYS WAITLIST GROWTH +240%",
+   "slide": "Testimonial 1"
+  },
+  {
+   "action": "flèche 2 (droite)",
+   "text": "02 / 03 Rafael Costa Founder, Chanel “MIRA BUILT A BRAND FOR A CATEGORY THAT USUALLY GETS SHOUTED AT. ” Every skincare brief we saw came back loud. Jin came back quiet. The result is the first skincare site I've ever wanted to send to a friend. SOLD OUT 9 DAYS IN FIRST MONTH 2 RESTOCKS",
+   "slide": "Testimonial 2"
+  },
+  {
+   "action": "flèche 2 (droite)",
+   "text": "03 / 03 Henrik Vinje Founder, Oslo “MIRA UNDERSTOOD WEATHER. AND GEAR. AND WHAT IT FEELS LIKE TO TRUST BOTH. ” The site feels like standing outside in a good jacket. Nothing extra. Just enough. Jin never overexplained, and neither does the brand now. AUTUMN DROP CLEARED 14 DAYS PICKED UP AT LAUNCH 2 RETAILERS",
+   "slide": "Testimonial 3"
+  },
+  {
+   "action": "flèche 2 (droite)",
+   "text": "01 / 03 Ines Costa Founder, Gucci “GUCCI FINALLY HAS A SITE THAT SHOWS THE FRAMES THE WAY OUR CUSTOMERS ALREADY SAW THEM. ” We used to explain what we were making. Mira built us a site that doesn't need explanation. It just shows what the frames are, and lets people fall for them. SOLD OUT 10 DAYS WAITLIST GROWTH +240%",
+   "slide": "Testimonial 1"
+  },
+  {
+   "action": "flèche 1 (gauche)",
+   "text": "03 / 03 Henrik Vinje Founder, Oslo “MIRA UNDERSTOOD WEATHER. AND GEAR. AND WHAT IT FEELS LIKE TO TRUST BOTH. ” The site feels like standing outside in a good jacket. Nothing extra. Just enough. Jin never overexplained, and neither does the brand now. AUTUMN DROP CLEARED 14 DAYS PICKED UP AT LAUNCH 2 RETAILERS",
+   "slide": "Testimonial 3"
+  },
+  {
+   "action": "flèche 1 (gauche)",
+   "text": "02 / 03 Rafael Costa Founder, Chanel “MIRA BUILT A BRAND FOR A CATEGORY THAT USUALLY GETS SHOUTED AT. ” Every skincare brief we saw came back loud. Jin came back quiet. The result is the first skincare site I've ever wanted to send to a friend. SOLD OUT 9 DAYS IN FIRST MONTH 2 RESTOCKS",
+   "slide": "Testimonial 2"
+  },
+  {
+   "action": "flèche 1 (gauche)",
+   "text": "01 / 03 Ines Costa Founder, Gucci “GUCCI FINALLY HAS A SITE THAT SHOWS THE FRAMES THE WAY OUR CUSTOMERS ALREADY SAW THEM. ” We used to explain what we were making. Mira built us a site that doesn't need explanation. It just shows what the frames are, and lets people fall for them. SOLD OUT 10 DAYS WAITLIST GROWTH +240%",
+   "slide": "Testimonial 1"
+  },
+  {
+   "action": "clic citation",
+   "text": "02 / 03 Rafael Costa Founder, Chanel “MIRA BUILT A BRAND FOR A CATEGORY THAT USUALLY GETS SHOUTED AT. ” Every skincare brief we saw came back loud. Jin came back quiet. The result is the first skincare site I've ever wanted to send to a friend. SOLD OUT 9 DAYS IN FIRST MONTH 2 RESTOCKS",
+   "slide": "Testimonial 2"
+  }
+ ],
+ "faq": [
+  {
+   "action": "initial",
+   "items": [
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    }
+   ]
+  },
+  {
+   "action": "clic item 1",
+   "items": [
+    {
+     "state": "Open",
+     "h": 175,
+     "plus": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+     "state": "Open",
+     "h": 17,
+     "plus": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    }
+   ]
+  },
+  {
+   "action": "clic item 2",
+   "items": [
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    }
+   ]
+  },
+  {
+   "action": "clic item 1 de nouveau",
+   "items": [
+    {
+     "state": "Open",
+     "h": 175,
+     "plus": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+     "state": "Open",
+     "h": 17,
+     "plus": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 51,
+     "plus": "none"
+    },
+    {
+     "state": "Closed",
+     "h": 17,
+     "plus": "none"
+    }
+   ]
+  }
+ ],
+ "plusCurve": [
+  {
+   "t": 16,
+   "h": 51,
+   "plus": "none",
+   "op": "0",
+   "bg": "rgb(247, 247, 247)"
+  },
+  {
+   "t": 32,
+   "h": 51.068878173828125,
+   "plus": "matrix(0.999936, 0.0112987, -0.0112987, 0.999936, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 48,
+   "h": 51.287933349609375,
+   "plus": "matrix(0.998791, 0.0491515, -0.0491515, 0.998791, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 64,
+   "h": 51.67913818359375,
+   "plus": "matrix(0.992594, 0.12148, -0.12148, 0.992594, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 80,
+   "h": 52.2698974609375,
+   "plus": "matrix(0.970825, 0.239788, -0.239788, 0.970825, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 96,
+   "h": 53.09539794921875,
+   "plus": "matrix(0.907623, 0.419787, -0.419787, 0.907623, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 112,
+   "h": 54.20166015625,
+   "plus": "matrix(0.736986, 0.675908, -0.675908, 0.736986, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 128,
+   "h": 55.65087890625,
+   "plus": "matrix(0.269215, 0.96308, -0.96308, 0.269215, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 144,
+   "h": 57.530181884765625,
+   "plus": "matrix(-0.935125, 0.354317, -0.354317, -0.935125, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 160,
+   "h": 59.96771240234375,
+   "plus": "matrix(0.0518222, -0.998656, 0.998656, 0.0518222, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 176,
+   "h": 63.164215087890625,
+   "plus": "matrix(0.660698, -0.750652, 0.750652, 0.660698, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 192,
+   "h": 67.463134765625,
+   "plus": "matrix(0.879211, -0.476433, 0.476433, 0.879211, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 208,
+   "h": 73.53472900390625,
+   "plus": "matrix(0.96049, -0.278315, 0.278315, 0.96049, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 224,
+   "h": 82.99932861328125,
+   "plus": "matrix(0.989255, -0.146202, 0.146202, 0.989255, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 240,
+   "h": 101.38064575195312,
+   "plus": "matrix(0.997974, -0.0636226, 0.0636226, 0.997974, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 256,
+   "h": 130.74374389648438,
+   "plus": "matrix(0.999838, -0.018013, 0.018013, 0.999838, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 272,
+   "h": 145.85772705078125,
+   "plus": "matrix(1, -0.000666899, 0.000666899, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 288,
+   "h": 154.2099609375,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 304,
+   "h": 159.742919921875,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 320,
+   "h": 163.7213134765625,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 336,
+   "h": 166.7032470703125,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 352,
+   "h": 168.986083984375,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 368,
+   "h": 170.74783325195312,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 384,
+   "h": 172.104248046875,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 400,
+   "h": 173.13525390625,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 416,
+   "h": 173.89825439453125,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 432,
+   "h": 174.4361572265625,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 448,
+   "h": 174.781982421875,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 464,
+   "h": 174.961669921875,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 480,
+   "h": 175,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 496,
+   "h": 175,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 512,
+   "h": 175,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 528,
+   "h": 175,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 544,
+   "h": 175,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  },
+  {
+   "t": 560,
+   "h": 175,
+   "plus": "matrix(1, 0, 0, 1, 0, 0)",
+   "op": "1",
+   "bg": "rgb(13, 13, 13)"
+  }
+ ],
+ "form": {
+  "initial": {
+   "noValidate": false,
+   "method": "post",
+   "action": null,
+   "valid": false,
+   "variant": "Default",
+   "button": "Incomplete",
+   "fields": [
+    {
+     "name": "Name",
+     "type": "text",
+     "value": "",
+     "w": 213,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Company",
+     "type": "text",
+     "value": "",
+     "w": 228,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "I need help with",
+     "type": "text",
+     "value": "",
+     "w": 485,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Pitch",
+     "type": "textarea",
+     "value": "",
+     "w": 648,
+     "h": 100,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Budget",
+     "type": "text",
+     "value": "",
+     "w": 151,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Start",
+     "type": "select-one",
+     "value": "ASAP",
+     "w": 174,
+     "h": 49,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Email",
+     "type": "email",
+     "value": "",
+     "w": 536,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "website",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "company",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "message",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "subject",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "title",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "description",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "feedback",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "notes",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "details",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "remarks",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "comments",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    }
+   ],
+   "active": "DIV"
+  },
+  "focusName": {
+   "noValidate": false,
+   "method": "post",
+   "action": null,
+   "valid": false,
+   "variant": "Default",
+   "button": "Incomplete",
+   "fields": [
+    {
+     "name": "Name",
+     "type": "text",
+     "value": "",
+     "w": 213,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Company",
+     "type": "text",
+     "value": "",
+     "w": 228,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "I need help with",
+     "type": "text",
+     "value": "",
+     "w": 485,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Pitch",
+     "type": "textarea",
+     "value": "",
+     "w": 648,
+     "h": 100,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Budget",
+     "type": "text",
+     "value": "",
+     "w": 151,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Start",
+     "type": "select-one",
+     "value": "ASAP",
+     "w": 174,
+     "h": 49,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Email",
+     "type": "email",
+     "value": "",
+     "w": 536,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "website",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "company",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "message",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "subject",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "title",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "description",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "feedback",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "notes",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "details",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "remarks",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "comments",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    }
+   ],
+   "active": "Name"
+  },
+  "longName": {
+   "noValidate": false,
+   "method": "post",
+   "action": null,
+   "valid": false,
+   "variant": "Default",
+   "button": "Incomplete",
+   "fields": [
+    {
+     "name": "Name",
+     "type": "text",
+     "value": "Abcdefghijklmnopqrstuvwxyz Abcdefghijklmnop",
+     "w": 213,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Company",
+     "type": "text",
+     "value": "",
+     "w": 228,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "I need help with",
+     "type": "text",
+     "value": "",
+     "w": 485,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Pitch",
+     "type": "textarea",
+     "value": "",
+     "w": 648,
+     "h": 100,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Budget",
+     "type": "text",
+     "value": "",
+     "w": 151,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Start",
+     "type": "select-one",
+     "value": "ASAP",
+     "w": 174,
+     "h": 49,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Email",
+     "type": "email",
+     "value": "",
+     "w": 536,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "website",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "company",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "message",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "subject",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "title",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "description",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "feedback",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "notes",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "details",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "remarks",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "comments",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    }
+   ],
+   "active": "Name"
+  },
+  "emptySubmit": {
+   "noValidate": false,
+   "method": "post",
+   "action": null,
+   "valid": false,
+   "variant": "Default",
+   "button": "Incomplete",
+   "fields": [
+    {
+     "name": "Name",
+     "type": "text",
+     "value": "",
+     "w": 213,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Company",
+     "type": "text",
+     "value": "",
+     "w": 228,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "I need help with",
+     "type": "text",
+     "value": "",
+     "w": 485,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Pitch",
+     "type": "textarea",
+     "value": "",
+     "w": 648,
+     "h": 100,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Budget",
+     "type": "text",
+     "value": "",
+     "w": 151,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Start",
+     "type": "select-one",
+     "value": "ASAP",
+     "w": 174,
+     "h": 49,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Email",
+     "type": "email",
+     "value": "",
+     "w": 536,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "website",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "company",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "message",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "subject",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "title",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "description",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "feedback",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "notes",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "details",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "remarks",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "comments",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    }
+   ],
+   "active": "Name"
+  },
+  "invalidEmail": {
+   "noValidate": false,
+   "method": "post",
+   "action": null,
+   "valid": false,
+   "variant": "Default",
+   "button": "Incomplete",
+   "fields": [
+    {
+     "name": "Name",
+     "type": "text",
+     "value": "",
+     "w": 213,
+     "h": 19,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Company",
+     "type": "text",
+     "value": "",
+     "w": 228,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "I need help with",
+     "type": "text",
+     "value": "",
+     "w": 485,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Pitch",
+     "type": "textarea",
+     "value": "",
+     "w": 648,
+     "h": 100,
+     "valid": false,
+     "msg": "Please fill out this field.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Budget",
+     "type": "text",
+     "value": "",
+     "w": 151,
+     "h": 19,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Start",
+     "type": "select-one",
+     "value": "ASAP",
+     "w": 174,
+     "h": 49,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "Email",
+     "type": "email",
+     "value": "abc",
+     "w": 536,
+     "h": 19,
+     "valid": false,
+     "msg": "Please include an '@' in the email address. 'abc' is missing an '@'.",
+     "border": "rgb(255, 255, 255) 0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "color": "rgb(255, 255, 255)",
+     "outline": "3px none rgb(255, 255, 255)",
+     "shadow": "none"
+    },
+    {
+     "name": "website",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "company",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "message",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "subject",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "title",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "description",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "feedback",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "notes",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "details",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "remarks",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    },
+    {
+     "name": "comments",
+     "type": "text",
+     "value": "",
+     "w": 0,
+     "h": 0,
+     "valid": true,
+     "msg": "",
+     "border": "rgb(118, 118, 118) 2px",
+     "bg": "rgb(255, 255, 255)",
+     "color": "rgb(0, 0, 0)",
+     "outline": "3px none rgb(0, 0, 0)",
+     "shadow": "none"
+    }
+   ],
+   "active": "Name"
+  },
+  "select": {
+   "options": [
+    {
+     "t": "When…",
+     "v": "",
+     "d": true,
+     "sel": false
+    },
+    {
+     "t": "ASAP",
+     "v": "ASAP",
+     "d": false,
+     "sel": true
+    },
+    {
+     "t": "Within a month",
+     "v": "Within a month",
+     "d": false,
+     "sel": false
+    },
+    {
+     "t": "This quarter",
+     "v": "This quarter",
+     "d": false,
+     "sel": false
+    },
+    {
+     "t": "Just exploring",
+     "v": "Just exploring",
+     "d": false,
+     "sel": false
+    }
+   ],
+   "color": "rgb(255, 255, 255)",
+   "appearance": "none"
+  }
+ },
+ "reel": {
+  "openCurve": [
+   {
+    "t": 64,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 128,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 192,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 256,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 320,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 384,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 448,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 512,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 576,
+    "overlay": "1",
+    "video": "1"
+   },
+   {
+    "t": 640,
+    "overlay": "1",
+    "video": "1"
+   }
+  ],
+  "open": {
+   "overlay": true,
+   "overlayBg": "rgba(13, 13, 13, 0.85)",
+   "video": {
+    "x": 144,
+    "y": 125.7109375,
+    "width": 1152,
+    "height": 648.578125,
+    "top": 125.7109375,
+    "right": 1296,
+    "bottom": 774.2890625,
+    "left": 144
+   },
+   "iframe": "https://www.youtube.com/embed/6aioEoCdBJw?v=6aioEoCdBJw&iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&color=white",
+   "bodyOverflow": "visible",
+   "htmlOverflow": "hidden",
+   "portal": "template-overlay"
+  },
+  "afterEsc": false,
+  "afterOutsideClick": false
+ },
+ "errors": [
+  "Failed to load resource: net::ERR_FAILED",
+  "Failed to load resource: net::ERR_FAILED",
+  "TypeError: Failed to fetch dynamically imported module: https://framer.com/edit/init.mjs",
+  "THREE.WebGLRenderer: Error creating WebGL context."
+ ]
+}

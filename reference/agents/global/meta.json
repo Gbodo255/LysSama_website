@@ -1,0 +1,876 @@
+{
+ "/": {
+  "lang": "en",
+  "title": "Mira - Agency & Portfolio Framer Template",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/",
+   "description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:type": "website",
+   "og:title": "Mira - Agency & Portfolio Framer Template",
+   "og:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Mira - Agency & Portfolio Framer Template",
+   "twitter:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/projects": {
+  "lang": "en",
+  "title": "Mira - Agency & Portfolio Framer Template",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/projects",
+   "description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:type": "website",
+   "og:title": "Mira - Agency & Portfolio Framer Template",
+   "og:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Mira - Agency & Portfolio Framer Template",
+   "twitter:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/projects"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/studio": {
+  "lang": "en",
+  "title": "Mira - Agency & Portfolio Framer Template",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/studio",
+   "description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:type": "website",
+   "og:title": "Mira - Agency & Portfolio Framer Template",
+   "og:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Mira - Agency & Portfolio Framer Template",
+   "twitter:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/studio"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal": {
+  "lang": "en",
+  "title": "Mira - Agency & Portfolio Framer Template",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal",
+   "description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:type": "website",
+   "og:title": "Mira - Agency & Portfolio Framer Template",
+   "og:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Mira - Agency & Portfolio Framer Template",
+   "twitter:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/contact": {
+  "lang": "en",
+  "title": "Mira - Agency & Portfolio Framer Template",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/contact",
+   "description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:type": "website",
+   "og:title": "Mira - Agency & Portfolio Framer Template",
+   "og:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Mira - Agency & Portfolio Framer Template",
+   "twitter:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/contact"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/projects/gucci": {
+  "lang": "en",
+  "title": "Gucci",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/projects/gucci",
+   "description": "Gucci needed its new eyewear capsule to land online with the same weight it carries in the case.",
+   "og:type": "website",
+   "og:title": "Gucci",
+   "og:description": "Gucci needed its new eyewear capsule to land online with the same weight it carries in the case.",
+   "og:image": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Gucci",
+   "twitter:description": "Gucci needed its new eyewear capsule to land online with the same weight it carries in the case.",
+   "twitter:image": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/projects/gucci"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/projects/chanel": {
+  "lang": "en",
+  "title": "Chanel",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/projects/chanel",
+   "description": "Chanel asked for a skincare launch as considered as the formulas it was built to carry.",
+   "og:type": "website",
+   "og:title": "Chanel",
+   "og:description": "Chanel asked for a skincare launch as considered as the formulas it was built to carry.",
+   "og:image": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Chanel",
+   "twitter:description": "Chanel asked for a skincare launch as considered as the formulas it was built to carry.",
+   "twitter:image": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/projects/chanel"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/projects/puma": {
+  "lang": "en",
+  "title": "Puma",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/projects/puma",
+   "description": "Puma needed its technical outerwear line to read as gear, not merchandising.",
+   "og:type": "website",
+   "og:title": "Puma",
+   "og:description": "Puma needed its technical outerwear line to read as gear, not merchandising.",
+   "og:image": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Puma",
+   "twitter:description": "Puma needed its technical outerwear line to read as gear, not merchandising.",
+   "twitter:image": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/projects/puma"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/projects/adidas": {
+  "lang": "en",
+  "title": "Adidas",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/projects/adidas",
+   "description": "Adidas wanted its tennis line to feel like the club on a Sunday morning, not a stadium broadcast.",
+   "og:type": "website",
+   "og:title": "Adidas",
+   "og:description": "Adidas wanted its tennis line to feel like the club on a Sunday morning, not a stadium broadcast.",
+   "og:image": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Adidas",
+   "twitter:description": "Adidas wanted its tennis line to feel like the club on a Sunday morning, not a stadium broadcast.",
+   "twitter:image": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/projects/adidas"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/projects/nike": {
+  "lang": "en",
+  "title": "Nike",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/projects/nike",
+   "description": "Nike wanted a drop page that moves like the sport does. On the track, on the court, and on the street.",
+   "og:type": "website",
+   "og:title": "Nike",
+   "og:description": "Nike wanted a drop page that moves like the sport does. On the track, on the court, and on the street.",
+   "og:image": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Nike",
+   "twitter:description": "Nike wanted a drop page that moves like the sport does. On the track, on the court, and on the street.",
+   "twitter:image": "https://framerusercontent.com/images/KAdttoufdbmENPnQbvgvJksBwm4.jpg?width=2040&height=1148",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/projects/nike"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/projects/under-armour": {
+  "lang": "en",
+  "title": "Under Armour",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/projects/under-armour",
+   "description": "Under Armour wanted its studio training line to feel like the practice, not the locker room.",
+   "og:type": "website",
+   "og:title": "Under Armour",
+   "og:description": "Under Armour wanted its studio training line to feel like the practice, not the locker room.",
+   "og:image": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Under Armour",
+   "twitter:description": "Under Armour wanted its studio training line to feel like the practice, not the locker room.",
+   "twitter:image": "https://framerusercontent.com/images/mDP6cFLJa8AkD35JWeKaC5TpHA.jpg?width=2040&height=1148",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/projects/under-armour"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/fewer-projects-more-attention": {
+  "lang": "en",
+  "title": "Fewer projects, more attention.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/fewer-projects-more-attention",
+   "description": "Why Mira takes fewer projects than most studios our size, and what it does for the work.",
+   "og:type": "website",
+   "og:title": "Fewer projects, more attention.",
+   "og:description": "Why Mira takes fewer projects than most studios our size, and what it does for the work.",
+   "og:image": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Fewer projects, more attention.",
+   "twitter:description": "Why Mira takes fewer projects than most studios our size, and what it does for the work.",
+   "twitter:image": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/fewer-projects-more-attention"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/awards-dont-build-brands": {
+  "lang": "en",
+  "title": "Awards don't build brands.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/awards-dont-build-brands",
+   "description": "The relationship between award-winning design and business outcomes is not what most studios pretend.",
+   "og:type": "website",
+   "og:title": "Awards don't build brands.",
+   "og:description": "The relationship between award-winning design and business outcomes is not what most studios pretend.",
+   "og:image": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Awards don't build brands.",
+   "twitter:description": "The relationship between award-winning design and business outcomes is not what most studios pretend.",
+   "twitter:image": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/awards-dont-build-brands"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/why-we-quote-fixed": {
+  "lang": "en",
+  "title": "Why we quote fixed.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/why-we-quote-fixed",
+   "description": "Every Mira project is priced up front. No hourly. No estimates that quietly grow. Here is why.",
+   "og:type": "website",
+   "og:title": "Why we quote fixed.",
+   "og:description": "Every Mira project is priced up front. No hourly. No estimates that quietly grow. Here is why.",
+   "og:image": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Why we quote fixed.",
+   "twitter:description": "Every Mira project is priced up front. No hourly. No estimates that quietly grow. Here is why.",
+   "twitter:image": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/why-we-quote-fixed"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/the-best-type-is-invisible": {
+  "lang": "en",
+  "title": "The best type is invisible.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/the-best-type-is-invisible",
+   "description": "Typography choices we make so you do not have to notice them.",
+   "og:type": "website",
+   "og:title": "The best type is invisible.",
+   "og:description": "Typography choices we make so you do not have to notice them.",
+   "og:image": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "The best type is invisible.",
+   "twitter:description": "Typography choices we make so you do not have to notice them.",
+   "twitter:image": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/the-best-type-is-invisible"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/on-saying-no": {
+  "lang": "en",
+  "title": "On saying no.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/on-saying-no",
+   "description": "The projects Mira turns down, and why we are better for it.",
+   "og:type": "website",
+   "og:title": "On saying no.",
+   "og:description": "The projects Mira turns down, and why we are better for it.",
+   "og:image": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg?width=1278&height=1148",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "On saying no.",
+   "twitter:description": "The projects Mira turns down, and why we are better for it.",
+   "twitter:image": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg?width=1278&height=1148",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/on-saying-no"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/the-brief-before-the-brief": {
+  "lang": "en",
+  "title": "The brief before the brief.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/the-brief-before-the-brief",
+   "description": "Why the most important part of a project happens before anyone opens a Figma file.",
+   "og:type": "website",
+   "og:title": "The brief before the brief.",
+   "og:description": "Why the most important part of a project happens before anyone opens a Figma file.",
+   "og:image": "https://framerusercontent.com/images/3WFEUak51uY8vHBvH8hhaIvI.jpg?width=901&height=1148",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "The brief before the brief.",
+   "twitter:description": "Why the most important part of a project happens before anyone opens a Figma file.",
+   "twitter:image": "https://framerusercontent.com/images/3WFEUak51uY8vHBvH8hhaIvI.jpg?width=901&height=1148",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/the-brief-before-the-brief"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/small-looks-expensive": {
+  "lang": "en",
+  "title": "Small looks expensive.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/small-looks-expensive",
+   "description": "Why restraint reads as premium, and how to design for it without becoming boring.",
+   "og:type": "website",
+   "og:title": "Small looks expensive.",
+   "og:description": "Why restraint reads as premium, and how to design for it without becoming boring.",
+   "og:image": "https://framerusercontent.com/images/1I2rFExVypdmLtMAuiNjBMIHg.jpg?width=1632&height=2040",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Small looks expensive.",
+   "twitter:description": "Why restraint reads as premium, and how to design for it without becoming boring.",
+   "twitter:image": "https://framerusercontent.com/images/1I2rFExVypdmLtMAuiNjBMIHg.jpg?width=1632&height=2040",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/small-looks-expensive"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/journal/the-founder-is-the-brand": {
+  "lang": "en",
+  "title": "The founder is the brand.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/journal/the-founder-is-the-brand",
+   "description": "For small studios and small brands, the founder's presence is the most under-used asset.",
+   "og:type": "website",
+   "og:title": "The founder is the brand.",
+   "og:description": "For small studios and small brands, the founder's presence is the most under-used asset.",
+   "og:image": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg?width=1360&height=2040",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "The founder is the brand.",
+   "twitter:description": "For small studios and small brands, the founder's presence is the most under-used asset.",
+   "twitter:image": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg?width=1360&height=2040",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/journal/the-founder-is-the-brand"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/privacy-policy": {
+  "lang": "en",
+  "title": "Privacy Policy.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/privacy-policy",
+   "description": "                           MIRA STUDIO (\"WE,\" \"OUR,\" OR \"US\") RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO.",
+   "og:type": "website",
+   "og:title": "Privacy Policy.",
+   "og:description": "                           MIRA STUDIO (\"WE,\" \"OUR,\" OR \"US\") RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Privacy Policy.",
+   "twitter:description": "                           MIRA STUDIO (\"WE,\" \"OUR,\" OR \"US\") RESPECTS YOUR PRIVACY. THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION WE COLLECT WHEN YOU VISIT OUR WEBSITE OR ENGAGE THE STUDIO, HOW WE USE IT, AND THE CHOICES YOU HAVE. THIS POLICY APPLIES TO ALL VISITORS AND CLIENTS OF MIRA STUDIO.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/privacy-policy"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/terms-conditions": {
+  "lang": "en",
+  "title": "Terms & Conditions.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/terms-conditions",
+   "description": "                           THESE TERMS AND CONDITIONS GOVERN YOUR USE OF THE MIRA STUDIO WEBSITE AND THE PROJECTS, SERVICES, AND TEMPLATES WE PROVIDE. BY USING OUR SITE OR ENGAGING US FOR WORK, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE SITE OR ENGAGE THE STUDIO.",
+   "og:type": "website",
+   "og:title": "Terms & Conditions.",
+   "og:description": "                           THESE TERMS AND CONDITIONS GOVERN YOUR USE OF THE MIRA STUDIO WEBSITE AND THE PROJECTS, SERVICES, AND TEMPLATES WE PROVIDE. BY USING OUR SITE OR ENGAGING US FOR WORK, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE SITE OR ENGAGE THE STUDIO.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Terms & Conditions.",
+   "twitter:description": "                           THESE TERMS AND CONDITIONS GOVERN YOUR USE OF THE MIRA STUDIO WEBSITE AND THE PROJECTS, SERVICES, AND TEMPLATES WE PROVIDE. BY USING OUR SITE OR ENGAGING US FOR WORK, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE SITE OR ENGAGE THE STUDIO.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/terms-conditions"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/cookie-policy": {
+  "lang": "en",
+  "title": "Cookies.",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/cookie-policy",
+   "description": "                           COOKIES ARE SMALL TEXT FILES STORED ON YOUR DEVICE WHEN YOU VISIT OUR WEBSITE. THIS POLICY EXPLAINS WHICH COOKIES MIRA STUDIO USES, WHY WE USE THEM, AND HOW YOU CAN CONTROL THEM. WE KEEP COOKIE USE TO A MINIMUM.",
+   "og:type": "website",
+   "og:title": "Cookies.",
+   "og:description": "                           COOKIES ARE SMALL TEXT FILES STORED ON YOUR DEVICE WHEN YOU VISIT OUR WEBSITE. THIS POLICY EXPLAINS WHICH COOKIES MIRA STUDIO USES, WHY WE USE THEM, AND HOW YOU CAN CONTROL THEM. WE KEEP COOKIE USE TO A MINIMUM.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Cookies.",
+   "twitter:description": "                           COOKIES ARE SMALL TEXT FILES STORED ON YOUR DEVICE WHEN YOU VISIT OUR WEBSITE. THIS POLICY EXPLAINS WHICH COOKIES MIRA STUDIO USES, WHY WE USE THEM, AND HOW YOU CAN CONTROL THEM. WE KEEP COOKIE USE TO A MINIMUM.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "max-image-preview:large"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/cookie-policy"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ },
+ "/this-page-does-not-exist-404": {
+  "lang": "en",
+  "title": "Mira - Agency & Portfolio Framer Template",
+  "meta": {
+   "viewport": "width=device-width",
+   "og:url": "https://mirastudio.framer.website/404",
+   "description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:type": "website",
+   "og:title": "Mira - Agency & Portfolio Framer Template",
+   "og:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "og:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Mira - Agency & Portfolio Framer Template",
+   "twitter:description": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+   "twitter:image": "https://framerusercontent.com/images/NgND3aThhFzx3wouexK6EF7Wm4.jpg",
+   "robots": "noindex"
+  },
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://mirastudio.framer.website/404"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/RcgLQONxLVpJUrIbGLvIRMp1yA.svg",
+    "media": "(prefers-color-scheme: light)"
+   },
+   {
+    "rel": "icon",
+    "href": "https://framerusercontent.com/images/riYEsqDYtGQSRZXKKpVZhHvjdc.svg",
+    "media": "(prefers-color-scheme: dark)"
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "https://framerusercontent.com/images/eOcgtNAH6AEVa2iRzeqa6k450g.png"
+   }
+  ]
+ }
+}

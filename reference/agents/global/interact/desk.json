@@ -1,0 +1,10788 @@
+{
+ "lenis": {
+  "wrapper": "[object Window]",
+  "content": "[object HTMLHtmlElement]",
+  "eventsTarget": "[object Window]",
+  "smoothWheel": true,
+  "syncTouch": false,
+  "syncTouchLerp": 0.075,
+  "touchInertiaExponent": 1.7,
+  "duration": 0.8,
+  "easing": "e=>Math.min(1,1.001-2**(-10*e))",
+  "lerp": 0.1,
+  "infinite": false,
+  "gestureOrientation": "vertical",
+  "orientation": "vertical",
+  "touchMultiplier": 1,
+  "wheelMultiplier": 1,
+  "autoResize": true,
+  "overscroll": true,
+  "autoRaf": true,
+  "anchors": true,
+  "autoToggle": true,
+  "allowNestedScroll": true,
+  "naiveDimensions": false,
+  "stopInertiaOnNavigate": true
+ },
+ "cursor": {
+  "count": 0,
+  "bodyCursor": "auto",
+  "floating": [
+   {
+    "n": "Default",
+    "cls": "framer-MszgN framer-Me6vv framer-ez28hj framer-pointer-events-none framer-v-ez28",
+    "r": "{\"x\":660.1504516601562,\"y\":498.3217468261719,\"width\":75,\"height\":75.00003051757812,\"top\":498.3217468261719,\"right\":735.1504516601562,\"bottom\":573.32177734375,\"left\":660.1504516601562}",
+    "z": "13",
+    "html": "<div class=\"framer-MszgN framer-Me6vv framer-ez28hj framer-pointer-events-none framer-v-ez28hj\" data-framer-name=\"Default\" style=\"position: fixed; top: 0px; left: 0px; z-index: 13; pointer-events: none; opacity: 1; transform: translate(-50%, 0%) translateX(697.65px) translateY(498.322px);\"><div clas"
+   }
+  ]
+ },
+ "openStart": {
+  "navW": 56,
+  "ovOp": "0",
+  "ovF": "none",
+  "menuOp": "1",
+  "menuT": "none",
+  "menuL": 59,
+  "hamVar": "Closed"
+ },
+ "openCurve": [
+  [
+   16,
+   {
+    "navW": 56.32,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "matrix(8.75307, 0, 0, 1, 2128.22, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   32,
+   {
+    "navW": 57.36,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.00661)",
+    "menuOp": "1",
+    "menuT": "matrix(8.59474, 0, 0, 1, 2084.76, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   48,
+   {
+    "navW": 59.24,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.01579)",
+    "menuOp": "1",
+    "menuT": "matrix(8.32256, 0, 0, 1, 2010.04, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   64,
+   {
+    "navW": 62.11,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.0299)",
+    "menuOp": "1",
+    "menuT": "matrix(7.93724, 0, 0, 1, 1904.27, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   80,
+   {
+    "navW": 66.21,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.04993)",
+    "menuOp": "1",
+    "menuT": "matrix(7.44656, 0, 0, 1, 1769.58, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   96,
+   {
+    "navW": 71.82,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.07706)",
+    "menuOp": "1",
+    "menuT": "matrix(6.86461, 0, 0, 1, 1609.84, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   112,
+   {
+    "navW": 79.39,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.11261)",
+    "menuOp": "1",
+    "menuT": "matrix(6.20971, 0, 0, 1, 1430.06, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   128,
+   {
+    "navW": 89.61,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.15782)",
+    "menuOp": "1",
+    "menuT": "matrix(5.50138, 0, 0, 1, 1235.63, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   144,
+   {
+    "navW": 103.64,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.21327)",
+    "menuOp": "1",
+    "menuT": "matrix(4.75668, 0, 0, 1, 1031.21, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   160,
+   {
+    "navW": 123.71,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.27805)",
+    "menuOp": "1",
+    "menuT": "matrix(3.98522, 0, 0, 1, 819.442, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   176,
+   {
+    "navW": 155.06,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.34909)",
+    "menuOp": "1",
+    "menuT": "matrix(3.17932, 0, 0, 1, 598.224, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   192,
+   {
+    "navW": 215.9,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.42175)",
+    "menuOp": "1",
+    "menuT": "matrix(2.28342, 0, 0, 1, 352.299, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   208,
+   {
+    "navW": 333.1,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.49162)",
+    "menuOp": "1",
+    "menuT": "matrix(1.48005, 0, 0, 1, 131.775, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   224,
+   {
+    "navW": 393.94,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.55593)",
+    "menuOp": "1",
+    "menuT": "matrix(1.25147, 0, 0, 1, 69.0296, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   240,
+   {
+    "navW": 425.29,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.61359)",
+    "menuOp": "1",
+    "menuT": "matrix(1.1592, 0, 0, 1, 43.7007, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   256,
+   {
+    "navW": 445.36,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.66464)",
+    "menuOp": "1",
+    "menuT": "matrix(1.10698, 0, 0, 1, 29.3656, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   272,
+   {
+    "navW": 459.39,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.70958)",
+    "menuOp": "1",
+    "menuT": "matrix(1.07317, 0, 0, 1, 20.0855, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   288,
+   {
+    "navW": 469.61,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.74909)",
+    "menuOp": "1",
+    "menuT": "matrix(1.04981, 0, 0, 1, 13.6732, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   304,
+   {
+    "navW": 477.18,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.78384)",
+    "menuOp": "1",
+    "menuT": "matrix(1.03315, 0, 0, 1, 9.09909, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   320,
+   {
+    "navW": 482.79,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.81443)",
+    "menuOp": "1",
+    "menuT": "matrix(1.02114, 0, 0, 1, 5.80223, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   336,
+   {
+    "navW": 486.89,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.84139)",
+    "menuOp": "1",
+    "menuT": "matrix(1.01255, 0, 0, 1, 3.44601, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   352,
+   {
+    "navW": 489.76,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.86516)",
+    "menuOp": "1",
+    "menuT": "matrix(1.00661, 0, 0, 1, 1.81401, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   368,
+   {
+    "navW": 491.64,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.88611)",
+    "menuOp": "1",
+    "menuT": "matrix(1.00277, 0, 0, 1, 0.759721, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   384,
+   {
+    "navW": 492.68,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.90456)",
+    "menuOp": "1",
+    "menuT": "matrix(1.00066, 0, 0, 1, 0.180011, 0)",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   400,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.92078)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   416,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.93498)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   432,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.94738)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   448,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.95813)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   464,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.96739)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   480,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.97527)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   496,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.98189)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   512,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.98735)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   528,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.99173)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   544,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.99511)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   560,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.99756)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   576,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.99914)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   592,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(0.99991)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   608,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   624,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   640,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   656,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   672,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   688,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   704,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   720,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   736,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   752,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   768,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   784,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   800,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   816,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   832,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   848,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   864,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   880,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   896,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   912,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   928,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   944,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   960,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   976,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   992,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   1008,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   1024,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   1040,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   1056,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   1072,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   1088,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ],
+  [
+   1100,
+   {
+    "navW": 493,
+    "ovOp": "0.85",
+    "ovF": "grayscale(1)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Open"
+   }
+  ]
+ ],
+ "hoverNavItemStudio": {
+  "pos": [
+   277.5,
+   256.359375
+  ],
+  "final": {
+   "0:a::": {
+    "opacity": [
+     null,
+     "1"
+    ],
+    "transform": [
+     null,
+     "none"
+    ],
+    "color": [
+     null,
+     "rgb(0, 0, 238)"
+    ],
+    "backgroundColor": [
+     null,
+     "rgba(0, 0, 0, 0)"
+    ],
+    "width": [
+     null,
+     377
+    ],
+    "height": [
+     null,
+     44
+    ],
+    "filter": [
+     null,
+     "none"
+    ],
+    "textDecoration": [
+     null,
+     "none"
+    ],
+    "borderRadius": [
+     null,
+     "0px"
+    ],
+    "left": [
+     null,
+     89
+    ],
+    "top": [
+     null,
+     234.4
+    ],
+    "clipPath": [
+     null,
+     "none"
+    ],
+    "boxShadow": [
+     null,
+     "none"
+    ],
+    "cursor": [
+     null,
+     "pointer"
+    ]
+   },
+   "1:div::": {
+    "opacity": [
+     "1",
+     "0"
+    ],
+    "top": [
+     234.4,
+     189.4
+    ]
+   },
+   "2:p::Studio": {
+    "top": [
+     234.4,
+     189.4
+    ]
+   },
+   "3:div::": {
+    "opacity": [
+     "0",
+     "1"
+    ],
+    "top": [
+     279.4,
+     234.4
+    ]
+   },
+   "4:p::Studio": {
+    "top": [
+     279.4,
+     234.4
+    ]
+   }
+  },
+  "frames": [
+   [
+    16,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.9975)"
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.9975)"
+      ]
+     }
+    }
+   ],
+   [
+    32,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.9346)"
+      ],
+      "top": [
+       234.4,
+       234.3
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       234.3
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.9346)"
+      ],
+      "top": [
+       279.4,
+       279.3
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       279.3
+      ]
+     }
+    }
+   ],
+   [
+    48,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.775)"
+      ],
+      "top": [
+       234.4,
+       234.1
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       234.1
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.775)"
+      ],
+      "top": [
+       279.4,
+       279.1
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       279.1
+      ]
+     }
+    }
+   ],
+   [
+    64,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.4993)"
+      ],
+      "top": [
+       234.4,
+       233.9
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       233.9
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 44.4993)"
+      ],
+      "top": [
+       279.4,
+       278.9
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       278.9
+      ]
+     }
+    }
+   ],
+   [
+    96,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 43.4801)"
+      ],
+      "top": [
+       234.4,
+       232.8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       232.8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 43.4801)"
+      ],
+      "top": [
+       279.4,
+       277.8
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       277.8
+      ]
+     }
+    }
+   ],
+   [
+    144,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 39.8016)"
+      ],
+      "top": [
+       234.4,
+       229.2
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       229.2
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 39.8016)"
+      ],
+      "top": [
+       279.4,
+       274.2
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       274.2
+      ]
+     }
+    }
+   ],
+   [
+    192,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 22.5)"
+      ],
+      "top": [
+       234.4,
+       211.9
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       211.9
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 22.5)"
+      ],
+      "top": [
+       279.4,
+       256.9
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       256.9
+      ]
+     }
+    }
+   ],
+   [
+    240,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 5.1984)"
+      ],
+      "top": [
+       234.4,
+       194.6
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       194.6
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 5.1984)"
+      ],
+      "top": [
+       279.4,
+       239.6
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       239.6
+      ]
+     }
+    }
+   ],
+   [
+    288,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 1.51992)"
+      ],
+      "top": [
+       234.4,
+       190.9
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       190.9
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 1.51992)"
+      ],
+      "top": [
+       279.4,
+       235.9
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       235.9
+      ]
+     }
+    }
+   ],
+   [
+    336,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 0.224979)"
+      ],
+      "top": [
+       234.4,
+       189.6
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       189.6
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 0.224979)"
+      ],
+      "top": [
+       279.4,
+       234.6
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       234.6
+      ]
+     }
+    }
+   ],
+   [
+    384,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       279.4,
+       234.4
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       234.4
+      ]
+     }
+    }
+   ],
+   [
+    432,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       279.4,
+       234.4
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       234.4
+      ]
+     }
+    }
+   ],
+   [
+    480,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       279.4,
+       234.4
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       234.4
+      ]
+     }
+    }
+   ],
+   [
+    528,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       279.4,
+       234.4
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       234.4
+      ]
+     }
+    }
+   ],
+   [
+    576,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       377
+      ],
+      "height": [
+       null,
+       44
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       234.4
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       234.4,
+       189.4
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       279.4,
+       234.4
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       279.4,
+       234.4
+      ]
+     }
+    }
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverMenuContactBtn": {
+  "pos": [
+   164,
+   423.359375
+  ],
+  "final": {
+   "1:div:Button:": {
+    "transform": [
+     "none",
+     "matrix(0.95, 0, 0, 0.95, 0, 0)"
+    ],
+    "width": [
+     150,
+     142.5
+    ],
+    "height": [
+     42,
+     39.9
+    ],
+    "borderRadius": [
+     "4px",
+     "16px"
+    ],
+    "left": [
+     89,
+     92.8
+    ],
+    "top": [
+     402.4,
+     403.4
+    ]
+   },
+   "2:div:Picture:": {
+    "width": [
+     32,
+     30.4
+    ],
+    "height": [
+     32,
+     30.4
+    ],
+    "borderRadius": [
+     "4px",
+     "12px"
+    ],
+    "left": [
+     94,
+     97.5
+    ],
+    "top": [
+     407.4,
+     408.2
+    ]
+   },
+   "3:div::": {
+    "width": [
+     32,
+     30.4
+    ],
+    "height": [
+     32,
+     30.4
+    ],
+    "borderRadius": [
+     "4px",
+     "12px"
+    ],
+    "left": [
+     94,
+     97.5
+    ],
+    "top": [
+     407.4,
+     408.2
+    ]
+   },
+   "4:img::": {
+    "width": [
+     32,
+     30.4
+    ],
+    "height": [
+     32,
+     30.4
+    ],
+    "borderRadius": [
+     "4px",
+     "12px"
+    ],
+    "left": [
+     94,
+     97.5
+    ],
+    "top": [
+     407.4,
+     408.2
+    ]
+   },
+   "5:svg::": {
+    "width": [
+     17,
+     16.1
+    ],
+    "height": [
+     17,
+     16.2
+    ],
+    "left": [
+     207,
+     209.6
+    ],
+    "top": [
+     414.9,
+     415.3
+    ]
+   },
+   "6:use::": {
+    "width": [
+     9.9,
+     9.4
+    ],
+    "height": [
+     9.9,
+     9.4
+    ],
+    "left": [
+     210.5,
+     213
+    ],
+    "top": [
+     418.4,
+     418.6
+    ]
+   }
+  },
+  "frames": [
+   [
+    16,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.99999, 0, 0, 0.99999, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.00249px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.00166px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.00166px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.00166px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.99896, 0)"
+      ]
+     }
+    }
+   ],
+   [
+    32,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.999942, 0, 0, 0.999942, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.01404px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.00936px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.00936px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.00936px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.99415, 0)"
+      ]
+     }
+    }
+   ],
+   [
+    48,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.99985, 0, 0, 0.99985, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.03597px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.02398px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.02398px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.02398px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.98501, 0)"
+      ]
+     }
+    }
+   ],
+   [
+    64,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.99971, 0, 0, 0.99971, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.06956px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.04638px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.04638px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.04638px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.97102, 0)"
+      ]
+     },
+     "6:use::": {
+      "left": [
+       210.5,
+       210.6
+      ]
+     }
+    }
+   ],
+   [
+    96,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.999258, 0, 0, 0.999258, 0, 0)"
+      ],
+      "width": [
+       150,
+       149.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.17816px"
+      ],
+      "left": [
+       89,
+       89.1
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.11878px"
+      ],
+      "left": [
+       94,
+       94.1
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.11878px"
+      ],
+      "left": [
+       94,
+       94.1
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.11878px"
+      ],
+      "left": [
+       94,
+       94.1
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.92577, 0)"
+      ]
+     },
+     "6:use::": {
+      "left": [
+       210.5,
+       210.6
+      ]
+     }
+    }
+   ],
+   [
+    144,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.997997, 0, 0, 0.997997, 0, 0)"
+      ],
+      "width": [
+       150,
+       149.7
+      ],
+      "height": [
+       42,
+       41.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.48071px"
+      ],
+      "left": [
+       89,
+       89.2
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.32047px"
+      ],
+      "left": [
+       94,
+       94.1
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.32047px"
+      ],
+      "left": [
+       94,
+       94.1
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.32047px"
+      ],
+      "left": [
+       94,
+       94.1
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.79971, 0)"
+      ],
+      "left": [
+       207,
+       207.1
+      ]
+     },
+     "6:use::": {
+      "left": [
+       210.5,
+       210.6
+      ]
+     }
+    }
+   ],
+   [
+    192,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.995586, 0, 0, 0.995586, 0, 0)"
+      ],
+      "width": [
+       150,
+       149.3
+      ],
+      "height": [
+       42,
+       41.8
+      ],
+      "borderRadius": [
+       "4px",
+       "5.05947px"
+      ],
+      "left": [
+       89,
+       89.3
+      ],
+      "top": [
+       402.4,
+       402.5
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.70631px"
+      ],
+      "left": [
+       94,
+       94.3
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.70631px"
+      ],
+      "left": [
+       94,
+       94.3
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.70631px"
+      ],
+      "left": [
+       94,
+       94.3
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.55856, 0)"
+      ],
+      "width": [
+       17,
+       16.9
+      ],
+      "height": [
+       17,
+       16.9
+      ],
+      "left": [
+       207,
+       207.2
+      ]
+     },
+     "6:use::": {
+      "left": [
+       210.5,
+       210.8
+      ]
+     }
+    }
+   ],
+   [
+    240,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.99056, 0, 0, 0.99056, 0, 0)"
+      ],
+      "width": [
+       150,
+       148.6
+      ],
+      "height": [
+       42,
+       41.6
+      ],
+      "borderRadius": [
+       "4px",
+       "6.26548px"
+      ],
+      "left": [
+       89,
+       89.7
+      ],
+      "top": [
+       402.4,
+       402.6
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.7
+      ],
+      "height": [
+       32,
+       31.7
+      ],
+      "borderRadius": [
+       "4px",
+       "5.51032px"
+      ],
+      "left": [
+       94,
+       94.7
+      ],
+      "top": [
+       407.4,
+       407.5
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.7
+      ],
+      "height": [
+       32,
+       31.7
+      ],
+      "borderRadius": [
+       "4px",
+       "5.51032px"
+      ],
+      "left": [
+       94,
+       94.7
+      ],
+      "top": [
+       407.4,
+       407.5
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.7
+      ],
+      "height": [
+       32,
+       31.7
+      ],
+      "borderRadius": [
+       "4px",
+       "5.51032px"
+      ],
+      "left": [
+       94,
+       94.7
+      ],
+      "top": [
+       407.4,
+       407.5
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.05605, 0)"
+      ],
+      "width": [
+       17,
+       16.8
+      ],
+      "height": [
+       17,
+       16.8
+      ],
+      "left": [
+       207,
+       207.5
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.8
+      ],
+      "height": [
+       9.9,
+       9.8
+      ],
+      "left": [
+       210.5,
+       211
+      ]
+     }
+    }
+   ],
+   [
+    288,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.972315, 0, 0, 0.972315, 0, 0)"
+      ],
+      "width": [
+       150,
+       145.8
+      ],
+      "height": [
+       42,
+       40.8
+      ],
+      "borderRadius": [
+       "4px",
+       "10.6445px"
+      ],
+      "left": [
+       89,
+       91.1
+      ],
+      "top": [
+       402.4,
+       402.9
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.1
+      ],
+      "height": [
+       32,
+       31.1
+      ],
+      "borderRadius": [
+       "4px",
+       "8.42968px"
+      ],
+      "left": [
+       94,
+       95.9
+      ],
+      "top": [
+       407.4,
+       407.8
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.1
+      ],
+      "height": [
+       32,
+       31.1
+      ],
+      "borderRadius": [
+       "4px",
+       "8.42968px"
+      ],
+      "left": [
+       94,
+       95.9
+      ],
+      "top": [
+       407.4,
+       407.8
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.1
+      ],
+      "height": [
+       32,
+       31.1
+      ],
+      "borderRadius": [
+       "4px",
+       "8.42968px"
+      ],
+      "left": [
+       94,
+       95.9
+      ],
+      "top": [
+       407.4,
+       407.8
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -2.23145, 0)"
+      ],
+      "width": [
+       17,
+       16.5
+      ],
+      "height": [
+       17,
+       16.5
+      ],
+      "left": [
+       207,
+       208.5
+      ],
+      "top": [
+       414.9,
+       415.1
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.6
+      ],
+      "height": [
+       9.9,
+       9.6
+      ],
+      "left": [
+       210.5,
+       211.9
+      ],
+      "top": [
+       418.4,
+       418.5
+      ]
+     }
+    }
+   ],
+   [
+    336,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.958265, 0, 0, 0.958265, 0, 0)"
+      ],
+      "width": [
+       150,
+       143.7
+      ],
+      "height": [
+       42,
+       40.2
+      ],
+      "borderRadius": [
+       "4px",
+       "14.0164px"
+      ],
+      "left": [
+       89,
+       92.1
+      ],
+      "top": [
+       402.4,
+       403.2
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.7
+      ],
+      "height": [
+       32,
+       30.7
+      ],
+      "borderRadius": [
+       "4px",
+       "10.6776px"
+      ],
+      "left": [
+       94,
+       96.9
+      ],
+      "top": [
+       407.4,
+       408
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.7
+      ],
+      "height": [
+       32,
+       30.7
+      ],
+      "borderRadius": [
+       "4px",
+       "10.6776px"
+      ],
+      "left": [
+       94,
+       96.9
+      ],
+      "top": [
+       407.4,
+       408
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.7
+      ],
+      "height": [
+       32,
+       30.7
+      ],
+      "borderRadius": [
+       "4px",
+       "10.6776px"
+      ],
+      "left": [
+       94,
+       96.9
+      ],
+      "top": [
+       407.4,
+       408
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.826485, 0)"
+      ],
+      "width": [
+       17,
+       16.3
+      ],
+      "height": [
+       17,
+       16.3
+      ],
+      "left": [
+       207,
+       209.2
+      ],
+      "top": [
+       414.9,
+       415.2
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.5
+      ],
+      "height": [
+       9.9,
+       9.5
+      ],
+      "left": [
+       210.5,
+       212.6
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    384,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.953895, 0, 0, 0.953895, 0, 0)"
+      ],
+      "width": [
+       150,
+       143.1
+      ],
+      "height": [
+       42,
+       40.1
+      ],
+      "borderRadius": [
+       "4px",
+       "15.0653px"
+      ],
+      "left": [
+       89,
+       92.5
+      ],
+      "top": [
+       402.4,
+       403.3
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.3768px"
+      ],
+      "left": [
+       94,
+       97.2
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.3768px"
+      ],
+      "left": [
+       94,
+       97.2
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.3768px"
+      ],
+      "left": [
+       94,
+       97.2
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.389477, 0)"
+      ],
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.4
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.5
+      ],
+      "height": [
+       9.9,
+       9.5
+      ],
+      "left": [
+       210.5,
+       212.8
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    432,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.951731, 0, 0, 0.951731, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.8
+      ],
+      "height": [
+       42,
+       40
+      ],
+      "borderRadius": [
+       "4px",
+       "15.5845px"
+      ],
+      "left": [
+       89,
+       92.6
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.723px"
+      ],
+      "left": [
+       94,
+       97.4
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.723px"
+      ],
+      "left": [
+       94,
+       97.4
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.723px"
+      ],
+      "left": [
+       94,
+       97.4
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.173132, 0)"
+      ],
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.5
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       212.9
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    480,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.950605, 0, 0, 0.950605, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.6
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "15.8548px"
+      ],
+      "left": [
+       89,
+       92.7
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9032px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9032px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9032px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.1
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.0605138, 0)"
+      ],
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.6
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       212.9
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    528,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.950098, 0, 0, 0.950098, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "15.9764px"
+      ],
+      "left": [
+       89,
+       92.7
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9842px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9842px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9842px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.6
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       213
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    576,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       89,
+       92.8
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.1
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.6
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       213
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    624,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       89,
+       92.8
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.1
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.6
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       213
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    672,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       89,
+       92.8
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.1
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.6
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       213
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    720,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       89,
+       92.8
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.1
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.6
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       213
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ],
+   [
+    768,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       89,
+       92.8
+      ],
+      "top": [
+       402.4,
+       403.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       94,
+       97.5
+      ],
+      "top": [
+       407.4,
+       408.2
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.1
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       207,
+       209.6
+      ],
+      "top": [
+       414.9,
+       415.3
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       210.5,
+       213
+      ],
+      "top": [
+       418.4,
+       418.6
+      ]
+     }
+    }
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverMenuSocialX": {
+  "pos": [
+   97.5,
+   807.3125
+  ],
+  "final": {
+   "1:div::": {
+    "opacity": [
+     null,
+     "0.5"
+    ],
+    "transform": [
+     null,
+     "none"
+    ],
+    "color": [
+     null,
+     "rgb(0, 0, 0)"
+    ],
+    "backgroundColor": [
+     null,
+     "rgba(0, 0, 0, 0)"
+    ],
+    "width": [
+     null,
+     17
+    ],
+    "height": [
+     null,
+     17
+    ],
+    "filter": [
+     null,
+     "none"
+    ],
+    "textDecoration": [
+     null,
+     "none"
+    ],
+    "borderRadius": [
+     null,
+     "0px"
+    ],
+    "left": [
+     null,
+     89
+    ],
+    "top": [
+     null,
+     798.8
+    ],
+    "clipPath": [
+     null,
+     "none"
+    ],
+    "boxShadow": [
+     null,
+     "none"
+    ],
+    "cursor": [
+     null,
+     "pointer"
+    ]
+   }
+  },
+  "frames": [
+   [
+    16,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    32,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    48,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    64,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    96,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    144,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    192,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    240,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    288,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    336,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    384,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    432,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    480,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    528,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ],
+   [
+    576,
+    {
+     "1:div::": {
+      "opacity": [
+       null,
+       "0.5"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 0)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       17
+      ],
+      "height": [
+       null,
+       17
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       89
+      ],
+      "top": [
+       null,
+       798.8
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     }
+    }
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "closeCurve": [
+  [
+   16,
+   {
+    "navW": 492.82,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "matrix(0.113632, 0, 0, 1, -243.308, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   32,
+   {
+    "navW": 491.97,
+    "ovOp": "0",
+    "ovF": "grayscale(0.99267)",
+    "menuOp": "1",
+    "menuT": "matrix(0.113828, 0, 0, 1, -243.254, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   48,
+   {
+    "navW": 490.32,
+    "ovOp": "0",
+    "ovF": "grayscale(0.98053)",
+    "menuOp": "1",
+    "menuT": "matrix(0.114211, 0, 0, 1, -243.149, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   64,
+   {
+    "navW": 487.71,
+    "ovOp": "0",
+    "ovF": "grayscale(0.96089)",
+    "menuOp": "1",
+    "menuT": "matrix(0.114822, 0, 0, 1, -242.981, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   80,
+   {
+    "navW": 483.95,
+    "ovOp": "0",
+    "ovF": "grayscale(0.9319)",
+    "menuOp": "1",
+    "menuT": "matrix(0.115715, 0, 0, 1, -242.736, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   96,
+   {
+    "navW": 478.75,
+    "ovOp": "0",
+    "ovF": "grayscale(0.89136)",
+    "menuOp": "1",
+    "menuT": "matrix(0.116972, 0, 0, 1, -242.391, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   112,
+   {
+    "navW": 471.72,
+    "ovOp": "0",
+    "ovF": "grayscale(0.8371)",
+    "menuOp": "1",
+    "menuT": "matrix(0.118715, 0, 0, 1, -241.913, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   128,
+   {
+    "navW": 462.24,
+    "ovOp": "0",
+    "ovF": "grayscale(0.76818)",
+    "menuOp": "1",
+    "menuT": "matrix(0.121149, 0, 0, 1, -241.245, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   144,
+   {
+    "navW": 449.31,
+    "ovOp": "0",
+    "ovF": "grayscale(0.68694)",
+    "menuOp": "1",
+    "menuT": "matrix(0.124634, 0, 0, 1, -240.288, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   160,
+   {
+    "navW": 431.07,
+    "ovOp": "0",
+    "ovF": "grayscale(0.59993)",
+    "menuOp": "1",
+    "menuT": "matrix(0.129908, 0, 0, 1, -238.84, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   176,
+   {
+    "navW": 403.39,
+    "ovOp": "0",
+    "ovF": "grayscale(0.51515)",
+    "menuOp": "1",
+    "menuT": "matrix(0.138824, 0, 0, 1, -236.393, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   192,
+   {
+    "navW": 353.54,
+    "ovOp": "0",
+    "ovF": "grayscale(0.438)",
+    "menuOp": "1",
+    "menuT": "matrix(0.158397, 0, 0, 1, -231.02, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   208,
+   {
+    "navW": 242.29,
+    "ovOp": "0",
+    "ovF": "grayscale(0.37041)",
+    "menuOp": "1",
+    "menuT": "matrix(0.231131, 0, 0, 1, -211.054, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   224,
+   {
+    "navW": 166.11,
+    "ovOp": "0",
+    "ovF": "grayscale(0.31217)",
+    "menuOp": "1",
+    "menuT": "matrix(0.337124, 0, 0, 1, -181.959, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   240,
+   {
+    "navW": 130.15,
+    "ovOp": "0",
+    "ovF": "grayscale(0.26224)",
+    "menuOp": "1",
+    "menuT": "matrix(0.430271, 0, 0, 1, -156.391, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   256,
+   {
+    "navW": 107.97,
+    "ovOp": "0",
+    "ovF": "grayscale(0.21944)",
+    "menuOp": "1",
+    "menuT": "matrix(0.518678, 0, 0, 1, -132.123, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   272,
+   {
+    "navW": 92.7,
+    "ovOp": "0",
+    "ovF": "grayscale(0.18272)",
+    "menuOp": "1",
+    "menuT": "matrix(0.604081, 0, 0, 1, -108.68, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   288,
+   {
+    "navW": 81.66,
+    "ovOp": "0",
+    "ovF": "grayscale(0.15116)",
+    "menuOp": "1",
+    "menuT": "matrix(0.685732, 0, 0, 1, -86.2665, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   304,
+   {
+    "navW": 73.51,
+    "ovOp": "0",
+    "ovF": "grayscale(0.12403)",
+    "menuOp": "1",
+    "menuT": "matrix(0.761845, 0, 0, 1, -65.3735, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   320,
+   {
+    "navW": 67.45,
+    "ovOp": "0",
+    "ovF": "grayscale(0.10073)",
+    "menuOp": "1",
+    "menuT": "matrix(0.830228, 0, 0, 1, -46.6025, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   336,
+   {
+    "navW": 63.01,
+    "ovOp": "0",
+    "ovF": "grayscale(0.08075)",
+    "menuOp": "1",
+    "menuT": "matrix(0.888729, 0, 0, 1, -30.5438, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   352,
+   {
+    "navW": 59.85,
+    "ovOp": "0",
+    "ovF": "grayscale(0.0637)",
+    "menuOp": "1",
+    "menuT": "matrix(0.935604, 0, 0, 1, -17.6768, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   368,
+   {
+    "navW": 57.75,
+    "ovOp": "0",
+    "ovF": "grayscale(0.04923)",
+    "menuOp": "1",
+    "menuT": "matrix(0.969772, 0, 0, 1, -8.29749, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   384,
+   {
+    "navW": 56.51,
+    "ovOp": "0",
+    "ovF": "grayscale(0.03706)",
+    "menuOp": "1",
+    "menuT": "matrix(0.990954, 0, 0, 1, -2.48308, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   400,
+   {
+    "navW": 56.02,
+    "ovOp": "0",
+    "ovF": "grayscale(0.02696)",
+    "menuOp": "1",
+    "menuT": "matrix(0.999652, 0, 0, 1, -0.085682, 0)",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   416,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0.01872)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   432,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0.01217)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   448,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0.00716)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   464,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0.00355)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   480,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0.00125)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   496,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0.00013)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   512,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   528,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   544,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   560,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   576,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   592,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   608,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   624,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   640,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   656,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   672,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   688,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   704,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   720,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   736,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   752,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   768,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   784,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   800,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   816,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   832,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   848,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   864,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   880,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   896,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ],
+  [
+   900,
+   {
+    "navW": 56,
+    "ovOp": "0",
+    "ovF": "grayscale(0)",
+    "menuOp": "1",
+    "menuT": "none",
+    "menuL": 59,
+    "hamVar": "Closed"
+   }
+  ]
+ ],
+ "scroll": [
+  {
+   "sy": 0,
+   "sn": [
+    3,
+    3,
+    56,
+    894
+   ],
+   "op": "1"
+  },
+  {
+   "sy": 400,
+   "sn": [
+    3,
+    3,
+    56,
+    894
+   ],
+   "op": "1"
+  },
+  {
+   "sy": 1500,
+   "sn": [
+    3,
+    3,
+    56,
+    894
+   ],
+   "op": "1"
+  },
+  {
+   "sy": 800,
+   "sn": [
+    3,
+    3,
+    56,
+    894
+   ],
+   "op": "1"
+  },
+  {
+   "sy": 0,
+   "sn": [
+    3,
+    3,
+    56,
+    894
+   ],
+   "op": "1"
+  }
+ ],
+ "hoverTopLinkStudio": {
+  "pos": [
+   928.6953125,
+   46.2265625
+  ],
+  "final": {
+   "0:a::": {
+    "opacity": [
+     null,
+     "1"
+    ],
+    "transform": [
+     null,
+     "none"
+    ],
+    "color": [
+     null,
+     "rgb(0, 0, 238)"
+    ],
+    "backgroundColor": [
+     null,
+     "rgba(0, 0, 0, 0)"
+    ],
+    "width": [
+     null,
+     54.4
+    ],
+    "height": [
+     null,
+     26.5
+    ],
+    "filter": [
+     null,
+     "none"
+    ],
+    "textDecoration": [
+     null,
+     "none"
+    ],
+    "borderRadius": [
+     null,
+     "0px"
+    ],
+    "left": [
+     null,
+     901.5
+    ],
+    "top": [
+     null,
+     33
+    ],
+    "clipPath": [
+     null,
+     "none"
+    ],
+    "boxShadow": [
+     null,
+     "none"
+    ],
+    "cursor": [
+     null,
+     "pointer"
+    ]
+   },
+   "1:div::": {
+    "opacity": [
+     "1",
+     "0"
+    ],
+    "top": [
+     33,
+     8
+    ]
+   },
+   "2:p::Studio": {
+    "top": [
+     33,
+     8
+    ]
+   },
+   "3:div::": {
+    "opacity": [
+     "0",
+     "1"
+    ],
+    "top": [
+     58,
+     33
+    ]
+   },
+   "4:p::Studio": {
+    "top": [
+     58,
+     33
+    ]
+   }
+  },
+  "frames": [
+   [
+    16,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.9944)"
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.9944)"
+      ]
+     }
+    }
+   ],
+   [
+    32,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.9469)"
+      ],
+      "top": [
+       33,
+       32.9
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       32.9
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.9469)"
+      ],
+      "top": [
+       58,
+       57.9
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       57.9
+      ]
+     }
+    }
+   ],
+   [
+    48,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.8433)"
+      ],
+      "top": [
+       33,
+       32.8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       32.8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.8433)"
+      ],
+      "top": [
+       58,
+       57.8
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       57.8
+      ]
+     }
+    }
+   ],
+   [
+    64,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.6718)"
+      ],
+      "top": [
+       33,
+       32.7
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       32.7
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.6718)"
+      ],
+      "top": [
+       58,
+       57.7
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       57.7
+      ]
+     }
+    }
+   ],
+   [
+    96,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.0531)"
+      ],
+      "top": [
+       33,
+       32.1
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       32.1
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 24.0531)"
+      ],
+      "top": [
+       58,
+       57.1
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       57.1
+      ]
+     }
+    }
+   ],
+   [
+    144,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 21.8184)"
+      ],
+      "top": [
+       33,
+       29.8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       29.8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 21.8184)"
+      ],
+      "top": [
+       58,
+       54.8
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       54.8
+      ]
+     }
+    }
+   ],
+   [
+    192,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 10.4706)"
+      ],
+      "top": [
+       33,
+       18.5
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       18.5
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 10.4706)"
+      ],
+      "top": [
+       58,
+       43.5
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       43.5
+      ]
+     }
+    }
+   ],
+   [
+    240,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 2.62254)"
+      ],
+      "top": [
+       33,
+       10.6
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       10.6
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 2.62254)"
+      ],
+      "top": [
+       58,
+       35.6
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       35.6
+      ]
+     }
+    }
+   ],
+   [
+    288,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 0.750075)"
+      ],
+      "top": [
+       33,
+       8.8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       8.8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 0.750075)"
+      ],
+      "top": [
+       58,
+       33.8
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       33.8
+      ]
+     }
+    }
+   ],
+   [
+    336,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 0.09726)"
+      ],
+      "top": [
+       33,
+       8.1
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       8.1
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, 0, 0.09726)"
+      ],
+      "top": [
+       58,
+       33.1
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       33.1
+      ]
+     }
+    }
+   ],
+   [
+    384,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       33,
+       8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       58,
+       33
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       33
+      ]
+     }
+    }
+   ],
+   [
+    432,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       33,
+       8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       58,
+       33
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       33
+      ]
+     }
+    }
+   ],
+   [
+    480,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       33,
+       8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       58,
+       33
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       33
+      ]
+     }
+    }
+   ],
+   [
+    528,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       33,
+       8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       58,
+       33
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       33
+      ]
+     }
+    }
+   ],
+   [
+    576,
+    {
+     "0:a::": {
+      "opacity": [
+       null,
+       "1"
+      ],
+      "transform": [
+       null,
+       "none"
+      ],
+      "color": [
+       null,
+       "rgb(0, 0, 238)"
+      ],
+      "backgroundColor": [
+       null,
+       "rgba(0, 0, 0, 0)"
+      ],
+      "width": [
+       null,
+       54.4
+      ],
+      "height": [
+       null,
+       26.5
+      ],
+      "filter": [
+       null,
+       "none"
+      ],
+      "textDecoration": [
+       null,
+       "none"
+      ],
+      "borderRadius": [
+       null,
+       "0px"
+      ],
+      "left": [
+       null,
+       901.5
+      ],
+      "top": [
+       null,
+       33
+      ],
+      "clipPath": [
+       null,
+       "none"
+      ],
+      "boxShadow": [
+       null,
+       "none"
+      ],
+      "cursor": [
+       null,
+       "pointer"
+      ]
+     },
+     "1:div::": {
+      "opacity": [
+       "1",
+       "0"
+      ],
+      "top": [
+       33,
+       8
+      ]
+     },
+     "2:p::Studio": {
+      "top": [
+       33,
+       8
+      ]
+     },
+     "3:div::": {
+      "opacity": [
+       "0",
+       "1"
+      ],
+      "top": [
+       58,
+       33
+      ]
+     },
+     "4:p::Studio": {
+      "top": [
+       58,
+       33
+      ]
+     }
+    }
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverFooterLinkJournal": "introuvable",
+ "hoverFooterLegalTerms": {
+  "pos": [
+   549.0546875,
+   828.421875
+  ],
+  "final": {
+   "0:a::Terms & Conditions.": {
+    "color": [
+     "rgb(13, 13, 13)",
+     "rgb(245, 45, 15)"
+    ]
+   }
+  },
+  "frames": [
+   [
+    16,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    32,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    48,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    64,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    96,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    144,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    192,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    240,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    288,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    336,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    384,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    432,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    480,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    528,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    576,
+    {
+     "0:a::Terms & Conditions.": {
+      "color": [
+       "rgb(13, 13, 13)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverFooterSocialIG": {
+  "pos": [
+   132.5,
+   851.421875
+  ],
+  "final": {},
+  "frames": [
+   [
+    16,
+    {}
+   ],
+   [
+    32,
+    {}
+   ],
+   [
+    48,
+    {}
+   ],
+   [
+    64,
+    {}
+   ],
+   [
+    96,
+    {}
+   ],
+   [
+    144,
+    {}
+   ],
+   [
+    192,
+    {}
+   ],
+   [
+    240,
+    {}
+   ],
+   [
+    288,
+    {}
+   ],
+   [
+    336,
+    {}
+   ],
+   [
+    384,
+    {}
+   ],
+   [
+    432,
+    {}
+   ],
+   [
+    480,
+    {}
+   ],
+   [
+    528,
+    {}
+   ],
+   [
+    576,
+    {}
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverFooterContactBtn": {
+  "pos": [
+   1332,
+   838.921875
+  ],
+  "final": {
+   "1:div:Button:": {
+    "transform": [
+     "none",
+     "matrix(0.95, 0, 0, 0.95, 0, 0)"
+    ],
+    "width": [
+     150,
+     142.5
+    ],
+    "height": [
+     42,
+     39.9
+    ],
+    "borderRadius": [
+     "4px",
+     "16px"
+    ],
+    "left": [
+     1257,
+     1260.8
+    ],
+    "top": [
+     817.9,
+     819
+    ]
+   },
+   "2:div:Picture:": {
+    "width": [
+     32,
+     30.4
+    ],
+    "height": [
+     32,
+     30.4
+    ],
+    "borderRadius": [
+     "4px",
+     "12px"
+    ],
+    "left": [
+     1262,
+     1265.5
+    ],
+    "top": [
+     822.9,
+     823.7
+    ]
+   },
+   "3:div::": {
+    "width": [
+     32,
+     30.4
+    ],
+    "height": [
+     32,
+     30.4
+    ],
+    "borderRadius": [
+     "4px",
+     "12px"
+    ],
+    "left": [
+     1262,
+     1265.5
+    ],
+    "top": [
+     822.9,
+     823.7
+    ]
+   },
+   "4:img::": {
+    "width": [
+     32,
+     30.4
+    ],
+    "height": [
+     32,
+     30.4
+    ],
+    "borderRadius": [
+     "4px",
+     "12px"
+    ],
+    "left": [
+     1262,
+     1265.5
+    ],
+    "top": [
+     822.9,
+     823.7
+    ]
+   },
+   "5:svg::": {
+    "width": [
+     17,
+     16.2
+    ],
+    "height": [
+     17,
+     16.2
+    ],
+    "left": [
+     1375,
+     1377.6
+    ],
+    "top": [
+     830.4,
+     830.8
+    ]
+   },
+   "6:use::": {
+    "width": [
+     9.9,
+     9.4
+    ],
+    "height": [
+     9.9,
+     9.4
+    ],
+    "left": [
+     1378.5,
+     1381
+    ],
+    "top": [
+     834,
+     834.2
+    ]
+   }
+  },
+  "frames": [
+   [
+    16,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.999995, 0, 0, 0.999995, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.0011px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.00073px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.00073px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.00073px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.99954, 0)"
+      ]
+     }
+    }
+   ],
+   [
+    32,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.999957, 0, 0, 0.999957, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.01022px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.00681px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.00681px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.00681px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.99574, 0)"
+      ]
+     }
+    }
+   ],
+   [
+    48,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.999877, 0, 0, 0.999877, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.02945px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.01963px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.01963px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.01963px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.98773, 0)"
+      ]
+     }
+    }
+   ],
+   [
+    64,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.99975, 0, 0, 0.99975, 0, 0)"
+      ],
+      "borderRadius": [
+       "4px",
+       "4.05999px"
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.04px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.04px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.04px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.975, 0)"
+      ]
+     },
+     "6:use::": {
+      "left": [
+       1378.5,
+       1378.6
+      ]
+     }
+    }
+   ],
+   [
+    96,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.999328, 0, 0, 0.999328, 0, 0)"
+      ],
+      "width": [
+       150,
+       149.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.16118px"
+      ],
+      "left": [
+       1257,
+       1257.1
+      ]
+     },
+     "2:div:Picture:": {
+      "borderRadius": [
+       "4px",
+       "4.10745px"
+      ]
+     },
+     "3:div::": {
+      "borderRadius": [
+       "4px",
+       "4.10745px"
+      ]
+     },
+     "4:img::": {
+      "borderRadius": [
+       "4px",
+       "4.10745px"
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.93284, 0)"
+      ]
+     },
+     "6:use::": {
+      "left": [
+       1378.5,
+       1378.6
+      ]
+     }
+    }
+   ],
+   [
+    144,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.998136, 0, 0, 0.998136, 0, 0)"
+      ],
+      "width": [
+       150,
+       149.7
+      ],
+      "height": [
+       42,
+       41.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.44724px"
+      ],
+      "left": [
+       1257,
+       1257.1
+      ],
+      "top": [
+       817.9,
+       818
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.29816px"
+      ],
+      "left": [
+       1262,
+       1262.1
+      ],
+      "top": [
+       822.9,
+       823
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.29816px"
+      ],
+      "left": [
+       1262,
+       1262.1
+      ],
+      "top": [
+       822.9,
+       823
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.29816px"
+      ],
+      "left": [
+       1262,
+       1262.1
+      ],
+      "top": [
+       822.9,
+       823
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.81365, 0)"
+      ],
+      "left": [
+       1375,
+       1375.1
+      ]
+     },
+     "6:use::": {
+      "left": [
+       1378.5,
+       1378.6
+      ]
+     }
+    }
+   ],
+   [
+    192,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.995853, 0, 0, 0.995853, 0, 0)"
+      ],
+      "width": [
+       150,
+       149.4
+      ],
+      "height": [
+       42,
+       41.8
+      ],
+      "borderRadius": [
+       "4px",
+       "4.99532px"
+      ],
+      "left": [
+       1257,
+       1257.3
+      ],
+      "top": [
+       817.9,
+       818
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.66355px"
+      ],
+      "left": [
+       1262,
+       1262.3
+      ],
+      "top": [
+       822.9,
+       823
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.66355px"
+      ],
+      "left": [
+       1262,
+       1262.3
+      ],
+      "top": [
+       822.9,
+       823
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.9
+      ],
+      "height": [
+       32,
+       31.9
+      ],
+      "borderRadius": [
+       "4px",
+       "4.66355px"
+      ],
+      "left": [
+       1262,
+       1262.3
+      ],
+      "top": [
+       822.9,
+       823
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.58528, 0)"
+      ],
+      "width": [
+       17,
+       16.9
+      ],
+      "height": [
+       17,
+       16.9
+      ],
+      "left": [
+       1375,
+       1375.2
+      ],
+      "top": [
+       830.4,
+       830.5
+      ]
+     },
+     "6:use::": {
+      "left": [
+       1378.5,
+       1378.8
+      ]
+     }
+    }
+   ],
+   [
+    240,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.991173, 0, 0, 0.991173, 0, 0)"
+      ],
+      "width": [
+       150,
+       148.7
+      ],
+      "height": [
+       42,
+       41.6
+      ],
+      "borderRadius": [
+       "4px",
+       "6.11845px"
+      ],
+      "left": [
+       1257,
+       1257.7
+      ],
+      "top": [
+       817.9,
+       818.1
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.7
+      ],
+      "height": [
+       32,
+       31.7
+      ],
+      "borderRadius": [
+       "4px",
+       "5.4123px"
+      ],
+      "left": [
+       1262,
+       1262.6
+      ],
+      "top": [
+       822.9,
+       823.1
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.7
+      ],
+      "height": [
+       32,
+       31.7
+      ],
+      "borderRadius": [
+       "4px",
+       "5.4123px"
+      ],
+      "left": [
+       1262,
+       1262.6
+      ],
+      "top": [
+       822.9,
+       823.1
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.7
+      ],
+      "height": [
+       32,
+       31.7
+      ],
+      "borderRadius": [
+       "4px",
+       "5.4123px"
+      ],
+      "left": [
+       1262,
+       1262.6
+      ],
+      "top": [
+       822.9,
+       823.1
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -4.11731, 0)"
+      ],
+      "width": [
+       17,
+       16.8
+      ],
+      "height": [
+       17,
+       16.8
+      ],
+      "left": [
+       1375,
+       1375.5
+      ],
+      "top": [
+       830.4,
+       830.5
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.8
+      ],
+      "height": [
+       9.9,
+       9.8
+      ],
+      "left": [
+       1378.5,
+       1379
+      ]
+     }
+    }
+   ],
+   [
+    288,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.975, 0, 0, 0.975, 0, 0)"
+      ],
+      "width": [
+       150,
+       146.3
+      ],
+      "height": [
+       42,
+       40.9
+      ],
+      "borderRadius": [
+       "4px",
+       "10px"
+      ],
+      "left": [
+       1257,
+       1258.9
+      ],
+      "top": [
+       817.9,
+       818.4
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       31.2
+      ],
+      "height": [
+       32,
+       31.2
+      ],
+      "borderRadius": [
+       "4px",
+       "8px"
+      ],
+      "left": [
+       1262,
+       1263.8
+      ],
+      "top": [
+       822.9,
+       823.3
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       31.2
+      ],
+      "height": [
+       32,
+       31.2
+      ],
+      "borderRadius": [
+       "4px",
+       "8px"
+      ],
+      "left": [
+       1262,
+       1263.8
+      ],
+      "top": [
+       822.9,
+       823.3
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       31.2
+      ],
+      "height": [
+       32,
+       31.2
+      ],
+      "borderRadius": [
+       "4px",
+       "8px"
+      ],
+      "left": [
+       1262,
+       1263.8
+      ],
+      "top": [
+       822.9,
+       823.3
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -2.5, 0)"
+      ],
+      "width": [
+       17,
+       16.6
+      ],
+      "height": [
+       17,
+       16.6
+      ],
+      "left": [
+       1375,
+       1376.4
+      ],
+      "top": [
+       830.4,
+       830.6
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.7
+      ],
+      "height": [
+       9.9,
+       9.7
+      ],
+      "left": [
+       1378.5,
+       1379.8
+      ],
+      "top": [
+       834,
+       834.1
+      ]
+     }
+    }
+   ],
+   [
+    336,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.958827, 0, 0, 0.958827, 0, 0)"
+      ],
+      "width": [
+       150,
+       143.8
+      ],
+      "height": [
+       42,
+       40.3
+      ],
+      "borderRadius": [
+       "4px",
+       "13.8815px"
+      ],
+      "left": [
+       1257,
+       1260.1
+      ],
+      "top": [
+       817.9,
+       818.8
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.7
+      ],
+      "height": [
+       32,
+       30.7
+      ],
+      "borderRadius": [
+       "4px",
+       "10.5877px"
+      ],
+      "left": [
+       1262,
+       1264.9
+      ],
+      "top": [
+       822.9,
+       823.6
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.7
+      ],
+      "height": [
+       32,
+       30.7
+      ],
+      "borderRadius": [
+       "4px",
+       "10.5877px"
+      ],
+      "left": [
+       1262,
+       1264.9
+      ],
+      "top": [
+       822.9,
+       823.6
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.7
+      ],
+      "height": [
+       32,
+       30.7
+      ],
+      "borderRadius": [
+       "4px",
+       "10.5877px"
+      ],
+      "left": [
+       1262,
+       1264.9
+      ],
+      "top": [
+       822.9,
+       823.6
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.882689, 0)"
+      ],
+      "width": [
+       17,
+       16.3
+      ],
+      "height": [
+       17,
+       16.3
+      ],
+      "left": [
+       1375,
+       1377.2
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.5
+      ],
+      "height": [
+       9.9,
+       9.5
+      ],
+      "left": [
+       1378.5,
+       1380.6
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    384,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.954147, 0, 0, 0.954147, 0, 0)"
+      ],
+      "width": [
+       150,
+       143.1
+      ],
+      "height": [
+       42,
+       40.1
+      ],
+      "borderRadius": [
+       "4px",
+       "15.0047px"
+      ],
+      "left": [
+       1257,
+       1260.4
+      ],
+      "top": [
+       817.9,
+       818.9
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.3364px"
+      ],
+      "left": [
+       1262,
+       1265.2
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.3364px"
+      ],
+      "left": [
+       1262,
+       1265.2
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.3364px"
+      ],
+      "left": [
+       1262,
+       1265.2
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.414718, 0)"
+      ],
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.4
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.5
+      ],
+      "height": [
+       9.9,
+       9.5
+      ],
+      "left": [
+       1378.5,
+       1380.8
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    432,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.951864, 0, 0, 0.951864, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.8
+      ],
+      "height": [
+       42,
+       40
+      ],
+      "borderRadius": [
+       "4px",
+       "15.5528px"
+      ],
+      "left": [
+       1257,
+       1260.6
+      ],
+      "top": [
+       817.9,
+       818.9
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.7018px"
+      ],
+      "left": [
+       1262,
+       1265.4
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.7018px"
+      ],
+      "left": [
+       1262,
+       1265.4
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.5
+      ],
+      "height": [
+       32,
+       30.5
+      ],
+      "borderRadius": [
+       "4px",
+       "11.7018px"
+      ],
+      "left": [
+       1262,
+       1265.4
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.186352, 0)"
+      ],
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.5
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1380.9
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    480,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.950672, 0, 0, 0.950672, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.6
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "15.8388px"
+      ],
+      "left": [
+       1257,
+       1260.7
+      ],
+      "top": [
+       817.9,
+       819
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.8926px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.8926px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.8926px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.0671565, 0)"
+      ],
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.6
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1380.9
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    528,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.950123, 0, 0, 0.950123, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "15.9705px"
+      ],
+      "left": [
+       1257,
+       1260.7
+      ],
+      "top": [
+       817.9,
+       819
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9804px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9804px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "11.9804px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "transform": [
+       "none",
+       "matrix(1, 0, 0, 1, -0.0122709, 0)"
+      ],
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.6
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1381
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    576,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       1257,
+       1260.8
+      ],
+      "top": [
+       817.9,
+       819
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.6
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1381
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    624,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       1257,
+       1260.8
+      ],
+      "top": [
+       817.9,
+       819
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.6
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1381
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    672,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       1257,
+       1260.8
+      ],
+      "top": [
+       817.9,
+       819
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.6
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1381
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    720,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       1257,
+       1260.8
+      ],
+      "top": [
+       817.9,
+       819
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.6
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1381
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ],
+   [
+    768,
+    {
+     "1:div:Button:": {
+      "transform": [
+       "none",
+       "matrix(0.95, 0, 0, 0.95, 0, 0)"
+      ],
+      "width": [
+       150,
+       142.5
+      ],
+      "height": [
+       42,
+       39.9
+      ],
+      "borderRadius": [
+       "4px",
+       "16px"
+      ],
+      "left": [
+       1257,
+       1260.8
+      ],
+      "top": [
+       817.9,
+       819
+      ]
+     },
+     "2:div:Picture:": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "3:div::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "4:img::": {
+      "width": [
+       32,
+       30.4
+      ],
+      "height": [
+       32,
+       30.4
+      ],
+      "borderRadius": [
+       "4px",
+       "12px"
+      ],
+      "left": [
+       1262,
+       1265.5
+      ],
+      "top": [
+       822.9,
+       823.7
+      ]
+     },
+     "5:svg::": {
+      "width": [
+       17,
+       16.2
+      ],
+      "height": [
+       17,
+       16.2
+      ],
+      "left": [
+       1375,
+       1377.6
+      ],
+      "top": [
+       830.4,
+       830.8
+      ]
+     },
+     "6:use::": {
+      "width": [
+       9.9,
+       9.4
+      ],
+      "height": [
+       9.9,
+       9.4
+      ],
+      "left": [
+       1378.5,
+       1381
+      ],
+      "top": [
+       834,
+       834.2
+      ]
+     }
+    }
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverJoinNowEmpty": {
+  "pos": [
+   777.765625,
+   624.515625
+  ],
+  "final": {},
+  "frames": [
+   [
+    16,
+    {}
+   ],
+   [
+    32,
+    {}
+   ],
+   [
+    48,
+    {}
+   ],
+   [
+    64,
+    {}
+   ],
+   [
+    96,
+    {}
+   ],
+   [
+    144,
+    {}
+   ],
+   [
+    192,
+    {}
+   ],
+   [
+    240,
+    {}
+   ],
+   [
+    288,
+    {}
+   ],
+   [
+    336,
+    {}
+   ],
+   [
+    384,
+    {}
+   ],
+   [
+    432,
+    {}
+   ],
+   [
+    480,
+    {}
+   ],
+   [
+    528,
+    {}
+   ],
+   [
+    576,
+    {}
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverConsentLink": {
+  "pos": [
+   700.171875,
+   668.71875
+  ],
+  "final": {
+   "0:a::privacy policy.": {
+    "color": [
+     "rgb(104, 104, 104)",
+     "rgb(245, 45, 15)"
+    ]
+   }
+  },
+  "frames": [
+   [
+    16,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    32,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    48,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    64,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    96,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    144,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    192,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    240,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    288,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    336,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    384,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    432,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    480,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    528,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ],
+   [
+    576,
+    {
+     "0:a::privacy policy.": {
+      "color": [
+       "rgb(104, 104, 104)",
+       "rgb(245, 45, 15)"
+      ]
+     }
+    }
+   ]
+  ],
+  "afterLeave": {}
+ },
+ "hoverFooterLogo": "introuvable",
+ "nl": {
+  "initial": {
+   "val": "",
+   "valid": false,
+   "msg": "Please fill out this field.",
+   "cmsg": "Please check this box if you want to proceed.",
+   "checked": false,
+   "inputCls": "framer-form-input framer-form-input-empty",
+   "btnCls": "framer-8H41b framer-khCxy framer-QoPvp framer-xkbypw framer-v-a28jhw",
+   "btnOp": "0.75",
+   "btnCursor": "not-allowed",
+   "btnDisabled": false,
+   "wrapBorder": "rgb(0, 0, 0) 0px none",
+   "inputColor": "rgb(13, 13, 13)",
+   "ph": "rgb(104, 104, 104)",
+   "font": "500 16px / 16px Switzer"
+  },
+  "emptyClick": {
+   "val": "",
+   "valid": false,
+   "msg": "Please fill out this field.",
+   "cmsg": "Please check this box if you want to proceed.",
+   "checked": false,
+   "inputCls": "framer-form-input framer-form-input-empty",
+   "btnCls": "framer-8H41b framer-khCxy framer-QoPvp framer-xkbypw framer-v-a28jhw",
+   "btnOp": "0.75",
+   "btnCursor": "not-allowed",
+   "btnDisabled": false,
+   "wrapBorder": "rgb(0, 0, 0) 0px none",
+   "inputColor": "rgb(13, 13, 13)",
+   "ph": "rgb(104, 104, 104)",
+   "font": "500 16px / 16px Switzer"
+  },
+  "focus": {
+   "val": "",
+   "valid": false,
+   "msg": "Please fill out this field.",
+   "cmsg": "Please check this box if you want to proceed.",
+   "checked": false,
+   "inputCls": "framer-form-input framer-form-input-empty",
+   "btnCls": "framer-8H41b framer-khCxy framer-QoPvp framer-xkbypw framer-v-a28jhw",
+   "btnOp": "0.75",
+   "btnCursor": "not-allowed",
+   "btnDisabled": false,
+   "wrapBorder": "rgb(0, 0, 0) 0px none",
+   "inputColor": "rgb(13, 13, 13)",
+   "ph": "rgb(104, 104, 104)",
+   "font": "500 16px / 16px Switzer",
+   "focusDiff": null
+  },
+  "typedInvalid": {
+   "val": "abc",
+   "valid": false,
+   "msg": "Please include an '@' in the email address. 'abc' is missing an '@'.",
+   "cmsg": "Please check this box if you want to proceed.",
+   "checked": false,
+   "inputCls": "framer-form-input",
+   "btnCls": "framer-8H41b framer-khCxy framer-QoPvp framer-xkbypw framer-v-xkbypw",
+   "btnOp": "1",
+   "btnCursor": "pointer",
+   "btnDisabled": false,
+   "wrapBorder": "rgb(0, 0, 0) 0px none",
+   "inputColor": "rgb(13, 13, 13)",
+   "ph": "rgb(104, 104, 104)",
+   "font": "500 16px / 16px Switzer"
+  },
+  "invalidClick": {
+   "val": "abc",
+   "valid": false,
+   "msg": "Please include an '@' in the email address. 'abc' is missing an '@'.",
+   "cmsg": "Please check this box if you want to proceed.",
+   "checked": false,
+   "inputCls": "framer-form-input",
+   "btnCls": "framer-8H41b framer-khCxy framer-QoPvp framer-xkbypw framer-v-xkbypw hover",
+   "btnOp": "1",
+   "btnCursor": "pointer",
+   "btnDisabled": false,
+   "wrapBorder": "rgb(0, 0, 0) 0px none",
+   "inputColor": "rgb(13, 13, 13)",
+   "ph": "rgb(104, 104, 104)",
+   "font": "500 16px / 16px Switzer"
+  }
+ }
+}

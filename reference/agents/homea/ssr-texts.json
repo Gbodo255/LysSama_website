@@ -1,0 +1,4079 @@
+{
+ "390": {
+  "hero": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/gucci"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "alt": "Close-up of a model wearing wraparound sunglasses covered in water droplets"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "slot": true,
+     "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+     "poster": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Gucci"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/chanel"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148",
+     "alt": "Model applying face cream to her cheek against a pale background"
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Chanel"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/puma"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "alt": "Runner in a red rain jacket and black cap on a misty coastline"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "slot": true,
+     "src": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4",
+     "poster": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Puma"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/adidas"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350",
+     "alt": "Close-up of a tennis player with braids looking over her racket"
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Adidas"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Name",
+     "text": "mira"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Trademark",
+     "text": "®"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Descriptor",
+     "text": "Studio"
+    },
+    {
+     "tag": "h1",
+     "name": "Studio Introduction",
+     "text": "                      Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look.",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Location Label",
+     "text": "based in",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Los Angeles Location",
+     "text": "los angeles",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Tokyo Location",
+     "text": "tokyo",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Services Navigation Link",
+     "text": "Services",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Brand Identity",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Web Design",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Framer Dev",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Art Direction",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Contact Navigation Link",
+     "text": "let’s talk",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Phone",
+     "href": "./contact",
+     "aria-label": "contact"
+    },
+    {
+     "tag": "img",
+     "name": "Picture",
+     "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+     "alt": ""
+    }
+   ]
+  },
+  "about": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(01)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "About us",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Positioning Headline",
+     "text": "                 WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK.",
+     "preset": "framer-styles-preset-fvem1p",
+     "marks": [
+      "span:REFUSE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg?width=655&height=1001",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Philosophy Eyebrow",
+     "text": "(My philosophy)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Quote",
+     "text": "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "p",
+     "name": "Small Text",
+     "text": "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?",
+     "preset": "framer-styles-preset-10r2g7l",
+     "marks": [
+      "span:Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "a",
+     "name": "Phone Right",
+     "href": "./studio"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "See the studio",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "See the studio",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "work": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "h2",
+     "name": "Guide Message Title",
+     "text": "50 BRANDS. 14 YEARS. ONE STANDARD.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:50 BRANDS. ",
+      "<br>",
+      "span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:14 YEARS. ",
+      "<br>",
+      "span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}",
+      "strong:ONE",
+      "span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong: STANDARD."
+     ]
+    },
+    {
+     "tag": "h2",
+     "name": "Guide Message Title",
+     "text": "50 BRANDS. 14 YEARS. ONE STANDARD.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:50 BRANDS. ",
+      "<br>",
+      "span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:14 YEARS. ",
+      "<br>",
+      "span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}",
+      "strong:ONE",
+      "span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong: STANDARD."
+     ]
+    },
+    {
+     "tag": "a",
+     "name": "Desktop",
+     "href": "./projects"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+     "poster": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Text / Count",
+     "text": "See all",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Project count font",
+     "text": "6",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/V3ybBeZxp5aiQvQwxbsc72F4V4.mp4",
+     "poster": "https://framerusercontent.com/images/WigME9FAJdZx9jQu2PhxXL8Pc9M.jpg?width=1008&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/kP9y3f68sbv1icRVUmBXDlIfu0I.png?width=2400&height=1350",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/Pvg65dRGYEkffGzS24z71aAheT0.jpg?width=2040&height=1148",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/BOaxMUc8EHCGgQUwQ0NELClE1U.jpg?width=2040&height=1148",
+     "alt": ""
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4",
+     "poster": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/rjNIvMHRogDJaHfneCJlZtXM.mp4",
+     "poster": "https://framerusercontent.com/images/FbhJf8mYmDiQSJihxpqFmhRJxU.jpg?width=1080&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/AgAKhYFyXNgfrvcXhbkrSnOv8.jpg?width=2040&height=1148",
+     "alt": ""
+    }
+   ]
+  },
+  "clients": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(02)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Our clients",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Year / Rating",
+     "text": "2012 2026©",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "+47",
+     "preset": "framer-styles-preset-ss7lqy"
+    },
+    {
+     "tag": "p",
+     "name": "Rating / Stars",
+     "text": "4.9/5",
+     "preset": "framer-styles-preset-ss7lqy",
+     "marks": [
+      "strong:4.9",
+      "span:/5{--framer-text-color:var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Rating",
+     "text": "Trusted by 50+ clients",
+     "preset": "framer-styles-preset-ss7lqy",
+     "marks": [
+      "span:Trusted by{--framer-text-color:var(--extracted-1w3ko1f, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"
+     ]
+    }
+   ]
+  },
+  "whyus": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(03)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Why us",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Impact Headline",
+     "text": "why Mira® is your next choice.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:next{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Impact Supporting Copy",
+     "text": "                          WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "span:MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Impact Footnote",
+     "text": "*Across client launches from 2023 to 2026, measured over the first six months post-launch.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Logo / Text",
+     "text": "With Mira",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Top Bar",
+     "text": "+47% inbound",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Bar Graph",
+     "text": "Industry avg",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Bar",
+     "text": "+12%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "1",
+     "text": "0%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "2",
+     "text": "8%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "3",
+     "text": "16%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "4",
+     "text": "24%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "5",
+     "text": "32%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "6",
+     "text": "40%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "7",
+     "text": "48%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Start",
+     "text": "Average growth in qualified enquiries, first six months after launch",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Proof Points Heading",
+     "text": "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "strong:REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS."
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Proof Points Description",
+     "text": "Most clients come back for the next project. The rest send referrals.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "h3",
+     "name": "Brands Launched Value",
+     "text": "50+",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "Brands Launched Label",
+     "text": "brands launched",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h3",
+     "name": "On-Time Delivery Value",
+     "text": "100%",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "On-Time Delivery Label",
+     "text": "shipped on time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "01",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Metric",
+     "text": "6 Wks",
+     "preset": "framer-styles-preset-fvem1p"
+    },
+    {
+     "tag": "p",
+     "name": "Label",
+     "text": "(AVERAGE TIME TO LAUNCH)",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Description",
+     "text": "Most projects go from first call to live site in under two months.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "02",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Metric",
+     "text": "40+",
+     "preset": "framer-styles-preset-fvem1p"
+    },
+    {
+     "tag": "p",
+     "name": "Label",
+     "text": "(REFERRALS SENT BY CLIENTS)",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Description",
+     "text": "Happy clients are the only marketing channel we've ever needed.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Quote",
+     "text": "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU.",
+     "preset": "framer-styles-preset-c95aba",
+     "marks": [
+      "span:WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Author",
+     "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder, Mira",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "services": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(04)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "What we bring",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Services Heading",
+     "text": "services.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Services Description",
+     "text": "                          Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "span:Each service is priced and scoped before we start.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg?width=2392&height=1794",
+     "alt": "Hands holding OMG drink cans over a pool table"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(01)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Brand Identity.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg?width=2392&height=1794",
+     "alt": "Hands holding OMG drink cans over a pool table"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Brand Identity.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $4,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Logo, type, color, and the system that keeps it consistent everywhere it lives.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2-3 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Logo and wordmark",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Typography system",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Color palette",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Brand guidelines",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Phone Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg?width=2145&height=1683",
+     "alt": "Laptop on a white chair showing a website design"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(02)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Web Design.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg?width=2145&height=1683",
+     "alt": "Laptop on a white chair showing a website design"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Web Design.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $6,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Sites built to turn attention into enquiries, not just look good.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "3-4 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Up to 6 unique page designs",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Mobile and tablet layouts",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Component library",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Hand-off documentation",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg?width=3680&height=2760",
+     "alt": "Corner of a black phone printed with Made for Creatives"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(03)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Framer Dev.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg?width=3680&height=2760",
+     "alt": "Corner of a black phone printed with Made for Creatives"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Framer Dev.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $4,000",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Fast, animated, and easy for you to update yourself.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2-3 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Pixel-perfect build in Framer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "CMS setup and migration",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Responsive across breakpoints",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "30-day post-launch support",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg?width=2040&height=1148",
+     "alt": "Two models with bold orange lipstick posing cheek to cheek"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(04)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Art Direction.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg?width=2040&height=1148",
+     "alt": "Two models with bold orange lipstick posing cheek to cheek"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Art Direction.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $3,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Photography, motion, and the visual language that ties everything together.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Mood and direction boards",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Shoot or motion brief",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Asset selection and edit",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Usage guidelines",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "team": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": " EST. 2012",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(05)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Meet the team",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Text",
+     "text": "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+     "preset": "framer-styles-preset-fvem1p",
+     "marks": [
+      "span:SMALL{--framer-text-color:var(--extracted-1qn201a, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}",
+      "span:STAY PICKY{--framer-text-color:var(--extracted-1fiaymt, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Team",
+     "text": "(4) Team Members",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg?width=655&height=872",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg?width=528&height=701",
+     "alt": "Portrait of Sarah Park"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Sarah Park",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Designer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg?width=528&height=701",
+     "alt": "Portrait of Alex West"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Alex West",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Client Manager",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg?width=528&height=701",
+     "alt": "Portrait of David Torres"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "David Torres",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Developer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h3",
+     "name": "Top",
+     "text": "join us, we're hiring.",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "Top",
+     "text": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Number",
+     "text": "02",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Open Positions",
+     "text": "Open Positions",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Email us",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Email us",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Team photo",
+     "src": "https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428",
+     "alt": "Studio team talking in a bright workshop"
+    }
+   ]
+  }
+ },
+ "900": {
+  "hero": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/gucci"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "alt": "Close-up of a model wearing wraparound sunglasses covered in water droplets"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "slot": true,
+     "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+     "poster": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Gucci"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/chanel"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148",
+     "alt": "Model applying face cream to her cheek against a pale background"
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Chanel"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/puma"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "alt": "Runner in a red rain jacket and black cap on a misty coastline"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "slot": true,
+     "src": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4",
+     "poster": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Puma"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/adidas"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350",
+     "alt": "Close-up of a tennis player with braids looking over her racket"
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Adidas"
+    },
+    {
+     "tag": "a",
+     "name": "Link Container",
+     "href": "./",
+     "aria-label": "home"
+    },
+    {
+     "tag": "a",
+     "name": "Small Phone",
+     "href": "./projects"
+    },
+    {
+     "tag": "p",
+     "name": "Small Phone",
+     "text": "projects",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Small Phone",
+     "text": "projects",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Count Text",
+     "text": "6",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Small Phone",
+     "href": "./studio"
+    },
+    {
+     "tag": "p",
+     "name": "Small Phone",
+     "text": "Studio",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Small Phone",
+     "text": "Studio",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "a",
+     "name": "Small Phone",
+     "href": "./journal"
+    },
+    {
+     "tag": "p",
+     "name": "Small Phone",
+     "text": "Journal",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Small Phone",
+     "text": "Journal",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Name",
+     "text": "mira"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Trademark",
+     "text": "®"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Descriptor",
+     "text": "Studio"
+    },
+    {
+     "tag": "h1",
+     "name": "Studio Introduction",
+     "text": "                      Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look.",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Location Label",
+     "text": "based in",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Los Angeles Location",
+     "text": "los angeles",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Tokyo Location",
+     "text": "tokyo",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Services Navigation Link",
+     "text": "Services",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Brand Identity",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Web Design",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Framer Dev",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Art Direction",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Contact Navigation Link",
+     "text": "let’s talk",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Phone",
+     "href": "./contact",
+     "aria-label": "contact"
+    },
+    {
+     "tag": "img",
+     "name": "Picture",
+     "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+     "alt": ""
+    }
+   ]
+  },
+  "about": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(01)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "About us",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Positioning Headline",
+     "text": "                 WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK.",
+     "preset": "framer-styles-preset-fvem1p",
+     "marks": [
+      "span:REFUSE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg?width=655&height=1001",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Philosophy Eyebrow",
+     "text": "(My philosophy)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Quote",
+     "text": "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "p",
+     "name": "Small Text",
+     "text": "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?",
+     "preset": "framer-styles-preset-10r2g7l",
+     "marks": [
+      "span:Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "a",
+     "name": "Phone Right",
+     "href": "./studio"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "See the studio",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "See the studio",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "work": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "h2",
+     "name": "Guide Message Title",
+     "text": "50 BRANDS. 14 YEARS. ONE STANDARD.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:50 BRANDS. ",
+      "<br>",
+      "span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:14 YEARS. ",
+      "<br>",
+      "span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}",
+      "strong:ONE",
+      "span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong: STANDARD."
+     ]
+    },
+    {
+     "tag": "h2",
+     "name": "Guide Message Title",
+     "text": "50 BRANDS. 14 YEARS. ONE STANDARD.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:50 BRANDS. ",
+      "<br>",
+      "span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:14 YEARS. ",
+      "<br>",
+      "span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}",
+      "strong:ONE",
+      "span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong: STANDARD."
+     ]
+    },
+    {
+     "tag": "a",
+     "name": "Desktop",
+     "href": "./projects"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+     "poster": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Text / Count",
+     "text": "See all",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Project count font",
+     "text": "6",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/V3ybBeZxp5aiQvQwxbsc72F4V4.mp4",
+     "poster": "https://framerusercontent.com/images/WigME9FAJdZx9jQu2PhxXL8Pc9M.jpg?width=1008&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/kP9y3f68sbv1icRVUmBXDlIfu0I.png?width=2400&height=1350",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/Pvg65dRGYEkffGzS24z71aAheT0.jpg?width=2040&height=1148",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/BOaxMUc8EHCGgQUwQ0NELClE1U.jpg?width=2040&height=1148",
+     "alt": ""
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4",
+     "poster": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/rjNIvMHRogDJaHfneCJlZtXM.mp4",
+     "poster": "https://framerusercontent.com/images/FbhJf8mYmDiQSJihxpqFmhRJxU.jpg?width=1080&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/AgAKhYFyXNgfrvcXhbkrSnOv8.jpg?width=2040&height=1148",
+     "alt": ""
+    }
+   ]
+  },
+  "clients": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(02)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Our clients",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Year / Rating",
+     "text": "2012 2026©",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "+47",
+     "preset": "framer-styles-preset-ss7lqy"
+    },
+    {
+     "tag": "p",
+     "name": "Rating / Stars",
+     "text": "4.9/5",
+     "preset": "framer-styles-preset-ss7lqy",
+     "marks": [
+      "strong:4.9",
+      "span:/5{--framer-text-color:var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Rating",
+     "text": "Trusted by 50+ clients",
+     "preset": "framer-styles-preset-ss7lqy",
+     "marks": [
+      "span:Trusted by{--framer-text-color:var(--extracted-1w3ko1f, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"
+     ]
+    }
+   ]
+  },
+  "whyus": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(03)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Why us",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Impact Headline",
+     "text": "why Mira® is your next choice.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:next{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Impact Supporting Copy",
+     "text": "                          WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "span:MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Impact Footnote",
+     "text": "*Across client launches from 2023 to 2026, measured over the first six months post-launch.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Logo / Text",
+     "text": "With Mira",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Top Bar",
+     "text": "+47% inbound",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Bar Graph",
+     "text": "Industry avg",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Bar",
+     "text": "+12%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "1",
+     "text": "0%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "2",
+     "text": "8%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "3",
+     "text": "16%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "4",
+     "text": "24%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "5",
+     "text": "32%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "6",
+     "text": "40%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "7",
+     "text": "48%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Start",
+     "text": "Average growth in qualified enquiries, first six months after launch",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Proof Points Heading",
+     "text": "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "strong:REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS."
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Proof Points Description",
+     "text": "Most clients come back for the next project. The rest send referrals.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "h3",
+     "name": "Brands Launched Value",
+     "text": "50+",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "Brands Launched Label",
+     "text": "brands launched",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h3",
+     "name": "On-Time Delivery Value",
+     "text": "100%",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "On-Time Delivery Label",
+     "text": "shipped on time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "01",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Metric",
+     "text": "6 Wks",
+     "preset": "framer-styles-preset-fvem1p"
+    },
+    {
+     "tag": "p",
+     "name": "Label",
+     "text": "(AVERAGE TIME TO LAUNCH)",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Description",
+     "text": "Most projects go from first call to live site in under two months.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "02",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Metric",
+     "text": "40+",
+     "preset": "framer-styles-preset-fvem1p"
+    },
+    {
+     "tag": "p",
+     "name": "Label",
+     "text": "(REFERRALS SENT BY CLIENTS)",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Description",
+     "text": "Happy clients are the only marketing channel we've ever needed.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Quote",
+     "text": "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU.",
+     "preset": "framer-styles-preset-c95aba",
+     "marks": [
+      "span:WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Author",
+     "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder, Mira",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "services": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(04)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "What we bring",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Services Heading",
+     "text": "services.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Services Description",
+     "text": "                          Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "span:Each service is priced and scoped before we start.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg?width=2392&height=1794",
+     "alt": "Hands holding OMG drink cans over a pool table"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(01)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Brand Identity.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg?width=2392&height=1794",
+     "alt": "Hands holding OMG drink cans over a pool table"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Brand Identity.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $4,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Logo, type, color, and the system that keeps it consistent everywhere it lives.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2-3 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Logo and wordmark",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Typography system",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Color palette",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Brand guidelines",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg?width=2145&height=1683",
+     "alt": "Laptop on a white chair showing a website design"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(02)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Web Design.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg?width=2145&height=1683",
+     "alt": "Laptop on a white chair showing a website design"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Web Design.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $6,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Sites built to turn attention into enquiries, not just look good.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "3-4 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Up to 6 unique page designs",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Mobile and tablet layouts",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Component library",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Hand-off documentation",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg?width=3680&height=2760",
+     "alt": "Corner of a black phone printed with Made for Creatives"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(03)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Framer Dev.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg?width=3680&height=2760",
+     "alt": "Corner of a black phone printed with Made for Creatives"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Framer Dev.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $4,000",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Fast, animated, and easy for you to update yourself.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2-3 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Pixel-perfect build in Framer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "CMS setup and migration",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Responsive across breakpoints",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "30-day post-launch support",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg?width=2040&height=1148",
+     "alt": "Two models with bold orange lipstick posing cheek to cheek"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(04)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Art Direction.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg?width=2040&height=1148",
+     "alt": "Two models with bold orange lipstick posing cheek to cheek"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Art Direction.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $3,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Photography, motion, and the visual language that ties everything together.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Mood and direction boards",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Shoot or motion brief",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Asset selection and edit",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Usage guidelines",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "team": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": " EST. 2012",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(05)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Meet the team",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Text",
+     "text": "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+     "preset": "framer-styles-preset-fvem1p",
+     "marks": [
+      "span:SMALL{--framer-text-color:var(--extracted-1qn201a, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}",
+      "span:STAY PICKY{--framer-text-color:var(--extracted-1fiaymt, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Team",
+     "text": "(4) Team Members",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg?width=655&height=872",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg?width=528&height=701",
+     "alt": "Portrait of Sarah Park"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Sarah Park",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Designer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg?width=528&height=701",
+     "alt": "Portrait of Alex West"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Alex West",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Client Manager",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg?width=528&height=701",
+     "alt": "Portrait of David Torres"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "David Torres",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Developer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h3",
+     "name": "Top",
+     "text": "join us, we're hiring.",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "Top",
+     "text": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Number",
+     "text": "02",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Open Positions",
+     "text": "Open Positions",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Email us",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Email us",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Team photo",
+     "src": "https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428",
+     "alt": "Studio team talking in a bright workshop"
+    }
+   ]
+  }
+ },
+ "1440": {
+  "hero": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/gucci"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "alt": "Close-up of a model wearing wraparound sunglasses covered in water droplets"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "slot": true,
+     "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+     "poster": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Gucci"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/chanel"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg?width=2040&height=1148",
+     "alt": "Model applying face cream to her cheek against a pale background"
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Chanel"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/puma"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "alt": "Runner in a red rain jacket and black cap on a misty coastline"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "slot": true,
+     "src": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4",
+     "poster": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Puma"
+    },
+    {
+     "tag": "a",
+     "name": "Project Card",
+     "slot": true,
+     "href": "./projects/adidas"
+    },
+    {
+     "tag": "img",
+     "name": "Cover",
+     "slot": true,
+     "src": "https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg?width=2400&height=1350",
+     "alt": "Close-up of a tennis player with braids looking over her racket"
+    },
+    {
+     "tag": "p",
+     "name": "Guide Dynamic Label",
+     "slot": true,
+     "text": "Adidas"
+    },
+    {
+     "tag": "a",
+     "name": "Link Container",
+     "href": "./",
+     "aria-label": "home"
+    },
+    {
+     "tag": "a",
+     "name": "Small",
+     "href": "./projects"
+    },
+    {
+     "tag": "p",
+     "name": "Small",
+     "text": "projects",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Small",
+     "text": "projects",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Count Text",
+     "text": "6",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Small",
+     "href": "./studio"
+    },
+    {
+     "tag": "p",
+     "name": "Small",
+     "text": "Studio",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Small",
+     "text": "Studio",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "a",
+     "name": "Small",
+     "href": "./journal"
+    },
+    {
+     "tag": "p",
+     "name": "Small",
+     "text": "Journal",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Small",
+     "text": "Journal",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Name",
+     "text": "mira"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Trademark",
+     "text": "®"
+    },
+    {
+     "tag": "p",
+     "name": "Logo Descriptor",
+     "text": "Studio"
+    },
+    {
+     "tag": "h1",
+     "name": "Studio Introduction",
+     "text": "                      Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look.",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Location Label",
+     "text": "based in",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Los Angeles Location",
+     "text": "los angeles",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Tokyo Location",
+     "text": "tokyo",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Services Navigation Link",
+     "text": "Services",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Brand Identity",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Web Design",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Framer Dev",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Dynamic Navigation Label",
+     "text": "Art Direction",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Contact Navigation Link",
+     "text": "let’s talk",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop",
+     "href": "./contact",
+     "aria-label": "contact"
+    },
+    {
+     "tag": "img",
+     "name": "Picture",
+     "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+     "alt": ""
+    }
+   ]
+  },
+  "about": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(01)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "About us",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Positioning Headline",
+     "text": "                 WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK.",
+     "preset": "framer-styles-preset-fvem1p",
+     "marks": [
+      "span:REFUSE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg?width=655&height=1001",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Philosophy Eyebrow",
+     "text": "(My philosophy)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Quote",
+     "text": "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "p",
+     "name": "Small Text",
+     "text": "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?",
+     "preset": "framer-styles-preset-10r2g7l",
+     "marks": [
+      "span:Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./studio"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "See the studio",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "See the studio",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "work": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "h2",
+     "name": "Guide Message Title",
+     "text": "50 BRANDS. 14 YEARS. ONE STANDARD.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:50 BRANDS. ",
+      "<br>",
+      "span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:14 YEARS. ",
+      "<br>",
+      "span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}",
+      "strong:ONE",
+      "span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong: STANDARD."
+     ]
+    },
+    {
+     "tag": "h2",
+     "name": "Guide Message Title",
+     "text": "50 BRANDS. 14 YEARS. ONE STANDARD.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:50 BRANDS. ",
+      "<br>",
+      "span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong:14 YEARS. ",
+      "<br>",
+      "span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}",
+      "strong:ONE",
+      "span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}",
+      "strong: STANDARD."
+     ]
+    },
+    {
+     "tag": "a",
+     "name": "Desktop",
+     "href": "./projects"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4",
+     "poster": "https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg?width=2400&height=1350",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "p",
+     "name": "Text / Count",
+     "text": "See all",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Project count font",
+     "text": "6",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/V3ybBeZxp5aiQvQwxbsc72F4V4.mp4",
+     "poster": "https://framerusercontent.com/images/WigME9FAJdZx9jQu2PhxXL8Pc9M.jpg?width=1008&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/kP9y3f68sbv1icRVUmBXDlIfu0I.png?width=2400&height=1350",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/Pvg65dRGYEkffGzS24z71aAheT0.jpg?width=2040&height=1148",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/BOaxMUc8EHCGgQUwQ0NELClE1U.jpg?width=2040&height=1148",
+     "alt": ""
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4",
+     "poster": "https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg?width=1152&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "video",
+     "name": "Uploaded Video",
+     "src": "https://framerusercontent.com/assets/rjNIvMHRogDJaHfneCJlZtXM.mp4",
+     "poster": "https://framerusercontent.com/images/FbhJf8mYmDiQSJihxpqFmhRJxU.jpg?width=1080&height=1440",
+     "loop": "",
+     "muted": "",
+     "playsinline": ""
+    },
+    {
+     "tag": "img",
+     "name": "BG Image",
+     "src": "https://framerusercontent.com/images/AgAKhYFyXNgfrvcXhbkrSnOv8.jpg?width=2040&height=1148",
+     "alt": ""
+    }
+   ]
+  },
+  "clients": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(02)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Our clients",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Year / Rating",
+     "text": "2012 2026©",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?width=640&height=640",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "+47",
+     "preset": "framer-styles-preset-ss7lqy"
+    },
+    {
+     "tag": "p",
+     "name": "Rating / Stars",
+     "text": "4.9/5",
+     "preset": "framer-styles-preset-ss7lqy",
+     "marks": [
+      "strong:4.9",
+      "span:/5{--framer-text-color:var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Rating",
+     "text": "Trusted by 50+ clients",
+     "preset": "framer-styles-preset-ss7lqy",
+     "marks": [
+      "span:Trusted by{--framer-text-color:var(--extracted-1w3ko1f, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"
+     ]
+    }
+   ]
+  },
+  "whyus": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(03)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Why us",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Impact Headline",
+     "text": "why Mira® is your next choice.",
+     "preset": "framer-styles-preset-1c0t51l",
+     "marks": [
+      "span:next{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Impact Supporting Copy",
+     "text": "                          WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "span:MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Impact Footnote",
+     "text": "*Across client launches from 2023 to 2026, measured over the first six months post-launch.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Logo / Text",
+     "text": "With Mira",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Top Bar",
+     "text": "+47% inbound",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Bar Graph",
+     "text": "Industry avg",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Bar",
+     "text": "+12%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "1",
+     "text": "0%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "2",
+     "text": "8%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "3",
+     "text": "16%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "4",
+     "text": "24%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "5",
+     "text": "32%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "6",
+     "text": "40%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "7",
+     "text": "48%",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Start",
+     "text": "Average growth in qualified enquiries, first six months after launch",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Proof Points Heading",
+     "text": "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "strong:REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS."
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Proof Points Description",
+     "text": "Most clients come back for the next project. The rest send referrals.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "h3",
+     "name": "Brands Launched Value",
+     "text": "50+",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "Brands Launched Label",
+     "text": "brands launched",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h3",
+     "name": "On-Time Delivery Value",
+     "text": "100%",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "On-Time Delivery Label",
+     "text": "shipped on time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "01",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Metric",
+     "text": "6 Wks",
+     "preset": "framer-styles-preset-fvem1p"
+    },
+    {
+     "tag": "p",
+     "name": "Label",
+     "text": "(AVERAGE TIME TO LAUNCH)",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Description",
+     "text": "Most projects go from first call to live site in under two months.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "02",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Metric",
+     "text": "40+",
+     "preset": "framer-styles-preset-fvem1p"
+    },
+    {
+     "tag": "p",
+     "name": "Label",
+     "text": "(REFERRALS SENT BY CLIENTS)",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Description",
+     "text": "Happy clients are the only marketing channel we've ever needed.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Quote",
+     "text": "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU.",
+     "preset": "framer-styles-preset-c95aba",
+     "marks": [
+      "span:WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Author",
+     "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder, Mira",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "services": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(04)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "What we bring",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Services Heading",
+     "text": "services.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Services Description",
+     "text": "                          Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start.",
+     "preset": "framer-styles-preset-1l3tbw0",
+     "marks": [
+      "span:Each service is priced and scoped before we start.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"
+     ]
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg?width=2392&height=1794",
+     "alt": "Hands holding OMG drink cans over a pool table"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(01)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Brand Identity.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg?width=2392&height=1794",
+     "alt": "Hands holding OMG drink cans over a pool table"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Brand Identity.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $4,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Logo, type, color, and the system that keeps it consistent everywhere it lives.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2-3 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Logo and wordmark",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Typography system",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Color palette",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Brand guidelines",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg?width=2145&height=1683",
+     "alt": "Laptop on a white chair showing a website design"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(02)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Web Design.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg?width=2145&height=1683",
+     "alt": "Laptop on a white chair showing a website design"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Web Design.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $6,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Sites built to turn attention into enquiries, not just look good.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "3-4 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Up to 6 unique page designs",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Mobile and tablet layouts",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Component library",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Hand-off documentation",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg?width=3680&height=2760",
+     "alt": "Corner of a black phone printed with Made for Creatives"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(03)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Framer Dev.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg?width=3680&height=2760",
+     "alt": "Corner of a black phone printed with Made for Creatives"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Framer Dev.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $4,000",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Fast, animated, and easy for you to update yourself.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2-3 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Pixel-perfect build in Framer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "CMS setup and migration",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Responsive across breakpoints",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "30-day post-launch support",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Bg Image",
+     "src": "https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg?width=2040&height=1148",
+     "alt": "Two models with bold orange lipstick posing cheek to cheek"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "S.",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(04)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Service Title",
+     "text": "Art Direction.",
+     "preset": "framer-styles-preset-ervepf"
+    },
+    {
+     "tag": "img",
+     "name": "Image / Service Title",
+     "src": "https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg?width=2040&height=1148",
+     "alt": "Two models with bold orange lipstick posing cheek to cheek"
+    },
+    {
+     "tag": "h2",
+     "name": "Title / Price",
+     "text": "Art Direction.",
+     "preset": "framer-styles-preset-1c0t51l"
+    },
+    {
+     "tag": "p",
+     "name": "Price",
+     "text": "Starts at $3,500",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Title / Description",
+     "text": "Photography, motion, and the visual language that ties everything together.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "Delivery time",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Delivery Time",
+     "text": "2 weeks",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Includes",
+     "text": "includes",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Mood and direction boards",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Shoot or motion brief",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Asset selection and edit",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Include Item",
+     "text": "Usage guidelines",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right",
+     "href": "./contact"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Start a project",
+     "preset": "framer-styles-preset-k5mxv3"
+    }
+   ]
+  },
+  "team": {
+   "roots": 1,
+   "items": [
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": " EST. 2012",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Count",
+     "text": "(05)",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Text",
+     "text": "Meet the team",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h2",
+     "name": "Text",
+     "text": "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+     "preset": "framer-styles-preset-fvem1p",
+     "marks": [
+      "span:SMALL{--framer-text-color:var(--extracted-1qn201a, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}",
+      "span:STAY PICKY{--framer-text-color:var(--extracted-1fiaymt, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}"
+     ]
+    },
+    {
+     "tag": "p",
+     "name": "Team",
+     "text": "(4) Team Members",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg?width=655&height=872",
+     "alt": "Portrait of Jin Yuen"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Jin Yuen",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Founder",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg?width=528&height=701",
+     "alt": "Portrait of Sarah Park"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Sarah Park",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Designer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg?width=528&height=701",
+     "alt": "Portrait of Alex West"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Alex West",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Client Manager",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "img",
+     "name": "Image",
+     "src": "https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg?width=528&height=701",
+     "alt": "Portrait of David Torres"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "David Torres",
+     "preset": "framer-styles-preset-1l3tbw0"
+    },
+    {
+     "tag": "p",
+     "name": "Name / Role",
+     "text": "Developer",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "h3",
+     "name": "Top",
+     "text": "join us, we're hiring.",
+     "preset": "framer-styles-preset-s3qbre"
+    },
+    {
+     "tag": "p",
+     "name": "Top",
+     "text": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+     "preset": "framer-styles-preset-lu6cf5"
+    },
+    {
+     "tag": "p",
+     "name": "Number",
+     "text": "02",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "p",
+     "name": "Open Positions",
+     "text": "Open Positions",
+     "preset": "framer-styles-preset-c95aba"
+    },
+    {
+     "tag": "a",
+     "name": "Desktop - Right"
+    },
+    {
+     "tag": "p",
+     "name": "Top Text",
+     "text": "Email us",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "p",
+     "name": "Bottom Text",
+     "text": "Email us",
+     "preset": "framer-styles-preset-k5mxv3"
+    },
+    {
+     "tag": "img",
+     "name": "Team photo",
+     "src": "https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?width=2040&height=1428",
+     "alt": "Studio team talking in a bright workshop"
+    }
+   ]
+  }
+ }
+}

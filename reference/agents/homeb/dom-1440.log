@@ -1,0 +1,14 @@
+TIMEOUT
+node:internal/modules/run_main:107
+    triggerUncaughtException(
+    ^
+
+page.evaluate: Target page, context or browser has been closed
+    at syncAnimations (C:\Users\Chris\Desktop\Lys Sama\scripts\lib\harness.mjs:209:15)
+    at advance (C:\Users\Chris\Desktop\Lys Sama\scripts\lib\harness.mjs:260:11)
+    at async gotoStable (C:\Users\Chris\Desktop\Lys Sama\scripts\lib\harness.mjs:355:3)
+    at async file:///C:/Users/Chris/Desktop/Lys%20Sama/scripts/agents/homeb/dom.mjs:16:28 {
+  log: []
+}
+
+Node.js v24.19.0

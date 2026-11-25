@@ -1,0 +1,3863 @@
+{
+ "title": "Mira - Agency & Portfolio Framer Template",
+ "metaDesc": "A dark, WebGL-driven Framer template for agencies and studios: cinematic preloader, 3D project showcase, CMS portfolio, and a live pricing calculator.",
+ "scrollHeight": 2734,
+ "texts": [
+  {
+   "tag": "p",
+   "text": "articles",
+   "html": "articles",
+   "rect": [
+    23,
+    81,
+    56.61,
+    21.84
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "articles"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(8)",
+   "html": "(8)",
+   "rect": [
+    82.61,
+    81,
+    13.98,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(245, 45, 15)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(8)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(2012-26©)",
+   "html": "(2012-26©)",
+   "rect": [
+    295.39,
+    81,
+    71.61,
+    21.84
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "(2012-26©)"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "our Journal.",
+   "html": "our Journal.",
+   "rect": [
+    23,
+    162.84,
+    344,
+    45
+   ],
+   "font": "\"Mona Sans Variable\"|400|50px|45px|-1px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "our"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "                           Notes from the studio on process, craft, and the work behind the work. ",
+   "rect": [
+    23,
+    237.84,
+    344,
+    43.69
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(104, 104, 104)|justify|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Notes",
+    "craft,"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Studio Notes)",
+   "html": "(Studio Notes)",
+   "rect": [
+    23,
+    341.53,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Fewer projects, more attention.",
+   "html": "Fewer projects, more attention.",
+   "rect": [
+    23,
+    497.53,
+    162,
+    43.69
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Fewer",
+    "more"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "6/15/26",
+   "html": "<time datetime=\"2026-06-15T00:00:00.000Z\">6/15/26</time>",
+   "rect": [
+    23,
+    546.22,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "6/15/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "6/15/26",
+   "html": "6/15/26",
+   "rect": [
+    23,
+    544.22,
+    42.44,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "6/15/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Process)",
+   "html": "(Process)",
+   "rect": [
+    23,
+    604.22,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Process)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Why we quote fixed.",
+   "html": "Why we quote fixed.",
+   "rect": [
+    23,
+    738.38,
+    162,
+    21.84
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Why"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "4/3/26",
+   "html": "<time datetime=\"2026-04-03T00:00:00.000Z\">4/3/26</time>",
+   "rect": [
+    23,
+    765.22,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "4/3/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "4/3/26",
+   "html": "4/3/26",
+   "rect": [
+    23,
+    763.22,
+    37.64,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "4/3/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Studio Notes)",
+   "html": "(Studio Notes)",
+   "rect": [
+    23,
+    823.22,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "On saying no.",
+   "html": "On saying no.",
+   "rect": [
+    23,
+    1011.73,
+    162,
+    21.84
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "On"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "2/18/26",
+   "html": "<time datetime=\"2026-02-18T00:00:00.000Z\">2/18/26</time>",
+   "rect": [
+    23,
+    1038.58,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "2/18/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "2/18/26",
+   "html": "2/18/26",
+   "rect": [
+    23,
+    1036.58,
+    42.17,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "2/18/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Craft)",
+   "html": "(Craft)",
+   "rect": [
+    23,
+    1096.58,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Craft)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Small looks expensive.",
+   "html": "Small looks expensive.",
+   "rect": [
+    23,
+    1342.08,
+    162,
+    21.84
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Small"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "12/12/25",
+   "html": "<time datetime=\"2025-12-12T00:00:00.000Z\">12/12/25</time>",
+   "rect": [
+    23,
+    1368.92,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "12/12/25"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "12/12/25",
+   "html": "12/12/25",
+   "rect": [
+    23,
+    1366.92,
+    46.5,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "12/12/25"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Opinion)",
+   "html": "(Opinion)",
+   "rect": [
+    205,
+    341.53,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Opinion)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Awards don't build brands.",
+   "html": "Awards don't build brands.",
+   "rect": [
+    205,
+    599.56,
+    162,
+    43.69
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Awards",
+    "build"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "5/5/26",
+   "html": "<time datetime=\"2026-05-05T00:00:00.000Z\">5/5/26</time>",
+   "rect": [
+    205,
+    648.25,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "5/5/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "5/5/26",
+   "html": "5/5/26",
+   "rect": [
+    205,
+    646.25,
+    37.38,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "5/5/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Craft)",
+   "html": "(Craft)",
+   "rect": [
+    205,
+    706.25,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Craft)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "The best type is invisible.",
+   "html": "The best type is invisible.",
+   "rect": [
+    205,
+    964.36,
+    162,
+    43.69
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "The",
+    "is"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "3/20/26",
+   "html": "<time datetime=\"2026-03-20T00:00:00.000Z\">3/20/26</time>",
+   "rect": [
+    205,
+    1013.05,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "3/20/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "3/20/26",
+   "html": "3/20/26",
+   "rect": [
+    205,
+    1011.05,
+    44.11,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "3/20/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Process)",
+   "html": "(Process)",
+   "rect": [
+    205,
+    1071.05,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Process)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "The brief before the brief.",
+   "html": "The brief before the brief.",
+   "rect": [
+    205,
+    1320.45,
+    162,
+    43.69
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "The",
+    "the"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "1/28/26",
+   "html": "<time datetime=\"2026-01-28T00:00:00.000Z\">1/28/26</time>",
+   "rect": [
+    205,
+    1369.14,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "1/28/26"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "1/28/26",
+   "html": "1/28/26",
+   "rect": [
+    205,
+    1367.14,
+    42.06,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "1/28/26"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(Opinion)",
+   "html": "(Opinion)",
+   "rect": [
+    205,
+    1427.14,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(Opinion)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "The founder is the brand.",
+   "html": "The founder is the brand.",
+   "rect": [
+    205,
+    1713.14,
+    162,
+    43.69
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "The",
+    "is"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "11/4/25",
+   "html": "<time datetime=\"2025-11-04T00:00:00.000Z\">11/4/25</time>",
+   "rect": [
+    205,
+    1761.83,
+    162,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "11/4/25"
+   ]
+  },
+  {
+   "tag": "time",
+   "text": "11/4/25",
+   "html": "11/4/25",
+   "rect": [
+    205,
+    1759.83,
+    39.67,
+    21
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "11/4/25"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    23,
+    75,
+    54.78,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    23,
+    120,
+    54.78,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    23,
+    113,
+    91.75,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    23,
+    158,
+    91.75,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(6)",
+   "html": "(6)",
+   "rect": [
+    116.75,
+    113,
+    13.98,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(245, 45, 15)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(6)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    23,
+    151,
+    69.11,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    23,
+    196,
+    69.11,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    23,
+    189,
+    83.36,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    23,
+    234,
+    83.36,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(255, 255, 255)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "let's talk",
+   "html": "let's talk",
+   "rect": [
+    23,
+    262,
+    56.33,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(188, 188, 188)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "let's"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    205,
+    1859.83,
+    54.78,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Home",
+   "html": "Home",
+   "rect": [
+    205,
+    1904.83,
+    54.78,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Home"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    205,
+    1897.83,
+    91.75,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "projects",
+   "html": "projects",
+   "rect": [
+    205,
+    1942.83,
+    91.75,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "projects"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "(6)",
+   "html": "(6)",
+   "rect": [
+    298.75,
+    1897.83,
+    13.98,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(245, 45, 15)|left|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "(6)"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    205,
+    1935.83,
+    69.11,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    205,
+    1980.83,
+    69.11,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    205,
+    1973.83,
+    83.36,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Journal",
+   "html": "Journal",
+   "rect": [
+    205,
+    2018.83,
+    83.36,
+    33
+   ],
+   "font": "\"Mona Sans Variable\"|400|30px|33px|-0.6px|rgb(13, 13, 13)|start|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "Journal"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "mira",
+   "html": "mira",
+   "rect": [
+    23.01,
+    2118.02,
+    343.98,
+    162.22
+   ],
+   "font": "\"Mona Sans Variable\"|400|231.436px|185.149px|-4.62872px|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "mira"
+   ]
+  },
+  {
+   "tag": "h1",
+   "text": "®",
+   "html": "®",
+   "rect": [
+    348.08,
+    2129.85,
+    17.19,
+    24.68
+   ],
+   "font": "\"Mona Sans Variable\"|400|41.0244px|28.7171px|normal|rgb(13, 13, 13)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "®"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Studio",
+   "html": "Studio",
+   "rect": [
+    212.2,
+    2237.44,
+    154.79,
+    42.42
+   ],
+   "font": "Smooch|400|77.7897px|48.2296px|normal|rgb(245, 45, 15)|start|normal",
+   "lines": [
+    "Studio"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW.",
+   "rect": [
+    23,
+    2310.09,
+    344,
+    65.53
+   ],
+   "font": "\"Mona Sans Variable\"|400|19px|21.85px|-0.19px|rgb(104, 104, 104)|justify|\"wdth\" 75, \"wght\" 675",
+   "lines": [
+    "A",
+    "the",
+    "occasional"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Join Now",
+   "html": "Join Now",
+   "rect": [
+    296.03,
+    2428.63,
+    53.97,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Join"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Join Now",
+   "html": "Join Now",
+   "rect": [
+    296.03,
+    2448.63,
+    53.97,
+    20.41
+   ],
+   "font": "\"Mona Sans Variable\"|400|17px|20.4px|-0.17px|rgb(255, 255, 255)|left|\"wdth\" 75, \"wght\" 700",
+   "lines": [
+    "Join"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "By signing up, you’re agreeing to our privacy policy.",
+   "html": "By signing up, you’re agreeing to our <!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"./privacy-policy\">privacy policy.</a><!--/$-->",
+   "rect": [
+    43,
+    2474.03,
+    324,
+    18.2
+   ],
+   "font": "Switzer|600|13px|18.2px|-0.26px|rgb(104, 104, 104)|start|normal",
+   "lines": [
+    "By"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "legal",
+   "html": "legal",
+   "rect": [
+    205,
+    2696.23,
+    32.91,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "legal"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Privacy Policy.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"./privacy-policy\">Privacy Policy.</a><!--/$-->",
+   "rect": [
+    252.91,
+    2634.23,
+    114.09,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Privacy"
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Terms & Conditions.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"./terms-conditions\">Terms &amp; Conditions.</a><!--/$-->",
+   "rect": [
+    252.91,
+    2656.23,
+    114.09,
+    36
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Terms",
+    "Conditions."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "Cookies.",
+   "html": "<!--$--><a class=\"framer-text framer-styles-preset-7b2rcp\" data-styles-preset=\"qvtlHqCqz\" href=\"./cookie-policy\">Cookies.</a><!--/$-->",
+   "rect": [
+    252.91,
+    2696.23,
+    114.09,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(13, 13, 13)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "Cookies."
+   ]
+  },
+  {
+   "tag": "p",
+   "text": "let’s talk",
+   "html": "let’s talk",
+   "rect": [
+    23,
+    2576.23,
+    56.56,
+    18
+   ],
+   "font": "\"Mona Sans Variable\"|400|15px|18px|-0.15px|rgb(104, 104, 104)|start|\"wdth\" 80, \"wght\" 700",
+   "lines": [
+    "let’s"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "text": "(Studio Notes)Fewer projects, more attention.6/15/26",
+   "href": "./journal/fewer-projects-more-attention",
+   "target": null,
+   "rect": [
+    23,
+    341.53,
+    162,
+    222.69
+   ]
+  },
+  {
+   "text": "(Process)Why we quote fixed.4/3/26",
+   "href": "./journal/why-we-quote-fixed",
+   "target": null,
+   "rect": [
+    23,
+    604.22,
+    162,
+    179
+   ]
+  },
+  {
+   "text": "(Studio Notes)On saying no.2/18/26",
+   "href": "./journal/on-saying-no",
+   "target": null,
+   "rect": [
+    23,
+    823.22,
+    162,
+    233.36
+   ]
+  },
+  {
+   "text": "(Craft)Small looks expensive.12/12/25",
+   "href": "./journal/small-looks-expensive",
+   "target": null,
+   "rect": [
+    23,
+    1096.58,
+    162,
+    290.34
+   ]
+  },
+  {
+   "text": "(Opinion)Awards don't build brands.5/5/26",
+   "href": "./journal/awards-dont-build-brands",
+   "target": null,
+   "rect": [
+    205,
+    341.53,
+    162,
+    324.72
+   ]
+  },
+  {
+   "text": "(Craft)The best type is invisible.3/20/26",
+   "href": "./journal/the-best-type-is-invisible",
+   "target": null,
+   "rect": [
+    205,
+    706.25,
+    162,
+    324.8
+   ]
+  },
+  {
+   "text": "(Process)The brief before the brief.1/28/26",
+   "href": "./journal/the-brief-before-the-brief",
+   "target": null,
+   "rect": [
+    205,
+    1071.05,
+    162,
+    316.09
+   ]
+  },
+  {
+   "text": "(Opinion)The founder is the brand.11/4/25",
+   "href": "./journal/the-founder-is-the-brand",
+   "target": null,
+   "rect": [
+    205,
+    1427.14,
+    162,
+    352.69
+   ]
+  },
+  {
+   "text": "",
+   "href": "./",
+   "target": null,
+   "rect": [
+    23,
+    23,
+    65,
+    17.97
+   ]
+  },
+  {
+   "text": "HomeHome",
+   "href": "./",
+   "target": null,
+   "rect": [
+    23,
+    75,
+    344,
+    33
+   ]
+  },
+  {
+   "text": "projectsprojects(6)",
+   "href": "./projects",
+   "target": null,
+   "rect": [
+    23,
+    113,
+    344,
+    33
+   ]
+  },
+  {
+   "text": "StudioStudio",
+   "href": "./studio",
+   "target": null,
+   "rect": [
+    23,
+    151,
+    344,
+    33
+   ]
+  },
+  {
+   "text": "JournalJournal",
+   "href": "./journal",
+   "target": null,
+   "rect": [
+    23,
+    189,
+    344,
+    33
+   ]
+  },
+  {
+   "text": "",
+   "href": "./contact",
+   "target": null,
+   "rect": [
+    23,
+    295,
+    150,
+    42
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "rect": [
+    23,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "rect": [
+    53,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "rect": [
+    83,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "rect": [
+    113,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "text": "",
+   "href": "./",
+   "target": null,
+   "rect": [
+    23,
+    1859.83,
+    70,
+    24.36
+   ]
+  },
+  {
+   "text": "HomeHome",
+   "href": "./",
+   "target": null,
+   "rect": [
+    205,
+    1859.83,
+    162,
+    33
+   ]
+  },
+  {
+   "text": "projectsprojects(6)",
+   "href": "./projects",
+   "target": null,
+   "rect": [
+    205,
+    1897.83,
+    162,
+    33
+   ]
+  },
+  {
+   "text": "StudioStudio",
+   "href": "./studio",
+   "target": null,
+   "rect": [
+    205,
+    1935.83,
+    162,
+    33
+   ]
+  },
+  {
+   "text": "JournalJournal",
+   "href": "./journal",
+   "target": null,
+   "rect": [
+    205,
+    1973.83,
+    162,
+    33
+   ]
+  },
+  {
+   "text": "privacy policy.",
+   "href": "./privacy-policy",
+   "target": null,
+   "rect": [
+    251.72,
+    2475.03,
+    81.41,
+    16
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "rect": [
+    23,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "rect": [
+    55,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "rect": [
+    87,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "rect": [
+    119,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "text": "Privacy Policy.",
+   "href": "./privacy-policy",
+   "target": null,
+   "rect": [
+    252.91,
+    2632.23,
+    90.09,
+    21
+   ]
+  },
+  {
+   "text": "Terms & Conditions.",
+   "href": "./terms-conditions",
+   "target": null,
+   "rect": [
+    252.91,
+    2654.23,
+    69.67,
+    39
+   ]
+  },
+  {
+   "text": "Cookies.",
+   "href": "./cookie-policy",
+   "target": null,
+   "rect": [
+    252.91,
+    2694.23,
+    50.36,
+    21
+   ]
+  },
+  {
+   "text": "",
+   "href": "./contact",
+   "target": null,
+   "rect": [
+    94.56,
+    2552.23,
+    272.44,
+    42
+   ]
+  }
+ ],
+ "imgs": [
+  {
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    369.53,
+    162,
+    113
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    369.53,
+    162,
+    113
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    632.22,
+    162,
+    91.16
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    632.22,
+    162,
+    91.16
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg?width=1278&height=1148",
+   "alt": "Figure in a white hood sitting cross-legged with a red light across the eyes",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    851.22,
+    162,
+    145.52
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/k15t4NH13VUuxLJcDCP4aIums.jpg?width=1278&height=1148",
+   "alt": "Figure in a white hood sitting cross-legged with a red light across the eyes",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    851.21,
+    162,
+    145.52
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/1I2rFExVypdmLtMAuiNjBMIHg.jpg?width=1632&height=2040",
+   "alt": "Woman leaning out of a vintage car in the mountains",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    1124.58,
+    162,
+    202.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/1I2rFExVypdmLtMAuiNjBMIHg.jpg?width=1632&height=2040",
+   "alt": "Woman leaning out of a vintage car in the mountains",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    23,
+    1124.58,
+    162,
+    202.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    369.53,
+    162,
+    215.03
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    369.53,
+    162,
+    215.03
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    734.25,
+    162,
+    215.11
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    734.24,
+    162,
+    215.11
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/3WFEUak51uY8vHBvH8hhaIvI.jpg?width=901&height=1148",
+   "alt": "Woman in a white outfit walking with a handbag against a white wall",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    1099.05,
+    162,
+    206.41
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/3WFEUak51uY8vHBvH8hhaIvI.jpg?width=901&height=1148",
+   "alt": "Woman in a white outfit walking with a handbag against a white wall",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    1099.05,
+    162,
+    206.41
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg?width=1360&height=2040",
+   "alt": "Blurred colorful flower against a grey background",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    1455.14,
+    162,
+    243
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/2eiFPxAgnGHeZbpcEWbmMREckg.jpg?width=1360&height=2040",
+   "alt": "Blurred colorful flower against a grey background",
+   "sizes": "(min-width: 1200px) max(max(100vw, 1px), 100vw), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(100vw, 1px), 100vw)",
+   "rect": [
+    205,
+    1455.14,
+    162,
+    243
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px",
+   "rect": [
+    28,
+    300,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  },
+  {
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px",
+   "rect": [
+    99.56,
+    2557.23,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "filter": "none",
+   "transform": "none"
+  }
+ ],
+ "buttons": [
+  {
+   "aria": null,
+   "rect": [
+    283.03,
+    2419.63,
+    79.97,
+    38.41
+   ],
+   "style": "opacity:0.75"
+  }
+ ],
+ "body": null,
+ "cardLinks": [
+  {
+   "href": "./journal/fewer-projects-more-attention",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Studio Notes)Fewer projects, more attention.6/15/26",
+   "parentName": "Phone"
+  },
+  {
+   "href": "./journal/why-we-quote-fixed",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Process)Why we quote fixed.4/3/26",
+   "parentName": "Phone"
+  },
+  {
+   "href": "./journal/on-saying-no",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Studio Notes)On saying no.2/18/26",
+   "parentName": "Phone"
+  },
+  {
+   "href": "./journal/small-looks-expensive",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Craft)Small looks expensive.12/12/25",
+   "parentName": "Phone"
+  },
+  {
+   "href": "./journal/awards-dont-build-brands",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Opinion)Awards don't build brands.5/5/26",
+   "parentName": "Phone"
+  },
+  {
+   "href": "./journal/the-best-type-is-invisible",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Craft)The best type is invisible.3/20/26",
+   "parentName": "Phone"
+  },
+  {
+   "href": "./journal/the-brief-before-the-brief",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Process)The brief before the brief.1/28/26",
+   "parentName": "Phone"
+  },
+  {
+   "href": "./journal/the-founder-is-the-brand",
+   "cls": "framer-qXCbS framer-Me6vv framer-yTVl5 framer-n8zo7t framer-v-fcep5 framer-1e4az23",
+   "visible": true,
+   "text": "(Opinion)The founder is the brand.11/4/25",
+   "parentName": "Phone"
+  }
+ ],
+ "named": [
+  {
+   "name": "Main",
+   "tag": "main",
+   "cls": "framer-vk992d",
+   "rect": [
+    0,
+    0,
+    390,
+    1839.83
+   ]
+  },
+  {
+   "name": "Content",
+   "tag": "div",
+   "cls": "framer-w36nlq",
+   "rect": [
+    0,
+    0,
+    390,
+    1839.83
+   ]
+  },
+  {
+   "name": "Header",
+   "tag": "section",
+   "cls": "framer-hsv7p6",
+   "rect": [
+    0,
+    0,
+    390,
+    341.53
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-1w6hea",
+   "rect": [
+    0,
+    81,
+    390,
+    260.53
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "header",
+   "cls": "framer-1tto8yq",
+   "rect": [
+    23,
+    81,
+    344,
+    21.84
+   ]
+  },
+  {
+   "name": "Article Count",
+   "tag": "div",
+   "cls": "framer-t46hau",
+   "rect": [
+    23,
+    81,
+    253,
+    21.84
+   ]
+  },
+  {
+   "name": "Article Count Font",
+   "tag": "div",
+   "cls": "framer-14j50wt",
+   "rect": [
+    82.61,
+    81,
+    13.98,
+    18
+   ]
+  },
+  {
+   "name": "Big",
+   "tag": "div",
+   "cls": "framer-w6BnQ.framer-yTVl5.framer-Me6vv.framer-162pug6.framer-v-162pug6",
+   "rect": [
+    295.39,
+    81,
+    71.61,
+    21.84
+   ]
+  },
+  {
+   "name": "Heading",
+   "tag": "div",
+   "cls": "framer-ljl91v",
+   "rect": [
+    23,
+    162.84,
+    344,
+    118.69
+   ]
+  },
+  {
+   "name": "Heading / Description",
+   "tag": "div",
+   "cls": "framer-1tp47vp",
+   "rect": [
+    23,
+    162.84,
+    344,
+    118.69
+   ]
+  },
+  {
+   "name": "Articles",
+   "tag": "section",
+   "cls": "framer-ciy0ua",
+   "rect": [
+    0,
+    341.53,
+    390,
+    1498.3
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-15hfomq",
+   "rect": [
+    0,
+    341.53,
+    390,
+    1438.3
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    23,
+    341.53,
+    162,
+    222.69
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    23,
+    341.53,
+    162,
+    141
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    23,
+    341.53,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    23,
+    369.53,
+    162,
+    113
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    23,
+    369.53,
+    162,
+    113
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    23,
+    497.53,
+    162,
+    66.69
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    23,
+    546.22,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    23,
+    604.22,
+    162,
+    179
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    23,
+    604.22,
+    162,
+    119.16
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    23,
+    604.22,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    23,
+    632.22,
+    162,
+    91.16
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    23,
+    632.22,
+    162,
+    91.16
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    23,
+    738.38,
+    162,
+    44.84
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    23,
+    765.22,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    23,
+    823.22,
+    162,
+    233.36
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    23,
+    823.22,
+    162,
+    173.52
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    23,
+    823.22,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    23,
+    851.22,
+    162,
+    145.52
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    23,
+    851.22,
+    162,
+    145.52
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    23,
+    1011.73,
+    162,
+    44.84
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    23,
+    1038.58,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    23,
+    1096.58,
+    162,
+    290.34
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    23,
+    1096.58,
+    162,
+    230.5
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    23,
+    1096.58,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    23,
+    1124.58,
+    162,
+    202.5
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    23,
+    1124.58,
+    162,
+    202.5
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    23,
+    1342.08,
+    162,
+    44.84
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    23,
+    1368.92,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    205,
+    341.53,
+    162,
+    324.72
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    205,
+    341.53,
+    162,
+    243.03
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    205,
+    341.53,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    205,
+    369.53,
+    162,
+    215.03
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    205,
+    369.53,
+    162,
+    215.03
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    205,
+    599.56,
+    162,
+    66.69
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    205,
+    648.25,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    205,
+    706.25,
+    162,
+    324.8
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    205,
+    706.25,
+    162,
+    243.11
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    205,
+    706.25,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    205,
+    734.25,
+    162,
+    215.11
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    205,
+    734.25,
+    162,
+    215.11
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    205,
+    964.36,
+    162,
+    66.69
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    205,
+    1013.05,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    205,
+    1071.05,
+    162,
+    316.09
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    205,
+    1071.05,
+    162,
+    234.41
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    205,
+    1071.05,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    205,
+    1099.05,
+    162,
+    206.41
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    205,
+    1099.05,
+    162,
+    206.41
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    205,
+    1320.45,
+    162,
+    66.69
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    205,
+    1369.14,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-qXCbS.framer-Me6vv.framer-yTVl5.framer-n8zo7t.framer-v-fcep5.framer-1e4az23",
+   "rect": [
+    205,
+    1427.14,
+    162,
+    352.69
+   ]
+  },
+  {
+   "name": "Category / Image",
+   "tag": "div",
+   "cls": "framer-1mffi2y",
+   "rect": [
+    205,
+    1427.14,
+    162,
+    271
+   ]
+  },
+  {
+   "name": "Category",
+   "tag": "div",
+   "cls": "framer-kdqgfg",
+   "rect": [
+    205,
+    1427.14,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Image Container",
+   "tag": "div",
+   "cls": "framer-v9hp8k",
+   "rect": [
+    205,
+    1455.14,
+    162,
+    243
+   ]
+  },
+  {
+   "name": "Bg Image",
+   "tag": "div",
+   "cls": "framer-yme2qk",
+   "rect": [
+    205,
+    1455.14,
+    162,
+    243
+   ]
+  },
+  {
+   "name": "Title / Date",
+   "tag": "div",
+   "cls": "framer-3pqa2g",
+   "rect": [
+    205,
+    1713.14,
+    162,
+    66.69
+   ]
+  },
+  {
+   "name": "Date",
+   "tag": "div",
+   "cls": "framer-1kgjso1",
+   "rect": [
+    205,
+    1761.83,
+    162,
+    18
+   ]
+  },
+  {
+   "name": "Shared Navigation",
+   "tag": "div",
+   "cls": "framer-9ihltw-container",
+   "rect": [
+    0,
+    0,
+    390,
+    900
+   ]
+  },
+  {
+   "name": "Phone Closed",
+   "tag": "div",
+   "cls": "framer-tVn1f.framer-Me6vv.framer-cnvg8h.framer-v-1s6eirn",
+   "rect": [
+    0,
+    0,
+    390,
+    900
+   ]
+  },
+  {
+   "name": "Side Nav",
+   "tag": "nav",
+   "cls": "framer-3der5",
+   "rect": [
+    6,
+    6,
+    378,
+    51.97
+   ]
+  },
+  {
+   "name": "SideBar",
+   "tag": "div",
+   "cls": "framer-1wba9e6",
+   "rect": [
+    6,
+    6,
+    378,
+    51.97
+   ]
+  },
+  {
+   "name": "Phone Logo Container",
+   "tag": "a",
+   "cls": "framer-ij0712.framer-1naqc9k",
+   "rect": [
+    23,
+    23,
+    65,
+    17.97
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-1xjrc.framer-1fcg7o3",
+   "rect": [
+    23,
+    23,
+    65,
+    17.97
+   ]
+  },
+  {
+   "name": "Closed",
+   "tag": "div",
+   "cls": "framer-bQHEq.framer-1hlzttn.framer-v-1hlzttn",
+   "rect": [
+    351,
+    23.98,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Hamburger",
+   "tag": "div",
+   "cls": "framer-t6cidc",
+   "rect": [
+    351,
+    23.98,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-19kq29j",
+   "rect": [
+    351,
+    23.98,
+    16,
+    7
+   ]
+  },
+  {
+   "name": "1",
+   "tag": "div",
+   "cls": "framer-ij8d5t",
+   "rect": [
+    351,
+    23.98,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "2",
+   "tag": "div",
+   "cls": "framer-1oucckw",
+   "rect": [
+    360,
+    23.98,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-17en59d",
+   "rect": [
+    351,
+    32.98,
+    16,
+    7
+   ]
+  },
+  {
+   "name": "3",
+   "tag": "div",
+   "cls": "framer-1ihbq2i",
+   "rect": [
+    351,
+    32.98,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "4",
+   "tag": "div",
+   "cls": "framer-xca395",
+   "rect": [
+    360,
+    32.98,
+    7,
+    7
+   ]
+  },
+  {
+   "name": "Menu",
+   "tag": "div",
+   "cls": "framer-tk3v71",
+   "rect": [
+    6,
+    58,
+    378,
+    442.19
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-19orxsl",
+   "rect": [
+    23,
+    75,
+    344,
+    262
+   ]
+  },
+  {
+   "name": "Nav. Items",
+   "tag": "div",
+   "cls": "framer-c5vrme",
+   "rect": [
+    23,
+    75,
+    344,
+    262
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "div",
+   "cls": "framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6",
+   "rect": [
+    23,
+    75,
+    344,
+    147
+   ]
+  },
+  {
+   "name": "Home",
+   "tag": "div",
+   "cls": "framer-ade1jf-container",
+   "rect": [
+    23,
+    75,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    23,
+    75,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Projects",
+   "tag": "div",
+   "cls": "framer-f4luyz-container",
+   "rect": [
+    23,
+    113,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    23,
+    113,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Count Text",
+   "tag": "div",
+   "cls": "framer-12mewa9",
+   "rect": [
+    116.75,
+    113,
+    13.98,
+    18
+   ]
+  },
+  {
+   "name": "Studio",
+   "tag": "div",
+   "cls": "framer-1kxedq2-container",
+   "rect": [
+    23,
+    151,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    23,
+    151,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Journal",
+   "tag": "div",
+   "cls": "framer-9r7k9d-container",
+   "rect": [
+    23,
+    189,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    23,
+    189,
+    344,
+    33
+   ]
+  },
+  {
+   "name": "Contact",
+   "tag": "div",
+   "cls": "framer-3g7ymn",
+   "rect": [
+    23,
+    262,
+    344,
+    75
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug",
+   "rect": [
+    23,
+    295,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Button",
+   "tag": "div",
+   "cls": "framer-dczzwc",
+   "rect": [
+    23,
+    295,
+    150,
+    42
+   ]
+  },
+  {
+   "name": "Picture",
+   "tag": "div",
+   "cls": "framer-154bepi",
+   "rect": [
+    28,
+    300,
+    32,
+    32
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-5dotip",
+   "rect": [
+    23,
+    417,
+    344,
+    66.19
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "div",
+   "cls": "framer-shGv8.framer-4tnhfa.framer-v-5pv308",
+   "rect": [
+    23,
+    417,
+    344,
+    15
+   ]
+  },
+  {
+   "name": "X",
+   "tag": "div",
+   "cls": "framer-17kf78c-container",
+   "rect": [
+    23,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-1qy02dt",
+   "rect": [
+    23,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    23,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-LAEqS.framer-1fo7tgr",
+   "rect": [
+    23,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "IG",
+   "tag": "div",
+   "cls": "framer-1smje0b-container",
+   "rect": [
+    53,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-1qy02dt",
+   "rect": [
+    53,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    53,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-uZnUQ.framer-1fo7tgr",
+   "rect": [
+    53,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Dribbble",
+   "tag": "div",
+   "cls": "framer-t1kefs-container",
+   "rect": [
+    83,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-1qy02dt",
+   "rect": [
+    83,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    83,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-K6Gdb.framer-1fo7tgr",
+   "rect": [
+    83,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Behance",
+   "tag": "div",
+   "cls": "framer-1cdugcb-container",
+   "rect": [
+    113,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-1qy02dt",
+   "rect": [
+    113,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    113,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-lYLYO.framer-1fo7tgr",
+   "rect": [
+    113,
+    417,
+    15,
+    15
+   ]
+  },
+  {
+   "name": "Footer",
+   "tag": "div",
+   "cls": "framer-ubdqd9",
+   "rect": [
+    0,
+    1839.83,
+    390,
+    894.41
+   ]
+  },
+  {
+   "name": "Footer",
+   "tag": "section",
+   "cls": "framer-1064shm",
+   "rect": [
+    0,
+    1839.83,
+    390,
+    894.41
+   ]
+  },
+  {
+   "name": "Inside Container",
+   "tag": "div",
+   "cls": "framer-aqqavh",
+   "rect": [
+    0,
+    1859.83,
+    390,
+    854.41
+   ]
+  },
+  {
+   "name": "Top",
+   "tag": "div",
+   "cls": "framer-112av23",
+   "rect": [
+    23,
+    1859.83,
+    344,
+    147
+   ]
+  },
+  {
+   "name": "Shared Navigation Logo",
+   "tag": "div",
+   "cls": "framer-1e616zs-container",
+   "rect": [
+    23,
+    1859.83,
+    70,
+    24.36
+   ]
+  },
+  {
+   "name": "Link Container",
+   "tag": "a",
+   "cls": "framer-fjOy7.framer-gesna7.framer-v-gesna7.framer-9gdys1",
+   "rect": [
+    23,
+    1859.83,
+    70,
+    24.36
+   ]
+  },
+  {
+   "name": "Logo",
+   "tag": "div",
+   "cls": "framer-SHtMX.framer-7h3po8",
+   "rect": [
+    23,
+    1864.83,
+    70,
+    19.36
+   ]
+  },
+  {
+   "name": "Shared Navigation Links",
+   "tag": "div",
+   "cls": "framer-3m3d8l-container",
+   "rect": [
+    205,
+    1859.83,
+    162,
+    147
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "div",
+   "cls": "framer-Z2aNj.framer-fvp1dl.framer-v-1mkgfd6",
+   "rect": [
+    205,
+    1859.83,
+    162,
+    147
+   ]
+  },
+  {
+   "name": "Home",
+   "tag": "div",
+   "cls": "framer-ade1jf-container",
+   "rect": [
+    205,
+    1859.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    205,
+    1859.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Projects",
+   "tag": "div",
+   "cls": "framer-f4luyz-container",
+   "rect": [
+    205,
+    1897.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    205,
+    1897.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Count Text",
+   "tag": "div",
+   "cls": "framer-12mewa9",
+   "rect": [
+    298.75,
+    1897.83,
+    13.98,
+    18
+   ]
+  },
+  {
+   "name": "Studio",
+   "tag": "div",
+   "cls": "framer-1kxedq2-container",
+   "rect": [
+    205,
+    1935.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    205,
+    1935.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Journal",
+   "tag": "div",
+   "cls": "framer-9r7k9d-container",
+   "rect": [
+    205,
+    1973.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Large Phone",
+   "tag": "a",
+   "cls": "framer-2YuhP.framer-7E2P2.framer-yTVl5.framer-QoPvp.framer-Me6vv.framer-h4zf60.framer-v-oklurg.framer-5e3077",
+   "rect": [
+    205,
+    1973.83,
+    162,
+    33
+   ]
+  },
+  {
+   "name": "Middle",
+   "tag": "div",
+   "cls": "framer-10uqj7m",
+   "rect": [
+    23,
+    2066.83,
+    344,
+    425.41
+   ]
+  },
+  {
+   "name": "Text Container",
+   "tag": "div",
+   "cls": "framer-10tu5xj",
+   "rect": [
+    23,
+    2066.83,
+    344,
+    425.41
+   ]
+  },
+  {
+   "name": "Copyright Notice",
+   "tag": "div",
+   "cls": "framer-1j72mo7-container",
+   "rect": [
+    23,
+    2066.83,
+    96.94,
+    31.19
+   ]
+  },
+  {
+   "name": "Name / Description",
+   "tag": "div",
+   "cls": "framer-odwucj",
+   "rect": [
+    23,
+    2118.02,
+    344,
+    374.22
+   ]
+  },
+  {
+   "name": "Name",
+   "tag": "div",
+   "cls": "framer-ab2qu1",
+   "rect": [
+    23,
+    2118.02,
+    344,
+    162.08
+   ]
+  },
+  {
+   "name": "Name / R Symbol",
+   "tag": "div",
+   "cls": "framer-g8f7gt",
+   "rect": [
+    23,
+    2118.02,
+    344,
+    162.08
+   ]
+  },
+  {
+   "name": "Footer Logo Name",
+   "tag": "svg",
+   "cls": "framer-ibnepj",
+   "rect": [
+    23,
+    2118.02,
+    344,
+    162.08
+   ]
+  },
+  {
+   "name": "R Symbol",
+   "tag": "div",
+   "cls": "framer-grnsur",
+   "rect": [
+    348.08,
+    2129.85,
+    17.19,
+    24.92
+   ]
+  },
+  {
+   "name": "Footer Logo Trademark",
+   "tag": "svg",
+   "cls": "framer-hhlsu5",
+   "rect": [
+    348.08,
+    2129.85,
+    17.19,
+    24.92
+   ]
+  },
+  {
+   "name": "Footer Logo Descriptor",
+   "tag": "svg",
+   "cls": "framer-1xn72o7",
+   "rect": [
+    212.2,
+    2237.44,
+    154.8,
+    42.66
+   ]
+  },
+  {
+   "name": "Description / Newsletter",
+   "tag": "div",
+   "cls": "framer-tr2r27",
+   "rect": [
+    23,
+    2310.09,
+    344,
+    182.14
+   ]
+  },
+  {
+   "name": "Newsletter Introduction",
+   "tag": "div",
+   "cls": "framer-23fpvw",
+   "rect": [
+    23,
+    2310.09,
+    344,
+    65.53
+   ]
+  },
+  {
+   "name": "Newsletter Signup",
+   "tag": "form",
+   "cls": "framer-1lnl6jg",
+   "rect": [
+    23,
+    2415.63,
+    344,
+    76.61
+   ]
+  },
+  {
+   "name": "Input / Button",
+   "tag": "div",
+   "cls": "framer-199g2yg",
+   "rect": [
+    23,
+    2415.63,
+    344,
+    46.41
+   ]
+  },
+  {
+   "name": "Newsletter Form Group",
+   "tag": "label",
+   "cls": "framer-1t2u8aq",
+   "rect": [
+    27,
+    2419.63,
+    246.03,
+    38.41
+   ]
+  },
+  {
+   "name": "Newsletter Email Input",
+   "tag": "div",
+   "cls": "framer-form-text-input.framer-form-input-wrapper.framer-1dpa36t",
+   "rect": [
+    27,
+    2419.63,
+    246.03,
+    38.41
+   ]
+  },
+  {
+   "name": "Newsletter Submit Button",
+   "tag": "div",
+   "cls": "framer-s7u2da-container",
+   "rect": [
+    283.03,
+    2419.63,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "Incomplete",
+   "tag": "button",
+   "cls": "framer-8H41b.framer-khCxy.framer-QoPvp.framer-xkbypw.framer-v-a28jhw",
+   "rect": [
+    283.03,
+    2419.63,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "BG Color",
+   "tag": "div",
+   "cls": "framer-17skh7b",
+   "rect": [
+    283.03,
+    2419.63,
+    79.97,
+    38.41
+   ]
+  },
+  {
+   "name": "btn text",
+   "tag": "div",
+   "cls": "framer-71e8ti",
+   "rect": [
+    296.03,
+    2428.63,
+    53.97,
+    20.41
+   ]
+  },
+  {
+   "name": "top",
+   "tag": "div",
+   "cls": "framer-1gm2ya6",
+   "rect": [
+    296.03,
+    2428.63,
+    53.97,
+    20.41
+   ]
+  },
+  {
+   "name": "Spinner",
+   "tag": "div",
+   "cls": "framer-pEZXs.framer-7sj87n.framer-v-7sj87n",
+   "rect": [
+    315.02,
+    2431.2,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Spinner",
+   "tag": "div",
+   "cls": "framer-1yqlm52",
+   "rect": [
+    315.02,
+    2431.2,
+    16,
+    16
+   ]
+  },
+  {
+   "name": "Agree to terms",
+   "tag": "label",
+   "cls": "framer-169r9xi",
+   "rect": [
+    23,
+    2474.03,
+    344,
+    18.2
+   ]
+  },
+  {
+   "name": "Newsletter Consent Checkbox",
+   "tag": "input",
+   "cls": "framer-form-boolean-input.framer-1qlsdo5",
+   "rect": [
+    23,
+    2476.63,
+    13,
+    13
+   ]
+  },
+  {
+   "name": "Newsletter Consent Copy",
+   "tag": "div",
+   "cls": "framer-1rl9j96",
+   "rect": [
+    43,
+    2474.03,
+    324,
+    18.2
+   ]
+  },
+  {
+   "name": "Bottom",
+   "tag": "div",
+   "cls": "framer-1nbmjrz",
+   "rect": [
+    23,
+    2552.23,
+    344,
+    162
+   ]
+  },
+  {
+   "name": "Footer Social Links",
+   "tag": "div",
+   "cls": "framer-sfsj97-container",
+   "rect": [
+    23,
+    2697.23,
+    113,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-shGv8.framer-4tnhfa.framer-v-4tnhfa",
+   "rect": [
+    23,
+    2697.23,
+    113,
+    17
+   ]
+  },
+  {
+   "name": "X",
+   "tag": "div",
+   "cls": "framer-17kf78c-container",
+   "rect": [
+    23,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    23,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    23,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-LAEqS.framer-1fo7tgr",
+   "rect": [
+    23,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "IG",
+   "tag": "div",
+   "cls": "framer-1smje0b-container",
+   "rect": [
+    55,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    55,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    55,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-uZnUQ.framer-1fo7tgr",
+   "rect": [
+    55,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Dribbble",
+   "tag": "div",
+   "cls": "framer-t1kefs-container",
+   "rect": [
+    87,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    87,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    87,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-K6Gdb.framer-1fo7tgr",
+   "rect": [
+    87,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Behance",
+   "tag": "div",
+   "cls": "framer-1cdugcb-container",
+   "rect": [
+    119,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Desktop",
+   "tag": "div",
+   "cls": "framer-BF4Of.framer-oxml7j.framer-v-oxml7j",
+   "rect": [
+    119,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Icon",
+   "tag": "a",
+   "cls": "framer-10b7uxf.framer-na8c8c",
+   "rect": [
+    119,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Top Icon",
+   "tag": "div",
+   "cls": "framer-lYLYO.framer-1fo7tgr",
+   "rect": [
+    119,
+    2697.23,
+    17,
+    17
+   ]
+  },
+  {
+   "name": "Legal",
+   "tag": "div",
+   "cls": "framer-18r9k2i",
+   "rect": [
+    205,
+    2634.23,
+    162,
+    80
+   ]
+  },
+  {
+   "name": "Legal Navigation Link",
+   "tag": "div",
+   "cls": "framer-s03u8i",
+   "rect": [
+    205,
+    2696.23,
+    32.91,
+    18
+   ]
+  },
+  {
+   "name": "Footer Contact Link Group",
+   "tag": "div",
+   "cls": "framer-14oqxd3",
+   "rect": [
+    252.91,
+    2634.23,
+    114.09,
+    80
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    252.91,
+    2634.23,
+    114.09,
+    18
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    252.91,
+    2656.23,
+    114.09,
+    36
+   ]
+  },
+  {
+   "name": "Footer Dynamic Label",
+   "tag": "div",
+   "cls": "framer-1f81en6",
+   "rect": [
+    252.91,
+    2696.23,
+    114.09,
+    18
+   ]
+  },
+  {
+   "name": "Contact",
+   "tag": "div",
+   "cls": "framer-1eth1vs",
+   "rect": [
+    23,
+    2552.23,
+    344,
+    42
+   ]
+  },
+  {
+   "name": "Footer Contact Link",
+   "tag": "div",
+   "cls": "framer-yzm327",
+   "rect": [
+    23,
+    2576.23,
+    56.56,
+    18
+   ]
+  },
+  {
+   "name": "Footer Contact Button",
+   "tag": "div",
+   "cls": "framer-9685jw-container",
+   "rect": [
+    94.56,
+    2552.23,
+    272.44,
+    42
+   ]
+  },
+  {
+   "name": "Phone",
+   "tag": "a",
+   "cls": "framer-U9l7N.framer-1973bho.framer-v-u2y57g.framer-1w8xaug",
+   "rect": [
+    94.56,
+    2552.23,
+    272.44,
+    42
+   ]
+  },
+  {
+   "name": "Button",
+   "tag": "div",
+   "cls": "framer-dczzwc",
+   "rect": [
+    94.56,
+    2552.23,
+    272.44,
+    42
+   ]
+  },
+  {
+   "name": "Picture",
+   "tag": "div",
+   "cls": "framer-154bepi",
+   "rect": [
+    99.56,
+    2557.23,
+    32,
+    32
+   ]
+  }
+ ]
+}

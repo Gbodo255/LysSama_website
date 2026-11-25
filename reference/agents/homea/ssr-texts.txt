@@ -1,0 +1,628 @@
+
+## 390 hero (racines visibles: 1)
+<a SLOT "Project Card"> href=./projects/gucci
+<img SLOT "Cover"> src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg alt=Close-up of a model wearing wraparound sunglasses covered in water droplets
+<video SLOT "Uploaded Video"> src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted=
+<p SLOT "Guide Dynamic Label">  :: "Gucci"
+<a SLOT "Project Card"> href=./projects/chanel
+<img SLOT "Cover"> src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg alt=Model applying face cream to her cheek against a pale background
+<p SLOT "Guide Dynamic Label">  :: "Chanel"
+<a SLOT "Project Card"> href=./projects/puma
+<img SLOT "Cover"> src=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg alt=Runner in a red rain jacket and black cap on a misty coastline
+<video SLOT "Uploaded Video"> src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted=
+<p SLOT "Guide Dynamic Label">  :: "Puma"
+<a SLOT "Project Card"> href=./projects/adidas
+<img SLOT "Cover"> src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg alt=Close-up of a tennis player with braids looking over her racket
+<p SLOT "Guide Dynamic Label">  :: "Adidas"
+<p "Logo Name">  :: "mira"
+<p "Logo Trademark">  :: "®"
+<p "Logo Descriptor">  :: "Studio"
+<h1 "Studio Introduction" 1l3tbw0>  :: "                      Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look."
+<p "Location Label" c95aba>  :: "based in"
+<p "Los Angeles Location" c95aba>  :: "los angeles"
+<p "Tokyo Location" c95aba>  :: "tokyo"
+<p "Services Navigation Link" c95aba>  :: "Services"
+<p "Dynamic Navigation Label" c95aba>  :: "Brand Identity"
+<p "Dynamic Navigation Label" c95aba>  :: "Web Design"
+<p "Dynamic Navigation Label" c95aba>  :: "Framer Dev"
+<p "Dynamic Navigation Label" c95aba>  :: "Art Direction"
+<p "Contact Navigation Link" c95aba>  :: "let’s talk"
+<a "Phone"> href=./contact aria-label=contact
+<img "Picture"> src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=
+
+## 390 about (racines visibles: 1)
+<p "Count" c95aba>  :: "(01)"
+<p "Text" c95aba>  :: "About us"
+<h2 "Positioning Headline" fvem1p>  :: "                 WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK." MARKS ["span:REFUSE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"]
+<img "Image"> src=https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg alt=Portrait of Jin Yuen
+<p "Name / Role" 1l3tbw0>  :: "Jin Yuen"
+<p "Name / Role" c95aba>  :: "Founder"
+<p "Philosophy Eyebrow" c95aba>  :: "(My philosophy)"
+<p "Quote" ervepf>  :: "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”"
+<p "Small Text" 10r2g7l>  :: "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?" MARKS ["span:Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<a "Phone Right"> href=./studio
+<p "Top Text" k5mxv3>  :: "See the studio"
+
+## 390 work (racines visibles: 1)
+<h2 "Guide Message Title" 1c0t51l>  :: "50 BRANDS. 14 YEARS. ONE STANDARD." MARKS ["span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong:50 BRANDS. ","<br>","span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong:14 YEARS. ","<br>","span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}","strong:ONE","span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong: STANDARD."]
+<a "Desktop"> href=./projects
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted=
+<p "Text / Count" c95aba>  :: "See all"
+<p "Project count font" c95aba>  :: "6"
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/V3ybBeZxp5aiQvQwxbsc72F4V4.mp4 poster=https://framerusercontent.com/images/WigME9FAJdZx9jQu2PhxXL8Pc9M.jpg loop= muted=
+<img "BG Image"> src=https://framerusercontent.com/images/kP9y3f68sbv1icRVUmBXDlIfu0I.png alt=
+<img "BG Image"> src=https://framerusercontent.com/images/Pvg65dRGYEkffGzS24z71aAheT0.jpg alt=
+<img "BG Image"> src=https://framerusercontent.com/images/BOaxMUc8EHCGgQUwQ0NELClE1U.jpg alt=
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted=
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/rjNIvMHRogDJaHfneCJlZtXM.mp4 poster=https://framerusercontent.com/images/FbhJf8mYmDiQSJihxpqFmhRJxU.jpg loop= muted=
+<img "BG Image"> src=https://framerusercontent.com/images/AgAKhYFyXNgfrvcXhbkrSnOv8.jpg alt=
+
+## 390 clients (racines visibles: 1)
+<p "Count" c95aba>  :: "(02)"
+<p "Text" c95aba>  :: "Our clients"
+<p "Year / Rating" c95aba>  :: "2012 2026©"
+<img "Image"> src=https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg alt=
+<img "Image"> src=https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg alt=
+<img "Image"> src=https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg alt=
+<p "Count" ss7lqy>  :: "+47"
+<p "Rating / Stars" ss7lqy>  :: "4.9/5" MARKS ["strong:4.9","span:/5{--framer-text-color:var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"]
+<p "Rating" ss7lqy>  :: "Trusted by 50+ clients" MARKS ["span:Trusted by{--framer-text-color:var(--extracted-1w3ko1f, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"]
+
+## 390 whyus (racines visibles: 1)
+<p "Count" c95aba>  :: "(03)"
+<p "Text" c95aba>  :: "Why us"
+<h2 "Impact Headline" 1c0t51l>  :: "why Mira® is your next choice." MARKS ["span:next{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"]
+<p "Impact Supporting Copy" 1l3tbw0>  :: "                          WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE." MARKS ["span:MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<p "Impact Footnote" lu6cf5>  :: "*Across client launches from 2023 to 2026, measured over the first six months post-launch."
+<p "Logo / Text" c95aba>  :: "With Mira"
+<p "Top Bar" c95aba>  :: "+47% inbound"
+<p "Bar Graph" c95aba>  :: "Industry avg"
+<p "Bottom Bar" c95aba>  :: "+12%"
+<p "1" c95aba>  :: "0%"
+<p "2" c95aba>  :: "8%"
+<p "3" c95aba>  :: "16%"
+<p "4" c95aba>  :: "24%"
+<p "5" c95aba>  :: "32%"
+<p "6" c95aba>  :: "40%"
+<p "7" c95aba>  :: "48%"
+<p "Start" lu6cf5>  :: "Average growth in qualified enquiries, first six months after launch"
+<p "Proof Points Heading" 1l3tbw0>  :: "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS." MARKS ["strong:REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS."]
+<p "Proof Points Description" lu6cf5>  :: "Most clients come back for the next project. The rest send referrals."
+<h3 "Brands Launched Value" s3qbre>  :: "50+"
+<p "Brands Launched Label" c95aba>  :: "brands launched"
+<h3 "On-Time Delivery Value" s3qbre>  :: "100%"
+<p "On-Time Delivery Label" c95aba>  :: "shipped on time"
+<p "Count" c95aba>  :: "01"
+<h2 "Metric" fvem1p>  :: "6 Wks"
+<p "Label" k5mxv3>  :: "(AVERAGE TIME TO LAUNCH)"
+<p "Description" lu6cf5>  :: "Most projects go from first call to live site in under two months."
+<p "Count" c95aba>  :: "02"
+<h2 "Metric" fvem1p>  :: "40+"
+<p "Label" k5mxv3>  :: "(REFERRALS SENT BY CLIENTS)"
+<p "Description" lu6cf5>  :: "Happy clients are the only marketing channel we've ever needed."
+<p "Quote" c95aba>  :: "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU." MARKS ["span:WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<img "Author"> src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=Portrait of Jin Yuen
+<p "Name / Role" lu6cf5>  :: "Jin Yuen"
+<p "Name / Role" lu6cf5>  :: "Founder, Mira"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+
+## 390 services (racines visibles: 1)
+<p "Count" c95aba>  :: "(04)"
+<p "Text" c95aba>  :: "What we bring"
+<h2 "Services Heading" 1c0t51l>  :: "services."
+<p "Services Description" 1l3tbw0>  :: "                          Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start." MARKS ["span:Each service is priced and scoped before we start.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<img "Bg Image"> src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(01)"
+<p "Service Title" ervepf>  :: "Brand Identity."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+<p "Price" c95aba>  :: "Starts at $4,500"
+<p "Title / Description" lu6cf5>  :: "Logo, type, color, and the system that keeps it consistent everywhere it lives."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2-3 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Logo and wordmark"
+<p "Include Item" c95aba>  :: "Typography system"
+<p "Include Item" c95aba>  :: "Color palette"
+<p "Include Item" c95aba>  :: "Brand guidelines"
+<a "Phone Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(02)"
+<p "Service Title" ervepf>  :: "Web Design."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+<p "Price" c95aba>  :: "Starts at $6,500"
+<p "Title / Description" lu6cf5>  :: "Sites built to turn attention into enquiries, not just look good."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "3-4 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Up to 6 unique page designs"
+<p "Include Item" c95aba>  :: "Mobile and tablet layouts"
+<p "Include Item" c95aba>  :: "Component library"
+<p "Include Item" c95aba>  :: "Hand-off documentation"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(03)"
+<p "Service Title" ervepf>  :: "Framer Dev."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+<p "Price" c95aba>  :: "Starts at $4,000"
+<p "Title / Description" lu6cf5>  :: "Fast, animated, and easy for you to update yourself."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2-3 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Pixel-perfect build in Framer"
+<p "Include Item" c95aba>  :: "CMS setup and migration"
+<p "Include Item" c95aba>  :: "Responsive across breakpoints"
+<p "Include Item" c95aba>  :: "30-day post-launch support"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(04)"
+<p "Service Title" ervepf>  :: "Art Direction."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+<p "Price" c95aba>  :: "Starts at $3,500"
+<p "Title / Description" lu6cf5>  :: "Photography, motion, and the visual language that ties everything together."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Mood and direction boards"
+<p "Include Item" c95aba>  :: "Shoot or motion brief"
+<p "Include Item" c95aba>  :: "Asset selection and edit"
+<p "Include Item" c95aba>  :: "Usage guidelines"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+
+## 390 team (racines visibles: 1)
+<p "Text" c95aba>  :: " EST. 2012"
+<p "Count" c95aba>  :: "(05)"
+<p "Text" c95aba>  :: "Meet the team"
+<h2 "Text" fvem1p>  :: "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE." MARKS ["span:SMALL{--framer-text-color:var(--extracted-1qn201a, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}","span:STAY PICKY{--framer-text-color:var(--extracted-1fiaymt, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}"]
+<p "Team" c95aba>  :: "(4) Team Members"
+<img "Image"> src=https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg alt=Portrait of Jin Yuen
+<p "Name / Role" 1l3tbw0>  :: "Jin Yuen"
+<p "Name / Role" c95aba>  :: "Founder"
+<img "Image"> src=https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg alt=Portrait of Sarah Park
+<p "Name / Role" 1l3tbw0>  :: "Sarah Park"
+<p "Name / Role" c95aba>  :: "Designer"
+<img "Image"> src=https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg alt=Portrait of Alex West
+<p "Name / Role" 1l3tbw0>  :: "Alex West"
+<p "Name / Role" c95aba>  :: "Client Manager"
+<img "Image"> src=https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg alt=Portrait of David Torres
+<p "Name / Role" 1l3tbw0>  :: "David Torres"
+<p "Name / Role" c95aba>  :: "Developer"
+<h3 "Top" s3qbre>  :: "join us, we're hiring."
+<p "Top" lu6cf5>  :: "We’re looking for highly ambitious and talented people to help us drive real growth."
+<p "Number" c95aba>  :: "02"
+<p "Open Positions" c95aba>  :: "Open Positions"
+<a "Desktop - Right"> 
+<p "Top Text" k5mxv3>  :: "Email us"
+<img "Team photo"> src=https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg alt=Studio team talking in a bright workshop
+
+## 900 hero (racines visibles: 1)
+<a SLOT "Project Card"> href=./projects/gucci
+<img SLOT "Cover"> src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg alt=Close-up of a model wearing wraparound sunglasses covered in water droplets
+<video SLOT "Uploaded Video"> src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted=
+<p SLOT "Guide Dynamic Label">  :: "Gucci"
+<a SLOT "Project Card"> href=./projects/chanel
+<img SLOT "Cover"> src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg alt=Model applying face cream to her cheek against a pale background
+<p SLOT "Guide Dynamic Label">  :: "Chanel"
+<a SLOT "Project Card"> href=./projects/puma
+<img SLOT "Cover"> src=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg alt=Runner in a red rain jacket and black cap on a misty coastline
+<video SLOT "Uploaded Video"> src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted=
+<p SLOT "Guide Dynamic Label">  :: "Puma"
+<a SLOT "Project Card"> href=./projects/adidas
+<img SLOT "Cover"> src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg alt=Close-up of a tennis player with braids looking over her racket
+<p SLOT "Guide Dynamic Label">  :: "Adidas"
+<a "Link Container"> href=./ aria-label=home
+<a "Small Phone"> href=./projects
+<p "Small Phone" 1l3tbw0>  :: "projects"
+<p "Count Text" c95aba>  :: "6"
+<a "Small Phone"> href=./studio
+<p "Small Phone" 1l3tbw0>  :: "Studio"
+<a "Small Phone"> href=./journal
+<p "Small Phone" 1l3tbw0>  :: "Journal"
+<p "Logo Name">  :: "mira"
+<p "Logo Trademark">  :: "®"
+<p "Logo Descriptor">  :: "Studio"
+<h1 "Studio Introduction" 1l3tbw0>  :: "                      Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look."
+<p "Location Label" c95aba>  :: "based in"
+<p "Los Angeles Location" c95aba>  :: "los angeles"
+<p "Tokyo Location" c95aba>  :: "tokyo"
+<p "Services Navigation Link" c95aba>  :: "Services"
+<p "Dynamic Navigation Label" c95aba>  :: "Brand Identity"
+<p "Dynamic Navigation Label" c95aba>  :: "Web Design"
+<p "Dynamic Navigation Label" c95aba>  :: "Framer Dev"
+<p "Dynamic Navigation Label" c95aba>  :: "Art Direction"
+<p "Contact Navigation Link" c95aba>  :: "let’s talk"
+<a "Phone"> href=./contact aria-label=contact
+<img "Picture"> src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=
+
+## 900 about (racines visibles: 1)
+<p "Count" c95aba>  :: "(01)"
+<p "Text" c95aba>  :: "About us"
+<h2 "Positioning Headline" fvem1p>  :: "                 WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK." MARKS ["span:REFUSE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"]
+<img "Image"> src=https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg alt=Portrait of Jin Yuen
+<p "Name / Role" 1l3tbw0>  :: "Jin Yuen"
+<p "Name / Role" c95aba>  :: "Founder"
+<p "Philosophy Eyebrow" c95aba>  :: "(My philosophy)"
+<p "Quote" ervepf>  :: "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”"
+<p "Small Text" 10r2g7l>  :: "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?" MARKS ["span:Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<a "Phone Right"> href=./studio
+<p "Top Text" k5mxv3>  :: "See the studio"
+
+## 900 work (racines visibles: 1)
+<h2 "Guide Message Title" 1c0t51l>  :: "50 BRANDS. 14 YEARS. ONE STANDARD." MARKS ["span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong:50 BRANDS. ","<br>","span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong:14 YEARS. ","<br>","span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}","strong:ONE","span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong: STANDARD."]
+<a "Desktop"> href=./projects
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted=
+<p "Text / Count" c95aba>  :: "See all"
+<p "Project count font" c95aba>  :: "6"
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/V3ybBeZxp5aiQvQwxbsc72F4V4.mp4 poster=https://framerusercontent.com/images/WigME9FAJdZx9jQu2PhxXL8Pc9M.jpg loop= muted=
+<img "BG Image"> src=https://framerusercontent.com/images/kP9y3f68sbv1icRVUmBXDlIfu0I.png alt=
+<img "BG Image"> src=https://framerusercontent.com/images/Pvg65dRGYEkffGzS24z71aAheT0.jpg alt=
+<img "BG Image"> src=https://framerusercontent.com/images/BOaxMUc8EHCGgQUwQ0NELClE1U.jpg alt=
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted=
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/rjNIvMHRogDJaHfneCJlZtXM.mp4 poster=https://framerusercontent.com/images/FbhJf8mYmDiQSJihxpqFmhRJxU.jpg loop= muted=
+<img "BG Image"> src=https://framerusercontent.com/images/AgAKhYFyXNgfrvcXhbkrSnOv8.jpg alt=
+
+## 900 clients (racines visibles: 1)
+<p "Count" c95aba>  :: "(02)"
+<p "Text" c95aba>  :: "Our clients"
+<p "Year / Rating" c95aba>  :: "2012 2026©"
+<img "Image"> src=https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg alt=
+<img "Image"> src=https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg alt=
+<img "Image"> src=https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg alt=
+<p "Count" ss7lqy>  :: "+47"
+<p "Rating / Stars" ss7lqy>  :: "4.9/5" MARKS ["strong:4.9","span:/5{--framer-text-color:var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"]
+<p "Rating" ss7lqy>  :: "Trusted by 50+ clients" MARKS ["span:Trusted by{--framer-text-color:var(--extracted-1w3ko1f, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"]
+
+## 900 whyus (racines visibles: 1)
+<p "Count" c95aba>  :: "(03)"
+<p "Text" c95aba>  :: "Why us"
+<h2 "Impact Headline" 1c0t51l>  :: "why Mira® is your next choice." MARKS ["span:next{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"]
+<p "Impact Supporting Copy" 1l3tbw0>  :: "                          WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE." MARKS ["span:MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<p "Impact Footnote" lu6cf5>  :: "*Across client launches from 2023 to 2026, measured over the first six months post-launch."
+<p "Logo / Text" c95aba>  :: "With Mira"
+<p "Top Bar" c95aba>  :: "+47% inbound"
+<p "Bar Graph" c95aba>  :: "Industry avg"
+<p "Bottom Bar" c95aba>  :: "+12%"
+<p "1" c95aba>  :: "0%"
+<p "2" c95aba>  :: "8%"
+<p "3" c95aba>  :: "16%"
+<p "4" c95aba>  :: "24%"
+<p "5" c95aba>  :: "32%"
+<p "6" c95aba>  :: "40%"
+<p "7" c95aba>  :: "48%"
+<p "Start" lu6cf5>  :: "Average growth in qualified enquiries, first six months after launch"
+<p "Proof Points Heading" 1l3tbw0>  :: "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS." MARKS ["strong:REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS."]
+<p "Proof Points Description" lu6cf5>  :: "Most clients come back for the next project. The rest send referrals."
+<h3 "Brands Launched Value" s3qbre>  :: "50+"
+<p "Brands Launched Label" c95aba>  :: "brands launched"
+<h3 "On-Time Delivery Value" s3qbre>  :: "100%"
+<p "On-Time Delivery Label" c95aba>  :: "shipped on time"
+<p "Count" c95aba>  :: "01"
+<h2 "Metric" fvem1p>  :: "6 Wks"
+<p "Label" k5mxv3>  :: "(AVERAGE TIME TO LAUNCH)"
+<p "Description" lu6cf5>  :: "Most projects go from first call to live site in under two months."
+<p "Count" c95aba>  :: "02"
+<h2 "Metric" fvem1p>  :: "40+"
+<p "Label" k5mxv3>  :: "(REFERRALS SENT BY CLIENTS)"
+<p "Description" lu6cf5>  :: "Happy clients are the only marketing channel we've ever needed."
+<p "Quote" c95aba>  :: "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU." MARKS ["span:WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<img "Author"> src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=Portrait of Jin Yuen
+<p "Name / Role" lu6cf5>  :: "Jin Yuen"
+<p "Name / Role" lu6cf5>  :: "Founder, Mira"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+
+## 900 services (racines visibles: 1)
+<p "Count" c95aba>  :: "(04)"
+<p "Text" c95aba>  :: "What we bring"
+<h2 "Services Heading" 1c0t51l>  :: "services."
+<p "Services Description" 1l3tbw0>  :: "                          Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start." MARKS ["span:Each service is priced and scoped before we start.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<img "Bg Image"> src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(01)"
+<p "Service Title" ervepf>  :: "Brand Identity."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+<p "Price" c95aba>  :: "Starts at $4,500"
+<p "Title / Description" lu6cf5>  :: "Logo, type, color, and the system that keeps it consistent everywhere it lives."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2-3 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Logo and wordmark"
+<p "Include Item" c95aba>  :: "Typography system"
+<p "Include Item" c95aba>  :: "Color palette"
+<p "Include Item" c95aba>  :: "Brand guidelines"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(02)"
+<p "Service Title" ervepf>  :: "Web Design."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+<p "Price" c95aba>  :: "Starts at $6,500"
+<p "Title / Description" lu6cf5>  :: "Sites built to turn attention into enquiries, not just look good."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "3-4 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Up to 6 unique page designs"
+<p "Include Item" c95aba>  :: "Mobile and tablet layouts"
+<p "Include Item" c95aba>  :: "Component library"
+<p "Include Item" c95aba>  :: "Hand-off documentation"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(03)"
+<p "Service Title" ervepf>  :: "Framer Dev."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+<p "Price" c95aba>  :: "Starts at $4,000"
+<p "Title / Description" lu6cf5>  :: "Fast, animated, and easy for you to update yourself."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2-3 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Pixel-perfect build in Framer"
+<p "Include Item" c95aba>  :: "CMS setup and migration"
+<p "Include Item" c95aba>  :: "Responsive across breakpoints"
+<p "Include Item" c95aba>  :: "30-day post-launch support"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(04)"
+<p "Service Title" ervepf>  :: "Art Direction."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+<p "Price" c95aba>  :: "Starts at $3,500"
+<p "Title / Description" lu6cf5>  :: "Photography, motion, and the visual language that ties everything together."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Mood and direction boards"
+<p "Include Item" c95aba>  :: "Shoot or motion brief"
+<p "Include Item" c95aba>  :: "Asset selection and edit"
+<p "Include Item" c95aba>  :: "Usage guidelines"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+
+## 900 team (racines visibles: 1)
+<p "Text" c95aba>  :: " EST. 2012"
+<p "Count" c95aba>  :: "(05)"
+<p "Text" c95aba>  :: "Meet the team"
+<h2 "Text" fvem1p>  :: "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE." MARKS ["span:SMALL{--framer-text-color:var(--extracted-1qn201a, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}","span:STAY PICKY{--framer-text-color:var(--extracted-1fiaymt, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}"]
+<p "Team" c95aba>  :: "(4) Team Members"
+<img "Image"> src=https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg alt=Portrait of Jin Yuen
+<p "Name / Role" 1l3tbw0>  :: "Jin Yuen"
+<p "Name / Role" c95aba>  :: "Founder"
+<img "Image"> src=https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg alt=Portrait of Sarah Park
+<p "Name / Role" 1l3tbw0>  :: "Sarah Park"
+<p "Name / Role" c95aba>  :: "Designer"
+<img "Image"> src=https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg alt=Portrait of Alex West
+<p "Name / Role" 1l3tbw0>  :: "Alex West"
+<p "Name / Role" c95aba>  :: "Client Manager"
+<img "Image"> src=https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg alt=Portrait of David Torres
+<p "Name / Role" 1l3tbw0>  :: "David Torres"
+<p "Name / Role" c95aba>  :: "Developer"
+<h3 "Top" s3qbre>  :: "join us, we're hiring."
+<p "Top" lu6cf5>  :: "We’re looking for highly ambitious and talented people to help us drive real growth."
+<p "Number" c95aba>  :: "02"
+<p "Open Positions" c95aba>  :: "Open Positions"
+<a "Desktop - Right"> 
+<p "Top Text" k5mxv3>  :: "Email us"
+<img "Team photo"> src=https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg alt=Studio team talking in a bright workshop
+
+## 1440 hero (racines visibles: 1)
+<a SLOT "Project Card"> href=./projects/gucci
+<img SLOT "Cover"> src=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg alt=Close-up of a model wearing wraparound sunglasses covered in water droplets
+<video SLOT "Uploaded Video"> src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted=
+<p SLOT "Guide Dynamic Label">  :: "Gucci"
+<a SLOT "Project Card"> href=./projects/chanel
+<img SLOT "Cover"> src=https://framerusercontent.com/images/7lmRyzySl3tRUJAR0FTAuBtPBtM.jpg alt=Model applying face cream to her cheek against a pale background
+<p SLOT "Guide Dynamic Label">  :: "Chanel"
+<a SLOT "Project Card"> href=./projects/puma
+<img SLOT "Cover"> src=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg alt=Runner in a red rain jacket and black cap on a misty coastline
+<video SLOT "Uploaded Video"> src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted=
+<p SLOT "Guide Dynamic Label">  :: "Puma"
+<a SLOT "Project Card"> href=./projects/adidas
+<img SLOT "Cover"> src=https://framerusercontent.com/images/r7Srjn5YojuM8eQrAW1Mlzsb4.jpg alt=Close-up of a tennis player with braids looking over her racket
+<p SLOT "Guide Dynamic Label">  :: "Adidas"
+<a "Link Container"> href=./ aria-label=home
+<a "Small"> href=./projects
+<p "Small" 1l3tbw0>  :: "projects"
+<p "Count Text" c95aba>  :: "6"
+<a "Small"> href=./studio
+<p "Small" 1l3tbw0>  :: "Studio"
+<a "Small"> href=./journal
+<p "Small" 1l3tbw0>  :: "Journal"
+<p "Logo Name">  :: "mira"
+<p "Logo Trademark">  :: "®"
+<p "Logo Descriptor">  :: "Studio"
+<h1 "Studio Introduction" 1l3tbw0>  :: "                      Mira is a studio for founders who care how they’re seen. We turn good work into a presence that earns attention — and closes the gap between who you are and how you look."
+<p "Location Label" c95aba>  :: "based in"
+<p "Los Angeles Location" c95aba>  :: "los angeles"
+<p "Tokyo Location" c95aba>  :: "tokyo"
+<p "Services Navigation Link" c95aba>  :: "Services"
+<p "Dynamic Navigation Label" c95aba>  :: "Brand Identity"
+<p "Dynamic Navigation Label" c95aba>  :: "Web Design"
+<p "Dynamic Navigation Label" c95aba>  :: "Framer Dev"
+<p "Dynamic Navigation Label" c95aba>  :: "Art Direction"
+<p "Contact Navigation Link" c95aba>  :: "let’s talk"
+<a "Desktop"> href=./contact aria-label=contact
+<img "Picture"> src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=
+
+## 1440 about (racines visibles: 1)
+<p "Count" c95aba>  :: "(01)"
+<p "Text" c95aba>  :: "About us"
+<h2 "Positioning Headline" fvem1p>  :: "                 WE BUILD BRANDS FOR FOUNDERS WHO REFUSE TO BLEND IN. FEWER PROJECTS, MORE ATTENTION, AND A STUDIO SMALL ENOUGH THAT THE PERSON YOU HIRE IS THE PERSON DOING THE WORK." MARKS ["span:REFUSE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"]
+<img "Image"> src=https://framerusercontent.com/images/TuRLGK3mEZRYyPgrKdtjwj6TKxM.jpeg alt=Portrait of Jin Yuen
+<p "Name / Role" 1l3tbw0>  :: "Jin Yuen"
+<p "Name / Role" c95aba>  :: "Founder"
+<p "Philosophy Eyebrow" c95aba>  :: "(My philosophy)"
+<p "Quote" ervepf>  :: "“ I started Mira because I kept watching great people lose to worse competitors with better presence. ”"
+<p "Small Text" 10r2g7l>  :: "Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: does this actually move the business forward?" MARKS ["span:Design isn't decoration — it's the fastest way to be understood. Every project is built around one question: {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<a "Desktop - Right"> href=./studio
+<p "Top Text" k5mxv3>  :: "See the studio"
+
+## 1440 work (racines visibles: 1)
+<h2 "Guide Message Title" 1c0t51l>  :: "50 BRANDS. 14 YEARS. ONE STANDARD." MARKS ["span:50 BRANDS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong:50 BRANDS. ","<br>","span:14 YEARS. {--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong:14 YEARS. ","<br>","span:ONE{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}","strong:ONE","span: STANDARD.{--framer-text-color:var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255))}","strong: STANDARD."]
+<a "Desktop"> href=./projects
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/o74zvFwrxG1ofp4gdhRqo1Ujgk.mp4 poster=https://framerusercontent.com/images/uQzt05iescwLlC6DKg4M1qwR6o.jpg loop= muted=
+<p "Text / Count" c95aba>  :: "See all"
+<p "Project count font" c95aba>  :: "6"
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/V3ybBeZxp5aiQvQwxbsc72F4V4.mp4 poster=https://framerusercontent.com/images/WigME9FAJdZx9jQu2PhxXL8Pc9M.jpg loop= muted=
+<img "BG Image"> src=https://framerusercontent.com/images/kP9y3f68sbv1icRVUmBXDlIfu0I.png alt=
+<img "BG Image"> src=https://framerusercontent.com/images/Pvg65dRGYEkffGzS24z71aAheT0.jpg alt=
+<img "BG Image"> src=https://framerusercontent.com/images/BOaxMUc8EHCGgQUwQ0NELClE1U.jpg alt=
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/LYIGz8CY670o999qJep8WeHqgzM.mp4 poster=https://framerusercontent.com/images/NuuceAGvddP5JL0LEhEjp8bdnM.jpg loop= muted=
+<video "Uploaded Video"> src=https://framerusercontent.com/assets/rjNIvMHRogDJaHfneCJlZtXM.mp4 poster=https://framerusercontent.com/images/FbhJf8mYmDiQSJihxpqFmhRJxU.jpg loop= muted=
+<img "BG Image"> src=https://framerusercontent.com/images/AgAKhYFyXNgfrvcXhbkrSnOv8.jpg alt=
+
+## 1440 clients (racines visibles: 1)
+<p "Count" c95aba>  :: "(02)"
+<p "Text" c95aba>  :: "Our clients"
+<p "Year / Rating" c95aba>  :: "2012 2026©"
+<img "Image"> src=https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg alt=
+<img "Image"> src=https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg alt=
+<img "Image"> src=https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg alt=
+<p "Count" ss7lqy>  :: "+47"
+<p "Rating / Stars" ss7lqy>  :: "4.9/5" MARKS ["strong:4.9","span:/5{--framer-text-color:var(--extracted-3sq8v0, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"]
+<p "Rating" ss7lqy>  :: "Trusted by 50+ clients" MARKS ["span:Trusted by{--framer-text-color:var(--extracted-1w3ko1f, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))}"]
+
+## 1440 whyus (racines visibles: 1)
+<p "Count" c95aba>  :: "(03)"
+<p "Text" c95aba>  :: "Why us"
+<h2 "Impact Headline" 1c0t51l>  :: "why Mira® is your next choice." MARKS ["span:next{--framer-text-color:var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))}"]
+<p "Impact Supporting Copy" 1l3tbw0>  :: "                          WITHIN SIX MONTHS OF LAUNCH, CLIENTS SEE AN AVERAGE 47% LIFT IN QUALIFIED INBOUND, MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE." MARKS ["span:MEASURED ACROSS PRE AND POST-LAUNCH PERFORMANCE.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<p "Impact Footnote" lu6cf5>  :: "*Across client launches from 2023 to 2026, measured over the first six months post-launch."
+<p "Logo / Text" c95aba>  :: "With Mira"
+<p "Top Bar" c95aba>  :: "+47% inbound"
+<p "Bar Graph" c95aba>  :: "Industry avg"
+<p "Bottom Bar" c95aba>  :: "+12%"
+<p "1" c95aba>  :: "0%"
+<p "2" c95aba>  :: "8%"
+<p "3" c95aba>  :: "16%"
+<p "4" c95aba>  :: "24%"
+<p "5" c95aba>  :: "32%"
+<p "6" c95aba>  :: "40%"
+<p "7" c95aba>  :: "48%"
+<p "Start" lu6cf5>  :: "Average growth in qualified enquiries, first six months after launch"
+<p "Proof Points Heading" 1l3tbw0>  :: "REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS." MARKS ["strong:REAL BRANDS. REAL NUMBERS. ZERO HANDOFFS."]
+<p "Proof Points Description" lu6cf5>  :: "Most clients come back for the next project. The rest send referrals."
+<h3 "Brands Launched Value" s3qbre>  :: "50+"
+<p "Brands Launched Label" c95aba>  :: "brands launched"
+<h3 "On-Time Delivery Value" s3qbre>  :: "100%"
+<p "On-Time Delivery Label" c95aba>  :: "shipped on time"
+<p "Count" c95aba>  :: "01"
+<h2 "Metric" fvem1p>  :: "6 Wks"
+<p "Label" k5mxv3>  :: "(AVERAGE TIME TO LAUNCH)"
+<p "Description" lu6cf5>  :: "Most projects go from first call to live site in under two months."
+<p "Count" c95aba>  :: "02"
+<h2 "Metric" fvem1p>  :: "40+"
+<p "Label" k5mxv3>  :: "(REFERRALS SENT BY CLIENTS)"
+<p "Description" lu6cf5>  :: "Happy clients are the only marketing channel we've ever needed."
+<p "Quote" c95aba>  :: "NOT EVERY BRIEF IS A FIT. WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. WHEN IT ISN'T, WE'LL TELL YOU." MARKS ["span:WE TAKE ON WORK WHERE DESIGN IS ACTUALLY THE PROBLEM. {--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<img "Author"> src=https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg alt=Portrait of Jin Yuen
+<p "Name / Role" lu6cf5>  :: "Jin Yuen"
+<p "Name / Role" lu6cf5>  :: "Founder, Mira"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+
+## 1440 services (racines visibles: 1)
+<p "Count" c95aba>  :: "(04)"
+<p "Text" c95aba>  :: "What we bring"
+<h2 "Services Heading" 1c0t51l>  :: "services."
+<p "Services Description" 1l3tbw0>  :: "                          Everything you need to look established, and nothing you don’t. Each service is priced and scoped before we start." MARKS ["span:Each service is priced and scoped before we start.{--framer-text-color:var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))}"]
+<img "Bg Image"> src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(01)"
+<p "Service Title" ervepf>  :: "Brand Identity."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/HBR3eOr0XBTGww0Lb6ZuOVFmics.jpg alt=Hands holding OMG drink cans over a pool table
+<p "Price" c95aba>  :: "Starts at $4,500"
+<p "Title / Description" lu6cf5>  :: "Logo, type, color, and the system that keeps it consistent everywhere it lives."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2-3 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Logo and wordmark"
+<p "Include Item" c95aba>  :: "Typography system"
+<p "Include Item" c95aba>  :: "Color palette"
+<p "Include Item" c95aba>  :: "Brand guidelines"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(02)"
+<p "Service Title" ervepf>  :: "Web Design."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/Q2yUtgoIkkiZN1HbPx6lDdzQ5MM.jpg alt=Laptop on a white chair showing a website design
+<p "Price" c95aba>  :: "Starts at $6,500"
+<p "Title / Description" lu6cf5>  :: "Sites built to turn attention into enquiries, not just look good."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "3-4 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Up to 6 unique page designs"
+<p "Include Item" c95aba>  :: "Mobile and tablet layouts"
+<p "Include Item" c95aba>  :: "Component library"
+<p "Include Item" c95aba>  :: "Hand-off documentation"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(03)"
+<p "Service Title" ervepf>  :: "Framer Dev."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/7A9ugBPbexLNiH3INz3cZ7U8xtI.jpg alt=Corner of a black phone printed with Made for Creatives
+<p "Price" c95aba>  :: "Starts at $4,000"
+<p "Title / Description" lu6cf5>  :: "Fast, animated, and easy for you to update yourself."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2-3 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Pixel-perfect build in Framer"
+<p "Include Item" c95aba>  :: "CMS setup and migration"
+<p "Include Item" c95aba>  :: "Responsive across breakpoints"
+<p "Include Item" c95aba>  :: "30-day post-launch support"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+<img "Bg Image"> src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+<p "Count" c95aba>  :: "S."
+<p "Count" c95aba>  :: "(04)"
+<p "Service Title" ervepf>  :: "Art Direction."
+<img "Image / Service Title"> src=https://framerusercontent.com/images/PS60XMyUZk3sS97cmhWOwmpR1o.jpg alt=Two models with bold orange lipstick posing cheek to cheek
+<p "Price" c95aba>  :: "Starts at $3,500"
+<p "Title / Description" lu6cf5>  :: "Photography, motion, and the visual language that ties everything together."
+<p "Delivery Time" c95aba>  :: "Delivery time"
+<p "Delivery Time" c95aba>  :: "2 weeks"
+<p "Includes" c95aba>  :: "includes"
+<p "Include Item" c95aba>  :: "Mood and direction boards"
+<p "Include Item" c95aba>  :: "Shoot or motion brief"
+<p "Include Item" c95aba>  :: "Asset selection and edit"
+<p "Include Item" c95aba>  :: "Usage guidelines"
+<a "Desktop - Right"> href=./contact
+<p "Top Text" k5mxv3>  :: "Start a project"
+
+## 1440 team (racines visibles: 1)
+<p "Text" c95aba>  :: " EST. 2012"
+<p "Count" c95aba>  :: "(05)"
+<p "Text" c95aba>  :: "Meet the team"
+<h2 "Text" fvem1p>  :: "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE." MARKS ["span:SMALL{--framer-text-color:var(--extracted-1qn201a, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}","span:STAY PICKY{--framer-text-color:var(--extracted-1fiaymt, var(--token-27d215b1-9859-4ed9-910b-49be7f89fc94, rgb(255, 255, 255)))}"]
+<p "Team" c95aba>  :: "(4) Team Members"
+<img "Image"> src=https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg alt=Portrait of Jin Yuen
+<p "Name / Role" 1l3tbw0>  :: "Jin Yuen"
+<p "Name / Role" c95aba>  :: "Founder"
+<img "Image"> src=https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg alt=Portrait of Sarah Park
+<p "Name / Role" 1l3tbw0>  :: "Sarah Park"
+<p "Name / Role" c95aba>  :: "Designer"
+<img "Image"> src=https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg alt=Portrait of Alex West
+<p "Name / Role" 1l3tbw0>  :: "Alex West"
+<p "Name / Role" c95aba>  :: "Client Manager"
+<img "Image"> src=https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg alt=Portrait of David Torres
+<p "Name / Role" 1l3tbw0>  :: "David Torres"
+<p "Name / Role" c95aba>  :: "Developer"
+<h3 "Top" s3qbre>  :: "join us, we're hiring."
+<p "Top" lu6cf5>  :: "We’re looking for highly ambitious and talented people to help us drive real growth."
+<p "Number" c95aba>  :: "02"
+<p "Open Positions" c95aba>  :: "Open Positions"
+<a "Desktop - Right"> 
+<p "Top Text" k5mxv3>  :: "Email us"
+<img "Team photo"> src=https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg alt=Studio team talking in a bright workshop

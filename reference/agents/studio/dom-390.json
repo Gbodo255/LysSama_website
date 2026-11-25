@@ -1,0 +1,6841 @@
+{
+ "width": 390,
+ "missing": 0,
+ "errors": [
+  "Failed to load resource: net::ERR_FAILED",
+  "Failed to load resource: net::ERR_FAILED",
+  "TypeError: Failed to fetch dynamically imported module: https://framer.com/edit/init.mjs"
+ ],
+ "scrollHeight": 9244,
+ "outline": [
+  {
+   "d": 1,
+   "n": "Content",
+   "c": "framer-1n70wml",
+   "tag": "div",
+   "r": [
+    0,
+    0,
+    390,
+    8349.8
+   ]
+  },
+  {
+   "d": 2,
+   "n": "Hero",
+   "c": "framer-1x0mefb",
+   "tag": "section",
+   "r": [
+    0,
+    0,
+    390,
+    828
+   ]
+  },
+  {
+   "d": 3,
+   "n": "BG Outer Container",
+   "c": "framer-oqp9pp",
+   "tag": "div",
+   "r": [
+    0,
+    0,
+    390,
+    828
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Revealed",
+   "c": "framer-83xqy framer-j4z1zy",
+   "tag": "div",
+   "r": [
+    3,
+    3,
+    384,
+    822
+   ]
+  },
+  {
+   "d": 5,
+   "n": "BG",
+   "c": "framer-rbevx0",
+   "tag": "div",
+   "r": [
+    3,
+    3,
+    384,
+    822
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Dark overlay",
+   "c": "framer-1q48sik",
+   "tag": "div",
+   "r": [
+    3,
+    3,
+    384,
+    822
+   ]
+  },
+  {
+   "d": 6,
+   "n": "BG Image",
+   "c": "framer-ios0bt",
+   "tag": "div",
+   "r": [
+    3,
+    3,
+    384,
+    822
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Inside Container",
+   "c": "framer-hb5ox2",
+   "tag": "div",
+   "r": [
+    0,
+    0,
+    390,
+    828
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Top",
+   "c": "framer-1k134jf",
+   "tag": "header",
+   "r": [
+    23,
+    84,
+    344,
+    57
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Heading",
+   "c": "framer-1338hsz",
+   "tag": "div",
+   "r": [
+    23,
+    289.7,
+    344,
+    177.5
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Heading / Description",
+   "c": "framer-by1tpf",
+   "tag": "div",
+   "r": [
+    23,
+    289.7,
+    344,
+    177.5
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Bottom",
+   "c": "framer-9yv8xi",
+   "tag": "div",
+   "r": [
+    23,
+    616,
+    344,
+    189
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Location",
+   "c": "framer-3ji1qe",
+   "tag": "div",
+   "r": [
+    23,
+    710,
+    162,
+    40
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Locations",
+   "c": "framer-1l9jy5e",
+   "tag": "div",
+   "r": [
+    87.5,
+    710,
+    97.5,
+    40
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Services",
+   "c": "framer-lx5sm7",
+   "tag": "div",
+   "r": [
+    205,
+    666,
+    162,
+    84
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Phone",
+   "c": "framer-shGv8 framer-4tnhfa",
+   "tag": "div",
+   "r": [
+    23,
+    790,
+    105,
+    15
+   ]
+  },
+  {
+   "d": 6,
+   "n": "X",
+   "c": "framer-17kf78c-container",
+   "tag": "div",
+   "r": [
+    23,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    23,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    23,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-LAEqS framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    23,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 6,
+   "n": "IG",
+   "c": "framer-1smje0b-container",
+   "tag": "div",
+   "r": [
+    53,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    53,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    53,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-uZnUQ framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    53,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Dribbble",
+   "c": "framer-t1kefs-container",
+   "tag": "div",
+   "r": [
+    83,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    83,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    83,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-K6Gdb framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    83,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Behance",
+   "c": "framer-1cdugcb-container",
+   "tag": "div",
+   "r": [
+    113,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-BF4Of framer-oxml7j",
+   "tag": "div",
+   "r": [
+    113,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Icon",
+   "c": "framer-10b7uxf framer-na8c8c",
+   "tag": "a",
+   "r": [
+    113,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Icon",
+   "c": "framer-lYLYO framer-1fo7tgr",
+   "tag": "div",
+   "r": [
+    113,
+    790,
+    15,
+    15
+   ]
+  },
+  {
+   "d": 2,
+   "n": "Studio",
+   "c": "framer-c2l0bx",
+   "tag": "div",
+   "r": [
+    0,
+    828,
+    390,
+    7521.8
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Culture",
+   "c": "framer-1nyqe0x",
+   "tag": "section",
+   "r": [
+    0,
+    828,
+    390,
+    884.5
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-1emkou7",
+   "tag": "div",
+   "r": [
+    0,
+    888,
+    390,
+    764.5
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Statement / Images",
+   "c": "framer-ty9ie9",
+   "tag": "div",
+   "r": [
+    23,
+    888,
+    344,
+    453.5
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Images / Text",
+   "c": "framer-1wzgagh",
+   "tag": "div",
+   "r": [
+    23,
+    888,
+    344,
+    203.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Images",
+   "c": "framer-te4fjx",
+   "tag": "div",
+   "r": [
+    23,
+    921,
+    344,
+    170.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "1",
+   "c": "framer-1frrzdj",
+   "tag": "div",
+   "r": [
+    23,
+    921,
+    170.5,
+    170.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "2",
+   "c": "framer-1jz2epk",
+   "tag": "div",
+   "r": [
+    196.5,
+    921,
+    170.5,
+    170.5
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Numbers",
+   "c": "framer-1dufcq3",
+   "tag": "div",
+   "r": [
+    23,
+    1381.5,
+    344,
+    271
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Metrics",
+   "c": "framer-1sbfwjx",
+   "tag": "div",
+   "r": [
+    23,
+    1439.5,
+    344,
+    213
+   ]
+  },
+  {
+   "d": 7,
+   "n": "1",
+   "c": "framer-1o91f3y-container",
+   "tag": "div",
+   "r": [
+    23,
+    1439.5,
+    162,
+    86.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    1439.5,
+    162,
+    86.5
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    23,
+    1439.5,
+    162,
+    36
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    23,
+    1485.5,
+    20.1,
+    40.5
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    23,
+    1485.5,
+    20.1,
+    40.5
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    23,
+    1485.5,
+    20.1,
+    40.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "2",
+   "c": "framer-1o8w7s0-container",
+   "tag": "div",
+   "r": [
+    205,
+    1439.5,
+    162,
+    68.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    205,
+    1439.5,
+    162,
+    68.5
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    205,
+    1439.5,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    205,
+    1467.5,
+    19,
+    40.5
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    205,
+    1467.5,
+    19,
+    40.5
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    205,
+    1467.5,
+    19,
+    40.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "3",
+   "c": "framer-1gy3kbc-container",
+   "tag": "div",
+   "r": [
+    23,
+    1566,
+    162,
+    86.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    1566,
+    162,
+    86.5
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    23,
+    1566,
+    162,
+    36
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    23,
+    1612,
+    60.3,
+    40.5
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    23,
+    1612,
+    60.3,
+    40.5
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    23,
+    1612,
+    60.3,
+    40.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "4",
+   "c": "framer-1g9nqon-container",
+   "tag": "div",
+   "r": [
+    205,
+    1566,
+    162,
+    86.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Counter",
+   "c": "framer-46ASr framer-Me6vv",
+   "tag": "div",
+   "r": [
+    205,
+    1566,
+    162,
+    86.5
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Description",
+   "c": "framer-1kf02ph",
+   "tag": "div",
+   "r": [
+    205,
+    1566,
+    162,
+    36
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Big Counter",
+   "c": "framer-69b1z8-container",
+   "tag": "div",
+   "r": [
+    205,
+    1612,
+    50.2,
+    40.5
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Counter Font",
+   "c": "framer-t2fsrl",
+   "tag": "div",
+   "r": [
+    205,
+    1612,
+    50.2,
+    40.5
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Big metric",
+   "c": "framer-x5292j",
+   "tag": "div",
+   "r": [
+    205,
+    1612,
+    50.2,
+    40.5
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Phone",
+   "c": "framer-EGaJK framer-2Ps8M",
+   "tag": "div",
+   "r": [
+    0,
+    1712.5,
+    390,
+    1779.4
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Outer Container",
+   "c": "framer-1fgvo0o",
+   "tag": "div",
+   "r": [
+    3,
+    1715.5,
+    384,
+    1773.4
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Inside Container",
+   "c": "framer-1n75itp",
+   "tag": "div",
+   "r": [
+    3,
+    1738.5,
+    384,
+    1727.4
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Top",
+   "c": "framer-1ixs85r",
+   "tag": "div",
+   "r": [
+    26,
+    1738.5,
+    338,
+    32
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Logo",
+   "c": "framer-1xjrc framer-1mi7dag",
+   "tag": "div",
+   "r": [
+    26,
+    1744.8,
+    70,
+    19.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Variant 1",
+   "c": "framer-D1HnP framer-Me6vv",
+   "tag": "div",
+   "r": [
+    267.4,
+    1738.5,
+    96.6,
+    32
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Globe",
+   "c": "framer-x2q9so",
+   "tag": "div",
+   "r": [
+    267.4,
+    1738.5,
+    31,
+    32
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-6xha2i",
+   "tag": "div",
+   "r": [
+    298.4,
+    1738.5,
+    65.6,
+    32
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Team",
+   "c": "framer-1bpmpdl",
+   "tag": "div",
+   "r": [
+    26,
+    1830.5,
+    338,
+    1123.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Text",
+   "c": "framer-1np8gf2",
+   "tag": "div",
+   "r": [
+    26,
+    1830.5,
+    338,
+    218
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    26,
+    1830.5,
+    83.8,
+    18
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    26,
+    1830.5,
+    83.8,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    205,
+    2128.5,
+    159,
+    261.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    205,
+    2128.5,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    205,
+    2128.5,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    217,
+    2140.5,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    205,
+    2350.5,
+    159,
+    39.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    26,
+    2410.3,
+    159,
+    261.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    26,
+    2410.3,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    26,
+    2410.3,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    38,
+    2422.3,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    26,
+    2632.3,
+    159,
+    39.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    205,
+    2410.3,
+    159,
+    261.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    205,
+    2410.3,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    205,
+    2410.3,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    217,
+    2422.3,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    205,
+    2632.3,
+    159,
+    39.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Revealed",
+   "c": "framer-ZmXTs framer-yTVl5",
+   "tag": "div",
+   "r": [
+    26,
+    2692.2,
+    159,
+    261.8
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Image Container",
+   "c": "framer-1jw74wi",
+   "tag": "div",
+   "r": [
+    26,
+    2692.2,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Image",
+   "c": "framer-17tax9v",
+   "tag": "div",
+   "r": [
+    26,
+    2692.2,
+    159,
+    212
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-urcMH framer-h6mult",
+   "tag": "div",
+   "r": [
+    38,
+    2704.2,
+    23.1,
+    20
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-3ohe8n",
+   "tag": "div",
+   "r": [
+    26,
+    2914.2,
+    159,
+    39.8
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Hiring Block",
+   "c": "framer-1f3fres",
+   "tag": "div",
+   "r": [
+    26,
+    3014,
+    338,
+    175.3
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Top",
+   "c": "framer-ifuqey",
+   "tag": "div",
+   "r": [
+    26,
+    3014,
+    338,
+    124.9
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Open Positions",
+   "c": "framer-1gw2wss",
+   "tag": "div",
+   "r": [
+    26,
+    3116.9,
+    338,
+    22
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Number",
+   "c": "framer-1obh6ik",
+   "tag": "div",
+   "r": [
+    26,
+    3116.9,
+    22,
+    22
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Desktop - Right",
+   "c": "framer-St8Ub framer-khCxy",
+   "tag": "a",
+   "r": [
+    287.3,
+    3168.9,
+    76.7,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-1dzfdpz",
+   "tag": "div",
+   "r": [
+    287.3,
+    3168.9,
+    50.7,
+    20.4
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Top Text",
+   "c": "framer-zixbhw",
+   "tag": "div",
+   "r": [
+    287.3,
+    3168.9,
+    50.7,
+    20.4
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Bottom Text",
+   "c": "framer-1396mtp",
+   "tag": "div",
+   "r": [
+    287.3,
+    3188.9,
+    50.7,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Chevron",
+   "c": "framer-73np5u",
+   "tag": "div",
+   "r": [
+    347,
+    3170.6,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Team photo",
+   "c": "framer-1yvrc4p",
+   "tag": "div",
+   "r": [
+    26,
+    3229.3,
+    338,
+    236.6
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Grain Overlay",
+   "c": "framer-15xi4dy",
+   "tag": "div",
+   "r": [
+    3,
+    1715.5,
+    384,
+    1773.4
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Principles",
+   "c": "framer-epz8fu",
+   "tag": "section",
+   "r": [
+    0,
+    3491.9,
+    390,
+    928.4
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-1ryjy6b",
+   "tag": "div",
+   "r": [
+    0,
+    3551.9,
+    390,
+    808.4
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Principles",
+   "c": "framer-1bhgxfc",
+   "tag": "div",
+   "r": [
+    23,
+    3632.4,
+    344,
+    727.9
+   ]
+  },
+  {
+   "d": 6,
+   "n": "1",
+   "c": "framer-vze3ri-container",
+   "tag": "div",
+   "r": [
+    23,
+    3632.4,
+    344,
+    175.2
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    23,
+    3632.4,
+    344,
+    175.2
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    23,
+    3632.4,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    23,
+    3632.4,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    144.3,
+    3663.4,
+    222.7,
+    144.2
+   ]
+  },
+  {
+   "d": 6,
+   "n": "2",
+   "c": "framer-l3pwqf-container",
+   "tag": "div",
+   "r": [
+    23,
+    3837.7,
+    344,
+    175.2
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    23,
+    3837.7,
+    344,
+    175.2
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    23,
+    3837.7,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    23,
+    3837.7,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    144.3,
+    3868.7,
+    222.7,
+    144.2
+   ]
+  },
+  {
+   "d": 6,
+   "n": "3",
+   "c": "framer-k1zcwk-container",
+   "tag": "div",
+   "r": [
+    23,
+    4042.9,
+    344,
+    143.7
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    23,
+    4042.9,
+    344,
+    143.7
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    23,
+    4042.9,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    23,
+    4042.9,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    144.3,
+    4073.9,
+    222.7,
+    112.7
+   ]
+  },
+  {
+   "d": 6,
+   "n": "4",
+   "c": "framer-1wd0xq0-container",
+   "tag": "div",
+   "r": [
+    23,
+    4216.6,
+    344,
+    143.7
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Phone",
+   "c": "framer-chPbW framer-LubW4",
+   "tag": "div",
+   "r": [
+    23,
+    4216.6,
+    344,
+    143.7
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    23,
+    4216.6,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    23,
+    4216.6,
+    344,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-r3u1mx",
+   "tag": "div",
+   "r": [
+    144.3,
+    4247.6,
+    222.7,
+    112.7
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Phone",
+   "c": "framer-HIOH4 framer-Me6vv",
+   "tag": "section",
+   "r": [
+    0,
+    4420.3,
+    390,
+    643.6
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-10m73gh",
+   "tag": "div",
+   "r": [
+    0,
+    4480.3,
+    390,
+    523.6
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    4480.3,
+    69.5,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    23,
+    4480.3,
+    69.5,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Logo / Rating",
+   "c": "framer-v4fp35",
+   "tag": "div",
+   "r": [
+    23,
+    4518.3,
+    344,
+    485.6
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Logos",
+   "c": "framer-1v6x4pk",
+   "tag": "div",
+   "r": [
+    23,
+    4518.3,
+    344,
+    370
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    23,
+    4518.3,
+    169.5,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-gaSjD framer-o7c73w",
+   "tag": "div",
+   "r": [
+    74.4,
+    4563.3,
+    66.7,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    197.5,
+    4518.3,
+    169.5,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-wSHP9 framer-o7c73w",
+   "tag": "div",
+   "r": [
+    270.3,
+    4563.3,
+    24,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    23,
+    4643.3,
+    169.5,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-yh1m0 framer-o7c73w",
+   "tag": "div",
+   "r": [
+    67.8,
+    4688.3,
+    80,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    197.5,
+    4643.3,
+    169.5,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-9SpMv framer-o7c73w",
+   "tag": "div",
+   "r": [
+    244.8,
+    4688.3,
+    75,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    23,
+    4768.3,
+    169.5,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-CxFEq framer-o7c73w",
+   "tag": "div",
+   "r": [
+    84.7,
+    4813.3,
+    46.1,
+    30
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Case Study",
+   "c": "framer-rE6x2 framer-1evdr1t",
+   "tag": "div",
+   "r": [
+    197.5,
+    4768.3,
+    169.5,
+    120
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Logo",
+   "c": "framer-azjUT framer-o7c73w",
+   "tag": "div",
+   "r": [
+    264.6,
+    4813.3,
+    35.3,
+    30
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Year / Rating",
+   "c": "framer-11lsex1",
+   "tag": "div",
+   "r": [
+    23,
+    4928.3,
+    344,
+    75.6
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Rating",
+   "c": "framer-Vl2Hy framer-AWIXE",
+   "tag": "div",
+   "r": [
+    144.3,
+    4928.3,
+    222.7,
+    75.6
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Stacked Avatars",
+   "c": "framer-15gtnew",
+   "tag": "div",
+   "r": [
+    144.3,
+    4928.3,
+    107,
+    30
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Container",
+   "c": "framer-4rons3",
+   "tag": "div",
+   "r": [
+    144.3,
+    4928.3,
+    107,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "1",
+   "c": "framer-zsjmne-container",
+   "tag": "div",
+   "r": [
+    161.3,
+    4928.3,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Large",
+   "c": "framer-oe2kI framer-134908u",
+   "tag": "div",
+   "r": [
+    161.3,
+    4928.3,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Image",
+   "c": "framer-17aumxd",
+   "tag": "div",
+   "r": [
+    146.8,
+    4928.3,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "2",
+   "c": "framer-1ywp80p-container",
+   "tag": "div",
+   "r": [
+    185.3,
+    4928.3,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Large",
+   "c": "framer-oe2kI framer-134908u",
+   "tag": "div",
+   "r": [
+    185.3,
+    4928.3,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Image",
+   "c": "framer-17aumxd",
+   "tag": "div",
+   "r": [
+    170.8,
+    4928.3,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "3",
+   "c": "framer-r3qz5f-container",
+   "tag": "div",
+   "r": [
+    209.3,
+    4928.3,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Large",
+   "c": "framer-oe2kI framer-134908u",
+   "tag": "div",
+   "r": [
+    209.3,
+    4928.3,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Image",
+   "c": "framer-17aumxd",
+   "tag": "div",
+   "r": [
+    194.8,
+    4928.3,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 10,
+   "n": "4",
+   "c": "framer-ac7ito",
+   "tag": "div",
+   "r": [
+    233.3,
+    4928.3,
+    1,
+    30
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Count",
+   "c": "framer-1dm823p",
+   "tag": "div",
+   "r": [
+    218.8,
+    4928.3,
+    30,
+    30
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Rating",
+   "c": "framer-1gj1j7j",
+   "tag": "div",
+   "r": [
+    144.3,
+    4973.3,
+    115.8,
+    30.6
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Rating / Stars",
+   "c": "framer-o7y3w4",
+   "tag": "div",
+   "r": [
+    144.3,
+    4973.3,
+    115.8,
+    13.8
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Stars",
+   "c": "framer-lhv1pj",
+   "tag": "div",
+   "r": [
+    178.3,
+    4976.2,
+    53,
+    8
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Recognition",
+   "c": "framer-1v9qbyv",
+   "tag": "section",
+   "r": [
+    0,
+    5063.9,
+    390,
+    722.5
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-maixoy",
+   "tag": "div",
+   "r": [
+    0,
+    5123.9,
+    390,
+    602.5
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Awards",
+   "c": "framer-1qjbmof",
+   "tag": "div",
+   "r": [
+    33,
+    5204.4,
+    324,
+    522
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Small",
+   "c": "framer-w6BnQ framer-yTVl5",
+   "tag": "div",
+   "r": [
+    33,
+    5204.4,
+    61.2,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Awards",
+   "c": "framer-fa2fr4",
+   "tag": "div",
+   "r": [
+    33,
+    5242.4,
+    324,
+    484
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Labels",
+   "c": "framer-1pyvfr0",
+   "tag": "div",
+   "r": [
+    33,
+    5242.4,
+    324,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Awards",
+   "c": "framer-1q3vn7z",
+   "tag": "div",
+   "r": [
+    33,
+    5290.4,
+    324,
+    436
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Phone",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    33,
+    5290.4,
+    324,
+    109
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    33,
+    5310.4,
+    324,
+    68
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    33,
+    5398.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    33,
+    5398.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Phone",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    33,
+    5399.4,
+    324,
+    109
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    33,
+    5419.4,
+    324,
+    68
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    33,
+    5507.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    33,
+    5507.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Phone",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    33,
+    5508.4,
+    324,
+    109
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    33,
+    5528.4,
+    324,
+    68
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    33,
+    5616.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    33,
+    5616.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Phone",
+   "c": "framer-3Alku framer-khCxy",
+   "tag": "div",
+   "r": [
+    33,
+    5617.4,
+    324,
+    109
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Award",
+   "c": "framer-k2sxsh",
+   "tag": "div",
+   "r": [
+    33,
+    5637.4,
+    324,
+    68
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Show Horizontal",
+   "c": "framer-sz7Kf framer-t5kp41",
+   "tag": "div",
+   "r": [
+    33,
+    5725.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Line",
+   "c": "framer-5nyabp",
+   "tag": "div",
+   "r": [
+    33,
+    5725.4,
+    324,
+    1
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Phone",
+   "c": "framer-azsrl framer-LubW4",
+   "tag": "section",
+   "r": [
+    0,
+    5786.4,
+    390,
+    908
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Inside Container",
+   "c": "framer-1fq9aj0",
+   "tag": "div",
+   "r": [
+    0,
+    5846.4,
+    390,
+    788
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Label / Heading",
+   "c": "framer-t0gxtr",
+   "tag": "div",
+   "r": [
+    23,
+    5846.4,
+    344,
+    78.5
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Label / Heading",
+   "c": "framer-srsset",
+   "tag": "div",
+   "r": [
+    23,
+    5846.4,
+    162,
+    78.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    5846.4,
+    105.3,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    23,
+    5846.4,
+    105.3,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Desktop - Right",
+   "c": "framer-St8Ub framer-khCxy",
+   "tag": "a",
+   "r": [
+    290.6,
+    5904.5,
+    76.4,
+    20.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Text",
+   "c": "framer-1dzfdpz",
+   "tag": "div",
+   "r": [
+    290.6,
+    5904.5,
+    50.4,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Top Text",
+   "c": "framer-zixbhw",
+   "tag": "div",
+   "r": [
+    290.6,
+    5904.5,
+    50.4,
+    20.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bottom Text",
+   "c": "framer-1396mtp",
+   "tag": "div",
+   "r": [
+    290.6,
+    5924.5,
+    50.4,
+    20.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Chevron",
+   "c": "framer-73np5u",
+   "tag": "div",
+   "r": [
+    350,
+    5906.2,
+    17,
+    17
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Phone",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    23,
+    5964.9,
+    162,
+    222.7
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    23,
+    5964.9,
+    162,
+    141
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    23,
+    5964.9,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    23,
+    5992.9,
+    162,
+    113
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    23,
+    5992.9,
+    162,
+    113
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    23,
+    6120.9,
+    162,
+    66.7
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    23,
+    6169.6,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Phone",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    205,
+    5964.9,
+    162,
+    324.7
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    205,
+    5964.9,
+    162,
+    243
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    205,
+    5964.9,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    205,
+    5992.9,
+    162,
+    215
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    205,
+    5992.9,
+    162,
+    215
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    205,
+    6222.9,
+    162,
+    66.7
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    205,
+    6271.6,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Phone",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    23,
+    6309.6,
+    162,
+    179
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    23,
+    6309.6,
+    162,
+    119.2
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    23,
+    6309.6,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    23,
+    6337.6,
+    162,
+    91.2
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    23,
+    6337.6,
+    162,
+    91.2
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    23,
+    6443.8,
+    162,
+    44.8
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    23,
+    6470.6,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Phone",
+   "c": "framer-qXCbS framer-Me6vv",
+   "tag": "a",
+   "r": [
+    205,
+    6309.6,
+    162,
+    324.8
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Category / Image",
+   "c": "framer-1mffi2y",
+   "tag": "div",
+   "r": [
+    205,
+    6309.6,
+    162,
+    243.1
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Category",
+   "c": "framer-kdqgfg",
+   "tag": "div",
+   "r": [
+    205,
+    6309.6,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Image Container",
+   "c": "framer-v9hp8k",
+   "tag": "div",
+   "r": [
+    205,
+    6337.6,
+    162,
+    215.1
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Bg Image",
+   "c": "framer-yme2qk",
+   "tag": "div",
+   "r": [
+    205,
+    6337.6,
+    162,
+    215.1
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Title / Date",
+   "c": "framer-3pqa2g",
+   "tag": "div",
+   "r": [
+    205,
+    6567.7,
+    162,
+    66.7
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Date",
+   "c": "framer-1kgjso1",
+   "tag": "div",
+   "r": [
+    205,
+    6616.4,
+    162,
+    18
+   ]
+  },
+  {
+   "d": 3,
+   "n": "Phone",
+   "c": "framer-qIn7C framer-QoPvp",
+   "tag": "section",
+   "r": [
+    0,
+    6694.4,
+    390,
+    1655.4
+   ]
+  },
+  {
+   "d": 4,
+   "n": "Outer Container",
+   "c": "framer-1sfsb0h",
+   "tag": "div",
+   "r": [
+    3,
+    6697.4,
+    384,
+    1649.4
+   ]
+  },
+  {
+   "d": 5,
+   "n": "End",
+   "c": "framer-GJxp5 framer-ygyp3d",
+   "tag": "div",
+   "r": [
+    3,
+    6697.4,
+    384,
+    1649.4
+   ]
+  },
+  {
+   "d": 6,
+   "n": "BG",
+   "c": "framer-fbyx7b",
+   "tag": "div",
+   "r": [
+    3,
+    6697.4,
+    384,
+    1649.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark overlay",
+   "c": "framer-2rkagx",
+   "tag": "div",
+   "r": [
+    3,
+    6697.4,
+    384,
+    1649.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "BG Image",
+   "c": "framer-1rd84u6",
+   "tag": "div",
+   "r": [
+    3,
+    6697.4,
+    384,
+    1649.4
+   ]
+  },
+  {
+   "d": 5,
+   "n": "Inside Container",
+   "c": "framer-18ffh8y",
+   "tag": "div",
+   "r": [
+    3,
+    6717.4,
+    384,
+    1569.4
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Top",
+   "c": "framer-1xd81fe",
+   "tag": "div",
+   "r": [
+    23,
+    6717.4,
+    344,
+    94.6
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Label",
+   "c": "framer-Cuyir framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    6717.4,
+    70.1,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-moe5to",
+   "tag": "div",
+   "r": [
+    23,
+    6717.4,
+    70.1,
+    18
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Availability",
+   "c": "framer-1x9xq4c",
+   "tag": "div",
+   "r": [
+    205,
+    6717.4,
+    162,
+    18.2
+   ]
+  },
+  {
+   "d": 8,
+   "n": "2",
+   "c": "framer-fqvLJ framer-c37j5z",
+   "tag": "div",
+   "r": [
+    205,
+    6720.5,
+    18,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Active",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    205,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    205,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Active",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    209,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    209,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Inactive",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    213,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    213,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Inactive",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    217,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    217,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Inactive",
+   "c": "framer-E3D9I framer-7l2lys",
+   "tag": "div",
+   "r": [
+    221,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Slot",
+   "c": "framer-w3tiya",
+   "tag": "div",
+   "r": [
+    221,
+    6720.5,
+    2,
+    12
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Author",
+   "c": "framer-QRwP7 framer-QoPvp",
+   "tag": "div",
+   "r": [
+    23,
+    6775.6,
+    344,
+    36.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Name / Role",
+   "c": "framer-lpw2kj",
+   "tag": "div",
+   "r": [
+    66,
+    6775.6,
+    48.5,
+    36.4
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Middle",
+   "c": "framer-1vtoytd",
+   "tag": "div",
+   "r": [
+    23,
+    6872,
+    344,
+    973.5
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Heading / Form",
+   "c": "framer-sec3t8",
+   "tag": "div",
+   "r": [
+    23,
+    6872,
+    344,
+    973.5
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Heading / Description",
+   "c": "framer-11w2tx5",
+   "tag": "div",
+   "r": [
+    23,
+    6872,
+    344,
+    154.7
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Form / Contact Info",
+   "c": "framer-behbyg",
+   "tag": "div",
+   "r": [
+    23,
+    7066.7,
+    344,
+    778.9
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Default",
+   "c": "framer-KEC63 framer-khCxy",
+   "tag": "div",
+   "r": [
+    23,
+    7066.7,
+    344,
+    630.4
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Spinner",
+   "c": "framer-pEZXs framer-7sj87n",
+   "tag": "div",
+   "r": [
+    187,
+    7380.2,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Spinner",
+   "c": "framer-1yqlm52",
+   "tag": "div",
+   "r": [
+    187,
+    7380.2,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Fields",
+   "c": "framer-17d941x",
+   "tag": "div",
+   "r": [
+    23,
+    7066.7,
+    344,
+    505.6
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Name / Company",
+   "c": "framer-1c5kg59",
+   "tag": "div",
+   "r": [
+    23,
+    7066.7,
+    344,
+    108.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Name",
+   "c": "framer-myo4nu",
+   "tag": "label",
+   "r": [
+    23,
+    7066.7,
+    344,
+    49.2
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Company",
+   "c": "framer-c41om3",
+   "tag": "label",
+   "r": [
+    23,
+    7125.9,
+    344,
+    49.2
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Help With",
+   "c": "framer-ausbnb",
+   "tag": "label",
+   "r": [
+    23,
+    7190.1,
+    344,
+    49.2
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Pitch",
+   "c": "framer-3t0b9d",
+   "tag": "label",
+   "r": [
+    23,
+    7254.3,
+    344,
+    130.4
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Budget & Timeline",
+   "c": "framer-1lq4m9b",
+   "tag": "div",
+   "r": [
+    23,
+    7399.7,
+    344,
+    108.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Budget",
+   "c": "framer-mvvosq",
+   "tag": "label",
+   "r": [
+    23,
+    7399.7,
+    344,
+    49.2
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Start",
+   "c": "framer-78o1yk",
+   "tag": "label",
+   "r": [
+    23,
+    7458.9,
+    344,
+    49.2
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Email",
+   "c": "framer-u8bpr7",
+   "tag": "label",
+   "r": [
+    23,
+    7523.1,
+    344,
+    49.2
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Legal / Submit",
+   "c": "framer-nxx5hd",
+   "tag": "div",
+   "r": [
+    23,
+    7602.3,
+    344,
+    94.8
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Legal",
+   "c": "framer-mrpb47",
+   "tag": "div",
+   "r": [
+    23,
+    7602.3,
+    344,
+    36.4
+   ]
+  },
+  {
+   "d": 11,
+   "n": "Incomplete",
+   "c": "framer-8H41b framer-khCxy",
+   "tag": "button",
+   "r": [
+    23,
+    7658.8,
+    344,
+    38.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "BG Color",
+   "c": "framer-17skh7b",
+   "tag": "div",
+   "r": [
+    23,
+    7658.8,
+    344,
+    38.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "btn text",
+   "c": "framer-71e8ti",
+   "tag": "div",
+   "r": [
+    148,
+    7667.8,
+    93.9,
+    20.4
+   ]
+  },
+  {
+   "d": 13,
+   "n": "top",
+   "c": "framer-1gm2ya6",
+   "tag": "div",
+   "r": [
+    148,
+    7667.8,
+    93.9,
+    20.4
+   ]
+  },
+  {
+   "d": 13,
+   "n": "bottom",
+   "c": "framer-l29hgm",
+   "tag": "div",
+   "r": [
+    148,
+    7687.8,
+    93.9,
+    20.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Success",
+   "c": "framer-o60xf framer-1xmnpcd",
+   "tag": "svg",
+   "r": [
+    184.3,
+    7671.1,
+    14.4,
+    14.4
+   ]
+  },
+  {
+   "d": 12,
+   "n": "Spinner",
+   "c": "framer-pEZXs framer-7sj87n",
+   "tag": "div",
+   "r": [
+    187,
+    7670.3,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 13,
+   "n": "Spinner",
+   "c": "framer-1yqlm52",
+   "tag": "div",
+   "r": [
+    187,
+    7670.3,
+    16,
+    16
+   ]
+  },
+  {
+   "d": 9,
+   "n": "Contact / Logo",
+   "c": "framer-xxp7hb",
+   "tag": "div",
+   "r": [
+    23,
+    7737.2,
+    344,
+    108.4
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Phone / Email",
+   "c": "framer-1g9sbcz",
+   "tag": "div",
+   "r": [
+    23,
+    7737.2,
+    344,
+    55.5
+   ]
+  },
+  {
+   "d": 10,
+   "n": "Logo",
+   "c": "framer-1xjrc framer-swsyrf",
+   "tag": "div",
+   "r": [
+    23,
+    7827.6,
+    65,
+    18
+   ]
+  },
+  {
+   "d": 6,
+   "n": "Bottom",
+   "c": "framer-casp62",
+   "tag": "div",
+   "r": [
+    23,
+    7905.6,
+    344,
+    381.2
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark",
+   "c": "framer-4Ch77 framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    7905.6,
+    344,
+    100.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Step",
+   "c": "framer-v8qtu5",
+   "tag": "div",
+   "r": [
+    23,
+    7905.6,
+    23,
+    23
+   ]
+  },
+  {
+   "d": 9,
+   "n": "01",
+   "c": "framer-cnai0k",
+   "tag": "div",
+   "r": [
+    28.4,
+    7908.1,
+    12.1,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-re0eey",
+   "tag": "div",
+   "r": [
+    23,
+    7941.6,
+    344,
+    64.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark",
+   "c": "framer-4Ch77 framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    8046,
+    344,
+    100.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Step",
+   "c": "framer-v8qtu5",
+   "tag": "div",
+   "r": [
+    23,
+    8046,
+    23,
+    23
+   ]
+  },
+  {
+   "d": 9,
+   "n": "01",
+   "c": "framer-cnai0k",
+   "tag": "div",
+   "r": [
+    27.5,
+    8048.5,
+    14,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-re0eey",
+   "tag": "div",
+   "r": [
+    23,
+    8082,
+    344,
+    64.4
+   ]
+  },
+  {
+   "d": 7,
+   "n": "Dark",
+   "c": "framer-4Ch77 framer-Me6vv",
+   "tag": "div",
+   "r": [
+    23,
+    8186.4,
+    344,
+    100.4
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Step",
+   "c": "framer-v8qtu5",
+   "tag": "div",
+   "r": [
+    23,
+    8186.4,
+    23,
+    23
+   ]
+  },
+  {
+   "d": 9,
+   "n": "01",
+   "c": "framer-cnai0k",
+   "tag": "div",
+   "r": [
+    27.4,
+    8188.9,
+    14.2,
+    18
+   ]
+  },
+  {
+   "d": 8,
+   "n": "Text",
+   "c": "framer-re0eey",
+   "tag": "div",
+   "r": [
+    23,
+    8222.4,
+    344,
+    64.4
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "tag": "h1",
+   "t": "the studio.",
+   "raw": "the studio.",
+   "r": [
+    23,
+    289.7,
+    344,
+    82
+   ],
+   "lines": [
+    "the"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 91.1006px | 81.9905px | -1.82201px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "p",
+   "t": "A brand and web studio for founders who care how they’re seen. Small on purpose, and personal by design.",
+   "raw": "                           A brand and web studio for founders who care how they’re seen. Small on purpose, and personal by design.",
+   "r": [
+    23,
+    401.7,
+    344,
+    65.5
+   ],
+   "lines": [
+    "A",
+    "f",
+    "p"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | justify | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "p",
+   "t": "based in",
+   "raw": "based in",
+   "r": [
+    23,
+    732,
+    49.5,
+    18
+   ],
+   "lines": [
+    "based"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(188, 188, 188) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Location"
+  },
+  {
+   "tag": "p",
+   "t": "los angeles",
+   "raw": "los angeles",
+   "r": [
+    87.5,
+    710,
+    97.5,
+    18
+   ],
+   "lines": [
+    "los"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Locations"
+  },
+  {
+   "tag": "p",
+   "t": "tokyo",
+   "raw": "tokyo",
+   "r": [
+    87.5,
+    732,
+    97.5,
+    18
+   ],
+   "lines": [
+    "tokyo"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Locations"
+  },
+  {
+   "tag": "p",
+   "t": "Services",
+   "raw": "Services",
+   "r": [
+    205,
+    732,
+    52.1,
+    18
+   ],
+   "lines": [
+    "Services"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(188, 188, 188) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Brand Identity",
+   "raw": "Brand Identity",
+   "r": [
+    272.1,
+    666,
+    94.9,
+    18
+   ],
+   "lines": [
+    "Brand"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Web Design",
+   "raw": "Web Design",
+   "r": [
+    272.1,
+    688,
+    94.9,
+    18
+   ],
+   "lines": [
+    "Web"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Framer Dev",
+   "raw": "Framer Dev",
+   "r": [
+    272.1,
+    710,
+    94.9,
+    18
+   ],
+   "lines": [
+    "Framer"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Art Direction",
+   "raw": "Art Direction",
+   "r": [
+    272.1,
+    732,
+    94.9,
+    18
+   ],
+   "lines": [
+    "Art"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Services"
+  },
+  {
+   "tag": "p",
+   "t": "Our culture.",
+   "raw": "Our culture.",
+   "r": [
+    23,
+    888,
+    344,
+    18
+   ],
+   "lines": [
+    "Our"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Images / Text"
+  },
+  {
+   "tag": "h2",
+   "t": "We care about details most people never notice. We argue about kerning and mean it. Everyone here has taste and gets to use it. Nothing leaves the studio that we wouldn’t put our own name on.",
+   "raw": "                          We care about details most people never notice. We argue about kerning and mean it. Everyone here has taste and gets to use it. Nothing leaves the studio that we wouldn’t put our own name on.",
+   "r": [
+    23,
+    1131.5,
+    344,
+    210
+   ],
+   "lines": [
+    "W",
+    "d",
+    "n",
+    "a",
+    "t",
+    "l",
+    "w"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 30px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | justify | 1",
+   "sec": "Statement / Images"
+  },
+  {
+   "tag": "p",
+   "t": "by the numbers.",
+   "raw": "by the numbers.",
+   "r": [
+    23,
+    1381.5,
+    344,
+    18
+   ],
+   "lines": [
+    "by"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Numbers"
+  },
+  {
+   "tag": "p",
+   "t": "industries we’ve shipped in",
+   "raw": "industries we’ve shipped in",
+   "r": [
+    23,
+    1439.5,
+    162,
+    36
+   ],
+   "lines": [
+    "industries",
+    "we’ve"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "0",
+   "raw": "0",
+   "r": [
+    23,
+    1485.5,
+    20.1,
+    40.5
+   ],
+   "lines": [
+    "0"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "people max on any project",
+   "raw": "people max on any project",
+   "r": [
+    205,
+    1439.5,
+    162,
+    18
+   ],
+   "lines": [
+    "people"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "3",
+   "raw": "3",
+   "r": [
+    205,
+    1467.5,
+    19,
+    40.5
+   ],
+   "lines": [
+    "3"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "longest you’ll wait for a reply",
+   "raw": "longest you’ll wait for a reply",
+   "r": [
+    23,
+    1566,
+    162,
+    36
+   ],
+   "lines": [
+    "longest",
+    "wait"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "0hr",
+   "raw": "0hr",
+   "r": [
+    23,
+    1612,
+    60.3,
+    40.5
+   ],
+   "lines": [
+    "0hr"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "of our launches are still live",
+   "raw": "of our launches are still live",
+   "r": [
+    205,
+    1566,
+    162,
+    36
+   ],
+   "lines": [
+    "of",
+    "are"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Description"
+  },
+  {
+   "tag": "h2",
+   "t": "0%",
+   "raw": "0%",
+   "r": [
+    205,
+    1612,
+    50.2,
+    40.5
+   ],
+   "lines": [
+    "0%"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Big metric"
+  },
+  {
+   "tag": "p",
+   "t": "EST. 2012",
+   "raw": " EST. 2012",
+   "r": [
+    305.4,
+    1745.5,
+    51.6,
+    18
+   ],
+   "lines": [
+    "EST."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Meet the team",
+   "raw": "Meet the team",
+   "r": [
+    26,
+    1830.5,
+    83.8,
+    18
+   ],
+   "lines": [
+    "Meet"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+   "raw": "                 WE STAYED SMALL SO WE COULD STAY PICKY. EVERY PERSON ON A PROJECT IS THERE BECAUSE THE WORK NEEDED THEM, NOT BECAUSE THEY HAPPENED TO BE FREE.",
+   "r": [
+    26,
+    1868.5,
+    338,
+    180
+   ],
+   "lines": [
+    "W",
+    "C",
+    "O",
+    "T",
+    "B",
+    "F"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 30px | -0.6px | uppercase | rgba(13, 13, 13, 0.7) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | justify | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "(4) Team Members",
+   "raw": "(4) Team Members",
+   "r": [
+    26,
+    2128.5,
+    159,
+    18
+   ],
+   "lines": [
+    "(4)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | justify | 1",
+   "sec": "Team"
+  },
+  {
+   "tag": "p",
+   "t": "Jin Yuen",
+   "raw": "Jin Yuen",
+   "r": [
+    217,
+    2350.5,
+    135,
+    21.8
+   ],
+   "lines": [
+    "Jin"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Founder",
+   "raw": "Founder",
+   "r": [
+    301.1,
+    2372.3,
+    50.9,
+    18
+   ],
+   "lines": [
+    "Founder"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Sarah Park",
+   "raw": "Sarah Park",
+   "r": [
+    38,
+    2632.3,
+    135,
+    21.8
+   ],
+   "lines": [
+    "Sarah"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Designer",
+   "raw": "Designer",
+   "r": [
+    119.2,
+    2654.2,
+    53.8,
+    18
+   ],
+   "lines": [
+    "Designer"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Alex West",
+   "raw": "Alex West",
+   "r": [
+    217,
+    2632.3,
+    135,
+    21.8
+   ],
+   "lines": [
+    "Alex"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Client Manager",
+   "raw": "Client Manager",
+   "r": [
+    258,
+    2654.2,
+    94,
+    18
+   ],
+   "lines": [
+    "Client"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "David Torres",
+   "raw": "David Torres",
+   "r": [
+    38,
+    2914.2,
+    135,
+    21.8
+   ],
+   "lines": [
+    "David"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Developer",
+   "raw": "Developer",
+   "r": [
+    111.5,
+    2936,
+    61.5,
+    18
+   ],
+   "lines": [
+    "Developer"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "h3",
+   "t": "join us, we're hiring.",
+   "raw": "join us, we're hiring.",
+   "r": [
+    26,
+    3014,
+    338,
+    31.5
+   ],
+   "lines": [
+    "j"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 31.5px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Top"
+  },
+  {
+   "tag": "p",
+   "t": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+   "raw": "We’re looking for highly ambitious and talented people to help us drive real growth.",
+   "r": [
+    26,
+    3060.5,
+    338,
+    36.4
+   ],
+   "lines": [
+    "We’re",
+    "talented"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(255, 255, 255) | normal | normal | start | 1",
+   "sec": "Top"
+  },
+  {
+   "tag": "p",
+   "t": "02",
+   "raw": "02",
+   "r": [
+    30,
+    3118.9,
+    14,
+    18
+   ],
+   "lines": [
+    "02"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Number"
+  },
+  {
+   "tag": "p",
+   "t": "Open Positions",
+   "raw": "Open Positions",
+   "r": [
+    55,
+    3118.9,
+    89.9,
+    18
+   ],
+   "lines": [
+    "Open"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Open Positions"
+  },
+  {
+   "tag": "p",
+   "t": "Email us",
+   "raw": "Email us",
+   "r": [
+    287.3,
+    3168.9,
+    50.7,
+    20.4
+   ],
+   "lines": [
+    "Email"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Top Text"
+  },
+  {
+   "tag": "p",
+   "t": "Email us",
+   "raw": "Email us",
+   "r": [
+    287.3,
+    3188.9,
+    50.7,
+    20.4
+   ],
+   "lines": [
+    "Email"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Bottom Text"
+  },
+  {
+   "tag": "h2",
+   "t": "What guides us.",
+   "raw": "What guides us.",
+   "r": [
+    23,
+    3551.9,
+    344,
+    40.5
+   ],
+   "lines": [
+    "W"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Inside Container"
+  },
+  {
+   "tag": "h2",
+   "t": "01",
+   "raw": "01",
+   "r": [
+    23,
+    3563.4,
+    101.3,
+    40.5
+   ],
+   "lines": [
+    "01"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Phone"
+  },
+  {
+   "tag": "h3",
+   "t": "You talk to the maker.",
+   "raw": "You talk to the maker.",
+   "r": [
+    144.3,
+    3663.4,
+    222.7,
+    63
+   ],
+   "lines": [
+    "You",
+    "the"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 31.5px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "No account layer, no handoffs. The person in your calls is the person in the file.",
+   "raw": "No account layer, no handoffs. The person in your calls is the person in the file.",
+   "r": [
+    144.3,
+    3746.4,
+    222.7,
+    61.2
+   ],
+   "lines": [
+    "No",
+    "The",
+    "is"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "02",
+   "raw": "02",
+   "r": [
+    23,
+    3768.7,
+    101.3,
+    40.5
+   ],
+   "lines": [
+    "02"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Phone"
+  },
+  {
+   "tag": "h3",
+   "t": "Scope is set before we start.",
+   "raw": "Scope is set before we start.",
+   "r": [
+    144.3,
+    3868.7,
+    222.7,
+    63
+   ],
+   "lines": [
+    "Scope",
+    "before"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 31.5px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Price, timeline, and deliverables on paper before day one. Surprises are a design flaw.",
+   "raw": "Price, timeline, and deliverables on paper before day one. Surprises are a design flaw.",
+   "r": [
+    144.3,
+    3951.7,
+    222.7,
+    61.2
+   ],
+   "lines": [
+    "Price,",
+    "on",
+    "Surprises"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "03",
+   "raw": "03",
+   "r": [
+    23,
+    3973.9,
+    101.3,
+    40.5
+   ],
+   "lines": [
+    "03"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Phone"
+  },
+  {
+   "tag": "h3",
+   "t": "We say no early.",
+   "raw": "We say no early.",
+   "r": [
+    144.3,
+    4073.9,
+    222.7,
+    31.5
+   ],
+   "lines": [
+    "We"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 31.5px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "If design is not your real problem, we will tell you in the first call and point you somewhere better.",
+   "raw": "If design is not your real problem, we will tell you in the first call and point you somewhere better.",
+   "r": [
+    144.3,
+    4125.4,
+    222.7,
+    61.2
+   ],
+   "lines": [
+    "If",
+    "we",
+    "and"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "04",
+   "raw": "04",
+   "r": [
+    23,
+    4147.6,
+    101.3,
+    40.5
+   ],
+   "lines": [
+    "04"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(245, 45, 15) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Phone"
+  },
+  {
+   "tag": "h3",
+   "t": "You own the work.",
+   "raw": "You own the work.",
+   "r": [
+    144.3,
+    4247.6,
+    222.7,
+    31.5
+   ],
+   "lines": [
+    "You"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 31.5px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Every file, font, and license comes with the handoff. Nothing stays hostage in our drive.",
+   "raw": "Every file, font, and license comes with the handoff. Nothing stays hostage in our drive.",
+   "r": [
+    144.3,
+    4299.1,
+    222.7,
+    61.2
+   ],
+   "lines": [
+    "Every",
+    "comes",
+    "stays"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Our clients",
+   "raw": "Our clients",
+   "r": [
+    23,
+    4480.3,
+    69.5,
+    18
+   ],
+   "lines": [
+    "Our"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "2012 2026©",
+   "raw": "2012 2026©",
+   "r": [
+    23,
+    4928.3,
+    50,
+    36
+   ],
+   "lines": [
+    "2012",
+    "2026©"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Year / Rating"
+  },
+  {
+   "tag": "p",
+   "t": "+47",
+   "raw": "+47",
+   "r": [
+    223.8,
+    4936.4,
+    20,
+    13.8
+   ],
+   "lines": [
+    "+47"
+   ],
+   "f": "Switzer | 600 | 12px | 13.8px | -0.24px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Count"
+  },
+  {
+   "tag": "p",
+   "t": "4.9/5",
+   "raw": "4.9/5",
+   "r": [
+    144.3,
+    4973.3,
+    27,
+    13.8
+   ],
+   "lines": [
+    "4.9"
+   ],
+   "f": "Switzer | 600 | 12px | 13.8px | -0.24px | none | rgb(13, 13, 13) | normal | normal | left | 1",
+   "sec": "Rating / Stars"
+  },
+  {
+   "tag": "p",
+   "t": "Trusted by 50+ clients",
+   "raw": "Trusted by 50+ clients",
+   "r": [
+    144.3,
+    4990.1,
+    115.8,
+    13.8
+   ],
+   "lines": [
+    "Trusted"
+   ],
+   "f": "Switzer | 600 | 12px | 13.8px | -0.24px | none | rgb(13, 13, 13) | normal | normal | left | 1",
+   "sec": "Rating"
+  },
+  {
+   "tag": "h2",
+   "t": "Awards.",
+   "raw": "Awards.",
+   "r": [
+    33,
+    5123.9,
+    324,
+    40.5
+   ],
+   "lines": [
+    "A"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | start | 1",
+   "sec": "Inside Container"
+  },
+  {
+   "tag": "p",
+   "t": "(2012-26©)",
+   "raw": "(2012-26©)",
+   "r": [
+    33,
+    5204.4,
+    61.2,
+    18
+   ],
+   "lines": [
+    "(2012-26©)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Small"
+  },
+  {
+   "tag": "p",
+   "t": "Award",
+   "raw": "Award",
+   "r": [
+    33,
+    5242.4,
+    152,
+    18
+   ],
+   "lines": [
+    "Award"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Labels"
+  },
+  {
+   "tag": "p",
+   "t": "year",
+   "raw": "year",
+   "r": [
+    328.1,
+    5242.4,
+    28.9,
+    18
+   ],
+   "lines": [
+    "year"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Labels"
+  },
+  {
+   "tag": "p",
+   "t": "Awwwards",
+   "raw": "Awwwards",
+   "r": [
+    78,
+    5312.2,
+    279,
+    20.4
+   ],
+   "lines": [
+    "Awwwards"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Site of the Day",
+   "raw": "Site of the Day",
+   "r": [
+    33,
+    5356.2,
+    152,
+    20.4
+   ],
+   "lines": [
+    "Site"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2026",
+   "raw": "2026",
+   "r": [
+    327.5,
+    5356.2,
+    29.5,
+    20.4
+   ],
+   "lines": [
+    "2026"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "FWA",
+   "raw": "FWA",
+   "r": [
+    78,
+    5421.2,
+    279,
+    20.4
+   ],
+   "lines": [
+    "FWA"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "FWA of the day",
+   "raw": "FWA of the day",
+   "r": [
+    33,
+    5465.2,
+    152,
+    20.4
+   ],
+   "lines": [
+    "FWA"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2025",
+   "raw": "2025",
+   "r": [
+    327.8,
+    5465.2,
+    29.2,
+    20.4
+   ],
+   "lines": [
+    "2025"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "CSS design awards",
+   "raw": "CSS design awards",
+   "r": [
+    78,
+    5530.2,
+    279,
+    20.4
+   ],
+   "lines": [
+    "CSS"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Website of the day",
+   "raw": "Website of the day",
+   "r": [
+    33,
+    5574.2,
+    152,
+    20.4
+   ],
+   "lines": [
+    "Website"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2024",
+   "raw": "2024",
+   "r": [
+    327.5,
+    5574.2,
+    29.5,
+    20.4
+   ],
+   "lines": [
+    "2024"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Awwwards",
+   "raw": "Awwwards",
+   "r": [
+    78,
+    5639.2,
+    279,
+    20.4
+   ],
+   "lines": [
+    "Awwwards"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "Honorable Mention",
+   "raw": "Honorable Mention",
+   "r": [
+    33,
+    5683.2,
+    152,
+    20.4
+   ],
+   "lines": [
+    "Honorable"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "2023",
+   "raw": "2023",
+   "r": [
+    327.8,
+    5683.2,
+    29.2,
+    20.4
+   ],
+   "lines": [
+    "2023"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Award"
+  },
+  {
+   "tag": "p",
+   "t": "From the journal",
+   "raw": "From the journal",
+   "r": [
+    23,
+    5846.4,
+    105.3,
+    18
+   ],
+   "lines": [
+    "From"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "h2",
+   "t": "articles.",
+   "raw": "articles.",
+   "r": [
+    23,
+    5884.4,
+    162,
+    40.5
+   ],
+   "lines": [
+    "a"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Label / Heading"
+  },
+  {
+   "tag": "p",
+   "t": "View All",
+   "raw": "View All",
+   "r": [
+    290.6,
+    5904.5,
+    50.4,
+    20.4
+   ],
+   "lines": [
+    "View"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Top Text"
+  },
+  {
+   "tag": "p",
+   "t": "View All",
+   "raw": "View All",
+   "r": [
+    290.6,
+    5924.5,
+    50.4,
+    20.4
+   ],
+   "lines": [
+    "View"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 17px | 20.4px | -0.17px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | normal | left | 1",
+   "sec": "Bottom Text"
+  },
+  {
+   "tag": "p",
+   "t": "(Studio Notes)",
+   "raw": "(Studio Notes)",
+   "r": [
+    23,
+    5964.9,
+    162,
+    18
+   ],
+   "lines": [
+    "(Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "Fewer projects, more attention.",
+   "raw": "Fewer projects, more attention.",
+   "r": [
+    23,
+    6120.9,
+    162,
+    43.7
+   ],
+   "lines": [
+    "Fewer",
+    "more"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "6/15/26",
+   "raw": "6/15/26",
+   "r": [
+    23,
+    6169.6,
+    162,
+    18
+   ],
+   "lines": [
+    "6/15/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "(Opinion)",
+   "raw": "(Opinion)",
+   "r": [
+    205,
+    5964.9,
+    162,
+    18
+   ],
+   "lines": [
+    "(Opinion)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "Awards don't build brands.",
+   "raw": "Awards don't build brands.",
+   "r": [
+    205,
+    6222.9,
+    162,
+    43.7
+   ],
+   "lines": [
+    "Awards",
+    "build"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "5/5/26",
+   "raw": "5/5/26",
+   "r": [
+    205,
+    6271.6,
+    162,
+    18
+   ],
+   "lines": [
+    "5/5/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "(Process)",
+   "raw": "(Process)",
+   "r": [
+    23,
+    6309.6,
+    162,
+    18
+   ],
+   "lines": [
+    "(Process)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "Why we quote fixed.",
+   "raw": "Why we quote fixed.",
+   "r": [
+    23,
+    6443.8,
+    162,
+    21.8
+   ],
+   "lines": [
+    "Why"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "4/3/26",
+   "raw": "4/3/26",
+   "r": [
+    23,
+    6470.6,
+    162,
+    18
+   ],
+   "lines": [
+    "4/3/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "(Craft)",
+   "raw": "(Craft)",
+   "r": [
+    205,
+    6309.6,
+    162,
+    18
+   ],
+   "lines": [
+    "(Craft)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Category"
+  },
+  {
+   "tag": "p",
+   "t": "The best type is invisible.",
+   "raw": "The best type is invisible.",
+   "r": [
+    205,
+    6567.7,
+    162,
+    43.7
+   ],
+   "lines": [
+    "The",
+    "is"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Title / Date"
+  },
+  {
+   "tag": "p",
+   "t": "3/20/26",
+   "raw": "3/20/26",
+   "r": [
+    205,
+    6616.4,
+    162,
+    18
+   ],
+   "lines": [
+    "3/20/26"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Date"
+  },
+  {
+   "tag": "p",
+   "t": "Book a call",
+   "raw": "Book a call",
+   "r": [
+    23,
+    6717.4,
+    70.1,
+    18
+   ],
+   "lines": [
+    "Book"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(255, 255, 255) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "2 slots for August '26",
+   "raw": "2 slots for August '26",
+   "r": [
+    231,
+    6717.4,
+    136,
+    18.2
+   ],
+   "lines": [
+    "2"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Availability"
+  },
+  {
+   "tag": "p",
+   "t": "Jin Yuen",
+   "raw": "Jin Yuen",
+   "r": [
+    66,
+    6775.6,
+    48.4,
+    18.2
+   ],
+   "lines": [
+    "Jin"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(250, 250, 250) | normal | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "p",
+   "t": "Founder",
+   "raw": "Founder",
+   "r": [
+    66,
+    6793.8,
+    48.5,
+    18.2
+   ],
+   "lines": [
+    "Founder"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Name / Role"
+  },
+  {
+   "tag": "h2",
+   "t": "Let's make you impossible to ignore.",
+   "raw": "Let's make you impossible to ignore.",
+   "r": [
+    23,
+    6872,
+    344,
+    81
+   ],
+   "lines": [
+    "L",
+    "i"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 45px | 40.5px | -0.9px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 700 | \"ss07\" | left | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "p",
+   "t": "Tell us what you're building. We'll tell you how we'd make it land.",
+   "raw": "                          Tell us what you're building. We'll tell you how we'd make it land.",
+   "r": [
+    23,
+    6983,
+    300,
+    43.7
+   ],
+   "lines": [
+    "T",
+    "W"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | justify | 1",
+   "sec": "Heading / Description"
+  },
+  {
+   "tag": "label",
+   "t": "My name is",
+   "raw": "My name is",
+   "r": [
+    23,
+    7066.7,
+    344,
+    49.2
+   ],
+   "lines": [
+    "My"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Name"
+  },
+  {
+   "tag": "label",
+   "t": "i’m from",
+   "raw": "i’m from",
+   "r": [
+    23,
+    7125.9,
+    344,
+    49.2
+   ],
+   "lines": [
+    "i’m"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Company"
+  },
+  {
+   "tag": "label",
+   "t": "and I need help with",
+   "raw": "and I need help with",
+   "r": [
+    23,
+    7190.1,
+    344,
+    49.2
+   ],
+   "lines": [
+    "and"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Help With"
+  },
+  {
+   "tag": "label",
+   "t": "here’s the Idea:",
+   "raw": "here’s the Idea:",
+   "r": [
+    23,
+    7254.3,
+    344,
+    130.4
+   ],
+   "lines": [
+    "here’s"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Pitch"
+  },
+  {
+   "tag": "label",
+   "t": "my budget is around",
+   "raw": "my budget is around",
+   "r": [
+    23,
+    7399.7,
+    344,
+    49.2
+   ],
+   "lines": [
+    "my"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Budget"
+  },
+  {
+   "tag": "label",
+   "t": "and i’d like to startWhen…ASAPWithin a monthThis quarterJust exploring",
+   "raw": "and i’d like to startWhen…ASAPWithin a monthThis quarterJust exploring",
+   "r": [
+    23,
+    7458.9,
+    344,
+    49.2
+   ],
+   "lines": [
+    "and"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Start"
+  },
+  {
+   "tag": "label",
+   "t": "reach me at",
+   "raw": "reach me at",
+   "r": [
+    23,
+    7523.1,
+    344,
+    49.2
+   ],
+   "lines": [
+    "reach"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Email"
+  },
+  {
+   "tag": "p",
+   "t": "By submitting, you agree to our terms and privacy policy.",
+   "raw": "By submitting, you agree to our terms and privacy policy.",
+   "r": [
+    23,
+    7602.3,
+    240,
+    36.4
+   ],
+   "lines": [
+    "By",
+    "our"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Legal"
+  },
+  {
+   "tag": "button",
+   "t": "Start a projectStart a project",
+   "raw": "Start a projectStart a project",
+   "r": [
+    23,
+    7658.8,
+    344,
+    38.4
+   ],
+   "lines": [
+    "Start",
+    "Start"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | center | 0.75",
+   "sec": "Incomplete"
+  },
+  {
+   "tag": "p",
+   "t": "+1 (805) 450 1432",
+   "raw": "+1 (805) 450 1432",
+   "r": [
+    23,
+    7737.2,
+    344,
+    26.5
+   ],
+   "lines": [
+    "+1"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 23px | 26.45px | -0.46px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Phone / Email"
+  },
+  {
+   "tag": "p",
+   "t": "hello@mira.studio",
+   "raw": "hello@mira.studio",
+   "r": [
+    23,
+    7771.6,
+    344,
+    21
+   ],
+   "lines": [
+    "hello@mira.studio"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | justify | 1",
+   "sec": "Phone / Email"
+  },
+  {
+   "tag": "p",
+   "t": "01",
+   "raw": "01",
+   "r": [
+    28.4,
+    7908.1,
+    12.1,
+    18
+   ],
+   "lines": [
+    "01"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "01"
+  },
+  {
+   "tag": "p",
+   "t": "You hear back within a day.",
+   "raw": "You hear back within a day.",
+   "r": [
+    23,
+    7941.6,
+    344,
+    21
+   ],
+   "lines": [
+    "You"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "From the founder, not a form-bot. We read every enquiry personally.",
+   "raw": "From the founder, not a form-bot. We read every enquiry personally.",
+   "r": [
+    23,
+    7969.6,
+    240,
+    36.4
+   ],
+   "lines": [
+    "From",
+    "We"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "02",
+   "raw": "02",
+   "r": [
+    27.5,
+    8048.5,
+    14,
+    18
+   ],
+   "lines": [
+    "02"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "01"
+  },
+  {
+   "tag": "p",
+   "t": "A short discovery call.",
+   "raw": "A short discovery call.",
+   "r": [
+    23,
+    8082,
+    344,
+    21
+   ],
+   "lines": [
+    "A"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Thirty minutes to understand your goals, audience, and what's not working.",
+   "raw": "Thirty minutes to understand your goals, audience, and what's not working.",
+   "r": [
+    23,
+    8110,
+    240,
+    36.4
+   ],
+   "lines": [
+    "Thirty",
+    "audience,"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "03",
+   "raw": "03",
+   "r": [
+    27.4,
+    8188.9,
+    14.2,
+    18
+   ],
+   "lines": [
+    "03"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "01"
+  },
+  {
+   "tag": "p",
+   "t": "A fixed-quote proposal.",
+   "raw": "A fixed-quote proposal.",
+   "r": [
+    23,
+    8222.4,
+    344,
+    21
+   ],
+   "lines": [
+    "A"
+   ],
+   "f": "Switzer | 600 | 15px | 21px | -0.45px | none | rgb(255, 255, 255) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Clear scope, clear timeline, clear price. No surprises later.",
+   "raw": "Clear scope, clear timeline, clear price. No surprises later.",
+   "r": [
+    23,
+    8250.4,
+    240,
+    36.4
+   ],
+   "lines": [
+    "Clear",
+    "clear"
+   ],
+   "f": "Switzer | 600 | 13px | 18.2px | -0.26px | none | rgb(188, 188, 188) | normal | normal | left | 1",
+   "sec": "Text"
+  },
+  {
+   "tag": "p",
+   "t": "Home",
+   "raw": "Home",
+   "r": [
+    23,
+    75,
+    54.8,
+    33
+   ],
+   "lines": [
+    "Home"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Home",
+   "raw": "Home",
+   "r": [
+    23,
+    120,
+    54.8,
+    33
+   ],
+   "lines": [
+    "Home"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    23,
+    113,
+    91.8,
+    33
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    23,
+    158,
+    91.8,
+    33
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "(6)",
+   "raw": "(6)",
+   "r": [
+    116.8,
+    113,
+    14,
+    18
+   ],
+   "lines": [
+    "(6)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(245, 45, 15) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Count Text"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    23,
+    151,
+    69.1,
+    33
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    23,
+    196,
+    69.1,
+    33
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    23,
+    189,
+    83.4,
+    33
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    23,
+    234,
+    83.4,
+    33
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(255, 255, 255) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "let's talk",
+   "raw": "let's talk",
+   "r": [
+    23,
+    262,
+    56.3,
+    18
+   ],
+   "lines": [
+    "let's"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(188, 188, 188) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Contact"
+  },
+  {
+   "tag": "span",
+   "t": "2026 MIRA ®",
+   "raw": "2026 MIRA ®",
+   "r": [
+    23,
+    452,
+    66,
+    15
+   ],
+   "lines": [
+    "2026"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(188, 188, 188) | normal | normal | start | 1",
+   "sec": "Bottom"
+  },
+  {
+   "tag": "span",
+   "t": "®",
+   "raw": "®",
+   "r": [
+    81.1,
+    450,
+    7.9,
+    18
+   ],
+   "lines": [
+    "®"
+   ],
+   "f": "Switzer | 600 | 14.4px | 14.4px | -0.36px | none | rgb(188, 188, 188) | normal | normal | start | 1",
+   "sec": "Bottom"
+  },
+  {
+   "tag": "span",
+   "t": "All rights reserved.",
+   "raw": "All rights reserved.",
+   "r": [
+    23,
+    467.6,
+    96.9,
+    15.6
+   ],
+   "lines": [
+    "All"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(188, 188, 188) | normal | normal | start | 1",
+   "sec": "Bottom"
+  },
+  {
+   "tag": "p",
+   "t": "Home",
+   "raw": "Home",
+   "r": [
+    205,
+    8369.8,
+    54.8,
+    33
+   ],
+   "lines": [
+    "Home"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Home",
+   "raw": "Home",
+   "r": [
+    205,
+    8414.8,
+    54.8,
+    33
+   ],
+   "lines": [
+    "Home"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    205,
+    8407.8,
+    91.8,
+    33
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "projects",
+   "raw": "projects",
+   "r": [
+    205,
+    8452.8,
+    91.8,
+    33
+   ],
+   "lines": [
+    "projects"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "(6)",
+   "raw": "(6)",
+   "r": [
+    298.8,
+    8407.8,
+    14,
+    18
+   ],
+   "lines": [
+    "(6)"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(245, 45, 15) | \"wdth\" 80, \"wght\" 700 | normal | left | 1",
+   "sec": "Count Text"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    205,
+    8445.8,
+    69.1,
+    33
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    205,
+    8490.8,
+    69.1,
+    33
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    205,
+    8483.8,
+    83.4,
+    33
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "p",
+   "t": "Journal",
+   "raw": "Journal",
+   "r": [
+    205,
+    8528.8,
+    83.4,
+    33
+   ],
+   "lines": [
+    "Journal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 30px | 33px | -0.6px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | start | 1",
+   "sec": "Large Phone"
+  },
+  {
+   "tag": "span",
+   "t": "2026 MIRA ®",
+   "raw": "2026 MIRA ®",
+   "r": [
+    23,
+    8576.8,
+    66,
+    15
+   ],
+   "lines": [
+    "2026"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(104, 104, 104) | normal | normal | start | 1",
+   "sec": "Copyright Notice"
+  },
+  {
+   "tag": "span",
+   "t": "®",
+   "raw": "®",
+   "r": [
+    81.1,
+    8574.8,
+    7.9,
+    18
+   ],
+   "lines": [
+    "®"
+   ],
+   "f": "Switzer | 600 | 14.4px | 14.4px | -0.36px | none | rgb(104, 104, 104) | normal | normal | start | 1",
+   "sec": "Copyright Notice"
+  },
+  {
+   "tag": "span",
+   "t": "All rights reserved.",
+   "raw": "All rights reserved.",
+   "r": [
+    23,
+    8592.4,
+    96.9,
+    15.6
+   ],
+   "lines": [
+    "All"
+   ],
+   "f": "Switzer | 600 | 12px | 15.6px | -0.36px | none | rgb(104, 104, 104) | normal | normal | start | 1",
+   "sec": "Copyright Notice"
+  },
+  {
+   "tag": "h1",
+   "t": "mira",
+   "raw": "mira",
+   "r": [
+    23,
+    8628,
+    344,
+    162.2
+   ],
+   "lines": [
+    "mira"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 231.436px | 185.149px | -4.62872px | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"liga\" 0, \"ss01\", \"ss07\" | left | 1",
+   "sec": "Footer Logo Name"
+  },
+  {
+   "tag": "h1",
+   "t": "®",
+   "raw": "®",
+   "r": [
+    348.1,
+    8639.8,
+    17.2,
+    24.7
+   ],
+   "lines": [
+    "®"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 41.0244px | 28.7171px | normal | uppercase | rgb(13, 13, 13) | \"wdth\" 75, \"wght\" 700 | \"liga\" 0, \"ss01\", \"ss07\" | left | 1",
+   "sec": "Footer Logo Trademark"
+  },
+  {
+   "tag": "p",
+   "t": "Studio",
+   "raw": "Studio",
+   "r": [
+    212.2,
+    8747.4,
+    154.8,
+    42.4
+   ],
+   "lines": [
+    "Studio"
+   ],
+   "f": "Smooch | 400 | 77.7897px | 48.2296px | normal | none | rgb(245, 45, 15) | normal | normal | start | 1",
+   "sec": "Footer Logo Descriptor"
+  },
+  {
+   "tag": "p",
+   "t": "A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW.",
+   "raw": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW.",
+   "r": [
+    23,
+    8820.1,
+    344,
+    65.5
+   ],
+   "lines": [
+    "A",
+    "the",
+    "occasional"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 19px | 21.85px | -0.19px | uppercase | rgb(104, 104, 104) | \"wdth\" 75, \"wght\" 675 | \"ss07\" | justify | 1",
+   "sec": "Newsletter Introduction"
+  },
+  {
+   "tag": "button",
+   "t": "Join NowJoin Now",
+   "raw": "Join NowJoin Now",
+   "r": [
+    283,
+    8929.6,
+    80,
+    38.4
+   ],
+   "lines": [
+    "Join",
+    "Join"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | center | 0.75",
+   "sec": "Incomplete"
+  },
+  {
+   "tag": "label",
+   "t": "By signing up, you’re agreeing to our privacy policy.",
+   "raw": "By signing up, you’re agreeing to our privacy policy.",
+   "r": [
+    23,
+    8984,
+    344,
+    18.2
+   ],
+   "lines": [
+    "By"
+   ],
+   "f": "sans-serif | 400 | 12px | normal | normal | none | rgb(0, 0, 0) | normal | normal | start | 1",
+   "sec": "Agree to terms"
+  },
+  {
+   "tag": "p",
+   "t": "legal",
+   "raw": "legal",
+   "r": [
+    205,
+    9206.2,
+    32.9,
+    18
+   ],
+   "lines": [
+    "legal"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Legal Navigation Link"
+  },
+  {
+   "tag": "p",
+   "t": "Privacy Policy.",
+   "raw": "Privacy Policy.",
+   "r": [
+    252.9,
+    9144.2,
+    114.1,
+    18
+   ],
+   "lines": [
+    "Privacy"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "tag": "p",
+   "t": "Terms & Conditions.",
+   "raw": "Terms & Conditions.",
+   "r": [
+    252.9,
+    9166.2,
+    114.1,
+    36
+   ],
+   "lines": [
+    "Terms",
+    "Conditions."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "tag": "p",
+   "t": "Cookies.",
+   "raw": "Cookies.",
+   "r": [
+    252.9,
+    9206.2,
+    114.1,
+    18
+   ],
+   "lines": [
+    "Cookies."
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(13, 13, 13) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "tag": "p",
+   "t": "let’s talk",
+   "raw": "let’s talk",
+   "r": [
+    23,
+    9086.2,
+    56.6,
+    18
+   ],
+   "lines": [
+    "let’s"
+   ],
+   "f": "\"Mona Sans Variable\" | 400 | 15px | 18px | -0.15px | uppercase | rgb(104, 104, 104) | \"wdth\" 80, \"wght\" 700 | normal | start | 1",
+   "sec": "Footer Contact Link"
+  }
+ ],
+ "links": [
+  {
+   "t": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "r": [
+    23,
+    790,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "r": [
+    53,
+    790,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "r": [
+    83,
+    790,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "r": [
+    113,
+    790,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "Email usEmail us",
+   "href": null,
+   "target": "",
+   "r": [
+    287.3,
+    3168.9,
+    76.7,
+    20.4
+   ],
+   "sec": "Desktop - Right"
+  },
+  {
+   "t": "View AllView All",
+   "href": "./journal",
+   "target": "",
+   "r": [
+    290.6,
+    5904.5,
+    76.4,
+    20.4
+   ],
+   "sec": "Desktop - Right"
+  },
+  {
+   "t": "(Studio Notes)Fewer projects, more attention.6/15/26",
+   "href": "./journal/fewer-projects-more-attention",
+   "target": "",
+   "r": [
+    23,
+    5964.9,
+    162,
+    222.7
+   ],
+   "sec": "Phone"
+  },
+  {
+   "t": "(Opinion)Awards don't build brands.5/5/26",
+   "href": "./journal/awards-dont-build-brands",
+   "target": "",
+   "r": [
+    205,
+    5964.9,
+    162,
+    324.7
+   ],
+   "sec": "Phone"
+  },
+  {
+   "t": "(Process)Why we quote fixed.4/3/26",
+   "href": "./journal/why-we-quote-fixed",
+   "target": "",
+   "r": [
+    23,
+    6309.6,
+    162,
+    179
+   ],
+   "sec": "Phone"
+  },
+  {
+   "t": "(Craft)The best type is invisible.3/20/26",
+   "href": "./journal/the-best-type-is-invisible",
+   "target": "",
+   "r": [
+    205,
+    6309.6,
+    162,
+    324.8
+   ],
+   "sec": "Phone"
+  },
+  {
+   "t": "terms",
+   "href": "./terms-conditions",
+   "target": "",
+   "r": [
+    44.7,
+    7621.5,
+    34.1,
+    16
+   ],
+   "sec": "Legal"
+  },
+  {
+   "t": "privacy policy.",
+   "href": "./privacy-policy",
+   "target": "",
+   "r": [
+    105.2,
+    7621.5,
+    81.4,
+    16
+   ],
+   "sec": "Legal"
+  },
+  {
+   "t": "+1 (805) 450 1432",
+   "href": "tel:+18054501432",
+   "target": "_blank",
+   "r": [
+    23,
+    7734.2,
+    133.9,
+    32
+   ],
+   "sec": "Phone / Email"
+  },
+  {
+   "t": "hello@mira.studio",
+   "href": "mailto:hello@mira.studio",
+   "target": "_blank",
+   "r": [
+    23,
+    7772.6,
+    118.6,
+    19
+   ],
+   "sec": "Phone / Email"
+  },
+  {
+   "t": "",
+   "href": "./",
+   "target": "",
+   "r": [
+    23,
+    23,
+    65,
+    18
+   ],
+   "sec": "Phone Logo Container"
+  },
+  {
+   "t": "HomeHome",
+   "href": "./",
+   "target": "",
+   "r": [
+    23,
+    75,
+    344,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "projectsprojects(6)",
+   "href": "./projects",
+   "target": "",
+   "r": [
+    23,
+    113,
+    344,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "StudioStudio",
+   "href": "./studio",
+   "target": "",
+   "r": [
+    23,
+    151,
+    344,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "JournalJournal",
+   "href": "./journal",
+   "target": "",
+   "r": [
+    23,
+    189,
+    344,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "",
+   "href": "./contact",
+   "target": "",
+   "r": [
+    23,
+    295,
+    150,
+    42
+   ],
+   "sec": "Phone"
+  },
+  {
+   "t": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "r": [
+    23,
+    417,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "r": [
+    53,
+    417,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "r": [
+    83,
+    417,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "r": [
+    113,
+    417,
+    15,
+    15
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "./",
+   "target": "",
+   "r": [
+    23,
+    8369.8,
+    70,
+    24.4
+   ],
+   "sec": "Link Container"
+  },
+  {
+   "t": "HomeHome",
+   "href": "./",
+   "target": "",
+   "r": [
+    205,
+    8369.8,
+    162,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "projectsprojects(6)",
+   "href": "./projects",
+   "target": "",
+   "r": [
+    205,
+    8407.8,
+    162,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "StudioStudio",
+   "href": "./studio",
+   "target": "",
+   "r": [
+    205,
+    8445.8,
+    162,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "JournalJournal",
+   "href": "./journal",
+   "target": "",
+   "r": [
+    205,
+    8483.8,
+    162,
+    33
+   ],
+   "sec": "Large Phone"
+  },
+  {
+   "t": "privacy policy.",
+   "href": "./privacy-policy",
+   "target": "",
+   "r": [
+    251.7,
+    8985,
+    81.4,
+    16
+   ],
+   "sec": "Newsletter Consent Copy"
+  },
+  {
+   "t": "",
+   "href": "https://x.com",
+   "target": "_blank",
+   "r": [
+    23,
+    9207.2,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://instagram.com",
+   "target": "_blank",
+   "r": [
+    55,
+    9207.2,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://dribbble.com",
+   "target": "_blank",
+   "r": [
+    87,
+    9207.2,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "",
+   "href": "https://behance.com",
+   "target": "_blank",
+   "r": [
+    119,
+    9207.2,
+    17,
+    17
+   ],
+   "sec": "Icon"
+  },
+  {
+   "t": "Privacy Policy.",
+   "href": "./privacy-policy",
+   "target": "",
+   "r": [
+    252.9,
+    9142.2,
+    90.1,
+    21
+   ],
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "t": "Terms & Conditions.",
+   "href": "./terms-conditions",
+   "target": "",
+   "r": [
+    252.9,
+    9164.2,
+    69.7,
+    39
+   ],
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "t": "Cookies.",
+   "href": "./cookie-policy",
+   "target": "",
+   "r": [
+    252.9,
+    9204.2,
+    50.4,
+    21
+   ],
+   "sec": "Footer Dynamic Label"
+  },
+  {
+   "t": "",
+   "href": "./contact",
+   "target": "",
+   "r": [
+    94.6,
+    9062.2,
+    272.4,
+    42
+   ],
+   "sec": "Phone"
+  }
+ ],
+ "media": [
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/Fcz0H6OyRLSzO1j6CmBZCeoCrYA.jpg?scale-down-to=512&width=2816&height=1536",
+   "alt": "",
+   "r": [
+    3,
+    3,
+    384,
+    822
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "12px",
+   "sizes": "(min-width: 1200px) max(100vw, 1px), (max-width: 809.98px) max(max(max(100vw, 1px) - 6px, 1px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(100vw, 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/nSbtH034kMtV4RIIQvLQWKUqNE.jpg?scale-down-to=1024&width=1920&height=2560",
+   "alt": "Black and white photo of the studio team posing together",
+   "r": [
+    23,
+    921,
+    170.5,
+    170.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) 100vw, (max-width: 809.98px) max((max(min(max(100vw, 1px), 1920px) - 46px, 50px) - 3px) / 2, 1px), (min-width: 810px) and (max-width: 1199.98px) 100vw"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/0d8RfpcfGGwdXWT0Qp7kuUbdgo.png?scale-down-to=512&width=1920&height=1280",
+   "alt": "Black and white photo of the team playing table football",
+   "r": [
+    196.5,
+    921,
+    170.5,
+    170.5
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) 100vw, (max-width: 809.98px) max((max(min(max(100vw, 1px), 1920px) - 46px, 50px) - 3px) / 2, 1px), (min-width: 810px) and (max-width: 1199.98px) 100vw"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/mYGjKrp0gW5PReDsl8CDmODKzoc.jpeg?width=655&height=872",
+   "alt": "Portrait of Jin Yuen",
+   "r": [
+    205,
+    2128.5,
+    159,
+    212
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/O83WqKF5apvVU9qmpgDRLbAvWyo.jpg?width=528&height=701",
+   "alt": "Portrait of Sarah Park",
+   "r": [
+    26,
+    2410.3,
+    159,
+    212
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/OJ7FFbgKuSOxXFrM0pc3gbYUoBI.jpg?width=528&height=701",
+   "alt": "Portrait of Alex West",
+   "r": [
+    205,
+    2410.3,
+    159,
+    212
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/h0uF4ecVvj33A97za3PYY3KMg.jpg?width=528&height=701",
+   "alt": "Portrait of David Torres",
+   "r": [
+    26,
+    2692.2,
+    159,
+    212
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px) - 6px, 1920px) - 66px) / 2, 50px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/aln56RYSsLI44dsw9rKWKszI.jpg?scale-down-to=512&width=2040&height=1428",
+   "alt": "Studio team talking in a bright workshop",
+   "r": [
+    26,
+    3229.3,
+    338,
+    236.6
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) calc(max((min(100vw - 6px, 1920px) - 126px) / 4, 50px) * 2 + 20px), (min-width: 810px) and (max-width: 1199.98px) calc(max((min(100vw - 6px, 1920px) - 86px) / 2, 50px) * 2 + 20px), (max-width: 809.98px) max(min(max(100vw, 1px) - 6px, 1920px) - 46px, 50px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg?scale-down-to=512&width=640&height=640",
+   "alt": "",
+   "r": [
+    146.8,
+    4928.3,
+    30,
+    30
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "6px",
+   "sizes": "(min-width: 1200px) 30, (min-width: 810px) and (max-width: 1199.98px) 30, (max-width: 809.98px) 30"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/XCY5hpPBRBS6cdWzaAWas5dffkA.jpg?scale-down-to=512&width=640&height=640",
+   "alt": "",
+   "r": [
+    170.8,
+    4928.3,
+    30,
+    30
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "6px",
+   "sizes": "(min-width: 1200px) 30, (min-width: 810px) and (max-width: 1199.98px) 30, (max-width: 809.98px) 30"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/qV50KoxOEdTy8EP8lnobhyGqbzE.jpg?scale-down-to=512&width=640&height=640",
+   "alt": "",
+   "r": [
+    194.8,
+    4928.3,
+    30,
+    30
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "6px",
+   "sizes": "(min-width: 1200px) 30, (min-width: 810px) and (max-width: 1199.98px) 30, (max-width: 809.98px) 30"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?scale-down-to=512&width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "r": [
+    23,
+    5992.9,
+    162,
+    113
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/QScxeG0hFA9OqTSpKLf3gz2xrk.jpeg?scale-down-to=512&width=1501&height=1047",
+   "alt": "Close-up of glossy red lips",
+   "r": [
+    23,
+    5992.9,
+    162,
+    113
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?scale-down-to=1024&width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "r": [
+    205,
+    5992.9,
+    162,
+    215
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/flVP3AWr4maQWn3qiFyeFYgkc.jpeg?scale-down-to=1024&width=904&height=1200",
+   "alt": "Black and white silhouette framed by outstretched hands",
+   "r": [
+    205,
+    5992.9,
+    162,
+    215
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?scale-down-to=512&width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "r": [
+    23,
+    6337.6,
+    162,
+    91.2
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/ZpxY6EqIMMqzzyJ6gL7tXpVEO5E.jpg?scale-down-to=512&width=2040&height=1148",
+   "alt": "Black horse wearing a flower garland in a field",
+   "r": [
+    23,
+    6337.6,
+    162,
+    91.2
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?scale-down-to=1024&width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "r": [
+    205,
+    6337.6,
+    162,
+    215.1
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "0px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/6oZOHgmZZVkcK3G0Wiee0kkF5AI.jpg?scale-down-to=1024&width=1537&height=2041",
+   "alt": "Chrome hand reaching out beside a rainbow light flare",
+   "r": [
+    205,
+    6337.6,
+    162,
+    215.1
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "10px",
+   "sizes": "(min-width: 1200px) max(max(max((min(100vw, 1920px) - 126px) / 4, 50px), 1px), max((min(100vw, 1920px) - 126px) / 4, 50px)), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(100vw, 1920px) - 86px) / 2, 50px), 1px), max((min(100vw, 1920px) - 86px) / 2, 50px)), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px), 1px), max((min(max(100vw, 1px), 1920px) - 66px) / 2, 50px))"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/EYivEG50p7YL92jdB9h51wLz4iU.jpg?scale-down-to=512&width=2400&height=1808",
+   "alt": "",
+   "r": [
+    3,
+    6697.4,
+    384,
+    1649.4
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "12px",
+   "sizes": "(min-width: 1200px) max(calc(100vw - 6px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(calc(100vw - 6px), 1px), (max-width: 809.98px) max(calc(max(100vw, 1px) - 6px), 1px)"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/I0Zin8u1THTGGeYzoOdXdo8LGQ8.jpg?width=84&height=84",
+   "alt": "Portrait of Jin Yuen",
+   "r": [
+    23,
+    6777.8,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "sizes": ""
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "r": [
+    28,
+    300,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px"
+  },
+  {
+   "tag": "img",
+   "src": "https://framerusercontent.com/images/Jfjs0nvrWkQ5vWOcalwIPI1ovEU.jpeg?width=655&height=744",
+   "alt": "",
+   "r": [
+    99.6,
+    9067.2,
+    32,
+    32
+   ],
+   "fit": "cover",
+   "pos": "50% 50%",
+   "radius": "4px",
+   "sizes": "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px"
+  }
+ ]
+}

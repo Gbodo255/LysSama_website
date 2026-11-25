@@ -1,0 +1,532 @@
+<section "Process" .framer-q2r7co
+  <div "Label / Heading" .framer-16ed0oa
+    <div "Process Section Label" .framer-1clu0m0-container
+      <div "Label" .framer-Cuyir.framer-Me6vv.framer-mi0u4.framer-v-mi0u4
+        <div "Count" .framer-1qsszq
+          <p .framer-text.framer-styles-preset-c95aba « (06) »
+        <div "Text" .framer-moe5to
+          <p .framer-text.framer-styles-preset-c95aba « The Process »
+    <div "Process Headline Group" .framer-18o7xxf
+      <div "Process Headline" .framer-4arhdd
+        <h2 .framer-text.framer-styles-preset-1c0t51l
+          <span .
+            <span . « H »
+            <span . « o »
+            <span . « w »
+          <span .
+            <span . « w »
+            <span . « e »
+          <span .
+            <span . « c »
+            <span . « a »
+            <span . « r »
+            <span . « r »
+            <span . « y »
+          <span .
+            <span . « e »
+            <span . « v »
+            <span . « e »
+            <span . « r »
+            <span . « y »
+          <span .
+            <span . « p »
+            <span . « r »
+            <span . « o »
+            <span . « j »
+            <span . « e »
+            <span . « c »
+            <span . « t »
+          <span .
+            <span . « f »
+            <span . « r »
+            <span . « o »
+            <span . « m »
+          <span .
+            <span . « b »
+            <span . « r »
+            <span . « i »
+            <span . « e »
+            <span . « f »
+          <span .
+            <span . « t »
+            <span . « o »
+          <span .
+          <span .framer-text
+            <span .
+              <span . « l »
+              <span . « a »
+              <span . « u »
+              <span . « n »
+              <span . « c »
+              <span . « h »
+          <span .
+          <span .
+            <span . « d »
+            <span . « a »
+            <span . « y »
+            <span . « . »
+      <div "Process Description Group" .framer-1xby91m
+        <div .ssr-variant.hidden-1aemvzd
+          <div "Big Text" .framer-p5b75q
+            <p .framer-text.framer-styles-preset-1l3tbw0
+              <span .framer-text
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+              <span .
+                <span . « N »
+                <span . « o »
+                <span . « t »
+                <span . « h »
+                <span . « i »
+                <span . « n »
+                <span . « g »
+              <span .
+                <span . « f »
+                <span . « a »
+                <span . « l »
+                <span . « l »
+                <span . « s »
+              <span .
+                <span . « t »
+                <span . « h »
+                <span . « r »
+                <span . « o »
+                <span . « u »
+                <span . « g »
+                <span . « h »
+              <span .
+                <span . « t »
+                <span . « h »
+                <span . « e »
+              <span .
+                <span . « c »
+                <span . « r »
+                <span . « a »
+                <span . « c »
+                <span . « k »
+                <span . « s »
+                <span . « , »
+              <span .
+                <span . « b »
+                <span . « e »
+                <span . « c »
+                <span . « a »
+                <span . « u »
+                <span . « s »
+                <span . « e »
+              <span .
+                <span . « t »
+                <span . « h »
+                <span . « e »
+                <span . « r »
+                <span . « e »
+              <span .
+                <span . « a »
+                <span . « r »
+                <span . « e »
+              <span .
+                <span . « n »
+                <span . « o »
+              <span .
+                <span . « c »
+                <span . « r »
+                <span . « a »
+                <span . « c »
+                <span . « k »
+                <span . « s »
+                <span . « . »
+              <span .framer-text
+                <span .
+                <span .
+                  <span . « O »
+                  <span . « n »
+                  <span . « e »
+                <span .
+                  <span . « t »
+                  <span . « e »
+                  <span . « a »
+                  <span . « m »
+                  <span . « , »
+                <span .
+                  <span . « o »
+                  <span . « n »
+                  <span . « e »
+                <span .
+                  <span . « p »
+                  <span . « l »
+                  <span . « a »
+                  <span . « n »
+                  <span . « , »
+                <span .
+                  <span . « o »
+                  <span . « n »
+                  <span . « e »
+                <span .
+                  <span . « r »
+                  <span . « o »
+                  <span . « o »
+                  <span . « m »
+                  <span . « . »
+                <span .
+        <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+          <div "Big Text" .framer-p5b75q
+            <p .framer-text.framer-styles-preset-1l3tbw0
+              <span .framer-text
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+                <span .
+              <span .
+                <span . « N »
+                <span . « o »
+                <span . « t »
+                <span . « h »
+                <span . « i »
+                <span . « n »
+                <span . « g »
+              <span .
+                <span . « f »
+                <span . « a »
+                <span . « l »
+                <span . « l »
+                <span . « s »
+              <span .
+                <span . « t »
+                <span . « h »
+                <span . « r »
+                <span . « o »
+                <span . « u »
+                <span . « g »
+                <span . « h »
+              <span .
+                <span . « t »
+                <span . « h »
+                <span . « e »
+              <span .
+                <span . « c »
+                <span . « r »
+                <span . « a »
+                <span . « c »
+                <span . « k »
+                <span . « s »
+                <span . « , »
+              <span .
+                <span . « b »
+                <span . « e »
+                <span . « c »
+                <span . « a »
+                <span . « u »
+                <span . « s »
+                <span . « e »
+              <span .
+                <span . « t »
+                <span . « h »
+                <span . « e »
+                <span . « r »
+                <span . « e »
+              <span .
+                <span . « a »
+                <span . « r »
+                <span . « e »
+              <span .
+                <span . « n »
+                <span . « o »
+              <span .
+                <span . « c »
+                <span . « r »
+                <span . « a »
+                <span . « c »
+                <span . « k »
+                <span . « s »
+                <span . « . »
+              <span .framer-text
+                <span .
+                <span .
+                  <span . « O »
+                  <span . « n »
+                  <span . « e »
+                <span .
+                  <span . « t »
+                  <span . « e »
+                  <span . « a »
+                  <span . « m »
+                  <span . « , »
+                <span .
+                  <span . « o »
+                  <span . « n »
+                  <span . « e »
+                <span .
+                  <span . « p »
+                  <span . « l »
+                  <span . « a »
+                  <span . « n »
+                  <span . « , »
+                <span .
+                  <span . « o »
+                  <span . « n »
+                  <span . « e »
+                <span .
+                  <span . « r »
+                  <span . « o »
+                  <span . « o »
+                  <span . « m »
+                  <span . « . »
+                <span .
+        <div "Small Text" .framer-1asx0vr
+          <p .framer-text.framer-styles-preset-lu6cf5 « You get one point of contact and one shared timeline. Update »
+  <div .ssr-variant.hidden-1aemvzd
+    <div "Process" .framer-16i0mj7
+      <div "Proccess Container" .framer-17mh57q
+        <div "Process Accordian" .framer-smi9hy-container
+          <div "Process Step 1" .framer-nhusq.framer-9qs5q4.framer-v-9qs5q4
+            <div "Card 1" .framer-1os8yxm-container
+              <div "Active" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-1jv6b9g
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (01) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Discovery. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « One call, one sharp brief. Your goals, your audience, and wh »
+            <div "Card 2" .framer-1xtqx7u-container
+              <div "Inactive" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-nf1zc3
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (02) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Strategy. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « One creative direction, argued for and agreed — before a sin »
+            <div "Card 3" .framer-p855ad-container
+              <div "Inactive" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-nf1zc3
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (03) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Design. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « Brand and site designed, then built in Framer. Three rounds, »
+            <div "Card 4" .framer-byb60i-container
+              <div "Inactive" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-nf1zc3
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (04) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Launch. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « We ship, hand over the keys, and stay close for thirty days  »
+      <div "2" .framer-lxir8x.hidden-1aemvzd
+      <div "3" .framer-1o2peh6.hidden-1aemvzd
+      <div "4" .framer-i4jw4l.hidden-1aemvzd
+  <div .ssr-variant.hidden-coh9ff.hidden-gw4wpc
+    <div "Process" .framer-16i0mj7
+      <div "Proccess Container" .framer-17mh57q
+        <div "Process Accordian" .framer-smi9hy-container
+          <div "Phone" .framer-nhusq.framer-9qs5q4.framer-v-312wk3
+            <div "Card 1" .framer-1os8yxm-container
+              <div "Phone" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-u5wair
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (01) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Discovery. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « One call, one sharp brief. Your goals, your audience, and wh »
+            <div "Card 2" .framer-1xtqx7u-container
+              <div "Phone" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-u5wair
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (02) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Strategy. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « One creative direction, argued for and agreed — before a sin »
+            <div "Card 3" .framer-p855ad-container
+              <div "Phone" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-u5wair
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (03) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Design. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « Brand and site designed, then built in Framer. Three rounds, »
+            <div "Card 4" .framer-byb60i-container
+              <div "Phone" .framer-gkSx9.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-1jv6b9g.framer-v-u5wair
+                <div "Image" .framer-mj1z6b
+                  <div .
+                    <img .
+                  <div "Overlay" .framer-1fqcxrj
+                <div "Top" .framer-7l1kmg
+                  <div "Phase / Number" .framer-1594md3
+                    <div .framer-1mnlq8i
+                      <p .framer-text.framer-styles-preset-c95aba « P. »
+                    <div "Number" .framer-11v35nq
+                      <p .framer-text.framer-styles-preset-c95aba « (04) »
+                  <div "Process Dots" .framer-1uw11nq
+                    <div "1" .framer-1pqteqh
+                    <div "2" .framer-1d2l4gx
+                    <div "3" .framer-8azjok
+                    <div "4" .framer-1yudvuz
+                <div "Text / Line" .framer-cgr5yd
+                  <div "Text" .framer-aw319g
+                    <div "Icon / Title" .framer-wmlrax
+                      <div .framer-idq6mi
+                        <h3 .framer-text.framer-styles-preset-s3qbre « Launch. »
+                    <div .framer-1oxwm5t
+                      <p .framer-text.framer-styles-preset-lu6cf5 « We ship, hand over the keys, and stay close for thirty days  »
+      <div "2" .framer-lxir8x.hidden-1aemvzd
+      <div "3" .framer-1o2peh6.hidden-1aemvzd
+      <div "4" .framer-i4jw4l.hidden-1aemvzd

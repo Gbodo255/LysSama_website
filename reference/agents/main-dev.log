@@ -1,0 +1,20 @@
+▲ Next.js 16.4.6 (Turbopack)
+- Local:         http://localhost:3100
+- Network:       http://100.124.137.73:3100
+✓ Ready in 1638ms
+✓ Running next.config.ts took 300ms
+
+  We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+  	- include was updated to add '.next-main/types/**/*.ts'
+  	- include was updated to add '.next-main/dev/types/**/*.ts'
+
+
+○ Compiling /studio ...
+ GET /studio 200 in 11.0s (next.js: 2.7s, application-code: 8.3s)
+ GET /studio 200 in 2.0s (next.js: 13ms, application-code: 1996ms)
+ GET /studio 200 in 5.7s (next.js: 8ms, application-code: 5.6s)
+✓ Compiled in 1307ms
+✓ Compiled in 1579ms
+[?25h

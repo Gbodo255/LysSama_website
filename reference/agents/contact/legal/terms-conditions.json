@@ -1,0 +1,689 @@
+{
+ "slug": "terms-conditions",
+ "head": {
+  "h1": "Terms & Conditions.",
+  "lastUpdatedLabel": "Last updated",
+  "lastUpdated": "7/10/26"
+ },
+ "bodyClass": "framer-104pdxd",
+ "blocks": [
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "The Studio",
+   "text": "The Studio"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "About Mira",
+   "text": "About Mira"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "Mira Studio is an independent brand and web design studio operated by Jin Yuen. We take on a limited number of client projects each year and occasionally release templates and other design resources.",
+   "text": "Mira Studio is an independent brand and web design studio operated by Jin Yuen. We take on a limited number of client projects each year and occasionally release templates and other design resources."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Contact",
+   "text": "Contact"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">General enquiries: hello@mirastudio.com</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Legal: legal@mirastudio.com</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Support: support@mirastudio.com</p></li>",
+   "text": "General enquiries: hello@mirastudio.comLegal: legal@mirastudio.comSupport: support@mirastudio.com",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">General enquiries: hello@mirastudio.com</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Legal: legal@mirastudio.com</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Support: support@mirastudio.com</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Using the Website",
+   "text": "Using the Website"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Permitted Use",
+   "text": "Permitted Use"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "You may use our website to:",
+   "text": "You may use our website to:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">View our work, read the journal, and learn about the studio</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Contact us about a potential project</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Subscribe to our newsletter</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Purchase and download any templates we release</p></li>",
+   "text": "View our work, read the journal, and learn about the studioContact us about a potential projectSubscribe to our newsletterPurchase and download any templates we release",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">View our work, read the journal, and learn about the studio</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Contact us about a potential project</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Subscribe to our newsletter</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Purchase and download any templates we release</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Prohibited Use",
+   "text": "Prohibited Use"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "You may not:",
+   "text": "You may not:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Copy or reproduce site content without written permission</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Use the site or its content to build a competing service</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Attempt to gain unauthorised access to any part of the site</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Use automated tools to scrape content</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Misrepresent your identity when contacting the studio</p></li>",
+   "text": "Copy or reproduce site content without written permissionUse the site or its content to build a competing serviceAttempt to gain unauthorised access to any part of the siteUse automated tools to scrape contentMisrepresent your identity when contacting the studio",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Copy or reproduce site content without written permission</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Use the site or its content to build a competing service</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Attempt to gain unauthorised access to any part of the site</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Use automated tools to scrape content</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Misrepresent your identity when contacting the studio</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Client Projects",
+   "text": "Client Projects"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Engagements",
+   "text": "Engagements"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "All client projects operate under a separate written agreement that includes:",
+   "text": "All client projects operate under a separate written agreement that includes:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Fixed project fee</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Scope of work and deliverables</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Timeline and milestones</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Payment schedule and terms</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Ownership and licensing details</p></li>",
+   "text": "Fixed project feeScope of work and deliverablesTimeline and milestonesPayment schedule and termsOwnership and licensing details",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Fixed project fee</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Scope of work and deliverables</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Timeline and milestones</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Payment schedule and terms</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Ownership and licensing details</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Fees and Payment",
+   "text": "Fees and Payment"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Projects are priced as fixed fees, agreed in advance</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">A deposit is required before work begins</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Remaining fees are payable per the agreed schedule</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Late payments may pause active work until resolved</p></li>",
+   "text": "Projects are priced as fixed fees, agreed in advanceA deposit is required before work beginsRemaining fees are payable per the agreed scheduleLate payments may pause active work until resolved",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Projects are priced as fixed fees, agreed in advance</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">A deposit is required before work begins</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Remaining fees are payable per the agreed schedule</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Late payments may pause active work until resolved</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Ownership and Licensing",
+   "text": "Ownership and Licensing"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Clients own final approved deliverables upon full payment</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Mira Studio retains the right to display completed work in our portfolio</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Fonts, stock imagery, and licensed assets remain the property of their respective owners</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Source files and working documents are made available upon project close</p></li>",
+   "text": "Clients own final approved deliverables upon full paymentMira Studio retains the right to display completed work in our portfolioFonts, stock imagery, and licensed assets remain the property of their respective ownersSource files and working documents are made available upon project close",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Clients own final approved deliverables upon full payment</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Mira Studio retains the right to display completed work in our portfolio</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Fonts, stock imagery, and licensed assets remain the property of their respective owners</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Source files and working documents are made available upon project close</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Templates and Digital Products",
+   "text": "Templates and Digital Products"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "License",
+   "text": "License"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "When you purchase a template from Mira, you receive:",
+   "text": "When you purchase a template from Mira, you receive:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">A single-project license to use the template for one final website</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Permission to modify the template for your own use</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Access to updates for twelve months from purchase</p></li>",
+   "text": "A single-project license to use the template for one final websitePermission to modify the template for your own useAccess to updates for twelve months from purchase",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">A single-project license to use the template for one final website</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Permission to modify the template for your own use</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Access to updates for twelve months from purchase</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Restrictions",
+   "text": "Restrictions"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">You may not resell, redistribute, or share the template with others</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">You may not use the template to create competing templates for resale</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">You may not remove copyright notices from the source files</p></li>",
+   "text": "You may not resell, redistribute, or share the template with othersYou may not use the template to create competing templates for resaleYou may not remove copyright notices from the source files",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">You may not resell, redistribute, or share the template with others</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">You may not use the template to create competing templates for resale</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">You may not remove copyright notices from the source files</p>"
+   ]
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Refunds",
+   "text": "Refunds"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "Because digital products are delivered instantly and cannot be returned, all sales are final. If a template does not perform as described, contact us within 14 days and we will work with you to resolve the issue.",
+   "text": "Because digital products are delivered instantly and cannot be returned, all sales are final. If a template does not perform as described, contact us within 14 days and we will work with you to resolve the issue."
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Intellectual Property",
+   "text": "Intellectual Property"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Studio Content",
+   "text": "Studio Content"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "All content on the Mira Studio website, including text, images, video, code, and design systems, is the property of Mira Studio unless otherwise noted. It is protected by copyright and other intellectual property laws.",
+   "text": "All content on the Mira Studio website, including text, images, video, code, and design systems, is the property of Mira Studio unless otherwise noted. It is protected by copyright and other intellectual property laws."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Client Content",
+   "text": "Client Content"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "You retain ownership of anything you send us. By sending materials for a project, you grant us a license to use them for the purpose of completing the work.",
+   "text": "You retain ownership of anything you send us. By sending materials for a project, you grant us a license to use them for the purpose of completing the work."
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "Warranties and Liability",
+   "text": "Warranties and Liability"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Warranties",
+   "text": "Warranties"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We provide our services with reasonable care and skill. We do not guarantee that our website will be error-free or continuously available.",
+   "text": "We provide our services with reasonable care and skill. We do not guarantee that our website will be error-free or continuously available."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Limitation of Liability",
+   "text": "Limitation of Liability"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "To the fullest extent permitted by law, our total liability to you for any claim relating to our services is limited to the fees paid for those services in the twelve months preceding the claim.",
+   "text": "To the fullest extent permitted by law, our total liability to you for any claim relating to our services is limited to the fees paid for those services in the twelve months preceding the claim."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Nothing Waived",
+   "text": "Nothing Waived"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "Nothing in these terms limits or excludes liability for:",
+   "text": "Nothing in these terms limits or excludes liability for:"
+  },
+  {
+   "tag": "ul",
+   "preset": null,
+   "html": "<li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Death or personal injury caused by our negligence</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Fraud or fraudulent misrepresentation</p></li><li data-preset-tag=\"p\" class=\"framer-text framer-styles-preset-zesxvw\"><p class=\"framer-text framer-styles-preset-zesxvw\">Any liability that cannot be limited by applicable law</p></li>",
+   "text": "Death or personal injury caused by our negligenceFraud or fraudulent misrepresentationAny liability that cannot be limited by applicable law",
+   "items": [
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Death or personal injury caused by our negligence</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Fraud or fraudulent misrepresentation</p>",
+    "<p class=\"framer-text framer-styles-preset-zesxvw\">Any liability that cannot be limited by applicable law</p>"
+   ]
+  },
+  {
+   "tag": "h2",
+   "preset": null,
+   "html": "General",
+   "text": "General"
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Changes to These Terms",
+   "text": "Changes to These Terms"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "We may update these terms from time to time. Material changes will be reflected in the \"Last Updated\" date at the top of the page.",
+   "text": "We may update these terms from time to time. Material changes will be reflected in the \"Last Updated\" date at the top of the page."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Governing Law",
+   "text": "Governing Law"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "These terms are governed by the laws of the jurisdiction in which Mira Studio is registered. Disputes will be resolved in that jurisdiction unless otherwise required by law.",
+   "text": "These terms are governed by the laws of the jurisdiction in which Mira Studio is registered. Disputes will be resolved in that jurisdiction unless otherwise required by law."
+  },
+  {
+   "tag": "h3",
+   "preset": null,
+   "html": "Entire Agreement",
+   "text": "Entire Agreement"
+  },
+  {
+   "tag": "p",
+   "preset": null,
+   "html": "These terms, together with any separate project agreements, constitute the entire agreement between you and Mira Studio regarding the use of our services.",
+   "text": "These terms, together with any separate project agreements, constitute the entire agreement between you and Mira Studio regarding the use of our services."
+  }
+ ],
+ "otherRichText": [
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-15xc10m",
+   "text": "Last updated"
+  },
+  {
+   "cls": "framer-1hck9yt",
+   "text": "7/10/26"
+  },
+  {
+   "cls": "framer-1p9fj0l",
+   "text": "Terms & Conditions."
+  },
+  {
+   "cls": "framer-4itqln",
+   "text": "                           THESE TERMS AND CONDITIONS GOVERN YOUR USE OF THE MIRA STUDIO WEBSITE AND THE PROJECTS, SERVICES, AND TEMPLATES WE PROVIDE. BY USING OUR SITE OR ENGAGING US FOR WORK, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE SITE OR ENGAGE THE STUDIO."
+  },
+  {
+   "cls": "framer-4itqln",
+   "text": "                           THESE TERMS AND CONDITIONS GOVERN YOUR USE OF THE MIRA STUDIO WEBSITE AND THE PROJECTS, SERVICES, AND TEMPLATES WE PROVIDE. BY USING OUR SITE OR ENGAGING US FOR WORK, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE SITE OR ENGAGE THE STUDIO."
+  },
+  {
+   "cls": "framer-19p5zwk",
+   "text": " EST. 2012"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-19p5zwk",
+   "text": " EST. 2012"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-f81h7k",
+   "text": "let's talk"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Home"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "projects"
+  },
+  {
+   "cls": "framer-283ip9",
+   "text": "6"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Studio"
+  },
+  {
+   "cls": "framer-kdnc6p",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-105crdb",
+   "text": "Journal"
+  },
+  {
+   "cls": "framer-23fpvw",
+   "text": "                      A LETTER, ONCE A MONTH. New work from the studio, fresh thinking from the founder, the occasional opinion. No filler. SUBSCRIBE BELOW."
+  },
+  {
+   "cls": "framer-1gm2ya6",
+   "text": "Join Now"
+  },
+  {
+   "cls": "framer-l29hgm",
+   "text": "Join Now"
+  },
+  {
+   "cls": "framer-1rl9j96",
+   "text": "By signing up, you’re agreeing to our privacy policy."
+  },
+  {
+   "cls": "framer-s03u8i",
+   "text": "legal"
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Privacy Policy."
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Terms & Conditions."
+  },
+  {
+   "cls": "framer-1f81en6",
+   "text": "Cookies."
+  },
+  {
+   "cls": "framer-yzm327",
+   "text": "let’s talk"
+  },
+  {
+   "cls": "framer-pm8azj",
+   "text": "Unlock from $129"
+  },
+  {
+   "cls": "framer-41at20",
+   "text": "Get Template"
+  },
+  {
+   "cls": "framer-1whkkok",
+   "text": "Secured By"
+  },
+  {
+   "cls": "framer-1f1q597",
+   "text": "/"
+  },
+  {
+   "cls": "framer-pm8azj",
+   "text": "Unlock from $129"
+  },
+  {
+   "cls": "framer-41at20",
+   "text": "All Access"
+  },
+  {
+   "cls": "framer-1whkkok",
+   "text": "Secured By"
+  },
+  {
+   "cls": "framer-1f1q597",
+   "text": "/"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+<main "Main" .framer-es8rs7
+  <div .framer-1i9wie5-container.hidden-n4shxz
+    <div "Spacer" .framer-yXQrW.framer-gmtdri.framer-v-gmtdri
+  <div "Content" .framer-1n70wml
+    <div .ssr-variant.hidden-n4shxz.hidden-ynarf2
+      <section "Hero" .framer-1x0mefb
+        <div "BG Outer Container" .framer-oqp9pp
+          <div .framer-16v677h-container
+            <div "Revealed" .framer-83xqy.framer-j4z1zy.framer-v-j4z1zy
+        <div "Inside Container" .framer-hb5ox2
+          <header "Top" .framer-1k134jf
+            <div .framer-8330z8-container.hidden-n4shxz
+            <div .framer-7hchzy-container.hidden-n4shxz
+          <div "Heading" .framer-1338hsz
+            <div "Filler" .framer-dx75ug.hidden-n4shxz
+            <div "Heading / Description" .framer-by1tpf
+          <div "Bottom" .framer-9yv8xi
+            <div "Location" .framer-3ji1qe
+            <div "Services" .framer-lx5sm7
+            <div .framer-f6zjzb-container
+    <div "Studio" .framer-c2l0bx
+      <section "Culture" #culture .framer-1nyqe0x
+        <div "Inside Container" .framer-1emkou7
+          <div "Statement / Images" .framer-ty9ie9
+            <div "Images / Text" .framer-1wzgagh
+            <div .framer-1qpqs3n
+          <div "Numbers" .framer-1dufcq3
+            <div .framer-1saqg22
+            <div "Metrics" .framer-1sbfwjx
+      <div .ssr-variant.hidden-n4shxz
+        <div .framer-zzq0ma-container
+          <div .ssr-variant.hidden-ynarf2
+            <div "Tablet" .framer-EGaJK.framer-2Ps8M.framer-Me6vv.framer-uqMg0.framer-QoPvp.framer-s41k98.framer-v-1enjxj0
+      <section "Principles" .framer-epz8fu
+        <div "Inside Container" .framer-1ryjy6b
+          <div .framer-14z3fot
+            <h2 .framer-text.framer-styles-preset-1c0t51l
+          <div "Principles" #rules .framer-1bhgxfc
+            <div .ssr-variant.hidden-n4shxz
+            <div .ssr-variant.hidden-n4shxz
+            <div .ssr-variant.hidden-n4shxz
+            <div .ssr-variant.hidden-n4shxz
+      <div .ssr-variant.hidden-n4shxz
+        <div .framer-1mbb4u8-container
+          <div .ssr-variant.hidden-ynarf2
+            <section "Tablet" .framer-HIOH4.framer-Me6vv.framer-1npuuv8.framer-v-a12wje
+      <section "Recognition" .framer-1v9qbyv
+        <div "Inside Container" .framer-maixoy
+          <div .framer-1rg17ve
+            <h2 .framer-text.framer-styles-preset-1c0t51l
+          <div "Awards" .framer-1qjbmof
+            <div .framer-1ea882b-container
+            <div "Awards" .framer-fa2fr4
+      <div .ssr-variant.hidden-n4shxz
+        <div .framer-191pcuc-container
+          <div .ssr-variant.hidden-ynarf2
+            <section "Tablet" .framer-azsrl.framer-LubW4.framer-1m7l3gw.framer-v-ld2pkr
+      <div .ssr-variant.hidden-n4shxz
+        <div .framer-vmd0ea-container
+          <div .ssr-variant.hidden-ynarf2
+            <section "Tablet" .framer-qIn7C.framer-QoPvp.framer-LubW4.framer-yTVl5.framer-lt6Rw.framer-xYquH.framer-laVYw.framer-14rm87n.framer-v-1g58qed
