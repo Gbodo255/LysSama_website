@@ -20,6 +20,7 @@ import { SV } from '@/components/Variants';
 import { ScrollFx, Parallax } from '@/components/fx/Scroll';
 import { SmoothScroll } from '@/components/SmoothScroll';
 import { TextFx } from '@/components/fx/TextFx';
+import { TCount, TSlide, TSlider } from '@/components/shared/TestimonialSlides';
 import { VRoot, VEl } from '@/components/fx/Variant';
 import { VideoTrigger } from '@/components/shared/VideoModal';
 import { reel } from '@/data/homeb';
@@ -4001,7 +4002,8 @@ export function Body() {
                 </div>
                 <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.5,"threshold":0,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-1l3tbw0", "data-styles-preset": "cZ7bby0gR", "dir": "auto", style: { "--framer-text-alignment": "justify" } }, segs: [T[431], { tag: "span", attrs: { style: { "--framer-text-color": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))" }, "className": "framer-text" }, text: T[432] }, T[433]] }]} className="framer-1hucu8a" data-framer-name="Testimonials Description" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
               </div>
-              <SV c="ssr-variant hidden-1aemvzd" show={["desktop","tablet"]}>
+              <TSlider>
+<SV c="ssr-variant hidden-1aemvzd" show={["desktop","tablet"]}>
                 <div className="framer-dujsxl-container" data-framer-name="Testimonials Slider" {...{ name: "Testimonials Slider" }}>
                   <div {...{ name: "Testimonials Slider" }} className="framer-Zcoj2 framer-Me6vv framer-1ur35ji framer-v-1ur35ji" data-framer-name="Testimonial 1" style={{ "width": "100%" }}>
                     <div className="framer-12qfc0t-container" style={{ "transform": "translateX(-50%)" }}>
@@ -4011,7 +4013,7 @@ export function Body() {
                       <div className="framer-e7k5i2" data-framer-name="Filler" />
                       <div className="framer-1gkxjhc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                          {T[434]}
+                          <TCount />
                         </p>
                       </div>
                       <div className="framer-8v9iu9" data-framer-name="Arrows">
@@ -4023,6 +4025,7 @@ export function Body() {
                         </div>
                       </div>
                     </div>
+                    <TSlide i={0}>
                     <div className="framer-194s776-container" data-framer-name="Testimonial 1" {...{ name: "Testimonial 1" }}>
                       <div {...{ name: "Testimonial 1" }} className="framer-xBkin framer-QoPvp framer-2Ps8M framer-laVYw framer-Me6vv framer-uqMg0 framer-9essyp framer-v-9essyp" data-framer-name="Desktop" style={{ "width": "100%" }}>
                         <div className="framer-1eyfg5" data-framer-cursor="1v6kiai" data-framer-name="Quote" data-highlight="true" tabIndex={0}>
@@ -4097,6 +4100,159 @@ export function Body() {
                         </div>
                       </div>
                     </div>
+                    </TSlide>
+                    <TSlide i={1}>
+                    <div className="framer-194s776-container" data-framer-name="Testimonial 1" {...{ name: "Testimonial 1" }}>
+                      <div {...{ name: "Testimonial 1" }} className="framer-xBkin framer-QoPvp framer-2Ps8M framer-laVYw framer-Me6vv framer-uqMg0 framer-9essyp framer-v-9essyp" data-framer-name="Desktop" style={{ "width": "100%" }}>
+                        <div className="framer-1eyfg5" data-framer-cursor="1v6kiai" data-framer-name="Quote" data-highlight="true" tabIndex={0}>
+                          <div className="framer-1r4fcfx" data-framer-name="Author Card">
+                            <div className="framer-y25ypk-container">
+                              <VRoot as="div" map={{"GabQ6RP7V":{"cls":"framer-v-1ww3hxg","name":"Revealed"},"LJ9aJ2_VI":{"cls":"framer-v-1cb27gq","name":"Hidden"}}} initial="LJ9aJ2_VI" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"GabQ6RP7V","threshold":0.5,"once":true}} className="framer-rfsSU framer-1ww3hxg framer-v-1cb27gq" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"LJ9aJ2_VI":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-1ygptoc" data-framer-name="1" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
+                                  <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
+                                    <img decoding="async" width={640} height={640} src="/assets/images/kmNPpdMzKtgnYgsr9piGQpLv0.jpg" alt={"Lys Sama"} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </div>
+                            <div className="framer-3n11cr" data-framer-name="Client Info">
+                              <div className="framer-1ar8d7e" data-framer-name="Name">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.4,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto" }, segs: ["Lys Sama"] }]} className="framer-1toknrk" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                              </div>
+                              <div className="framer-o59zn4" data-framer-name="Role / Company">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.5,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Créatrice de contenu, TikTok @lys.sama"] }]} className="framer-1qapydd" data-framer-name="Role / Company" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                              </div>
+                            </div>
+                          </div>
+                          <div className="framer-gcu4g6" data-framer-name="Filler" />
+                          <div className="framer-ij04dr" data-framer-name="Quote">
+                            <div className="framer-1t0ppef" data-framer-name="Big Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-alignment": "start" } }, segs: ["“ Chaque look raconte un savoir-faire : je tends le micro à celles et ceux qui le font. ”"] }]} className="framer-1oadq5b" data-framer-name="Big Text 1" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                            </div>
+                            <div className="framer-1vbf7ad" data-framer-name="Small Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":5},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Sur TikTok, je présente les créations des stylistes et couturiers béninois : un look, son histoire, la main qui l’a fait. Les lysami.e.s découvrent les créateurs, les créateurs gagnent en visibilité."] }]} className="framer-hl9p95" data-framer-name="Small Text 1" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="framer-4l2bm8" data-framer-name="Stats">
+                          <div className="framer-1pa4u10" data-framer-name="Progress Dots">
+                            <div className="framer-13pt2j9" data-framer-name="1" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-t1eygr" data-framer-name="2" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-3t8vhm" data-framer-name="3" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                          </div>
+                          <div className="framer-q1kio4" data-framer-name="Animated Lines / Metrics">
+                            <div className="framer-gb3bgf-container" data-framer-name="Animated Line 1" {...{ name: "Animated Line 1" }}>
+                              <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} {...{ name: "Animated Line 1" }} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                              </VRoot>
+                            </div>
+                            <div className="framer-zauk17" data-framer-name="Metrics">
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.3,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-1wlx10r" data-framer-name="1" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-hyil7y" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"le fil de mes vidéos"}
+                                  </p>
+                                </div>
+                                <div className="framer-18q6o36" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"#modebeninoise"}
+                                  </h3>
+                                </div>
+                              </InView>
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.4,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-63ztgz" data-framer-name="2" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-1e8do2o" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"la communauté"}
+                                  </p>
+                                </div>
+                                <div className="framer-hy0oxl" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"lysami.e.s"}
+                                  </h3>
+                                </div>
+                              </InView>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    </TSlide>
+                    <TSlide i={2}>
+                    <div className="framer-194s776-container" data-framer-name="Testimonial 1" {...{ name: "Testimonial 1" }}>
+                      <div {...{ name: "Testimonial 1" }} className="framer-xBkin framer-QoPvp framer-2Ps8M framer-laVYw framer-Me6vv framer-uqMg0 framer-9essyp framer-v-9essyp" data-framer-name="Desktop" style={{ "width": "100%" }}>
+                        <div className="framer-1eyfg5" data-framer-cursor="1v6kiai" data-framer-name="Quote" data-highlight="true" tabIndex={0}>
+                          <div className="framer-1r4fcfx" data-framer-name="Author Card">
+                            <div className="framer-y25ypk-container">
+                              <VRoot as="div" map={{"GabQ6RP7V":{"cls":"framer-v-1ww3hxg","name":"Revealed"},"LJ9aJ2_VI":{"cls":"framer-v-1cb27gq","name":"Hidden"}}} initial="LJ9aJ2_VI" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"GabQ6RP7V","threshold":0.5,"once":true}} className="framer-rfsSU framer-1ww3hxg framer-v-1cb27gq" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"LJ9aJ2_VI":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-1ygptoc" data-framer-name="1" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
+                                  <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
+                                    <img decoding="async" width={640} height={640} src="/assets/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg" alt={"Lys Sama"} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </div>
+                            <div className="framer-3n11cr" data-framer-name="Client Info">
+                              <div className="framer-1ar8d7e" data-framer-name="Name">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.4,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto" }, segs: ["Lys Sama"] }]} className="framer-1toknrk" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                              </div>
+                              <div className="framer-o59zn4" data-framer-name="Role / Company">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.5,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Humour et coulisses, Threads et TikTok"] }]} className="framer-1qapydd" data-framer-name="Role / Company" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                              </div>
+                            </div>
+                          </div>
+                          <div className="framer-gcu4g6" data-framer-name="Filler" />
+                          <div className="framer-ij04dr" data-framer-name="Quote">
+                            <div className="framer-1t0ppef" data-framer-name="Big Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-alignment": "start" } }, segs: ["“ Les galères de la création de contenu, autant en rire ensemble. ”"] }]} className="framer-1oadq5b" data-framer-name="Big Text 1" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                            </div>
+                            <div className="framer-1vbf7ad" data-framer-name="Small Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":5},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Sur Threads et TikTok, je raconte l’envers du décor : les tournages ratés, les idées qui ne prennent pas, les petites victoires. C’est là que la communauté se reconnaît."] }]} className="framer-hl9p95" data-framer-name="Small Text 1" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="framer-4l2bm8" data-framer-name="Stats">
+                          <div className="framer-1pa4u10" data-framer-name="Progress Dots">
+                            <div className="framer-13pt2j9" data-framer-name="1" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-t1eygr" data-framer-name="2" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-3t8vhm" data-framer-name="3" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                          </div>
+                          <div className="framer-q1kio4" data-framer-name="Animated Lines / Metrics">
+                            <div className="framer-gb3bgf-container" data-framer-name="Animated Line 1" {...{ name: "Animated Line 1" }}>
+                              <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} {...{ name: "Animated Line 1" }} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                              </VRoot>
+                            </div>
+                            <div className="framer-zauk17" data-framer-name="Metrics">
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.3,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-1wlx10r" data-framer-name="1" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-hyil7y" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"ma signature"}
+                                  </p>
+                                </div>
+                                <div className="framer-18q6o36" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"ゆめ"}
+                                  </h3>
+                                </div>
+                              </InView>
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.4,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-63ztgz" data-framer-name="2" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-1e8do2o" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"les réseaux"}
+                                  </p>
+                                </div>
+                                <div className="framer-hy0oxl" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"Threads · TikTok"}
+                                  </h3>
+                                </div>
+                              </InView>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    </TSlide>
                   </div>
                 </div>
               </SV>
@@ -4110,7 +4266,7 @@ export function Body() {
                       <div className="framer-e7k5i2" data-framer-name="Filler" />
                       <div className="framer-1gkxjhc" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }}>
                         <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
-                          {T[444]}
+                          <TCount />
                         </p>
                       </div>
                       <div className="framer-8v9iu9" data-framer-name="Arrows">
@@ -4122,6 +4278,7 @@ export function Body() {
                         </div>
                       </div>
                     </div>
+                    <TSlide i={0}>
                     <div className="framer-194s776-container" data-framer-name="Testimonial 1" {...{ name: "Testimonial 1" }}>
                       <div {...{ name: "Testimonial 1" }} className="framer-xBkin framer-QoPvp framer-2Ps8M framer-laVYw framer-Me6vv framer-uqMg0 framer-9essyp framer-v-18bn8gj" data-framer-name="Phone" style={{ "width": "100%" }}>
                         <div className="framer-1eyfg5" data-framer-cursor="1v6kiai" data-framer-name="Quote" data-highlight="true" tabIndex={0}>
@@ -4196,9 +4353,163 @@ export function Body() {
                         </div>
                       </div>
                     </div>
+                    </TSlide>
+                    <TSlide i={1}>
+                    <div className="framer-194s776-container" data-framer-name="Testimonial 1" {...{ name: "Testimonial 1" }}>
+                      <div {...{ name: "Testimonial 1" }} className="framer-xBkin framer-QoPvp framer-2Ps8M framer-laVYw framer-Me6vv framer-uqMg0 framer-9essyp framer-v-18bn8gj" data-framer-name="Phone" style={{ "width": "100%" }}>
+                        <div className="framer-1eyfg5" data-framer-cursor="1v6kiai" data-framer-name="Quote" data-highlight="true" tabIndex={0}>
+                          <div className="framer-1r4fcfx" data-framer-name="Author Card">
+                            <div className="framer-y25ypk-container">
+                              <VRoot as="div" map={{"GabQ6RP7V":{"cls":"framer-v-1ww3hxg","name":"Revealed"},"LJ9aJ2_VI":{"cls":"framer-v-1cb27gq","name":"Hidden"}}} initial="LJ9aJ2_VI" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"GabQ6RP7V","threshold":0.5,"once":true}} className="framer-rfsSU framer-1ww3hxg framer-v-1cb27gq" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"LJ9aJ2_VI":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-1ygptoc" data-framer-name="1" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
+                                  <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
+                                    <img decoding="async" width={640} height={640} src="/assets/images/kmNPpdMzKtgnYgsr9piGQpLv0.jpg" alt={"Lys Sama"} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </div>
+                            <div className="framer-3n11cr" data-framer-name="Client Info">
+                              <div className="framer-1ar8d7e" data-framer-name="Name">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.4,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto" }, segs: ["Lys Sama"] }]} className="framer-1toknrk" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                              </div>
+                              <div className="framer-o59zn4" data-framer-name="Role / Company">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.5,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Créatrice de contenu, TikTok @lys.sama"] }]} className="framer-1qapydd" data-framer-name="Role / Company" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                              </div>
+                            </div>
+                          </div>
+                          <div className="framer-gcu4g6" data-framer-name="Filler" />
+                          <div className="framer-ij04dr" data-framer-name="Quote">
+                            <div className="framer-1t0ppef" data-framer-name="Big Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-alignment": "start" } }, segs: ["“ Chaque look raconte un savoir-faire : je tends le micro à celles et ceux qui le font. ”"] }]} className="framer-1oadq5b" data-framer-name="Big Text 1" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                            </div>
+                            <div className="framer-1vbf7ad" data-framer-name="Small Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":5},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Sur TikTok, je présente les créations des stylistes et couturiers béninois : un look, son histoire, la main qui l’a fait. Les lysami.e.s découvrent les créateurs, les créateurs gagnent en visibilité."] }]} className="framer-hl9p95" data-framer-name="Small Text 1" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="framer-4l2bm8" data-framer-name="Stats">
+                          <div className="framer-1pa4u10" data-framer-name="Progress Dots">
+                            <div className="framer-13pt2j9" data-framer-name="1" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-t1eygr" data-framer-name="2" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-3t8vhm" data-framer-name="3" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                          </div>
+                          <div className="framer-q1kio4" data-framer-name="Animated Lines / Metrics">
+                            <div className="framer-gb3bgf-container" data-framer-name="Animated Line 1" {...{ name: "Animated Line 1" }}>
+                              <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} {...{ name: "Animated Line 1" }} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                              </VRoot>
+                            </div>
+                            <div className="framer-zauk17" data-framer-name="Metrics">
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.3,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-1wlx10r" data-framer-name="1" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-hyil7y" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"le fil de mes vidéos"}
+                                  </p>
+                                </div>
+                                <div className="framer-18q6o36" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"#modebeninoise"}
+                                  </h3>
+                                </div>
+                              </InView>
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.4,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-63ztgz" data-framer-name="2" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-1e8do2o" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"la communauté"}
+                                  </p>
+                                </div>
+                                <div className="framer-hy0oxl" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"lysami.e.s"}
+                                  </h3>
+                                </div>
+                              </InView>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    </TSlide>
+                    <TSlide i={2}>
+                    <div className="framer-194s776-container" data-framer-name="Testimonial 1" {...{ name: "Testimonial 1" }}>
+                      <div {...{ name: "Testimonial 1" }} className="framer-xBkin framer-QoPvp framer-2Ps8M framer-laVYw framer-Me6vv framer-uqMg0 framer-9essyp framer-v-18bn8gj" data-framer-name="Phone" style={{ "width": "100%" }}>
+                        <div className="framer-1eyfg5" data-framer-cursor="1v6kiai" data-framer-name="Quote" data-highlight="true" tabIndex={0}>
+                          <div className="framer-1r4fcfx" data-framer-name="Author Card">
+                            <div className="framer-y25ypk-container">
+                              <VRoot as="div" map={{"GabQ6RP7V":{"cls":"framer-v-1ww3hxg","name":"Revealed"},"LJ9aJ2_VI":{"cls":"framer-v-1cb27gq","name":"Hidden"}}} initial="LJ9aJ2_VI" transition={{"delay":0,"duration":1.2,"ease":[0.87,0,0.13,1],"type":"tween"}} appear={{"to":"GabQ6RP7V","threshold":0.5,"once":true}} className="framer-rfsSU framer-1ww3hxg framer-v-1cb27gq" data-framer-name="Hidden" style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "height": "100%", "width": "100%", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
+                                <VEl as="div" base={{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add","scale":1,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%) add"}} variants={{"LJ9aJ2_VI":{"mask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add","scale":1.3,"WebkitMask":"linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add"}}} className="framer-1ygptoc" data-framer-name="1" draggable={false} style={{ "--corner-shape-fallback": "0.752", "cornerShape": "superellipse(1.5)", "mask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "WebkitMask": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 0%) add", "borderBottomLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderBottomRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopLeftRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "borderTopRightRadius": "calc(10px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", "transform": "scale(1.3)" }}>
+                                  <div style={{ "position": "absolute", "borderRadius": "inherit", "cornerShape": "inherit", "top": "0", "right": "0", "bottom": "0", "left": "0" }} data-framer-background-image-wrapper="true">
+                                    <img decoding="async" width={640} height={640} src="/assets/images/foJh1zwI8ZAzyJVfsEgIaSkdMjk.jpg" alt={"Lys Sama"} style={{ "display": "block", "width": "100%", "height": "100%", "borderRadius": "inherit", "cornerShape": "inherit", "objectPosition": "center", "objectFit": "cover" }} draggable={false} />
+                                  </div>
+                                </VEl>
+                              </VRoot>
+                            </div>
+                            <div className="framer-3n11cr" data-framer-name="Client Info">
+                              <div className="framer-1ar8d7e" data-framer-name="Name">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.4,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto" }, segs: ["Lys Sama"] }]} className="framer-1toknrk" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                              </div>
+                              <div className="framer-o59zn4" data-framer-name="Role / Company">
+                                <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.5,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-lu6cf5", "data-styles-preset": "XKitmogp0", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Humour et coulisses, Threads et TikTok"] }]} className="framer-1qapydd" data-framer-name="Role / Company" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                              </div>
+                            </div>
+                          </div>
+                          <div className="framer-gcu4g6" data-framer-name="Filler" />
+                          <div className="framer-ij04dr" data-framer-name="Quote">
+                            <div className="framer-1t0ppef" data-framer-name="Big Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":15},"repeat":false,"startDelay":0.2,"threshold":0.5,"tokenization":"line","transition":{"delay":0.1,"duration":0.8,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "h2", attrs: { "className": "framer-text framer-styles-preset-fvem1p", "data-styles-preset": "LMUl9NNGN", "dir": "auto", style: { "--framer-text-alignment": "start" } }, segs: ["“ Les galères de la création de contenu, autant en rire ensemble. ”"] }]} className="framer-1oadq5b" data-framer-name="Big Text 1" data-framer-component-type="RichTextContainer" style={{ "transform": "none" }} />
+                            </div>
+                            <div className="framer-1vbf7ad" data-framer-name="Small Text">
+                              <TextFx as="div" fx={{"effect":{"opacity":0.001,"rotate":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":5},"repeat":false,"startDelay":0.2,"threshold":0,"tokenization":"word","transition":{"delay":0.02,"duration":0.6,"ease":[0.215,0.61,0.355,1],"type":"tween"},"trigger":"onInView","type":"appear"}} paras={[{ tag: "p", attrs: { "className": "framer-text framer-styles-preset-10r2g7l", "data-styles-preset": "YXSEQA_bn", "dir": "auto", style: { "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" } }, segs: ["Sur Threads et TikTok, je raconte l’envers du décor : les tournages ratés, les idées qui ne prennent pas, les petites victoires. C’est là que la communauté se reconnaît."] }]} className="framer-hl9p95" data-framer-name="Small Text 1" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "transform": "none" }} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="framer-4l2bm8" data-framer-name="Stats">
+                          <div className="framer-1pa4u10" data-framer-name="Progress Dots">
+                            <div className="framer-13pt2j9" data-framer-name="1" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-t1eygr" data-framer-name="2" style={{ "backgroundColor": "var(--token-1486dbb4-cc20-4852-a20d-db81362153cb, rgb(188, 188, 188))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                            <div className="framer-3t8vhm" data-framer-name="3" style={{ "backgroundColor": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))", "borderBottomLeftRadius": "100%", "borderBottomRightRadius": "100%", "borderTopLeftRadius": "100%", "borderTopRightRadius": "100%" }} />
+                          </div>
+                          <div className="framer-q1kio4" data-framer-name="Animated Lines / Metrics">
+                            <div className="framer-gb3bgf-container" data-framer-name="Animated Line 1" {...{ name: "Animated Line 1" }}>
+                              <VRoot as="div" map={{"b5cbcgrAD":{"cls":"framer-v-14rrenl","name":"Hidden Horizontal"},"hdHzsrpyF":{"cls":"framer-v-t5kp41","name":"Hidden Vertical"},"iLlY2rby8":{"cls":"framer-v-dtr87q","name":"Show Horizontal"},"OMSvRHidC":{"cls":"framer-v-skgkib","name":"Show Vertical"}}} initial="b5cbcgrAD" transition={{"delay":0,"duration":1,"ease":[0.56,0.22,0.05,0.99],"type":"tween"}} appear={{"to":"iLlY2rby8","threshold":0.5,"once":true}} {...{ name: "Animated Line 1" }} className="framer-sz7Kf framer-t5kp41 framer-v-14rrenl" data-framer-name="Hidden Horizontal" style={{ "--yvgczs": "flex-start", "height": "100%", "width": "100%" }}>
+                                <VEl as="div" base={{"backgroundColor":"var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))"}} variants={{"iLlY2rby8":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"},"OMSvRHidC":{"backgroundColor":"var(--token-e5145d68-ee3f-43dc-8638-41389fb43644, rgba(156, 156, 156, 0.2))"}}} className="framer-5nyabp" data-framer-name="Line" style={{ "backgroundColor": "var(--token-f277370d-904c-4e87-88c6-49451f154e33, rgb(255, 57, 3))" }} />
+                              </VRoot>
+                            </div>
+                            <div className="framer-zauk17" data-framer-name="Metrics">
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.3,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-1wlx10r" data-framer-name="1" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-hyil7y" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"ma signature"}
+                                  </p>
+                                </div>
+                                <div className="framer-18q6o36" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"ゆめ"}
+                                  </h3>
+                                </div>
+                              </InView>
+                              <InView as="div" fx={{"enter":{"opacity":0,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"transition":{"bounce":0.1,"delay":0.4,"duration":1.2,"type":"spring"},"once":true,"threshold":0.5,"target":1}} className="framer-63ztgz" data-framer-name="2" style={{ "willChange": "transform", "opacity": "0", "transform": "none" }}>
+                                <div className="framer-1e8do2o" data-framer-name="Description" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--extracted-r6o4lv": "var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <p className="framer-text framer-styles-preset-c95aba" data-styles-preset="x8g4OBmQ1" dir="auto" style={{ "--framer-text-alignment": "left", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-82d92470-f077-4c9d-9673-709d01132847, rgb(104, 104, 104)))" }}>
+                                    {"les réseaux"}
+                                  </p>
+                                </div>
+                                <div className="framer-hy0oxl" data-framer-name="Small Metric" data-framer-component-type="RichTextContainer" style={{ "justifyContent": "center", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", "transform": "none" }}>
+                                  <h3 className="framer-text framer-styles-preset-s3qbre" data-styles-preset="fXy3B9GKl" dir="auto" style={{ "--framer-text-alignment": "left" }}>
+                                    {"Threads · TikTok"}
+                                  </h3>
+                                </div>
+                              </InView>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    </TSlide>
                   </div>
                 </div>
               </SV>
+</TSlider>
             </div>
           </section>
           <section className="framer-3z32tc" data-framer-name="Pricing" id="pricing">

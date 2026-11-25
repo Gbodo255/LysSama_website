@@ -9,6 +9,9 @@ Version de relecture : https://lys-sama.vercel.app (non indexée par les moteurs
 - [ ] Adresse e-mail pro : `melyssa.kekelipro@gmail.com` ? (son Linktree affiche « httpsmelyssa… »)
 - [ ] Ce qu'elle préfère garder privé (nom civil, parcours d'études, ville)
 
+## À faire dès la mise en ligne
+- [ ] **Activer les formulaires** : envoyer un message test depuis le site, puis cliquer le lien d'activation reçu de FormSubmit sur melyssa.kekelipro@gmail.com (sinon les messages et inscriptions newsletter n'arrivent pas)
+
 ## À fournir
 - [x] ~~**Logo**~~ : intégré depuis sa charte (hélice + « LYS SAMA »), avec ses couleurs et ses polices
 - [ ] **Police Xunga** : licence **web** (webfont) à acheter chez Huy!Fonts / MyFonts, puis nous envoyer le fichier .woff2 ; en attendant, les titres gardent la police d'origine du site (seul le logo est en Xunga)
@@ -21,4 +24,4 @@ Version de relecture : https://lys-sama.vercel.app (non indexée par les moteurs
 - [ ] **Témoignages** réels de stylistes ou de marques (nom, rôle, phrase), s'il y en a
 - [ ] Numéro **WhatsApp pro** à afficher (ou seulement le lien)
 - [ ] Réseaux affichés : X, Instagram, TikTok, Facebook, WhatsApp. **Il manque le lien de sa page Facebook et son lien WhatsApp** (wa.me/numéro) ; vérifier X @ErmitePasNette, Instagram @lys__sama, TikTok @lys.sama
-- [ ] Ses réalisations datées, pour la section « Temps forts » (FInAB 2026, autres événements)
+- [ ] Ses réalisations datées, pour la section « Temps forts » : les cartes 2 (TikTok, créateurs béninois) et 3 (humour et coulisses, Threads) sont **provisoires**, à valider ou remplacer (texte, chiffres, photo)
