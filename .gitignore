@@ -27,3 +27,6 @@ reference/specs/
 clone-ref/screenshots/
 clone-ref/dom/
 reference/geometry/
+
+# Liaison locale au projet Vercel
+.vercel/

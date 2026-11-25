@@ -150,7 +150,7 @@ export function ContactButton({ phone, onNavigate, nameAttr, full }: { phone?: b
 }
 
 // ------------------------------------------------------------------ Icônes sociales (qb + Nb) : survol opacité 1 → .5, tween 0,3 s [.4,0,.2,1]
-const ICON = { x: ['framer-17kf78c-container', 'X', 'framer-LAEqS'], instagram: ['framer-1smje0b-container', 'IG', 'framer-uZnUQ'], dribbble: ['framer-t1kefs-container', 'Dribbble', 'framer-K6Gdb'], behance: ['framer-1cdugcb-container', 'Behance', 'framer-lYLYO'] } as const;
+const ICON = { x: ['framer-17kf78c-container', 'X', 'framer-LAEqS'], instagram: ['framer-1smje0b-container', 'IG', 'framer-uZnUQ'], tiktok: ['framer-t1kefs-container', 'TikTok', 'framer-K6Gdb'], facebook: ['framer-1cdugcb-container', 'Facebook', 'framer-lYLYO'], whatsapp: ['framer-1cdugcb-container', 'WhatsApp', 'lys-whatsapp'] } as const;
 function SocialIcon({ id, color, phone, hoverFade }: { id: keyof typeof ICON; color: string; phone?: boolean; hoverFade: boolean }) {
   const s = SOCIAL.find((x) => x.id === id)!;
   const [container, name, mask] = ICON[id];

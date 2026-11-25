@@ -18,7 +18,7 @@ export function HomeSlider({ slot }: { slot: ReactNode }) {
 }
 
 // Logo : image archivée localement (public/assets/icons, manifest) au lieu de framerusercontent.
-const LOGO = '/assets/icons/RJYJ7m4uMRkQG50UIT9V4iefE.svg';
+const LOGO = '/assets/brand/lys-icon.svg'; // hélice de Lys Sama (D-043)
 export function HomePreloader({ counterSlot }: { counterSlot: ReactNode }) {
   return <PortalPreloader {...flat(PRELOADER as O)} logoImage={LOGO} counterSlot={counterSlot} />;
 }

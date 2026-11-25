@@ -1051,7 +1051,7 @@ export const HOME_INSTANCE_PROPS = {
     introMoveY: 150,
     introRotate: 0,
     introScale: 1.05,
-    logoImage: `https://framerusercontent.com/images/RJYJ7m4uMRkQG50UIT9V4iefE.svg?width=15&height=13`,
+    logoImage: `/assets/brand/lys-icon.svg`, // hélice de Lys Sama (D-043)
     logoIntroDuration: 0.8,
     logoWidth: 50,
   },

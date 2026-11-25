@@ -87,10 +87,17 @@ export function Body() {
                           </a>
                         </VRoot>
                       </div>
-                      <div className="framer-1cdugcb-container" data-framer-name="Behance" {...{ name: "Behance" }}>
-                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[7]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.threads.com/@lys__sama" target="_blank">
+                      <div className="framer-1cdugcb-container" data-framer-name="Facebook" {...{ name: "Facebook" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Facebook" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                          <a aria-label="Lien Facebook" className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="#facebook-a-fournir" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-lYLYO framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
+                          </a>
+                        </VRoot>
+                      </div>
+                      <div className="framer-1cdugcb-container" data-framer-name="WhatsApp" {...{ name: "WhatsApp" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="ZdQbvFLzW" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "WhatsApp" }} className="framer-BF4Of framer-oxml7j framer-v-oxml7j" data-framer-name="Desktop" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                          <a aria-label="Lien WhatsApp" className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="#whatsapp-a-fournir" target="_blank">
+                            <div data-framer-name="Top Icon" className="lys-whatsapp framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
                         </VRoot>
                       </div>
@@ -121,10 +128,17 @@ export function Body() {
                           </a>
                         </VRoot>
                       </div>
-                      <div className="framer-1cdugcb-container" data-framer-name="Behance" {...{ name: "Behance" }}>
-                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Behance" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
-                          <a aria-label={T[11]} className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="https://www.threads.com/@lys__sama" target="_blank">
+                      <div className="framer-1cdugcb-container" data-framer-name="Facebook" {...{ name: "Facebook" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "Facebook" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                          <a aria-label="Lien Facebook" className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="#facebook-a-fournir" target="_blank">
                             <div data-framer-name="Top Icon" className="framer-lYLYO framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
+                          </a>
+                        </VRoot>
+                      </div>
+                      <div className="framer-1cdugcb-container" data-framer-name="WhatsApp" {...{ name: "WhatsApp" }}>
+                        <VRoot as="div" map={{"rve8tPCSJ":{"cls":"framer-v-1qy02dt","name":"Phone"},"ZdQbvFLzW":{"cls":"framer-v-oxml7j","name":"Desktop"}}} initial="rve8tPCSJ" transition={{"delay":0,"duration":0.3,"ease":[0.4,0,0.2,1],"type":"tween"}} hover={["ZdQbvFLzW"]} hoverNames={{"ZdQbvFLzW-hover":null}} base={{"opacity":1}} variants={{"ZdQbvFLzW-hover":{"opacity":0.5}}} {...{ name: "WhatsApp" }} className="framer-BF4Of framer-oxml7j framer-v-1qy02dt" data-framer-name="Phone" data-highlight="true" tabIndex={0} style={{ "opacity": "1" }}>
+                          <a aria-label="Lien WhatsApp" className="framer-10b7uxf framer-na8c8c" data-framer-name="Icon" href="#whatsapp-a-fournir" target="_blank">
+                            <div data-framer-name="Top Icon" className="lys-whatsapp framer-1fo7tgr" style={{ "--87ol9m": "var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8, rgb(13, 13, 13))" }} />
                           </a>
                         </VRoot>
                       </div>
@@ -235,7 +249,7 @@ export function Body() {
                           </div>
                           <div className="framer-lpw2kj" data-framer-name="Name / Role">
                             <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
-                              <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
+                              <p data-lys-logo="" className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
                                 {T[20]}
                               </p>
                             </div>
@@ -568,7 +582,7 @@ export function Body() {
                           </div>
                           <div className="framer-lpw2kj" data-framer-name="Name / Role">
                             <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
-                              <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
+                              <p data-lys-logo="" className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
                                 {T[67]}
                               </p>
                             </div>
@@ -899,7 +913,7 @@ export function Body() {
                           </div>
                           <div className="framer-lpw2kj" data-framer-name="Name / Role">
                             <div className="framer-1mvw4z9" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--variable-reference-MmOfoxxQp-TJ9zZTo1g)", "--variable-reference-MmOfoxxQp-TJ9zZTo1g": "var(--token-33c8dbd0-eb94-4e90-8099-e7a3fee4ad2f, rgb(255, 255, 255))", "transform": "none" }}>
-                              <p className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
+                              <p data-lys-logo="" className="framer-text framer-styles-preset-lu6cf5" data-styles-preset="XKitmogp0" dir="auto" style={{ "--framer-text-color": "var(--extracted-r6o4lv, var(--variable-reference-MmOfoxxQp-TJ9zZTo1g))" }}>
                                 {T[114]}
                               </p>
                             </div>

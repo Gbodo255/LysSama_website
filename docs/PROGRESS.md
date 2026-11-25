@@ -60,6 +60,9 @@ Reprise après interruption : relire `MISSION.md`, ce fichier, puis `docs/COMPOR
 ## Phase 10 — Revue indépendante
 ## Phase 11 — Qualité, `check:launch`, RAPPORT.md
 
+## 2026-11-23 — charte visuelle de Lys Sama (D-042)
+Charte appliquée (D-042) puis retouches du propriétaire (D-043, D-044). Construit et vérifié en local (http://localhost:4173, accueil : préchargeur, haut de page, carte portrait, réseaux du pied de page). Non vérifié : autres pages, mobile. Liens Facebook/WhatsApp à fournir (rg a-fournir).
+
 ## Point d'avancement (2026-11-21, session 4) — à lire en premier
 **Fait et commité** (dernier commit sur `main`) : toutes les pages sont construites par génération outillée (D-033) et
 comparées au même banc. Validées 0 écart aux 4 largeurs : pages légales, `/journal`, `/contact`, `/studio` (pixels 1200

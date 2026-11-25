@@ -70,7 +70,7 @@ export default {
   501: 'Modifications',
   502: 'Cette politique peut évoluer. Toute modification importante sera signalée par la date de « Dernière mise à jour ».',
   // projets
-  503: 'projets choisis',
+  503: 'projets',
   504: 'Athlète laçant des chaussures orange et blanches sur une piste',
   505: 'Coulisses',
   506: 'Athlète souriante en débardeur noir après l’effort',

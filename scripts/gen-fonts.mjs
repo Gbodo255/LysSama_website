@@ -17,11 +17,14 @@ const LICENSE = {
   Geist: 'OFL-1.1 (Vercel)', Inter: 'OFL-1.1 (Rasmus Andersson)', Manrope: 'OFL-1.1 (Mikhail Sharanda)', 'Manrope Variable': 'OFL-1.1 (Mikhail Sharanda)',
   Switzer: 'ITF Free Font License (Fontshare / Indian Type Foundry)',
 };
+// Familles remplacées par la charte Lys Sama (src/styles/brand-fonts.css les redéclare, D-042).
+const BRAND = /^(Switzer|Manrope|Manrope Variable|Inter|Geist)$/;
 const ORDER = ['font-family', 'font-style', 'font-weight', 'font-stretch', 'font-display', 'src', 'unicode-range', 'ascent-override', 'descent-override', 'line-gap-override', 'size-adjust'];
 const css = ['/* Généré par scripts/gen-fonts.mjs depuis reference/framer/tokens.json — ne pas éditer à la main. */'];
 const families = {};
 for (const f of t.fontFaces) {
   const fam = f['font-family'].replace(/["']/g, '');
+  if (BRAND.test(fam)) continue;
   let src = f.src;
   for (const m of [...(src || '').matchAll(/url\(([^)]+)\)/g)]) {
     const url = m[1].replace(/["']/g, '');

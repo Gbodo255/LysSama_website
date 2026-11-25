@@ -116,7 +116,7 @@ export default {
   115: 'Tissus',
   116: 'Gros plan d’une joueuse de tennis tressée regardant par-dessus sa raquette',
   117: 'Trends',
-  118: 'Lys Sama est créatrice de contenu et stratège digitale à Cotonou. Elle met en lumière la mode béninoise et la culture africaine : looks de créateurs locaux, débats de style et trends qui font vibrer les lysami.e.s.',
+  118: 'Créatrice de contenu, stratège digitale, passionnée de mode et de culture africaine. Explorons ensemble les looks, les créateurs et les tendances qui font vibrer les lysami.e.s.',
   119: 'basée à',
   120: 'cotonou',
   121: 'bénin',

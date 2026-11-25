@@ -10,7 +10,9 @@ Version de relecture : https://lys-sama.vercel.app (non indexée par les moteurs
 - [ ] Ce qu'elle préfère garder privé (nom civil, parcours d'études, ville)
 
 ## À fournir
-- [ ] **Logo** (en haut à gauche, il reste celui du modèle : « MIRA »)
+- [x] ~~**Logo**~~ : intégré depuis sa charte (hélice + « LYS SAMA »), avec ses couleurs et ses polices
+- [ ] **Police Xunga** : licence **web** (webfont) à acheter chez Huy!Fonts / MyFonts, puis nous envoyer le fichier .woff2 ; en attendant, les titres gardent la police d'origine du site (seul le logo est en Xunga)
+- [ ] Logo en version **SVG d'origine** si elle l'a (on a extrait celui du PDF de sa charte)
 - [ ] **Media kit à jour** : chiffres par plateforme, audience, **tarifs** (les montants du calculateur sont des exemples)
 - [ ] **Services et formules exactes**
 - [ ] **Photos HD** libres de droits, avec les crédits à afficher : accueil, portrait, À propos, une série par projet (6 projets)
@@ -18,5 +20,5 @@ Version de relecture : https://lys-sama.vercel.app (non indexée par les moteurs
 - [ ] **Clients / marques / créateurs** avec qui elle a collaboré, avec logos autorisés
 - [ ] **Témoignages** réels de stylistes ou de marques (nom, rôle, phrase), s'il y en a
 - [ ] Numéro **WhatsApp pro** à afficher (ou seulement le lien)
-- [ ] Liens à garder pour les réseaux : TikTok @lys.sama et @lys__sama, Instagram, Threads, X @ErmitePasNette
+- [ ] Réseaux affichés : X, Instagram, TikTok, Facebook, WhatsApp. **Il manque le lien de sa page Facebook et son lien WhatsApp** (wa.me/numéro) ; vérifier X @ErmitePasNette, Instagram @lys__sama, TikTok @lys.sama
 - [ ] Ses réalisations datées, pour la section « Temps forts » (FInAB 2026, autres événements)

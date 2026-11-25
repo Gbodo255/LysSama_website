@@ -1,0 +1,49 @@
+/* Charte Lys Sama (D-042, D-043) : logo, typographie et retouches du propriétaire. Couleurs : tokens.css ; polices : brand-fonts.css.
+   Tout passe par ce fichier (aucun fichier généré modifié, sauf scripts/rewrite/*). Les règles des composants arrivent après
+   la feuille globale : d'où les !important. */
+
+/* Paragraphes du préréglage 23/21/19 px (intro de l'accueil, newsletter) : police de texte, pas de titre. */
+.framer-styles-preset-1l3tbw0 { --framer-font-family: "Lys Texte", Arial, sans-serif !important; }
+
+/* ---------- Logo ---------- */
+/* Menu, pied de page, carte contact : hélice + « LYS SAMA » (public/assets/brand/lys-logo.svg, 965 × 180). */
+.framer-1xjrc, .framer-SHtMX { mask: url(/assets/brand/lys-logo.svg) center / contain no-repeat !important; aspect-ratio: 965 / 180 !important; }
+.framer-fjOy7 .framer-7h3po8 { width: 140px !important; }
+
+/* Grand mot-symbole (accueil, pied de page) et chaque « Lys Sama » écrit seul (attribut data-lys-logo posé par
+   scripts/rewrite/lys-logo.mjs) : le vrai logotype en Xunga ; le texte reste lu par les lecteurs d'écran. */
+.framer-an17dl .framer-text, .framer-ibnepj .framer-text, p.framer-text[data-lys-logo] {
+  -webkit-text-fill-color: transparent;
+  background-color: var(--framer-text-color);
+  mask: url(/assets/brand/lys-wordmark.svg) left center / contain no-repeat;
+}
+/* Icône « m » du modèle (carte portrait, accueil) → hélice de Lys ; préchargeur : HomeWebgl.tsx / PortalPreloader.ts. */
+.framer-urcMH, .framer-uWlWh { mask: url(/assets/brand/lys-icon.svg) center / contain no-repeat !important; aspect-ratio: 210 / 232 !important; }
+/* Signature sur le portrait : « Melyssa » (public/assets/brand/signature-melyssa.png). */
+.framer-FESjs { mask: url(/assets/brand/signature-melyssa.png) center / contain no-repeat !important; }
+
+/* ---------- Éléments retirés à la demande du propriétaire (2026-11-25) ---------- */
+/* « Cotonou » et « ® » posés sur le logotype (accueil, pied de page), positionnés en absolu. */
+.framer-15fhema, .framer-1xn72o7, .framer-wfnd21, .framer-grnsur { display: none !important; }
+/* Bloc « Basée à / Cotonou Bénin » de l'accueil. */
+.framer-1j09cxy { display: none !important; }
+/* Nombre de projets du bouton « Tout voir » (accueil). Menu : clé `count` retirée de src/data/global.ts. */
+.framer-hsgxnh-container { display: none !important; }
+/* Nombre de projets à côté du titre « Projets » (/projects). */
+.framer-l1p39r-container { display: none !important; }
+/* « (2025-26©) » à côté des titres de page (projets, accueil, studio, journal). */
+.framer-14g1br8 { display: none !important; }
+/* Étiquettes de section (composant Section Label) : gardées, sans leur numéro « (01) », « (02) »… */
+.framer-Cuyir .framer-1qsszq { display: none !important; }
+
+/* ---------- Accueil, haut de page ---------- */
+/* Texte d'intro un peu plus large (550 → 640 px). */
+.framer-a2JZY .framer-1hlhch1 { max-width: 640px !important; }
+/* « Services » : titre en colonne 1, les 4 services sur 2 colonnes de 2 lignes ; le bloc occupe la place de « Basée à ». */
+.framer-a2JZY .framer-868u5k { grid-column: span 2 !important; place-self: end start !important; width: auto !important; gap: 30px !important; }
+.framer-a2JZY .framer-mpf3ht { display: grid !important; grid-template-columns: repeat(2, max-content); gap: 4px 30px !important; flex: 0 0 auto !important; width: auto !important; }
+
+/* ---------- Réseaux : X, Instagram, TikTok, Facebook, WhatsApp (icônes Simple Icons, CC0) ---------- */
+.framer-K6Gdb { mask: url(/assets/brand/social/tiktok.svg) center / contain no-repeat !important; }
+.framer-lYLYO { mask: url(/assets/brand/social/facebook.svg) center / contain no-repeat !important; }
+.lys-whatsapp { aspect-ratio: 1 / 1; background-color: var(--87ol9m); mask: url(/assets/brand/social/whatsapp.svg) center / contain no-repeat; }

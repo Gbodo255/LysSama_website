@@ -20,7 +20,7 @@ export const SOCIAL = [
     "placeholder": true
   },
   {
-    "id": "dribbble",
+    "id": "tiktok",
     "label": "TikTok",
     "ariaLabel": "Lien TikTok",
     "href": "https://www.tiktok.com/@lys.sama",
@@ -28,10 +28,18 @@ export const SOCIAL = [
     "placeholder": true
   },
   {
-    "id": "behance",
-    "label": "Threads",
-    "ariaLabel": "Lien Threads",
-    "href": "https://www.threads.com/@lys__sama",
+    "id": "facebook",
+    "label": "Facebook",
+    "ariaLabel": "Lien Facebook",
+    "href": "#facebook-a-fournir",
+    "target": "_blank",
+    "placeholder": true
+  },
+  {
+    "id": "whatsapp",
+    "label": "WhatsApp",
+    "ariaLabel": "Lien WhatsApp",
+    "href": "#whatsapp-a-fournir",
     "target": "_blank",
     "placeholder": true
   }
@@ -49,8 +57,7 @@ export const NAV = {
     },
     {
       "label": "projets",
-      "href": "/projects",
-      "count": "(6)"
+      "href": "/projects"
     },
     {
       "label": "À propos",

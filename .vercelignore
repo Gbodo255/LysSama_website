@@ -1,0 +1,10 @@
+# Aperçu Vercel construit à distance (D-042) : n'envoyer que ce que `next build` utilise.
+/*
+!/src
+!/public
+!/package.json
+!/package-lock.json
+!/next.config.ts
+!/tsconfig.json
+!/vercel.json
+*.gen.tsx

@@ -1,7 +1,7 @@
 // Textes affichés de /projects (ordre du document SSR d'origine), extraits par scripts/genpage.mjs (D-033).
 export const T: readonly string[] = [
  "accueil",
- "projets choisis",
+ "projets",
  "(2025-26©)",
  "Gros plan d’un mannequin aux lunettes de soleil enveloppantes couvertes de gouttes d’eau",
  "FInAB 2026",
