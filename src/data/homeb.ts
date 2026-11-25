@@ -69,31 +69,31 @@ export const pricing = {
   headline: { before: 'KNOW THE NUMBER ', accent: "D’AVANCE." },
   description: ' Two ways to work together: month to month, or one fixed-scope project. ',
   startsAt: "À partir de",
-  ssrPlaceholder: { total: '$2,000', addons: '+$0' }, // texte SSR remplacé à l'hydratation
+  ssrPlaceholder: { total: '2 700 000 FCFA', addons: '+0 FCFA' }, // texte SSR remplacé à l'hydratation
   baseLabel: "Base",
   addonsLabel: 'Add-ons',
   includedLabel: 'included',
   addonsTitle: 'Add-ons',
-  // total = base + somme des options cochées ; format '$' + toLocaleString('en-US', 0 décimale) ; animation 0.6 s easeOut
+  // total = base + somme des options cochées ; montants en FCFA (D-047, environ 600 FCFA pour 1 $ du modèle, arrondis) ; animation 0.6 s easeOut
   modes: [
     {
-      id: 'monthly', tab: "Mensuel", suffix: "/mois", base: 4500,
+      id: 'monthly', tab: "Mensuel", suffix: "/mois", base: 2700000,
       included: ["Une demande en cours à la fois", "Retouches incluses", "Délais prioritaires", "Pause ou arrêt à tout moment"],
       addons: [
-        { title: "Vidéo supplémentaire", price: 1000 },
-        { title: "Stories et Threads", price: 800 },
-        { title: "Direction du shooting", price: 1200 },
-        { title: "Textes et légendes", price: 900 },
+        { title: "Vidéo supplémentaire", price: 600000 },
+        { title: "Stories et Threads", price: 500000 },
+        { title: "Direction du shooting", price: 700000 },
+        { title: "Textes et légendes", price: 550000 },
       ],
     },
     {
-      id: 'project', tab: "Ponctuel", suffix: '/project', base: 12000,
-      included: ['Brand identity', 'Website design & build in Framer', 'Copy direction', '3 review rounds'],
+      id: 'project', tab: "Ponctuel", suffix: '/projet', base: 7200000,
+      included: ["Un projet de A à Z", "Idée, tournage et montage", "Diffusion sur mes réseaux", "Deux séries de retouches"],
       addons: [
-        { title: "Vidéo supplémentaire", price: 3000 },
-        { title: "Stories et Threads", price: 2400 },
-        { title: "Direction du shooting", price: 3500 },
-        { title: "Textes et légendes", price: 2800 },
+        { title: "Vidéo supplémentaire", price: 1800000 },
+        { title: "Stories et Threads", price: 1450000 },
+        { title: "Direction du shooting", price: 2100000 },
+        { title: "Textes et légendes", price: 1700000 },
       ],
     },
   ],

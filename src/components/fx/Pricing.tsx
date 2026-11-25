@@ -2,14 +2,16 @@
 // Calculateur de la carte « Pricing » de l'accueil (vL1rEwvHQ / J_la0crrN, docs/audit/homeb.md § 08) :
 // - mode Monthly / Per Project (toggle `framer-Oiz8K`), variantes de la carte `framer-VhWls` (Desktop/Phone [Toggled]) ;
 // - 4 options `framer-IGk3i` (Unchecked ↔ Checked, ligne entière cliquable), cochages conservés au changement de mode ;
-// - Price Display : total = base + options cochées, `$` + toLocaleString('en-US', 0 décimale), animate 0,6 s easeOut,
+// - Price Display : total = base + options cochées, montant en FCFA (D-047), animate 0,6 s easeOut,
 //   saut sans animation si mouvement réduit ou hors de la vue ; `aria-live` porte la valeur finale ;
 // - textes dépendant du mode (base, suffixe, inclus, prix des options) lus dans src/data/homeb.ts.
 import { animate, useInView, useReducedMotion } from 'motion/react';
 import { createContext, createElement, useContext, useEffect, useRef, useState, type ReactNode } from 'react';
 import { pricing } from '@/data/homeb';
 
-const fmt = (n: number) => n.toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+// Montants en FCFA : espaces insécables entre milliers, « FCFA » après le nombre (D-047).
+const fmt = (n: number) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '\u00a0');
+const money = (n: number, plus = false) => `${plus ? '+' : ''}${fmt(n)}\u00a0FCFA`;
 type St = { mode: number; checked: boolean[]; setMode: (m: number) => void; toggle: (i: number) => void };
 const Ctx = createContext<St | null>(null);
 
@@ -37,10 +39,10 @@ export function usePricingBind(bind: string | undefined, index: number | undefin
 // Textes du mode Monthly (SSR) → valeur du mode courant
 const M = pricing.modes;
 const MAP = new Map<string, string[]>([
-  [`$${fmt(M[0].base)}`, M.map((m) => `$${fmt(m.base)}`)],
+  [money(M[0].base), M.map((m) => money(m.base))],
   [M[0].suffix, M.map((m) => m.suffix)],
   ...M[0].included.map((t, i) => [t, M.map((m) => m.included[i])] as [string, string[]]),
-  ...M[0].addons.map((a, i) => [`$${fmt(a.price)}`, M.map((m) => `$${fmt(m.addons[i].price)}`)] as [string, string[]]),
+  ...M[0].addons.map((a, i) => [money(a.price), M.map((m) => money(m.addons[i].price))] as [string, string[]]),
 ]);
 export const pricingVaries = (t: string) => MAP.has(t);
 export function PT({ t }: { t: string }) {
@@ -69,18 +71,18 @@ export function PriceDisplay({ kind, ariaStyle, children, ...rest }: { kind: 'to
   const mode = M[p?.mode ?? 0];
   const sum = mode.addons.reduce((s, a, i) => s + (p?.checked[i] ? a.price : 0), 0);
   const value = kind === 'total' ? mode.base + sum : sum;
-  const prefix = kind === 'total' ? '$' : '+$';
+  const show = (n: number) => money(n, kind !== 'total');
   const cur = useRef<number | null>(null);
   useEffect(() => {
     const el = ref.current; if (!el) return;
     const write = (n: number) => {
       const w = document.createTreeWalker(el.firstElementChild || el, NodeFilter.SHOW_TEXT); let best: Text | null = null, len = 0;
       for (let a = w.nextNode(); a; a = w.nextNode()) { const l = (a.textContent || '').trim().length; if (l > len) { len = l; best = a as Text; } }
-      const s = prefix + fmt(Math.round(n)); if (best && best.textContent !== s) best.textContent = s;
+      const s = show(Math.round(n)); if (best && best.textContent !== s) best.textContent = s;
     };
     if (cur.current === null || reduce || !seen) { cur.current = value; write(value); return; }
     const c = animate(cur.current, value, { duration: 0.6, ease: 'easeOut', onUpdate: (n) => { cur.current = n; write(n); } });
     return () => c.stop();
   }, [value]); // eslint-disable-line react-hooks/exhaustive-deps
-  return createElement('div', { ...rest, ref }, children, <span aria-live="polite" style={ariaStyle}>{prefix + fmt(value)}</span>);
+  return createElement('div', { ...rest, ref }, children, <span aria-live="polite" style={ariaStyle}>{show(value)}</span>);
 }

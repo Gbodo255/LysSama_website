@@ -47,3 +47,39 @@
 .framer-K6Gdb { mask: url(/assets/brand/social/tiktok.svg) center / contain no-repeat !important; }
 .framer-lYLYO { mask: url(/assets/brand/social/facebook.svg) center / contain no-repeat !important; }
 .lys-whatsapp { aspect-ratio: 1 / 1; background-color: var(--87ol9m); mask: url(/assets/brand/social/whatsapp.svg) center / contain no-repeat; }
+
+/* ---------- Retouches du propriétaire, 3ᵉ série (2026-11-25, D-046) ---------- */
+/* Accents des majuscules coupés (Ê de « RÊVE »…) : les masques de ligne de l'effet Text Reveal (overflow: clip)
+   s'étendent vers le haut ; la marge négative garde le texte à sa place. */
+.line-mask { padding-top: .25em !important; margin-top: -.25em !important; }
+/* Textes retirés : « *Chiffres publics relevés sur TikTok… », « (4) Facettes », étiquette « Réponses » de la FAQ. */
+.framer-o6avto, .framer-2myfj8, .framer-13wq1ne-container { display: none !important; }
+/* FAQ sur toute la largeur (la colonne de l'étiquette est libérée). */
+.framer-1f7pes0 { grid-column: 1 / -1 !important; }
+.framer-1f7pes0 > .framer-1yriwtq, .framer-1f7pes0 > .framer-1gwkvmf { max-width: none !important; }
+/* Paragraphes en Arimo (plus large que la police étroite d'origine) : colonnes élargies d'environ 40 %. */
+.framer-fan4ht, .framer-1hucu8a, .framer-1as0e7n, .framer-1xw8v5t { max-width: 560px !important; }
+.framer-p5b75q, .framer-1ppt5ho { max-width: 490px !important; }
+.framer-1r5x61w { max-width: 280px !important; }
+/* Mention « *Montants d'exemple… » du calculateur de tarifs : retirée à la demande du propriétaire (D-047). */
+.framer-99npy4 { display: none !important; }
+
+/* ---------- Liste déroulante des formulaires aux couleurs de la charte (D-047) ---------- */
+/* Navigateurs sans liste personnalisable : seules les couleurs des options. */
+.framer-form-select-wrapper option { background-color: var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8); color: #fff; }
+/* Chrome, Edge récents : liste entièrement stylée (appearance: base-select). */
+@supports (appearance: base-select) {
+  .framer-form-select-wrapper select, .framer-form-select-wrapper select::picker(select) { appearance: base-select; }
+  .framer-form-select-wrapper select { background: transparent; border: 0; }
+  .framer-form-select-wrapper select::picker-icon { display: none; }
+  .framer-form-select-wrapper select::picker(select) {
+    margin-top: 6px; padding: 6px; border: 1px solid rgba(255, 255, 255, .15); border-radius: 10px;
+    background: var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8); box-shadow: 0 12px 32px rgba(0, 0, 0, .35);
+  }
+  .framer-form-select-wrapper option { padding: 10px 14px; border-radius: 6px; background: transparent; color: #fff; font: inherit; cursor: pointer; }
+  .framer-form-select-wrapper option:hover, .framer-form-select-wrapper option:focus-visible, .framer-form-select-wrapper option:checked {
+    background: var(--token-f277370d-904c-4e87-88c6-49451f154e33); color: var(--token-d33926f3-e1ef-47a7-a2fc-872ea608e7c8); outline: none;
+  }
+  .framer-form-select-wrapper option:disabled { color: rgba(255, 255, 255, .5); background: transparent; }
+  .framer-form-select-wrapper option::checkmark { display: none; }
+}
